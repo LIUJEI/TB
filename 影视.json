@@ -19,45 +19,89 @@
     "searchable": 0
 },
 {
-    "key": "youyou",
-    "name": "🍊┣悠悠┫快播",
+    "key": "jiulong",
+    "name": "🌈软件 | 九龙",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "http://154.21.201.190:666/tvbox/lib/悠悠.php",
-    "playerType": 1,
-    "playUrl": "json:http://154.21.201.190:666/tvbox/json/youyou.php?key=168621870&url="
+    "api": "http://154.9.252.167:666/tvbox/lib/九龙.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/jiulong.php?key=104847347&url="
+},
+{
+    "key": "xinghe",
+    "name": "🌈软件 | 星河",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/星河.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/xinghe.php?key=104847347&url="
+},
+{
+    "key": "xiaoxiong",
+    "name": "🌈软件 | 小熊",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/小熊.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/xiaoxiong.php?key=104847347&url="
+},
+{
+    "key": "siyue",
+    "name": "🌈软件 | 四月",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/四月.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/siyue.php?key=104847347&url="
+},
+{
+    "key": "juren",
+    "name": "🌈软件 | 巨人",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/巨人.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/juren.php?key=104847347&url="
+},
+{
+    "key": "youyou",
+    "name": "🌈软件 | 悠悠",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/lib/悠悠.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/youyou.php?key=104847347&url="
 },
 {
     "key": "BAOFENG",
-    "name":"🍊┣风暴┫快播",
+    "name": "🤖︎影视 | 风暴",
     "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id1",
     "playerType": 1,
     "playUrl":"json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 },
 {
     "key": "feifan",
-    "name": "🍊┣飞帆┫快播",
+    "name": "💓影视 | 飞帆",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id4",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
     "key": "360-资源",
-    "name": "🍊┣年年┫快播",
+    "name": "📺影视 | 360",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id2",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
 }, 
 {
     "key": "liangliang",
-    "name": "🍊┣靓仔┫快播",
+    "name": "🦋影视 | 量量",
     "type": 1,
     "api": "http://154.21.201.190:666/tvbox/api.php?key=168621870&id=id3",
     "playUrl": "json:http://154.21.201.190:666/tvbox/json/json.php/?key=168621870&url="
+},
+{
+    "key": "测试1",
+    "name": "🌈专用 | 测试",
+    "type": 1,
+    "api": "http://cj.sds11.top/caiji.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},  
+{
+    "key": "测试2",
+    "name": "🌈专用 | 测试2",
+    "type": 1,
+    "api": "http://cj.sds11.top/4ksds.php",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
 }, 
 {
     "key":"fxz小猫咪",
