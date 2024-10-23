@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729189985714/fan.txt;md5;ce37642e140a829d57496a32d8fcc648",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
   "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -8,16 +8,27 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐┃",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
+    "api": "csp_DouDou"
 },
 {
-    "key":"csp_豆瓣",
+    "key":"csp_YGP",
     "name":"🎬┣豆瓣┫预告┃",
-    "type":3,
-    "api":"csp_XBPQ",
-    "playerType":2,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
+    "type": 3,
+    "api": "csp_YGP"
+},
+{
+    "key": "caihua",
+    "name": "💓秒播 | 采花",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=文采"
+},
+{
+    "key": "zhaixingjs",
+    "name": "🌈弹幕 | 摘星",
+    "type": 3,
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=摘星"
 },
 {
     "key": "youyoujs",
@@ -104,12 +115,6 @@
     "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
 },
 {
-    "key": "subai",
-    "name": "🦊影视 | 素心",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/lib/素白.php?key=104847347"
-}, 
-{
     "key": "贱贱",
     "name": "🐭贱贱 | P2P",
     "type": 3,
@@ -117,75 +122,69 @@
     "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 },
 {
-    "key": "drpy_js_哔哩直播",
-    "name": "直播 | 哔哩 ",
+    "key": "金牌",
+    "name": "♨️金牌影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "ext": "./TV/jpys.js"
 },
 {
-    "key": "drpy_js_斗鱼直播",
-    "name": "直播 | 斗鱼 ",
+    "key": "瓜子app",
+    "name": "♨️瓜子影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "ext": "./TV/guazi.js"
 },
 {
-    "key": "drpy_js_虎牙直播",
-    "name": "直播 | 虎牙 ",
+    "key": "hipy_js_fxztg",
+    "name": "♨️糖果影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/糖果.js"
 },
 {
-    "key": "drpy_js_JustLive",
-    "name": "直播 | JustLive ",
+    "key": "sd",
+    "name": "♨️閃電影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/闪电.js"
 },
 {
-    "key": "drpy_js_JRKAN直播",
-    "name": "体育 | JRKAN直播 ",
+    "key": "素白秒播",
+    "name": "♨️屬白影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/subaibai.js"
 },
 {
-    "key": "drpy_js_88看球",
-    "name": "体育 | 88看球 ",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/88看球.js"
+   "key": "hipy_js_一起看",
+   "name": "♨️壹起影視",
+   "type": 3,
+   "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+   "ext": "./TV/一起看.js"
 },
 {
-    "key": "drpy_js_310直播",
-    "name": "体育|310直播 ",
+    "key": "hipy_js_西瓜影院",
+    "name": "♨️西瓜影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/西瓜影院.js"
 },
 {
-    "key": "drpy_js_爱弹幕",
-    "name": "动漫 | 爱弹幕 ",
+    "key": "hipy_js_tpian",
+    "name": "♨️濺片影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱弹幕.js"
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/荐片.js"
 },
 {
-    "key": "drpy_js_兔小贝",
-    "name": "动漫 | 兔小贝 ",
+    "key": "摘星",
+    "name": "♨️星星影視",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
-{
-    "key": "drpy_js_AnFuns",
-    "name": "动漫|AnFuns ",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/AnFuns.js"
-},
+
 {
       "key": "ssys",
       "name": "♨️┣三三┃视频",
@@ -246,6 +245,21 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
 },
+{
+    "key": "hipy_js_蓝莓短剧",
+    "name": "♨️藍莓☪短劇",
+    "type": 3,
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/lanmei.js"
+},
+{
+    "key": "hipy_js_星芽短剧",
+    "name": "♨️星芽☪短劇",
+    "type": 3,
+    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "ext": "./TV/xingya.js"
+},
+
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
