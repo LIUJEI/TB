@@ -9,7 +9,7 @@
    "key":"dr_芒果",
     "name":"🎬芒果官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "ext":"./TV/MGtv.js"
 },
 {
@@ -39,25 +39,25 @@
     "key": "hipy_js_种子音乐[听]",
 	"name": "🎸种子┃音乐",
 	"type": 3,
-	"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+	"api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master//lib/drpy2.min.js",
     "order_num": 0,
-	"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/种子音乐[听].js"
+	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/种子音乐.js"
 },
 {
     "key":"drpy_js_酷奇MV",
     "name":"🎸酷奇┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷奇MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷奇MV.js"
 },
 {
     "key":"drpy_js_酷狗MV",
     "name":"🎧酷狗┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷狗MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷狗MV.js"
 },
 
 {
