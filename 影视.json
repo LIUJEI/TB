@@ -8,9 +8,9 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
-    "ext": "./TV/荐片[优].js"
+    "ext": "./TV/荐片.js"
 },
 {
     "key": "js-豆瓣",
