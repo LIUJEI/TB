@@ -1,1 +1,26 @@
-H4sIAIioBmcC/31Ty24TMRTd8xUWqmYmIbH7kFjMaChFYgECKlG6aqvKnblJ3HoetT2kSRWJHUKiKHtASEioLGAFC+iCr2kT+AvssZtGqsAb29fH597jc/2cCiQqDihGxzeQHoopDiHyp6cnF1/Hfz58O/853roYf9nxW/V5r5BKH/eUKmVISL/fx8Ph0vIKTopsBslgU3CNIpxJRTI5zHBPZasl7UK85FCVRXQGCadSXp13BmZyIAlUJD26Z0patqHDiiUHG3U8RIsuI9AUhAydBjP8TQmivdaFXPk6z+P1ew8e3d/dXHPENURABwQI/196iAOP7FQXultSIc0DYSpZCu0M8qptZGJdZ54D97ytniZuxia4E1HPewZHyswmHOGgBjcbRrHjLzkdXPIqUYGNcjochGhhX2JVbCjB8m4QNFB8Z04ky8tKaevqGQvQRAkExPBtk2C7f6uxbdKQFvLpPj0iqzRRsSzyLss7hcfSeGHJ4zTvxn4jmpHyohvUhPMxUCgrV3SqhxvrT3BdayDgsAKpHLiBU6oo1qjoWn3HTtxiy9quQS1nWli3H3YOjuzdUcM9AcuY7rbbdkcIQhdvf01fvZy8/zQ5G4f+3afWwfi/9k3efP59Mg7RzeZNGzj/8WJ6dmo8zIo9xqH2z/Pmd22mIIuweaucZuBMxMYTXtDU84zYthRJhGmleoWYQzmrXfbzs9c2WdOfybBtbf6IT+yarB7AIG42vet/QOMn43fT7x/DGcXVff2D5pytw55jssbaCykoyri7YNpD/zuWmt7gl49kUyB/X2sOjbooM5qikiWRrFcs1djRX63TH1EyBAAA
+var rule = {
+    title:'种子音乐',
+    host:'https://www.zz123.com',
+    homeUrl:'/list/mszm.htm?page=1',
+    url:'/list/fyclass.htm?page=fypage',
+    searchable:2,
+    quickSearch:0,
+    headers:{
+        'User-Agent':'MOBILE_UA',
+        'referer' : 'https://www.zz123.com/',
+    },
+    class_parse: '.taglist li;.tagitem&&data-name;.tagitem&&data-id',
+    play_parse:true,
+    // lazy:"js:input=input.replace(/play\\/(\\w+)\\.htm/,'ajax/?act=songinfo&id=$1&lang=');log(input);let mp3 = JSON.parse(request(input)).data.mp3;input={jx:0,url:mp3,parse:1,header:JSON.stringify({Referer:'https://www.zz123.com/'})}",
+    lazy:"js:input=input.replace(/play\\/(\\w+)\\.htm/,'ajax/?act=songinfo&id=$1&lang=').replace('www.','');log(input);let mp3=JSON.parse(request(input)).data.mp3;input={jx:0,url:'https://zz123.com'+mp3,parse:1,header:JSON.stringify({Referer:'https://www.zz123.com/'})}",
+    limit:6,
+    图片来源:'@Referer=https://www.zz123.com/',
+    推荐:"*",
+    一级:'.mobile-list&&.mobile-list-item;.songname&&Text;.lazyload&&data-src;.authorname&&Text;a&&href',
+    二级:'*',
+    // searchUrl:'/search/?key=**&page=fypage',
+    // 搜索:'*',
+    searchUrl:'/ajax/?act=search&key=**&lang=',
+    detailUrl:'/play/fyid.html',
+    搜索:'json:data;mname;pic;sname;id',
+}
