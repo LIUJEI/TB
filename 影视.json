@@ -594,7 +594,7 @@
     "type":3,
     "api": "http://www.uuneed.cn/yydsys/duoapi/raw/master/drpy_libs/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/喜马拉雅.js"
+    "ext":"./TV/喜马拉雅[听].js"
 },
 {
 	"key": "hipy_js_有声小说吧[听]",
