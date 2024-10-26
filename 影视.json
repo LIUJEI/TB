@@ -16,7 +16,7 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/douban.js"
 },
