@@ -8,7 +8,7 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片[优].js"
 },
@@ -128,7 +128,7 @@
 	"key": "hipy_js_111tv[自动]",
 	"name": "🍥異議☪影院",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/111tv[自动].js"
 },
@@ -515,23 +515,24 @@
 {
     "key": "hipy_js_网易影像",
     "name": "🖥网易┃影像",
-    "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/网易影像.js"
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "changeable":0,
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/网易公版影像.js"
 },
 {
-	"key": "hipy_js_央视大全[优]",
-	"name": "🖥央视┃大全",
+	"key": "hipy_js_好趣网",
+	"name": "🖥电视┃好趣网",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/央视大全[优].js"
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "style":{ "type":"oval", "ratio":1.1 },
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/好趣网.js"
 },
 {
 	"key": "hipy_js_老白故事[听]",
 	"name": "🎧老白故事",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/老白故事[听].js"
 },
@@ -539,7 +540,7 @@
 	"key": "hipy_js_喜马拉雅[听]",
 	"name": "🎧喜马拉雅",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "order_num": 0,
 	"ext": "./TV/喜马拉雅[听].js"
 },
@@ -547,7 +548,7 @@
 	"key": "hipy_js_有声听书网[听]",
 	"name": "🎧有声听书网",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/有声听书网[听].js"
 },
@@ -555,7 +556,7 @@
 	"key": "hipy_js_有声小说吧[听]",
 	"name": "🎧有声小说吧",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/有声小说吧[听].js"
 },
@@ -563,7 +564,7 @@
 	"key": "hipy_js_兔小贝[儿]",
 	"name": "兔小贝",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/兔小贝[儿].js"
 },
@@ -579,7 +580,7 @@
 	"key": "hipy_js_KTV歌厅[听]",
 	"name": "KTV歌厅",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/KTV歌厅[听].js"
 },
@@ -587,7 +588,7 @@
 	"key": "hipy_js_种子音乐[听]",
 	"name": "种子音乐",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/种子音乐[听].js"
 },
@@ -595,7 +596,7 @@
 	"key": "hipy_js_清风DJ[听]",
 	"name": "清风DJ",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/清风DJ[听].js"
 },
@@ -612,17 +613,17 @@
     "key":"drpy_js_酷狗MV",
     "name":"🎸酷狗┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷狗MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷狗MV.js"
 },
 {
     "key":"drpy_js_酷奇MV",
     "name":"🎸酷奇┃MV",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"./TV/酷奇MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷奇MV.js"
 },
 {
     "key": "應用商店",
