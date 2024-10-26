@@ -22,7 +22,7 @@
 },
 {
     "key":"dr_360",
-    "name":"🌾叁陸┃官方",
+    "name":"🅾️叁陸┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -30,7 +30,7 @@
 },
 {
     "key":"dr_芒果",
-    "name":"🌾芒果┃官方",
+    "name":"🥭芒果┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -38,7 +38,7 @@
 },
 {
     "key":"dr_奇异",
-    "name":"🌾奇藝┃官方",
+    "name":"🥝奇藝┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -46,7 +46,7 @@
 },
 {
     "key":"dr_搜狗",
-    "name":"🌾搜狗┃官方",
+    "name":"🦊搜狗┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -54,7 +54,7 @@
 },
 {
     "key":"dr_优酷",
-    "name":"🌾優酷┃官方",
+    "name":"🏠優酷┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -62,7 +62,7 @@
 },
 {
     "key":"dr_腾迅",
-    "name":"🌾騰訊┃官方",
+    "name":"🐧騰訊┃官方",
     "type":3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
