@@ -529,7 +529,7 @@
 },
 {
 	"key": "hipy_js_老白故事[听]",
-	"name": "老白故事",
+	"name": "🎧老白故事",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -537,7 +537,7 @@
 },
 {
 	"key": "hipy_js_喜马拉雅[听]",
-	"name": "喜马拉雅",
+	"name": "🎧喜马拉雅",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
@@ -545,7 +545,7 @@
 },
 {
 	"key": "hipy_js_有声听书网[听]",
-	"name": "有声听书网",
+	"name": "🎧有声听书网",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -553,7 +553,7 @@
 },
 {
 	"key": "hipy_js_有声小说吧[听]",
-	"name": "有声小说吧",
+	"name": "🎧有声小说吧",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -600,8 +600,17 @@
 	"ext": "./TV/清风DJ[听].js"
 },
 {
+	"key": "Yinyuetai",
+	"name": "音悦台",
+	"type": 3,
+	"api": "csp_Yinyuetai",
+	"searchable": 1,
+	"changeable": 0,
+	"order_num": 9999
+},
+{
     "key":"drpy_js_酷狗MV",
-    "name":"🎧酷狗┃MV",
+    "name":"🎸酷狗┃MV",
     "type":3,
     "api": "./TV/dy2.js",
     "changeable":0,
@@ -614,15 +623,6 @@
     "api": "./TV/dy2.js",
     "changeable":0,
     "ext":"./TV/酷奇MV.js"
-},
-{
-	"key": "Yinyuetai",
-	"name": "音悦台",
-	"type": 3,
-	"api": "csp_Yinyuetai",
-	"searchable": 1,
-	"changeable": 0,
-	"order_num": 9999
 },
 {
     "key": "應用商店",
