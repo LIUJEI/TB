@@ -109,9 +109,9 @@
 	"key": "hipy_js_8号影院",
 	"name": "🍥捌號☪影院",
 	"type": 3,
-	"api": "./drpy_libs/drpy2.min.js",
+	"api": "https://gitee.com/lyun_1_0/tb/raw/master/drpy/drpy2.min.js",
 	"order_num": 0,
-	"ext": "./drpy_js/8号影院.js"
+	"ext": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_js/8号影院.js"
 },
 {
 	"key": "hipy_js_111tv[自动]",
