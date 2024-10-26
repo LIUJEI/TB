@@ -8,7 +8,7 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "api": "./TV/dy2.js",
     "order_num": 0,
     "ext": "./TV/荐片[优].js"
 },
@@ -219,7 +219,7 @@
 },
 {
 	"key": "hipy_js_豆角网",
-	"name": "🍥豆角网",
+	"name": "🍥豆角网🍥",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -227,7 +227,7 @@
 },
 {
 	"key": "hipy_js_热片网",
-	"name": "🍥热片网",
+	"name": "🍥热片网🍥",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -235,7 +235,7 @@
 },
 {
 	"key": "hipy_js_首发网",
-	"name": "🍥首发网",
+	"name": "🍥首发网🍥",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
@@ -243,7 +243,7 @@
 },
 {
 	"key": "hipy_js_素白白",
-	"name": "🍥素白白",
+	"name": "🍥素白白🍥",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
