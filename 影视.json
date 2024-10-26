@@ -138,6 +138,14 @@
 	"ext": "./TV/天天影视.js"
 },
 {
+	"key": "hipy_js_素白白",
+	"name": "🍥素白☪影视",
+	"type": 3,
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"order_num": 0,
+	"ext": "./TV/素白白.js"
+},
+{
 	"key": "hipy_js_爱迪影视",
 	"name": "🍥爱迪☪影视",
 	"type": 3,
@@ -202,52 +210,12 @@
 	"ext": "./TV/电影猎手[自动].js"
 },
 {
-	"key": "hipy_js_电影天堂",
-	"name": "🍥电影☪天堂",
-	"type": 3,
-	"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/电影天堂.js"
-},
-{
 	"key": "hipy_js_电影兔",
 	"name": "🍥影兔☪影視",
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/电影兔.js"
-},
-{
-	"key": "hipy_js_豆角网",
-	"name": "🍥豆角网🍥",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/豆角网.js"
-},
-{
-	"key": "hipy_js_热片网",
-	"name": "🍥热片网🍥",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/热片网.js"
-},
-{
-	"key": "hipy_js_首发网",
-	"name": "🍥首发网🍥",
-	"type": 3,
-	"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/首发网.js"
-},
-{
-	"key": "hipy_js_素白白",
-	"name": "🍥素白白🍥",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/素白白.js"
 },
 {
 	"key": "hipy_js_冠建影视",
@@ -500,6 +468,22 @@
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
+},
+{
+	"key": "hipy_js_豆角网",
+	"name": "🍥豆角网🍥",
+	"type": 3,
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"order_num": 0,
+	"ext": "./TV/豆角网.js"
+},
+{
+	"key": "hipy_js_热片网",
+	"name": "🍥热片网🍥",
+	"type": 3,
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"order_num": 0,
+	"ext": "./TV/热片网.js"
 },
 {
     "key": "hipy_js_蓝莓短剧",
