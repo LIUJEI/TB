@@ -205,7 +205,7 @@
 	"key": "hipy_js_电影天堂",
 	"name": "🍥电影☪天堂",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/电影天堂.js"
 },
