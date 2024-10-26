@@ -131,7 +131,30 @@
     "api":"./lib/drpy2.min.js",
     "ext":"./js/电影先生.js"
 },
-
+{
+    "key":"drpy_js_TVB云播",
+    "name":"影视 | TVB云播[js]",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/TVB云播.js"
+},
+{
+    "key":"drpy_js_ddys",
+    "name":"影视 | 低端影视[js]",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/ddys.js"
+},
+{
+    "key":"drpy_js_蓝光影院",
+    "name":"影视 | 蓝光影院[js]",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/蓝光影院.js"
+},
+{"key":"drpy_js_米爱影视","name":"影视 | 米爱影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米爱影视.js"},
+{"key":"drpy_js_骚火电影","name":"影视 | 骚火电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火电影.js"},
+{"key":"drpy_js_玄天","name":"影视 | 玄天[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/玄天.js"},
 {
 	"key": "hipy_js_111tv[自动]",
 	"name": "🍥異議☪影院",
@@ -180,22 +203,6 @@
 	"order_num": 0,
 	"ext": "./TV/爱看机器人[虫].js"
 }, 
-{
-	"key": "hipy_js_白嫖者联盟",
-	"name": "🍥白嫖☪联盟",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/白嫖者联盟.js"
-},
-{
-	"key": "hipy_js_暴风资源[资]",
-	"name": "🍥暴风☪资源",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/暴风资源[资].js"
-},
 {
 	"key": "hipy_js_北川影视",
 	"name": "🍥北川☪影视",
@@ -536,30 +543,11 @@
     "style":{ "type":"oval", "ratio":1.1 },
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/好趣网.js"
 },
-{
-	"key": "hipy_js_老白故事[听]",
-	"name": "🎧老白故事",
-	"type": 3,
-	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/老白故事[听].js"
-},
-{
-	"key": "hipy_js_喜马拉雅[听]",
-	"name": "🎧喜马拉雅",
-	"type": 3,
-	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "order_num": 0,
-	"ext": "./TV/喜马拉雅[听].js"
-},
-{
-	"key": "hipy_js_有声听书网[听]",
-	"name": "🎧有声听书网",
-	"type": 3,
-	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/有声听书网[听].js"
-},
+{"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/斗鱼直播.js"},
+{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/虎牙直播.js"},
+{"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/广播迷FM.js"},
+{"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/蜻蜓FM.js"},
+{"key":"drpy_js_喜马拉雅","name":"听书┃喜马拉雅[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/喜马拉雅.js"},
 {
 	"key": "hipy_js_有声小说吧[听]",
 	"name": "🎧有声小说吧",
