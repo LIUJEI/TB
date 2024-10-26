@@ -311,7 +311,7 @@
 	"type": 3,
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
-	"ext": "./TV/努努影院1.js"
+	"ext": "./TV/努努影院.js"
 },
 {
 	"key": "hipy_js_暖光影视",
