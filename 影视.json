@@ -125,10 +125,18 @@
 	"ext": "./TV/8号影院.js"
 },
 {
+    "key":"drpy_js_电影先生",
+    "name":"影视 | 电影先生[js]",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/电影先生.js"
+},
+
+{
 	"key": "hipy_js_111tv[自动]",
 	"name": "🍥異議☪影院",
 	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/111tv[自动].js"
 },
@@ -168,7 +176,7 @@
 	"key": "hipy_js_爱看机器人[虫]",
 	"name": "🍥爱看☪机器",
 	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/爱看机器人[虫].js"
 }, 
@@ -176,7 +184,7 @@
 	"key": "hipy_js_白嫖者联盟",
 	"name": "🍥白嫖☪联盟",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/白嫖者联盟.js"
 },
