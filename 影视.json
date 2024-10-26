@@ -8,7 +8,7 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片[优].js"
 },
@@ -16,49 +16,56 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/douban.js"
 },
 {
     "key":"dr_360",
     "name":"🌾叁陸┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/360.js"
 },
 {
     "key":"dr_芒果",
     "name":"🌾芒果┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext":"./TV/MGtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"🌾奇藝┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext":"./TV/AQItv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"🌾搜狗┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext":"./TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
     "name":"🌾優酷┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/yKtv.js"
 },
 {
     "key":"dr_腾迅",
     "name":"🌾騰訊┃官方",
     "type":3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
 {
@@ -66,6 +73,7 @@
     "name": "🍥金牌☪影視",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/jpys.js"
 },
 {
@@ -73,6 +81,7 @@
     "name": "🍥瓜子☪影視",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/guazi.js"
 },
 {
@@ -80,6 +89,7 @@
     "name": "🍥糖果☪影視",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/糖果.js"
 },
 {
@@ -87,6 +97,7 @@
     "name": "🍥閃電☪影視",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "order_num": 0,
     "ext": "./TV/闪电.js"
 },
 {
@@ -613,7 +624,6 @@
 	"changeable": 0,
 	"order_num": 9999
 },
-
 {
     "key": "應用商店",
 	"name": "應用商店",
