@@ -306,14 +306,6 @@
 	"ext": "./TV/泥巴影院.js"
 },
 {
-	"key": "hipy_js_努努影院1",
-	"name": "🍥努努☪影院",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/努努影院.js"
-},
-{
 	"key": "hipy_js_暖光影视",
 	"name": "🍥暖光☪影视",
 	"type": 3,
@@ -408,14 +400,6 @@
 	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/星空影院.js"
-},
-{
-	"key": "hipy_js_旋风视频",
-	"name": "🍥旋风☪视频",
-	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/旋风视频.js"
 },
 {
 	"key": "hipy_js_妖狐影视[自动]",
@@ -619,16 +603,6 @@
     "api": "./TV/dy2.js",
     "changeable":0,
     "ext":"./TV/酷奇MV.js"
-},
-{
-    "key":"music",
-    "name": "🎸酷狗┃音乐",
-    "type": 3,
-    "api":"csp_Music",
-    "jar": "./JAR/Bili.jar",
-    "searchable":0,
-    "changeable":0,
-    "style":{"type":"rect","ratio":1.433}
 },
 {
 	"key": "Yinyuetai",
