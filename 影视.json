@@ -8,7 +8,7 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片[优].js"
 },
@@ -128,7 +128,7 @@
 	"key": "hipy_js_111tv[自动]",
 	"name": "🍥異議☪影院",
 	"type": 3,
-	"api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/111tv[自动].js"
 },
@@ -168,7 +168,7 @@
 	"key": "hipy_js_爱看机器人[虫]",
 	"name": "🍥爱看☪机器",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/爱看机器人[虫].js"
 }, 
@@ -184,7 +184,7 @@
 	"key": "hipy_js_暴风资源[资]",
 	"name": "🍥暴风☪资源",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/暴风资源[资].js"
 },
@@ -200,7 +200,7 @@
 	"key": "hipy_js_畅梦影视[优]",
 	"name": "🍥畅梦☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 0,
 	"ext": "./TV/畅梦影视[优].js"
 },
@@ -240,7 +240,7 @@
 	"key": "hipy_js_APPV2[模板]3",
 	"name": "🍥河狸☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 3,
 	"ext": "./TV/APPV2[模板].js?type=url&params=https://www.heli888.cc"
 },
@@ -248,7 +248,7 @@
 	"key": "hipy_js_APPV2[模板]2",
 	"name": "🍥小马☪影视",
 	"type": 3,
-	"api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
 	"order_num": 2,
 	"ext": "./TV/APPV2[模板].js?type=url&params=https://mas.szyyds.cn"
 },
