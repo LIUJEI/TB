@@ -539,20 +539,20 @@
 	"ext": "./TV/短剧TV网.js"
 },
 {
-    "key": "hipy_js_央视大全",
-	"name": "🖥央视┃大全",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/大全央视[央].js"
-},
-{
 	"key": "hipy_js_好趣网",
 	"name": "🖥电视┃好趣网",
 	"type": 3,
 	"api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
     "style":{ "type":"oval", "ratio":1.1 },
     "ext":"./TV/好趣网.js"
+},
+{
+    "key":"drpy_js_喜马拉雅",
+    "name":"🖥听书┃喜马拉雅",
+    "type":3,
+    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "changeable":0,
+    "ext":"./TV/喜马拉雅[听].js"
 },
 {
     "key":"drpy_js_广播迷FM",
@@ -569,22 +569,6 @@
     "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
     "changeable":0,
     "ext":"./TV/蜻蜓FM.js"
-},
-{
-    "key":"drpy_js_喜马拉雅",
-    "name":"听书┃喜马拉雅",
-    "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "changeable":0,
-    "ext":"./TV/喜马拉雅[听].js"
-},
-{
-	"key": "hipy_js_有声小说吧[听]",
-	"name": "🎧有声小说吧",
-	"type": 3,
-	"api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-	"order_num": 0,
-	"ext": "./TV/有声小说吧[听].js"
 },
 {
 	"key": "hipy_js_兔小贝[儿]",
