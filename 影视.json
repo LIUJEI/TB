@@ -48,7 +48,7 @@
     "key":"dr_搜狗",
     "name":"🦊搜狗┃官方",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext":"./TV/SGtv.js"
 },
@@ -56,7 +56,7 @@
     "key":"dr_优酷",
     "name":"🏠優酷┃官方",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/yKtv.js"
 },
@@ -64,7 +64,7 @@
     "key":"dr_腾迅",
     "name":"🐧騰訊┃官方",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
@@ -72,7 +72,7 @@
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/jpys.js"
 },
@@ -80,7 +80,7 @@
     "key": "hipy_js_瓜子",
     "name": "🍥瓜子☪影視",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/guazi.js"
 },
