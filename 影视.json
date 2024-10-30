@@ -8,7 +8,7 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片.js"
 },
@@ -16,7 +16,7 @@
     "key": "js-豆瓣",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/douban.js"
 },
@@ -24,7 +24,7 @@
     "key":"dr_360",
     "name":"🅾️叁陸┃官方",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/360.js"
 },
@@ -64,7 +64,7 @@
     "key":"dr_腾迅",
     "name":"🐧騰訊┃官方",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
@@ -72,14 +72,14 @@
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
     "key": "hipy_js_瓜子",
     "name": "🍥瓜子☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "ext": "./TV/guazi.js"
 },
 {
@@ -122,14 +122,14 @@
     "key": "hipy_js_8号影院",
     "name": "🍥捌號☪影院",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "ext": "./TV/8号影院.js"
 },
 {
     "key":"drpy_js_TVB云播",
     "name":"🍥影视☪云播",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
     "ext":"./TV/TVB云播.js"
 },
 {
