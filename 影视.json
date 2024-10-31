@@ -5,14 +5,19 @@
 "sites":[
 
 {
-    "key": "hipy_js_荐片[优]",
+    "key": "hipy_js_荐片",
     "name": "🎬┣影視┫荐片",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片.js"
 },
-{"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+{
+    "key":"南瓜",
+    "name":"🎬┣影視┫南瓜",
+    "type":3,
+    "api":"csp_NanGua"
+},
 {
     "key":"dr_360",
     "name":"🅾️叁陸┃官方",
@@ -466,67 +471,7 @@
     "name": "★巴拉解析★",
     "type": 1,
     "url": "https://jxjson.icu/neibu.php?url="
-},
-{
-      "name": "解析1",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"],
-"header": {"User-Agent": "okhttp/4.9.1"}}
-},  
-{
-    "name": "臻享",
-    "type": "1",
-    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
-    "ext": {
-        "flag": [
-            "youku",
-            "qq",
-            "qiyi",
-            "bilibili",
-            "mgtv",
-            "pptv",
-            "xigua",
-            "NBY",
-            "ETH-",
-            "BBA",
-            "TX",
-            "MXTV",
-            "mytv",
-            "nmys",
-            "yhdm",
-            "BNNB",
-            "letu",
-            "DJWB",
-            "DJWX",
-            "DJWT",
-            "duanju"],
-"header": {"User-Agent": "Dalvik/2.1.0"}}
-},   
-{
-    "name":"JY",
-    "type":1,
-    "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-    "ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}
-},      
+},    
 {
     "name": "☪夜幕㊎",
     "type": 0,
@@ -561,268 +506,54 @@
     "name":"☪全民㊣",
     "type":0,
     "url":"http://api.wpsseo.cn/?v="
-},
+}, 
 {
-    "name": "☪4K解析㊐",
-    "type": 1,
-    "url": "http://112.74.124.75:8899/jiexi/api.php?url="
-},
-{
-    "name": "☪推荐4K㊐",
-    "type": 1,
-    "url": "http://jx.jwl.icu/jx.php?url="
-},
-{
-    "name": "🏁琉芸★全能嗅探★",
-    "type": 0,
-    "url": "https://www.8090g.cn/?url="
+    "name": "☪XGJ解析㊐",
+    "type": "1",
+    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
 },
 {
     "name": "虾米2",
-    "url": "https://jx.xmflv.cc/?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-        "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "url": "https://jx.xmflv.cc/?url="
 },
 {
-   "name": "777",
-   "url": "https://jx.777jiexi.com/player/?url=",
-   "type": 0,
-   "ext": {
-   "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
-},
-{
-    "name": "8090g",
-    "url": "https://www.8090g.cn/jiexi/?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
-},
+    "name": "巧记",
+    "type": 1,
+    "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="   
+},   
 {
     "name": "ik9",
     "url": "https://yparse.ik9.cc/index.php?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "type": 0
 },
 {
     "name": "阳途",
     "url": "https://jx.yangtu.top/?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "type": 0
 },
 {
     "name": "听乐",
     "url": "https://jx.dj6u.com/?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "type": 0
 },
 {
     "name": "云析",
     "url": "https://jx.yparse.com/index.php?url=",
-    "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "type": 0
 },
 {
     "name": "红狐",
     "url": "https://player.mrgaocloud.com/player/?url=",
+    "type": 0
+
+},
+{
+    "name": "🏁琉芸★全能嗅探★",
     "type": 0,
-    "ext": {
-    "flag": [
-	 "qiyi",
-        "imgo",
-	"爱奇艺",
-	"奇艺",
-	"qq",
-	"qq 预告及花絮",
-	"腾讯",
-	"youku",
-	"优酷",
-	"pptv",
-	"PPTV",
-	"letv",
-	"乐视",
-	"leshi",
-	"mgtv",
-	"芒果",
-	"sohu",
-	"xigua",
-        "fun",
-        "风行"]},
-"header": {"User-Agent": "Mozilla/5.0"}
+    "url": "https://www.8090g.cn/jiexi/?url="
 }],
 
-	"flags": [
-		"imgo",
-		"youku",
-		"qq",
-		"qq 预告及花絮",
-		"iqiyi",
-		"qiyi",
-		"fun",
-		"letv",
-		"leshi",
-		"sohu",
-		"tudou",
-		"xigua",
-		"cntv",
-		"1905",
-		"pptv",
-		"mgtv",
-		"wasu",
-		"bilibili",
-		"renrenmi"
-],
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
 
 "lives": [
 {
