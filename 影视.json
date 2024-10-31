@@ -394,50 +394,37 @@
 },
 
 {
-    "key": "hipy_js_KTV歌厅[听]",
-    "name": "KTV歌厅",
-    "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "ext": "./TV/KTV歌厅[听].js"
-},
-{
-    "key": "hipy_js_种子音乐[听]",
-    "name": "种子音乐",
-    "type": 3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
-    "ext": "./TV/种子音乐[听].js"
-},
-{
-    "key": "hipy_js_清风DJ[听]",
-    "name": "清风DJ",
-    "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
-    "ext": "./TV/清风DJ[听].js"
-},
-{
-    "key": "Yinyuetai",
-    "name": "音悦台",
-    "type": 3,
-    "api": "csp_Yinyuetai",
-    "searchable": 1,
-    "changeable": 0,
-    "order_num": 9999
-},
-{
-    "key":"drpy_js_酷狗MV",
-    "name":"🎸酷狗┃MV",
+    "key":"drpy_js_广播迷FM",
+    "name":"📻┃播迷┃FM",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷狗MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/广播迷FM.js"
 },
 {
-    "key":"drpy_js_酷奇MV",
-    "name":"🎸酷奇┃MV",
+    "key":"drpy_js_蜻蜓FM",
+    "name":"📻┃蜻蜓┃FM",
     "type":3,
-    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
     "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/酷奇MV.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/蜻蜓FM.js"
+},
+{
+    "key":"drpy_js_喜马拉雅",
+    "name":"听书┃喜马拉雅",
+    "type":3,
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
+    "changeable":0,
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/喜马拉雅.js"
+},
+{
+    "key":"drpy_js_有声小说",
+    "name":"听书 | 有声小说",
+    "type":3,
+    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/lib/drpy2.min.js",
+    "changeable":0,
+    "style":{"type":"rect","ratio":1},
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/js/有声小说吧.js"
 },
 {
     "key": "應用商店",
