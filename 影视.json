@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "spider": "http://cdn.qiaoji8.com/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
@@ -8,23 +8,16 @@
     "key": "hipy_js_荐片[优]",
     "name": "🎬┣影視┫荐片",
     "type": 3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片.js"
 },
-{
-    "key": "js-豆瓣",
-    "name": "🎬┣豆瓣┫推荐",
-    "type": 3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
-    "order_num": 0,
-    "ext": "./TV/douban.js"
-},
+{"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 {
     "key":"dr_360",
     "name":"🅾️叁陸┃官方",
     "type":3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "http://mdxgh.tpddns.cn:9999/mdlib/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/360.js"
 },
@@ -64,22 +57,34 @@
     "key":"dr_腾迅",
     "name":"🐧騰訊┃官方",
     "type":3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
+{"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg=="},
+{"key":"热播","name":"热播┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
+{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
+{"key":"乐观","name":"乐观┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
+{"key":"人人","name":"人人┃ 4K","type":3,"api":"csp_qiao3","playerType":2,"ext":"caHR0cDovL3d3dy5jdXBmb3gxLmNjOjk5OTl8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"},
+{"key":"雨滴","name":"雨滴┃App","type":3,"api":"csp_qiao3","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"},
+{"key":"优质","name":"优质┃App","type":3,"api":"csp_qiao3","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"},
+{"key":"客星","name":"客星┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="},
+{"key":"木叶","name":"木叶┃App","type":3,"api":"csp_Frong","playerType":2,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
+{"key":"繁荣","name":"繁荣┃App","type":3,"api":"csp_Frong","playerType":1,"ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="},
+{"key":"雷电","name":"雷电┃App","type":3,"api":"csp_Slys","playerType":1,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
+{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 {
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
     "key": "hipy_js_瓜子",
     "name": "🍥瓜子☪影視",
     "type": 3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/guazi.js"
 },
 {
@@ -122,14 +127,14 @@
     "key": "hipy_js_8号影院",
     "name": "🍥捌號☪影院",
     "type": 3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/8号影院.js"
 },
 {
     "key":"drpy_js_TVB云播",
     "name":"🍥影视☪云播",
     "type":3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/raw/master/lib/drpy2.min.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext":"./TV/TVB云播.js"
 },
 {
