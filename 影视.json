@@ -471,6 +471,11 @@
     "name": "★巴拉解析★",
     "type": 1,
     "url": "https://jxjson.icu/neibu.php?url="
+},
+{
+    "name": "☪XGJ解析㊐",
+    "type": "1",
+    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
 },    
 {
     "name": "☪夜幕㊎",
@@ -507,11 +512,6 @@
     "type":0,
     "url":"http://api.wpsseo.cn/?v="
 }, 
-{
-    "name": "☪XGJ解析㊐",
-    "type": "1",
-    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="
-},
 {
     "name": "虾米2",
     "url": "https://jx.xmflv.cc/?url="
