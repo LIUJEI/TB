@@ -468,6 +468,66 @@
     "url": "https://jxjson.icu/neibu.php?url="
 },
 {
+      "name": "解析1",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"],
+"header": {"User-Agent": "okhttp/4.9.1"}}
+},  
+{
+    "name": "臻享",
+    "type": "1",
+    "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+    "ext": {
+        "flag": [
+            "youku",
+            "qq",
+            "qiyi",
+            "bilibili",
+            "mgtv",
+            "pptv",
+            "xigua",
+            "NBY",
+            "ETH-",
+            "BBA",
+            "TX",
+            "MXTV",
+            "mytv",
+            "nmys",
+            "yhdm",
+            "BNNB",
+            "letu",
+            "DJWB",
+            "DJWX",
+            "DJWT",
+            "duanju"],
+"header": {"User-Agent": "Dalvik/2.1.0"}}
+},   
+{
+    "name":"JY",
+    "type":1,
+    "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+    "ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}
+},      
+{
     "name": "☪夜幕㊎",
     "type": 0,
     "url": "https://www.yemu.xyz/?url="
