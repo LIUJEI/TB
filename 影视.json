@@ -1,5 +1,5 @@
 {
-  "spider": "http://cdn.qiaoji8.com/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+  "spider": "./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
