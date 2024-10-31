@@ -392,40 +392,6 @@
     "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/短剧TV网.js"
 },
-
-{
-    "key":"drpy_js_广播迷FM",
-    "name":"📻┃播迷┃FM",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/广播迷FM.js"
-},
-{
-    "key":"drpy_js_蜻蜓FM",
-    "name":"📻┃蜻蜓┃FM",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/蜻蜓FM.js"
-},
-{
-    "key":"drpy_js_喜马拉雅",
-    "name":"听书┃喜马拉雅",
-    "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-    "changeable":0,
-    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/喜马拉雅.js"
-},
-{
-    "key":"drpy_js_有声小说",
-    "name":"听书 | 有声小说",
-    "type":3,
-    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/lib/drpy2.min.js",
-    "changeable":0,
-    "style":{"type":"rect","ratio":1},
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/js/有声小说吧.js"
-},
 {
     "key": "應用商店",
     "name": "🖥應用商店",
