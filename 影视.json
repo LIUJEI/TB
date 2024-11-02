@@ -16,7 +16,7 @@
     "key": "drpy_js_豆瓣",
     "name": "🎬┣豆瓣┫导航",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=豆瓣"
 },
 {
