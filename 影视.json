@@ -20,34 +20,6 @@
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=豆瓣"
 },
 {
-    "key": "feifan",
-    "name": "💓影视 | 飞帆",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id4",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "360360",
-    "name": "📺影视 | 360",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id2",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "liangliang",
-    "name": "🦋影视 | 量量",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id3",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "BAOFENG",
-    "name": "🤖︎影视 | 风暴",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
     "key":"dr_360",
     "name":"🅾️叁陸┃官方",
     "type":3,
@@ -91,7 +63,7 @@
     "key":"dr_腾迅",
     "name":"🐧騰訊┃官方",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/QQtv.js"
 },
@@ -124,52 +96,80 @@
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=巨人"
 },
 {
+    "key": "feifan",
+    "name": "💓影视 | 飞帆",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id4",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
+    "key": "360360",
+    "name": "📺影视 | 360",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id2",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
+    "key": "liangliang",
+    "name": "🦋影视 | 量量",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id3",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
+    "key": "BAOFENG",
+    "name": "🤖︎影视 | 风暴",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
     "key": "hipy_js_瓜子",
     "name": "🍥瓜子☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/guazi.js"
 },
 {
     "key": "hipy_js_fxztg",
     "name": "🍥糖果☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/糖果.js"
 },
 {
     "key": "hipy_js_sd",
     "name": "🍥閃電☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/闪电.js"
 },
 {
     "key": "hipy_js_摘星",
     "name": "🍥星星☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
     "name": "🍥壹個☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/一个g影视.js"
 },
 {
     "key": "hipy_js_饺子影院",
     "name": "🍥饺子☪影院",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/饺子影院.js"
 },
@@ -177,70 +177,70 @@
     "key": "hipy_js_8号影院",
     "name": "🍥捌號☪影院",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/8号影院.js"
 },
 {
     "key":"drpy_js_TVB云播",
     "name":"🍥影视☪云播",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext":"./TV/TVB云播.js"
 },
 {
     "key":"drpy_js_ddys",
     "name":"🍥低端☪影视",
     "type":3,
-   "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext":"./TV/ddys.js"
 },
 {
     "key":"drpy_js_蓝光影院",
     "name":"🍥蓝光☪影院",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext":"./TV/蓝光影院.js"
 },
 {
     "key":"drpy_js_骚火电影",
     "name":"🍥骚火☪电影",
     "type":3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext":"./TV/骚火电影.js"
 },
 {
     "key": "hipy_js_耐看",
     "name": "🍥耐看☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "../TV/耐看.js"
 },
 {
     "key": "hipy_js_天天影视",
     "name": "🍥天天☪影视",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/天天影视.js"
 },
 {
     "key": "hipy_js_爱迪影视",
     "name": "🍥爱迪☪影视",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/爱迪影视.js"
 },
 {
     "key": "hipy_js_北川影视",
     "name": "🍥北川☪影视",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/北川影视.js"
 },
 {
     "key": "hipy_js_达达猪",
     "name": "🍥达猪☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/达达猪.js"
 },
@@ -248,14 +248,14 @@
     "key": "hipy_js_电影兔",
     "name": "🍥影兔☪影視",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/电影兔.js"
 },
 {
     "key": "hipy_js_冠建影视",
     "name": "🍥冠建☪影视",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/冠建影视.js"
 },
 
@@ -263,7 +263,7 @@
     "key": "hipy_js_家庭影视",
     "name": "🍥家庭☪影视",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "./TV/家庭影视.js"
 },
 {
