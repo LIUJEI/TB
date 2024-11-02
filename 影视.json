@@ -41,10 +41,17 @@
     "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
 },
 {
+    "key": "BAOFENG",
+    "name": "🤖︎影视 | 风暴",
+    "type": 1,
+    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
+    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+},
+{
     "key":"dr_360",
     "name":"🅾️叁陸┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/360.js"
 },
@@ -52,7 +59,7 @@
     "key":"dr_芒果",
     "name":"🥭芒果┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext":"./TV/MGtv.js"
 },
@@ -60,7 +67,7 @@
     "key":"dr_奇异",
     "name":"🥝奇藝┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext":"./TV/AQItv.js"
 },
@@ -68,7 +75,7 @@
     "key":"dr_搜狗",
     "name":"🦊搜狗┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext":"./TV/SGtv.js"
 },
@@ -76,7 +83,7 @@
     "key":"dr_优酷",
     "name":"🏠優酷┃官方",
     "type":3,
-    "api": "./TV/dy2.js",
+    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/yKtv.js"
 },
@@ -90,51 +97,37 @@
 },
 {
     "key": "jiulong",
-    "name": "🌈弹幕 | 九龙",
+    "name": "🌈影視 | 九龙",
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=九龙"
 },
 {
     "key": "youyoujs",
-    "name": "🌈弹幕 | 悠悠",
+    "name": "🌈影視 | 悠悠",
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=悠悠"
 },
 {
     "key": "xiaoxiongjs",
-    "name": "🌈弹幕 | 小熊",
+    "name": "🌈影視 | 小熊",
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=小熊"
 },
 {
     "key": "jurenjs",
-    "name": "🌈弹幕 | 巨人",
+    "name": "🌈影視 | 巨人",
     "type": 3,
     "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=巨人"
 },
 {
-    "key": "siyuejs",
-    "name": "🌈软件 | 四月",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=四月"
-},
-{
-    "key": "BAOFENG",
-    "name": "🤖︎影视 | 风暴",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
     "key": "hipy_js_金牌",
     "name": "🍥金牌☪影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/jpys.js"
 },
 {
@@ -148,28 +141,28 @@
     "key": "hipy_js_fxztg",
     "name": "🍥糖果☪影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/糖果.js"
 },
 {
     "key": "hipy_js_sd",
     "name": "🍥閃電☪影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/闪电.js"
 },
 {
     "key": "hipy_js_摘星",
     "name": "🍥星星☪影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
     "name": "🍥壹個☪影視",
     "type": 3,
-    "api": "./TV/dy2.js",
+    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/一个g影视.js"
 },
 {
