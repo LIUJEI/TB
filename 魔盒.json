@@ -3,7 +3,7 @@
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
 
-   "spider": "http://64.112.42.49:1688/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+   "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
     
  
     "lives": [{"name": "live2","type": 0,"url": "./lives/live2.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
@@ -28,91 +28,93 @@
     "searchable": 0
 },
 {
-    "key": "荐片弹幕",
+    "key": "csp_荐片",
     "name": "荐片┃影视",
     "type": 3,
-    "api": "csp_Jianpian",
-    "playerType": 1,
-    "ext": {"danmu": true}
+    "api": "csp_Jianpian"
 },
 {
-    "key": "西瓜视频",
-    "name": "西瓜｜视频",
-    "type": 3,
-    "api": "csp_AmuXiguaV2",
-    "changeable": 0,
-    "style": {"type": "rect","ratio": 1.433}
+    "key":"乐观",
+    "name":"乐观┃App",
+    "type":3,
+    "api":"csp_Xdai",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
 },
 {
-    "key": "南瓜弹幕",
-    "name": "南瓜｜弹幕",
-    "type": 3,
-    "api": "csp_Nangua",
-    "changeable": 0,   
-    "ext": {"danmu": true}
+    "key":"欢观",
+    "name":"欢观┃APP",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
 },
 {
-    "key": "厂长弹幕",
-    "name": "厂长｜弹幕",
-    "type": 3,
-    "api": "csp_Czzy",
-    "changeable": 0,  
-    "ext": {"danmu": true}
+    "key":"闪电",
+    "name":"闪电┃App",
+    "type":3,
+    "api":"csp_Slys",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
 },
 {
-    "key": "天天弹幕",
-    "name": "天天｜弹幕",
-    "type": 3,
-    "api": "csp_TianTian",
-    "changeable": 0,  
-    "ext": {"danmu": true}
+    "key":"雨滴",
+    "name":"雨滴┃App",
+    "type":3,
+    "api":"csp_qiao3",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
 },
 {
-    "key": "热播弹幕",
-    "name": "热播｜弹幕",
-    "type": 3,
-    "api": "csp_ReBo",
-    "changeable": 0,  
-    "ext": {"danmu": true}
+    "key":"优质",
+    "name":"优质┃App",
+    "type":3,
+    "api":"csp_qiao3",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
 },
 {
-    "key": "糯米弹幕",
-    "name": "糯米｜弹幕",
-    "type": 3,
-    "api": "csp_Nmys",
-    "changeable": 0,  
-    "ext": {"danmu": true}
+    "key":"星星",
+    "name":"星星┃App",
+    "type":3,
+    "api":"csp_Xdai",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
+    "ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
 },
 {
-    "key": "文才弹幕",
-    "name": "文才｜弹幕",
-    "type": 3,
-    "api": "csp_Jpys",
-   "changeable": 0,  
-    "ext": {"danmu": true}
+    "key":"木叶",
+    "name":"木叶┃App",
+    "type":3,
+    "api":"csp_Frong",
+    "ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
 },
 {
-    "key": "哔哩弹幕",
-    "name": "哔哩｜弹幕",
+    "key": "兄弟影视",
+    "name": "兄弟｜APP",
     "type": 3,
-    "api": "csp_Bilimd",
-    "changeable": 0,  
-    "style": {"type": "rect","ratio": 1.433},
-    "ext": {"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"},
-    "timeout": 10
+    "api": "csp_AppGetApp",
+    "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
 },
 {
-    "key": "立播弹幕",
-    "name": "立播｜弹幕",
+    "key": "追梦影视",
+    "name": "追梦｜APP",
     "type": 3,
-    "api": "csp_Libvio",
-    "changeable": 1,
-    "ext": {
-    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-    "site": "https://libvio.link",
-    "danmu": true}
+    "api": "csp_App",
+    "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
+},
+{
+    "key": "酷酷影视",
+    "name": "酷酷｜APP",
+    "type": 3,
+    "api": "csp_App",
+    "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+},
+{
+    "key":"csp_凡人",
+    "name":"樊星┃App",
+    "type":3,
+    "api":"csp_Frong",
+    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26","ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
 },
 {
     "key": "金牌影视",
@@ -222,89 +224,7 @@
     "quickSearch": 1,
     "filterable": 1
 },
-{
-    "key":"乐观",
-    "name":"乐观┃App",
-    "type":3,
-    "api":"csp_Xdai",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
-},
-{
-    "key":"欢观",
-    "name":"欢观┃APP",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
-},
-{
-    "key":"闪电",
-    "name":"闪电┃App",
-    "type":3,
-    "api":"csp_Slys",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
-},
-{
-    "key":"雨滴",
-    "name":"雨滴┃App",
-    "type":3,
-    "api":"csp_qiao3",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
-},
-{
-    "key":"优质",
-    "name":"优质┃App",
-    "type":3,
-    "api":"csp_qiao3",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"
-},
-{
-    "key":"星星",
-    "name":"星星┃App",
-    "type":3,
-    "api":"csp_Xdai",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26",
-    "ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="
-},
-{
-    "key":"木叶",
-    "name":"木叶┃App",
-    "type":3,
-    "api":"csp_Frong",
-    "ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
-},
-{
-    "key": "兄弟影视",
-    "name": "兄弟｜APP",
-    "type": 3,
-    "api": "csp_AppGetApp",
-    "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+s4eQhuLBs4vVhslYH/yyPXePZ1AgNT8ZuBCcfE2LpJ19OKKPIvs+pt4Z/yzVA=="
-},
-{
-    "key": "追梦影视",
-    "name": "追梦｜APP",
-    "type": 3,
-    "api": "csp_App",
-    "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
-},
-{
-    "key": "酷酷影视",
-    "name": "酷酷｜APP",
-    "type": 3,
-    "api": "csp_App",
-    "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
-},
-{
-    "key":"csp_凡人",
-    "name":"樊星┃App",
-    "type":3,
-    "api":"csp_Frong",
-    "jar":"./JAR/fix241030.jar;md5;16d678ed85ccf513cd19ed2fd8b31e26","ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="
-},
+
 {
     "key": "忍者影视",
     "name": "忍者｜APP",
@@ -314,13 +234,6 @@
     "quickSearch": 1,
     "filterable": 1
 },   
-{
-    "key": "大米星球",
-    "name": "大米｜APP",
-    "type": 3,
-    "api": "csp_AppDaMi",
-    "jar":"./JAR/A8spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3"
-},
 {
     "key": "厂长资源",
     "name": "厂长｜资源",
@@ -431,39 +344,46 @@
     "filterable": 1
 },
 {
+    "key": "大米星球",
+    "name": "大米｜APP",
+    "type": 3,
+    "api": "csp_AppDaMi",
+    "jar":"./JAR/A8spider.jar"
+},
+{
     "key": "csp_JPYY",
     "name": "文采┃影视",
     "type": 3,
     "api": "csp_Jpyy",
     "changeable": 1,
-    "jar":"./JAR/B31026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+    "jar":"./JAR/B31026.jar"
 },
 {
     "key": "hipy_js_蓝莓短剧",
     "name": "♨️藍莓☪短劇",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/lanmei.js"
 },
 {
     "key": "hipy_js_星芽短剧",
     "name": "♨️星芽☪短劇",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/xingya.js"
 },
 {
     "key": "hipy_js_短剧天堂",
     "name": "♨️短剧☪天堂",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/短剧天堂.js"
 },
 {
     "key": "hipy_js_短剧TV网",
     "name": "♨️短剧☪TV网",
     "type": 3,
-    "api": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/drpy_libs/drpy2.min.js",
+    "api": "./TV/drpy2.min.js",
     "ext": "./TV/短剧TV网.js"
 },
 {
@@ -474,7 +394,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
+    "ext": "./Lib/爱你短剧.json"
 },
 {
     "key": "河马短剧",
@@ -484,9 +404,110 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
+    "ext": "./Lib/河马短剧.json"
 },
-
+{
+    "key": "西瓜视频",
+    "name": "西瓜｜视频",
+    "type": 3,
+    "api": "csp_AmuXiguaV2",
+    "changeable": 0,
+    "style": {"type": "rect","ratio": 1.433}
+},
+{
+    "key": "糯米弹幕",
+    "name": "糯米｜弹幕",
+    "type": 3,
+    "api": "csp_Nmys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"danmu": true}
+},
+{
+    "key": "金牌弹幕",
+    "name": "金牌｜弹幕",
+    "type": 3,
+    "api": "csp_Jpys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {"danmu": true}
+},
+{
+    "key": "立播弹幕",
+    "name": "立播｜弹幕",
+    "type": 3,
+    "api": "csp_Libvio",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {
+    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site": "https://libvio.link",
+    "danmu": true}
+},
+{
+    "key": "三六零弹幕",
+    "name": "三六零｜弹幕",
+    "type": 3,
+    "api": "csp_Sp360",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {"danmu": true}
+},
+{
+    "key": "腾讯弹幕",
+    "name": "腾讯｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/腾讯弹幕.js"
+},
+{
+    "key": "优酷弹幕",
+    "name": "优酷｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/优酷弹幕.js"
+},
+{
+    "key": "完美弹幕",
+    "name": "完美｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/完美弹幕.js"
+},
+{
+    "key": "悠悠弹幕",
+    "name": "悠悠｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/悠悠弹幕.js"
+},
+{
+    "key": "小熊弹幕",
+    "name": "小熊｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/小熊弹幕.js"
+},
+{
+    "key": "巨人弹幕",
+    "name": "巨人｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/巨人弹幕.js"
+},
+{
+    "key": "小虎斑弹幕",
+    "name": "小虎斑｜弹幕",
+    "type": 3,
+    "api": "./JS/drpy2.min.js",
+    "ext": "./JS/小虎斑弹幕.js"
+},    
 {
     "key": "hipy_js_网易影像",
     "name": "🖥网易┃影像",
