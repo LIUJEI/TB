@@ -502,18 +502,24 @@
     "ext": "./TV/小虎斑弹幕.js"
 },    
 {
-    "key": "hipy_js_网易影像",
-    "name": "🖥网易┃影像",
+    "key": "py_cctv",
+    "name": "🖥cctv┃综合 ",
     "type": 3,
-    "api": "./TV/dy2.js",
-    "ext": "./TV/网易影像.js"
+    "api": "py_cctv",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "./lib/py_cctv.py"
 },
 {
-  "key": "hipy_js_diany",
-  "name": "🖥电影┃合集",
-  "type": 3,
-  "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "./TV/电影合集.js"
+   "key": "m1905",
+   "name": "🖥cctv┃电影 ",
+    "type": 3,
+    "api": "py_cctv",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "./lib/m1905.py"
 },
 {
   "key": "hipy_js_gequ",
