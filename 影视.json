@@ -20,108 +20,74 @@
     "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=豆瓣"
 },
 {
-    "key":"dr_360",
-    "name":"🅾️叁陸┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext": "./TV/360.js"
+      "key": "可可影视[优]_js",
+      "name": "‍可可🆚影视",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/可可影视[优].js"
 },
 {
-    "key":"dr_芒果",
-    "name":"🥭芒果┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext":"./TV/MGtv.js"
+      "key": "熊猫TV_js",
+      "name": "熊猫🆚TV",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/熊猫TV.js"
 },
 {
-    "key":"dr_奇异",
-    "name":"🥝奇藝┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext":"./TV/AQItv.js"
-},
-{
-    "key":"dr_搜狗",
-    "name":"🦊搜狗┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext":"./TV/SGtv.js"
-},
-{
-    "key":"dr_优酷",
-    "name":"🏠優酷┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext": "./TV/yKtv.js"
-},
-{
-    "key":"dr_腾迅",
-    "name":"🐧騰訊┃官方",
-    "type":3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "order_num": 0,
-    "ext": "./TV/QQtv.js"
-},
-{
-    "key": "jiulong",
-    "name": "🌈影視 | 九龙",
+    "key": "宝片视频_js",
+    "name": "宝片🆚視頻",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=九龙"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/宝片视频.js"
 },
 {
-    "key": "youyoujs",
-    "name": "🌈影視 | 悠悠",
+      "key": "七新电影网_js",
+      "name": "七新🆚影网",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/七新电影网.js"
+},
+{
+    "key": "厂长资源_js",
+    "name": "‍厂长🆚资源",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=悠悠"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/厂长资源.js"
 },
 {
-    "key": "xiaoxiongjs",
-    "name": "🌈影視 | 小熊",
+      "key": "老王电影[自动]_js",
+      "name": "‍老王🆚电影",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/老王电影.js"
+},
+{
+    "key": "臭蛋蛋_js",
+    "name": "‍臭蛋🆚視頻",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=小熊"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/臭蛋蛋.js"
 },
 {
-    "key": "jurenjs",
-    "name": "🌈影視 | 巨人",
+    "key": "刺猬影视_js",
+    "name": "刺猬🆚影视",
     "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=巨人"
+    "api": "./TV/drpy2.min.js",
+    "ext": "./TV/刺猬影视.js"
 },
 {
-    "key": "feifan",
-    "name": "💓影视 | 飞帆",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id4",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+      "key": "河狸影视[V2]_js",
+      "name": "河狸🆚影视",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/河狸影视.js"
 },
 {
-    "key": "360360",
-    "name": "📺影视 | 360",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id2",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "liangliang",
-    "name": "🦋影视 | 量量",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id3",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "BAOFENG",
-    "name": "🤖︎影视 | 风暴",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
+      "key": "妖狐影视[自动]_js",
+      "name": "妖狐🆚影视",
+      "type": 3,
+      "api": "./TV/drpy2.min.js",
+      "ext": "./TV/妖狐影视.js"
 },
 {
     "key": "hipy_js_金牌",
