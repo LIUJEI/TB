@@ -3,24 +3,28 @@
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
-
+{
+    "key": "drpy_js_豆瓣",
+    "name": "🎬┣豆瓣┫导航┃",
+    "type":3,
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
+},
+{
+    "key":"csp_豆瓣",
+    "name":"🎬┣豆瓣┫预告┃",
+    "type":3,
+    "api":"csp_XBPQ",
+    "playerType":2,
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
+},
 {
     "key": "hipy_js_荐片",
-    "name": "🎬┣影視┫荐片",
+    "name": "影視🆚荐片",
     "type": 3,
     "api": "./TV/dy2.js",
     "order_num": 0,
     "ext": "./TV/荐片.js"
-},
-{
-    "key": "drpy_js_豆瓣",
-    "name": "🎬┣豆瓣┫导航",
-    "type":3,
-    "searchable":0,
-    "changeable":1,
-    "quickSearch":0,
-    "filterable":0,
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
 },
 {
       "key": "可可影视[优]_js",
