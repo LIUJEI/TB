@@ -162,7 +162,32 @@
     "分类url":"https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
     "分类":"花姐$0#电视剧&电影&综艺&动漫",
     "分类值":"2&1&3&4"}
-},  
+}, 
+{
+    "key": " fxz好影",
+    "name": "正版🍁好影快看",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext":{
+    "站名": "好影快看",
+    "主页url": "https://www.hitv.app/",
+    "导演": "导演：&&</div>",
+    "主演": "主演：&&</div>",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "module-info-tag\">&&立即播放",
+    "副标题":"琉芸✨HD",
+    "搜索模式": "1",
+    "搜索url": "https://www.hitv.app/search/-------------.html?wd={wd}",
+    "搜索数组": "module-card-item-class\">&&</a>",
+    "搜索标题": "alt=\"&&\"",
+    "搜索副标题": "note\">&&</div>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "💕琉芸👉+<span>&&</small>[替换:</span><small>>>共]+集",
+    "分类url": "https://www.hitv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "好影快看$0#电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"}
+}, 
 {
     "key":"白嫖者",
     "name":"正版🍁白嫖影视",
@@ -284,7 +309,7 @@
     "ext": {
     "副标题": "琉芸✨HD+pic-text text-right\"&&</span>",
     "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "影院大全$6#电影$1#电视剧$2#综艺$3#动漫$4"}
+    "分类": "影视大全$5#电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
     "key": "fxz真不卡",
@@ -431,31 +456,6 @@
     "分类值":"1&2&3&4"}
 },
 {
-    "key": " fxz好影",
-    "name": "正版🍁好影快看",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext":{
-    "站名": "好影快看",
-    "主页url": "https://www.hitv.app/",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "影片状态": "备注：&&</div>",
-    "影片类型": "module-info-tag\">&&立即播放",
-    "副标题":"琉芸✨HD",
-    "搜索模式": "1",
-    "搜索url": "https://www.hitv.app/search/-------------.html?wd={wd}",
-    "搜索数组": "module-card-item-class\">&&</a>",
-    "搜索标题": "alt=\"&&\"",
-    "搜索副标题": "note\">&&</div>",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "💕琉芸👉+<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.hitv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "好影快看$0#电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"}
-},
-{
     "key": " fxzds ",
     "name": "正版🍁袋鼠影视",
     "type": 3,
@@ -536,7 +536,7 @@
     "ext": {
     "副标题": "琉芸✨HD+pic-text text-right\"&&</span>",
     "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-    "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}
+    "分类": "追剧$追剧电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}
 },
 {
     "key": "万家影视",
@@ -556,7 +556,7 @@
     "ext": {
     "副标题": "琉芸✨HD+pic-text text-right\"&&</span>",
     "分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}
+    "分类": "珍品$珍品电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}
 },
 {
     "key":"csp_lwdy",
@@ -566,7 +566,7 @@
     "ext":{
     "副标题":"琉芸✨HD",
     "分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}
+    "分类":"老王$老王电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}
 },
 {
     "key":"开心影视",
