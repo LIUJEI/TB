@@ -388,6 +388,7 @@
     "name": "正版🍁胖虎蓝光",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar":"https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/dokilwss.jar",
     "ext": {
     "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
     "过滤词": "/kjjsaas-sh.oss-cn-shanghai.aliyuncs.com/#20241017-291654-64fae43dc67e763741cf28c184a527bc.mp4",
