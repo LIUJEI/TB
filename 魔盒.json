@@ -857,6 +857,7 @@
     "name":"正版🍁奇优影视",
     "type":3,
     "api":"csp_XBPQ",
+    "jar":"https://gitlab.com/dokiss1/tvbox/-/raw/master/jar/dokilwss.jar",
     "ext": {
     "站点":"奇优影院",
     "主页url":"http://www.qiyoudy1.com/",   
