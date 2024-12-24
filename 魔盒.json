@@ -118,6 +118,20 @@
     "分类": "星星$0#电影$1#电视剧$2#综艺$3#动漫$4",
     "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"}
 },
+{ 
+    "key": "可可观影", 
+    "name": "正版🍁可可观影",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "简介":"style=\"display: none;\"&&</span>",
+    "数组":"<li>&&</li>",
+    "副标题":"琉芸✨HD+pic-text text-right\">&&</span>",
+    "线路数组":"#playlist&&</a>",
+    "搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>",
+    "分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类":"可可影视$可可影视#电影$dianying#电视剧$dianshiju#国产剧$guochanju#动漫$dongman#综艺$zongyi#短剧$duanju#"}
+},
 {
     "key":"白嫖者",
     "name":"正版🍁白嫖影视",
@@ -655,20 +669,6 @@
     "副标题": "琉芸✨HD+pic-text text-right\"&&</span>",
     "分类url": "https://www.lwjtv.com/ystop/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
     "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongmna"}
-},
-{ 
-    "key": "可可观影", 
-    "name": "正版🍁可可观影",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext": {
-    "简介":"style=\"display: none;\"&&</span>",
-    "数组":"<li>&&</li>",
-    "副标题":"琉芸✨HD+pic-text text-right\">&&</span>",
-    "线路数组":"#playlist&&</a>",
-    "搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>",
-    "分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类":"短剧$duanju#国产剧$guochanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#解说$dianyingjieshuo"}
 },
 {
     "key": "珍品",
