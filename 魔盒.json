@@ -127,11 +127,29 @@
     "简介":"style=\"display: none;\"&&</span>",
     "数组":"<li>&&</li>",
     "副标题":"琉芸✨HD+pic-text text-right\">&&</span>",
-    "线路数组":"#playlist&&</a>",
+    "线路数组":"💕琉芸👉+#playlist&&</a>",
     "搜索数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>",
     "分类url":"http://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
     "分类":"可可影视$可可影视#电影$dianying#电视剧$dianshiju#国产剧$guochanju#动漫$dongman#综艺$zongyi#短剧$duanju#"}
 },
+{
+    "key":"花姐影院",
+    "name":"正版🍁花姐影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "数组":"fed-lazy&&</a>",
+    "副标题":"琉芸✨HD+fed-text-center\">&&</span",
+    "简介":"fed-matp-v\">&&</div",
+    "线路数组":"href=\"\\#playlist&&</li>",
+    "线路标题":"💕琉芸👉+</i>&&</a>",
+    "播放数组":"<ul class=\"myui-content__list&&</ul",
+    "跳转播放链接":"var now=\"&&\"",
+    "搜索url":"https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+    "分类url":"https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+    "分类":"花姐$0#电视剧&电影&综艺&动漫",
+    "分类值":"2&1&3&4"}
+},  
 {
     "key":"白嫖者",
     "name":"正版🍁白嫖影视",
@@ -151,7 +169,7 @@
 },
 {
     "key": "雪糕TV",
-    "name": "正版🍁雪糕TV",
+    "name": "正版🍁雪糕影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -159,28 +177,6 @@
     "分类": "雪糕$0#电影$1#剧集$2#综艺$3#动漫$4",
     "类型": "动作片$1#喜剧片$2#爱情片$21#海外动漫$3#科幻片$4#恐怖片$5#剧情片$6#战争片$7#纪录片$8#其他$9",
     "分类url": "https://www.xgitv.com/vshow/{cateId}-----------.html"}
-},
-{
-    "key": "影梦影视",
-    "name": "正版🍁影梦影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "副标题":"琉芸✨HD+text-right\">&&</span>",
-    "分类url": "https://m.yingmeng.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "分类": "影梦$0#电影$1#电视剧$2#动漫$3#综艺$4#短剧$35#电影解说$44"}
-},
-{
-    "key": "蓝光影院",
-    "name": "正版🍁蓝光影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题":"琉芸✨HD+text-right\">&&</span>",
-    "分类": "蓝光$0#电影$1#电视剧$2#动漫$20#综艺$24#豆瓣TOP250$-1",
-    "分类url": "https://www.languang.pro/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}.html"}
 },
 {
     "key": "99影视",
@@ -193,31 +189,6 @@
     "分类url": "http://www.kangping99.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
     "分类": "99影院$0#短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"}
 },	    
-{
-    "key": "雨见视频",
-    "name": "正版🍁雨见视频",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": { 
-    "影片类型": "类型：&&</li>",
-    "简介": "&&</div>",
-    "副标题": "琉芸✨HD+pic-text text-right\"&&</span>",
-    "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "雨见视频$12#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}
-},
-{
-    "key": "永乐视频",
-    "name": "正版🍁永乐视频",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "副标题":"琉芸✨HD+text-right\">&&</span>",
-    "分类": "永乐$13#电影$1#电视剧$2#综艺$3#动漫$4#",
-    "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-    "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"}
-},
 {
     "key": "午夜影院",
     "name": "正版🍁午夜影院",
@@ -261,46 +232,6 @@
     "分类": "师兄$6#电视剧$2#电影$1#动漫$4#综艺$3"}
 },
 {
-    "key": "电影盒子",
-    "name": "正版🍁电影盒子",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题":"琉芸✨HD",
-    "分类url": "http://m.tv7box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0",
-    "分类": "盒子$6#电视剧$2#电影$1#动漫$3#综艺$4"}
-},
-{
-    "key": "奈飞影视",
-    "name": "正版🍁奈飞影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题":"琉芸✨HD",
-    "分类url": "https://yanaifei.tv/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "奈飞$0#电视剧$2#电影$1#动漫$4#综艺$3"}
-},
-{
-    "key": "四个圈",
-    "name": "正版🍁四圈影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题":"琉芸✨HD",
-    "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
-    "分类": "四圈$0#电视剧$2#电影$1#动漫$4#综艺$3"}
-},
-{
-    "key": "一起影院",
-    "name": "正版🍁壹起影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题":"琉芸✨HD",
-    "分类url": "http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d",
-    "分类": "一起看$0#电视剧$2#电影$1#综艺$3#动漫$4#短剧$30"}
-},
-{
     "key": "唐人",
     "name": "正版🍁唐人影视",
     "type": 3,
@@ -332,32 +263,46 @@
     "分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类":"人人影视$0#电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}
 },
-//骚火发布页http://shapp.us/；https://saohuo.tv/	  https://hhjx.hhplayer.com/api.php 
 {
-    "key": "csp_XYQBiu_骚火VIP",
-    "name": "正版🍁骚火VIP",
+    "key":"citytv",
+    "name":"正版🍁星辰影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext":{
+    "分类url":"https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+    "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+    "简介":"class=\"detail-sketch\">&&</span>",
+    "线路数组": "#playlist&&</li>",
+    "线路标题": "💕琉芸👉+>&&</a>[排序:神马云播>阿里云播>]",
+    "播放标题":">&&<[不包含:1080P]"}
+},
+{
+    "key": "蓝光影院",
+    "name": "正版🍁蓝光影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext":{
-    "站名":"骚火影视",
-    "主页url":"https://saohuo.vip/",
-    "简介":"+<p class=\"p_txt show_part\"&&</p>",
-    "导演":"</h1><p>* / 导演：&& /",
-    "主演":"主演：&&</p>",
-    "影片地区":"</h1><p>&& / ",
-    "影片年代":"<p>* / && /",
-    "影片状态":"v_note\">&&</div>",
-    "副标题":"琉芸✨HD",
-    "搜索url":"/search.php?searchword={wd}",
-    "线路二次截取":"<ul class=\"from_list\">&&</ul>",
-    "线路数组":"<li&&/li>",
-    "线路标题":"💕琉芸👉+>&&<[替换:1号线路>>骚火专线#2线路>>骚火备用]",
-    "跳转播放链接":"<iframe*src=\"&&\"",
-    "二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-    "三次跳转播放链接":"\"url\"*\"&&\"",
-    "嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4",
-    "分类url":"https://saohuo.vip/list/{cateId}-{catePg}.html[https://saohuo.vip/list/{cateId}.html];;kdvr1au0",
-    "分类":"骚火$12#电影$1#电视剧$2#韩剧$22#美剧$22#综艺$3#动漫$4"}
+    "ext": {
+    "副标题":"琉芸✨HD+text-right\">&&</span>",
+    "分类": "蓝光$0#电影$1#电视剧$2#动漫$20#综艺$24#豆瓣TOP250$-1",
+    "分类url": "https://www.languang.pro/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}.html"}
+},
+{
+    "key": "csp_骚火",
+    "name": "正版🍁骚火影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+    "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+    "倒序": "1",
+    "分类": "大陆$20#电影$1#电视剧$2#动漫$4#港剧$21#韩剧$22#台剧$26#日剧$24#美剧$23",
+    "数组二次截取": "class=\"v_list\">&&</ul>",
+    "数组": "\"v_img\"&&/div>",
+    "标题": "title=\"&&\"",
+    "副标题": "琉芸✨HD+v_note\"&&</div",
+    "跳转播放链接": "<iframe*src=\"&&\"",
+    "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+    "三次跳转播放链接": "\"url\"*\"&&\""}
 },
 {
     "key": "iysdq",
@@ -428,24 +373,6 @@
     "分类": "凌云$6#电影$movie#剧集$tv#动漫$cartoon"}
 },
 {
-    "key":"花姐影院",
-    "name":"正版🍁花姐影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "数组":"fed-lazy&&</a>",
-    "副标题":"琉芸✨HD+fed-text-center\">&&</span",
-    "简介":"fed-matp-v\">&&</div",
-    "线路数组":"href=\"\\#playlist&&</li>",
-    "线路标题":"💕琉芸👉+</i>&&</a>",
-    "播放数组":"<ul class=\"myui-content__list&&</ul",
-    "跳转播放链接":"var now=\"&&\"",
-    "搜索url":"https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-    "分类url":"https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-    "分类":"花姐$0#电视剧&电影&综艺&动漫",
-    "分类值":"2&1&3&4"}
-},  
-{
     "key":" 百姓 ",
     "name":"正版🍁农民伯伯",
     "type":3,
@@ -484,7 +411,6 @@
     "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "胖虎$0#电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"}
 },
-
 {
     "key": "电影先生",
     "name": "正版🍁电影先生",
@@ -1143,7 +1069,46 @@
     "分类":"非凡$0#电影$1#电视剧$2#综艺$3#动漫$4",
     "分类url":"http://ffzy5.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20"}
 },
-
+{
+    "key": "电影盒子",
+    "name": "正版🍁电影盒子",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题":"琉芸✨HD",
+    "分类url": "http://m.tv7box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0",
+    "分类": "盒子$6#电视剧$2#电影$1#动漫$3#综艺$4"}
+},
+{
+    "key": "奈飞影视",
+    "name": "正版🍁奈飞影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题":"琉芸✨HD",
+    "分类url": "https://yanaifei.tv/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "奈飞$0#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "四个圈",
+    "name": "正版🍁四圈影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题":"琉芸✨HD",
+    "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
+    "分类": "四圈$0#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "一起影院",
+    "name": "正版🍁壹起影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题":"琉芸✨HD",
+    "分类url": "http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d",
+    "分类": "一起看$0#电视剧$2#电影$1#综艺$3#动漫$4#短剧$30"}
+},
 {
     "key": "金牌影视", 
     "name": "正版🍁金牌影视", 
