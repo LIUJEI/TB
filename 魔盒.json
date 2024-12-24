@@ -13,7 +13,7 @@
     "name":"┣☪琉✿芸┫魔盒┃",
     "type":3,
     "api":"csp_XYQHiker",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/TXOspider.jar",
+    
     "ext": {
     "请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
     "网页编码格式": "UTF-8",
