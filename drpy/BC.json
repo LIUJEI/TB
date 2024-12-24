@@ -1,19 +1,20 @@
 {
     "urls": [	
         {
-            "url": "http://www.uuneed.cn/yydsys/duoapi/raw/master/jsm.json",
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
             "name": "☀️多多┃网盘线路"
-        },  
+        }, 
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "☀️多多┃饭太硬线路"
-        },                                                                                                 
+        },   
+                                                                                            
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
             "name": "☀️多多┃潇洒线路"
         }, 		
         {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "url": "https://mi.mpanso.me/DEMO.json",
             "name": "☀️多多┃小米线路"
         },    
         {
@@ -25,7 +26,7 @@
             "name": "☀️多多┃肥猫线路"
         },  
         {
-            "url": "http://ttkx.live:55/天天开心",
+            "url": "http://kxrj.site:55/天天开心",
             "name": "☀️多多┃开心线路"
         },                                   
         {
@@ -41,32 +42,20 @@
             "name": "☀️多多┃喵影视"
         },   
         {
-            "url": "https://6758.kstore.space/2.json",
-            "name": "☀️多多┃青龙线路"
-        },  
-        {
             "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
             "name": "☀️多多┃欧歌线路"
-        },      
-        {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "☀️多多┃高天流云"
-        },             
+        },                
         {
             "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "☀️多多┃业余线路"
         },
         {
-            "url":"https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
-            "name": "☀️多多┃无意云线路"
-        },	
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "☀️多多┃摸鱼线路"
+        },		
         {
             "url":"http://cdn.qiaoji8.com/tvbox.json",
             "name": "☀️多多┃巧技线路"
-        },
-        {
-            "url": "https://小虎斑.xyz/tvbox/",
-            "name": "☀️多多┃扫地僧"
-        }	
+        }
 
 ]}
