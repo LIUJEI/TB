@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
   "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -17,247 +17,59 @@
     "api": "csp_YGP"
 },
 {
-    "key": "caihua",
-    "name": "💓秒播 | 采花",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=文采"
+    "key": "克隆合集",
+    "name": "🐉克隆合集",
+    "type": 4,
+    "api": "http://zhangqun66.com/klhj.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "style": {"type": "rect","ratio": 1.33},
+    "filterable": 0
 },
 {
-    "key": "zhaixingjs",
-    "name": "🌈弹幕 | 摘星",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=摘星"
+    "key": "采集之王",
+    "name": "🐉采集合集",
+    "type":4,
+    "api":"https://catbox.n13.club/t4/caiji.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
 },
 {
-    "key": "youyoujs",
-    "name": "🌈弹幕 | 悠悠",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=悠悠"
+    "key": "华为吧克隆",
+    "name": "🐉华为吧克隆",
+    "type": 4,
+    "api": "http://zhangqun66.com/hwb.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
 },
 {
-    "key": "xinghejs",
-    "name": "🌈弹幕 | 星河",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=星河"
+    "key": "黑木耳克隆",
+    "name": "🐉黑木耳克隆",
+    "type": 4,
+    "api": "http://zhangqun66.com/225.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
 },
 {
-    "key": "xiaoxiongjs",
-    "name": "🌈弹幕 | 小熊",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=小熊"
+    "key": "金鹰克隆",
+    "name": "🐉金鹰克隆",
+    "type": 4,
+    "api": "http://zhangqun66.com/jy.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
 },
 {
-    "key": "jurenjs",
-    "name": "🌈弹幕 | 巨人",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=巨人"
-},
-{
-    "key": "jiulong",
-    "name": "🌈软件 | 九龙",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/lib/九龙.php",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/jiulong.php?key=104847347&url="
-},
-{
-    "key": "ceslllk",
-    "name": "🌈弹幕 | 去广",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=弹幕"
-},
-{
-    "key": "cesi",
-    "name": "🌈弹幕 | 秒播4K",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=完美"
-},
-{
-    "key": "siyuejs",
-    "name": "🌈软件 | 四月",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://154.9.252.167:666/tvbox/js/?key=104847347&id=四月"
-}, 
-{
-    "key": "BAOFENG",
-    "name": "🤖︎影视 | 风暴",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id1",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "feifan",
-    "name": "💓影视 | 飞帆",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id4",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "360360",
-    "name": "📺影视 | 360",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id2",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "liangliang",
-    "name": "🦋影视 | 量量",
-    "type": 1,
-    "api": "http://154.9.252.167:666/tvbox/api.php?key=104847347&id=id3",
-    "playUrl": "json:http://154.9.252.167:666/tvbox/json/json.php/?key=104847347&url="
-},
-{
-    "key": "贱贱",
-    "name": "🐭贱贱 | P2P",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-},
-{
-    "key": "金牌",
-    "name": "♨️金牌影視",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "./TV/jpys.js"
-},
-{
-    "key": "瓜子app",
-    "name": "♨️瓜子影視",
-    "type": 3,
-    "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-    "ext": "./TV/guazi.js"
-},
-{
-    "key": "hipy_js_fxztg",
-    "name": "♨️糖果影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/糖果.js"
-},
-{
-    "key": "sd",
-    "name": "♨️閃電影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/闪电.js"
-},
-{
-    "key": "素白秒播",
-    "name": "♨️屬白影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/subaibai.js"
-},
-{
-   "key": "hipy_js_一起看",
-   "name": "♨️壹起影視",
-   "type": 3,
-   "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-   "ext": "./TV/一起看.js"
-},
-{
-    "key": "hipy_js_西瓜影院",
-    "name": "♨️西瓜影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/西瓜影院.js"
-},
-{
-    "key": "hipy_js_tpian",
-    "name": "♨️濺片影視",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/荐片.js"
-},
-{
-    "key": "摘星",
-    "name": "♨️星星影視",
-    "type": 3,
-    "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
-},
-
-{
-      "key": "ssys",
-      "name": "♨️┣三三┃视频",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
-},
-{
-      "key": "qysp",
-      "name": "♨️┣奇艺┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
-},
-{
-      "key": "txsp",
-      "name": "♨️┣腾讯┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
-},
-{
-      "key": "yksp",
-      "name": "♨️┣优酷┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
-},
-{
-      "key": "mgsp",
-      "name": "♨️┣芒果┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
-},
-{
-      "key": "sgys",
-      "name": "♨️┣搜狗┃视频",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
-},
-{
-    "key": "hipy_js_蓝莓短剧",
-    "name": "♨️藍莓☪短劇",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/lanmei.js"
-},
-{
-    "key": "hipy_js_星芽短剧",
-    "name": "♨️星芽☪短劇",
-    "type": 3,
-    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-    "ext": "./TV/xingya.js"
+    "key": "索尼克隆",
+    "name": "🐉索尼克隆",
+    "type": 4,
+    "api": "http://zhangqun66.com/sn.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
 },
 
 {
