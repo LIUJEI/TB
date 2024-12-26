@@ -141,7 +141,64 @@
     "api": "csp_Quanwk",
     "ext": "https://www.91qkw.com"
 },
-
+{
+    "key":" csp_XB_百姓 ",
+    "name":"💮农民☪影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+},
+{
+    "key":"csp_XB_UU",
+    "name":"💮悠悠☪影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar":"./JAR/XYQdokilwss.jar",
+    "ext": "https://www.91qkw.com"
+},
+{
+    "key":"csp_XB_星星",
+    "name":"💮星星☪影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+},
+{ 
+    "key": "csp_XB_可可", 
+    "name": "💮可可☪观影",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+},
+{
+    "key":"csp_XB_星辰",
+    "name":"💮星辰☪影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+},
+{
+    "key":"csp_XB_花姐影院",
+    "name":"💮花姐☪影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+}, 
+{
+    "key": " csp_XB_好影",
+    "name": "💮好影☪快看",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://www.91qkw.com"
+}, 
+{
+    "key":"csp_xBPQ_奇优",
+    "name":"💮奇优☪影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"./JAR/XYQdokilwss.jar",
+    "ext": "https://www.91qkw.com"
+},
 {
     "key": "洽洽影视",
     "name": "💮洽洽☪影院",
