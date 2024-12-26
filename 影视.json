@@ -59,38 +59,25 @@
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"./TS/SGtv.js"
 },
-{    "key": "dr_360弹幕",
-    "name": "💝叁陸💫TV",
-    "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TS/360.js"
-},
 {
     "key": "dr_哔哩视频",
-    "name": "💝哩哩🌈視频",
+    "name": "💝哩哩🌈TV",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TS/bili.js"
 },
+{    "key": "dr_金牌",
+    "name": "💝金牌💫影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./TS/jpys.js"
+},
 {
-    "key": "dr_瓜子视频",
-    "name": "💝瓜子🍉視频",
+    "key": "dr_瓜子",
+    "name": "💝瓜子🍉影視",
     "type": 3,
     "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-    "ext": "./TS/瓜子直连.js"
-},
-{
-   "key": "py_ky酷云",
-   "name": "💝酷云☪直连",
-   "type": 3,
-   "api": "./TS/酷云直连.js"
-},
-{
-    "key": "py_华为",
-    "name": "💝华为☪直连",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./TS/华为直连.js"
+    "ext": "./TS/guazi.js"
 },
 {
     "key": "xiongmao2",
@@ -135,24 +122,26 @@
     "ext": "./TS/小虎斑弹幕.js"
 },
 {
+   "key": "py_ky酷云",
+   "name": "💮酷云☪直连",
+   "type": 3,
+   "api": "./TS/酷云直连.js"
+},
+{
+    "key": "py_华为",
+    "name": "💮华为☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./TS/华为直连.js"
+},
+{
     "key": "全网影视",
     "name": "💮全网☪影视",
     "type": 3,
     "api": "csp_Quanwk",
     "ext": "https://www.91qkw.com"
 },
-{
-    "key": "金牌影视",
-    "name": "💮金牌☪影視",
-    "type": 3,
-    "api": "csp_WebJP"
-},
-{
-    "key": "瓜子影视",
-    "name": "💮瓜子☪影視",
-    "type": 3,
-    "api": "csp_Gz360"
-},
+
 {
     "key": "洽洽影视",
     "name": "💮洽洽☪影院",
