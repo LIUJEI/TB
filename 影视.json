@@ -29,110 +29,110 @@
     "name":"💝騰訊🐧TV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/QQtv.js"
+    "ext": "./TS/QQtv.js"
 },
 {
     "key":"dr_芒果",
     "name":"💝芒果🥭TV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":". /TS/MGtv.js"
+    "ext":"./TS/MGtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"💝奇藝🥝TV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":". /TV/AQItv.js"
+    "ext":"./TV/AQItv.js"
 },
 {
     "key":"dr_优酷",
     "name":"💝優酷🧃TV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/yKtv.js"
+    "ext": "./TS/yKtv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"💝搜狗🦊TV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":". /TS/SGtv.js"
+    "ext":"./TS/SGtv.js"
 },
 {    "key": "dr_360弹幕",
     "name": "💝叁陸💫TV",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/360.js"
+    "ext": "./TS/360.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "💝哩哩🌈視频",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/bili.js"
+    "ext": "./TS/bili.js"
 },
 {
     "key": "dr_瓜子视频",
     "name": "💝瓜子🍉視频",
     "type": 3,
     "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
-    "ext": ". /TS/瓜子直连.js"
+    "ext": "./TS/瓜子直连.js"
 },
 {
    "key": "py_ky酷云",
    "name": "💝酷云☪直连",
    "type": 3,
-   "api": ". /TS/酷云直连.js"
+   "api": "./TS/酷云直连.js"
 },
 {
     "key": "py_华为",
     "name": "💝华为☪直连",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": ". /TS/华为直连.js"
+    "ext": "./TS/华为直连.js"
 },
 {
     "key": "xiongmao2",
     "name": "💝熊猫☪影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/熊猫.js"
+    "ext": "./TS/熊猫.js"
 },
 {
     "key":"js兄弟影视",
     "name":"💝兄弟☪影視",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":". /TS/兄弟.js"
+    "ext":"./TS/兄弟.js"
 },
 {
     "key": "米兔弹幕",
     "name": "💝米兔☪影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/米兔.js"
+    "ext": "./TS/米兔.js"
 },
 {
     "key": "xiaoxiongjs",
     "name": "💝小熊☪影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/小熊弹幕.js"
+    "ext": "./TS/小熊弹幕.js"
 },
 {
     "key": "jurenjs",
     "name": "💝巨人☪影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/巨人弹幕.js"
+    "ext": "./TS/巨人弹幕.js"
 },
 {
     "key": "ceslllk",
     "name": "💝虎斑☪影視",
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": ". /TS/小虎斑弹幕.js"
+    "ext": "./TS/小虎斑弹幕.js"
 },
 {
     "key": "全网影视",
