@@ -1,61 +1,16 @@
 {
-    "urls": [	
-        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "☀️多多┃网盘线路"
-        }, 
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "☀️多多┃饭太硬线路"
-        },   
-                                                                                            
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "☀️多多┃潇洒线路"
-        }, 		
-        {
-            "url": "https://mi.mpanso.me/DEMO.json",
-            "name": "☀️多多┃小米线路"
-        },    
-        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "☀️多多┃王二小线路"
-        },
-        {
-            "url": "http://肥猫.com",
-            "name": "☀️多多┃肥猫线路"
-        },  
-        {
-            "url": "http://kxrj.site:55/天天开心",
-            "name": "☀️多多┃开心线路"
-        },                                   
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "☀️多多┃南风线路"
-        },       
-        {
-            "url": "https://fmbox.cc",
-            "name": "☀️多多┃星辰线路"
-        },   
-        {
-            "url": "http://meowtv.cn/tv",
-            "name": "☀️多多┃喵影视"
-        },   
-        {
-            "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-            "name": "☀️多多┃欧歌线路"
-        },                
-        {
-            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
-            "name": "☀️多多┃业余线路"
-        },
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "☀️多多┃摸鱼线路"
-        },		
-        {
-            "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "☀️多多┃巧技线路"
-        }
-
-]}
+  "urls": [
+    {
+      "name": "🚸《影视》",
+      "url": "https://d.kstore.dev/download/12194/影视.txt"
+    },
+    {
+      "name": "🚸《魔盒》",
+      "url": "https://d.kstore.dev/download/12194/魔盒.txt"
+    },
+    {
+      "name": "🚸《音乐》",
+      "url": "https://d.kstore.dev/download/12194/音乐.txt"
+    }
+  ]
+}
