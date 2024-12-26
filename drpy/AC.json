@@ -1,7 +1,7 @@
 {
   "urls": [
-  {"name": "🚸《魔盒》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/master/魔盒.json"},
-  {"name": "🚸《影视》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/master/影视.json"},
-  {"name": "🚸《音乐》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/master/音乐.json"}
+  {"name": "🚸《魔盒》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/魔盒.json"},
+  {"name": "🚸《影视》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/影视.json"},
+  {"name": "🚸《音乐》","url": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/音乐.json"}
 ]
 }
