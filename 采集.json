@@ -5,10 +5,11 @@
 
 "sites": [
 {
-    "key": "js-豆瓣",
-    "name": "🎬┣豆瓣┫推荐┃",
+    "key": "csp_豆瓣",
+    "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "csp_DouDou"
+    "api": "csp_Douban",
+    "searchable": 0
 },
 {
     "key":"csp_YGP",
