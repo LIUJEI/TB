@@ -2,14 +2,14 @@
   "storeHouse": [
     {
       "sourceName": "①🍱稳定仓🍭长期有效🍭",
-      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TBV/raw/master/drpy/AC.json"
+      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/drpy/AC.json"
     },
     {
       "sourceName": "②🎎急速仓🍭短期有效🍭",
-      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw//master/drpy/BC.json"
+      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/drpy/BC.json"
     },
     {
       "sourceName": "④🖼本地仓🍭测试慎用🍭",
-      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/master/drpy/DC.json"
+      "sourceUrl": "https://github.moeyy.xyz/https://github.com/LIUJEI/TB/raw/refs/heads/master/drpy/DC.json"
     }
 ]}
