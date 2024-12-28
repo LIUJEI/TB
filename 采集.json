@@ -6,16 +6,18 @@
 "sites": [
 {
     "key": "csp_豆瓣",
-    "name": "🎬┣豆瓣┫推荐",
+    "name": "🎬┣豆瓣┫预告┃",
     "type": 3,
-    "api": "csp_Douban",
-    "searchable": 0
+    "api": "csp_XBPQ",
+    "playerType": 2,
+    "ext": "./Lib/豆瓣预告.json"
 },
 {
-    "key":"csp_YGP",
-    "name":"🎬┣豆瓣┫预告┃",
+    "key": "drpy_js_豆瓣",
+    "name": "🎬┣豆瓣┫导航┃",
     "type": 3,
-    "api": "csp_YGP"
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "./XB/douban.js"
 },
 {
     "key": "克隆合集",
