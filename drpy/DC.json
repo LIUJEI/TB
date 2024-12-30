@@ -17,96 +17,11 @@
       "url": "https://git.acwing.com/999/tvbox/-/raw/main/采集.json"
     },
     {
-      "name": "🚸《测试影视》",
-      "url": "https://gitee.com/lyun_1_0/tb/raw/master/影视.json"
-    },
-    {
-      "name": "🚸《测试魔盒》",
-      "url": "https://gitee.com/lyun_1_0/tb/raw/master/魔盒.json"
-    },
-    {
       "name": "🚸《测试休闲》",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/TB/master/休闲.json"
     },
     {
       "name": "🚸《休闲》",
       "url": "https://d.kstore.dev/download/12194/休闲.txt"
-    },
-    {
-      "url": "https://mi.mpanso.me/DEMO.json",
-      "name": "☀️小米线路"
-    },
-    {
-      "url": "http://kxrj.site:55/天天开心",
-      "name": "☀️开心线路"
-    },
-    {
-      "name": "🚦分享者🚦",
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/001.json"
-    },
-    {
-      "name": "📁小屋📁",
-      "url": "https://8815.kstore.space/Monster.json"
-    },
-    {
-      "url": "http://175.178.251.183:6689/tv.txt",
-      "name": "📁懒人📁"
-    },
-    {
-      "url": "https://d.kstore.dev/download/9877/FourD/api.json",
-      "name": "📁潇洒📁"
-    },
-    {
-      "url": "http://47.99.102.252/xc.json",
-      "name": "📁星辰📁"
-    },
-    {
-      "url": "https://秦始皇.xyz",
-      "name": "📁秦皇📁"
-    },
-    {
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-      "name": "📁王二📁"
-    },
-    {
-      "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "name": "📁业余📁"
-    },
-    {
-      "url": "http://tv.laohu.cool/tvbox.json",
-      "name": "📁老虎📁"
-    },
-    {
-      "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json",
-      "name": "📁小橙子📁"
-    },
-    {
-      "url": "https://2912.kstore.space/0506.json",
-      "name": "📁西夏📁"
-    },
-    {
-      "url": "https://tv.xn--11x555b.top/svip",
-      "name": "📁蜗牛📁"
-    },
-    {
-      "name": "📁传说📁",
-      "url": "https://chuanshuo.77blog.cn/tv.json"
-    },
-    {
-      "url": "http://meowtv.cn/tv",
-      "name": "📁┃喵影视📁"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "📁运输📁"
-    },
-    {
-      "url": "http://mdxgh.tpddns.cn:9999/mdxgh.json",
-      "name": "📁码点📁"
-    },
-    {
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-      "name": "📁宝盒📁"
     }
-  ]
-}
+]}
