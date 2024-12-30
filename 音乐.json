@@ -1,151 +1,247 @@
 {
+  
   "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar",
-  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
-  "warningText": "tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
-  "sites": [
-    {
-      "key": "music",
-      "name": "🎬酷狗🎵音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
-    {
-      "key": "csp_哔哩MV",
-      "name": "🎬哔哩🎵音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "ext": "https://d.kstore.dev/download/12194/Lib/Bili音乐.json"
-    },
-    {
-      "key": "drpy_js_酷狗MV",
-      "name": "🎸酷狗🎵MV",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/酷狗MV.js"
-    },
-    {
-      "key": "drpy_js_酷奇MV",
-      "name": "🎸酷奇🎵MV",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/酷奇MV.js"
-    },
-    {
-      "key": "hipy_js_KTV歌厅[听]",
-      "name": "🎸歌厅🎵MV",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/KTV歌厅.js"
-    },
-    {
-      "key": "da_ry",
-      "name": "🎸歌手🎵MV",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "hipy_js_种子音乐[听]",
-      "name": "🎧种子┃音乐",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/种子音乐[听].js"
-    },
-    {
-      "key": "hipy_js_gequ",
-      "name": "🎧音乐┃合集MV",
-      "type": 3,
-      "api": "http://zb.hys.cool/app/lib/16万hys.js",
-      "ext": "http://zb.hys.cool/app/lib/16万mv.js"
-    },
-    {
-      "key": "T4-qingting",
-      "name": "🅱️音乐-蜻蜓(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/qingting.php"
-    },
-    {
-      "key": "djmv",
-      "name": "🅱️音乐-DJMV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/djmv.php"
-    },
-    {
-      "key": "T4-tangdou",
-      "name": "🅱️音乐-糖豆(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/tangdou.php"
-    },
-    {
-      "key": "T4-djuu",
-      "name": "🅱️音乐-DJUU(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/djuu.php"
-    },
-    {
-      "key": "T4-Bliych",
-      "name": "🅱️B站-演唱会(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=Bliych"
-    },
-    {
-      "key": "T4-bmtv",
-      "name": "🅱️B站-MTV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=bMTV"
-    },
-    {
-      "key": "drpy_js_广播迷FM",
-      "name": "📻┃播迷┃FM",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/广播迷FM.js"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "📻┃蜻蜓┃FM",
-      "type": 3,
-      "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/蜻蜓FM.js"
-    },
-    {
-      "key": "drpy_js_喜马拉雅",
-      "name": "🎧听书┃喜马拉雅",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/js/喜马拉雅.js"
-    },
-    {
-      "key": "有声小说js",
-      "name": "🎧听书┃有声小说",
-      "type": 3,
-      "api": "https://tv.xn--11x555b.top/EXT/drpy2.min.js",
-      "ext": "https://tv.xn--11x555b.top/EXT/有声小说吧.js"
-    },
-    {
-      "key": "10",
-      "name": "📛┣☪全✿局┫【更新时间:2024】",
-      "api": "1",
-      "type": 3
-    },
-    {
-      "key": "本地",
-      "name": "📛┣☪琉✿芸┫【更新时间:12.30】",
-      "type": 3,
-      "api": "csp_LocalFile"
-    }
-  ],
+  "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
+  "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
+
+"sites":[
+{
+    "key":"music",
+    "name": "🎬酷狗🎵音乐",
+    "type": 3,
+    "api":"csp_Kugou",
+    "playerType":2,
+    "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
+},
+{
+    "key": "csp_哔哩MV",
+    "name": "🎬哔哩🎵音乐",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "https://d.kstore.dev/download/12194/Lib/Bili音乐.json"
+},
+{
+    "key":"drpy_js_酷奇MV",
+    "name":"🎸酷奇🎵MV",
+    "type": 3,
+    "api": "https://yydf.540734621.xyz/QQ/js/ddmv_open.js"
+},
+{
+    "key": "hipy_js_种子音乐[听]",
+    "name": "🎸种子🎵MV",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TV/种子音乐[听].js"
+},
+{  
+    "key": "da_ry",
+    "name": "🎸歌手🎵MV",
+    "type": 4,
+    "api": "http://120.53.102.254/dsp/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1       
+},
+{
+    "key": "Iktv",
+    "name": "🎸KTV🎵MV",
+    "type": 3,
+    "api": "csp_WexIktv",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
+    "changeable": 0
+},
+{
+  "key": "hipy_js_gequ",
+  "name": "🎸音乐┃合集",
+  "type": 3,
+  "api": "http://zb.hys.cool/app/lib/16万hys.js",
+  "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+},
+{
+    "key": "DJ呦呦音乐网",
+    "name": "🎸呦呦┃音乐",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "jar": "http://kxrj.site:55/lib/ttkx.jar",
+    "ext": "http://kxrj.site:55/lib/json/DJyyyyw.json"
+},
+{
+    "key": "Wexqingfengdj",
+    "name": "📚舞曲┃摇头",
+    "type": 3,
+    "api": "csp_Wexqingfengdj",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
+    "changeable": 0
+},
+{
+    "key":"csp_BookTing",
+    "name":"📚有声┃听书",
+    "type":3,
+    "api":"csp_BookTing",
+    "ext":"https://m.ting275.com"
+},
+{
+    "key": "六月听书",
+    "name": "📚️六月┃听书",
+    "type": 3,
+    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+    "ext": "http://kxrj.site:55/lib/js/六月听书.js"
+},
+{
+    "key": "hipy_js_酷我听书",
+    "name": "📚️ 酷我┃听书",
+    "type": 3,
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "ext": "http://47.108.190.141/hipy/drpy_js/酷我听书[听].js"
+},
+{
+    "key": "hipy_js_老白故事[听]",
+    "name": "📚️老白┃故事",
+    "type": 3,
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "ext": "http://47.108.190.141/hipy/drpy_js/老白故事[听].js"
+},
+{
+    "key": "cat_博看听书",
+    "name": "📚️ 博看┃听书",
+    "type": 3,
+    "api": "https://yydf.540734621.xyz/QQ/js/Bookan_open.js"
+},
+{
+    "key": "Wexlaobaitingshu",
+    "name": "📚️‍白兔┃听书",
+    "type": 3,
+    "api": "csp_Wexlaobaitingshu",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
+    "changeable": 1
+},
+{
+    "key": "Wex275tingshu",
+    "name": "📚️‍极品┃听书",
+    "type": 3,
+    "api": "csp_Wex275tingshu",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
+    "changeable": 1
+},
+{
+    "key":"T4-qingting",
+    "name":"🅱️音乐-蜻蜓(T4)",
+    "type":4,"api":"https://catbox.n13.club/t4/qingting.php"
+},
+{
+    "key":"T4-tangdou",
+    "name":"🅱️音乐-糖豆(T4)",
+    "type":4,
+    "api":"https://catbox.n13.club/t4/tangdou.php"
+},
+{
+    "key": "Wexliyuan",
+    "name": "🅱️戏曲┃秒播",
+    "type": 3,
+    "api": "csp_Wexliyuan",
+    "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
+    "changeable": 0,
+    "style": {"type": "rect","ratio": 2}
+},
+{
+    "key": "戏曲",
+    "name": "🅱️戏曲┃大全",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+},
+{
+    "key": "梨园",
+    "name": "🅱️梨园┃戏曲",
+    "type": 3,
+    "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+    "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+},
+{
+    "key":"相声小品",
+    "name":"🅱️相声┃小品",
+    "type":3,
+    "api":"csp_Bili",
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixs.json"
+},
+{
+	"key": "相声",
+	"name": "📻正版┃相声",
+	"type": 3,
+	"searchable": 0,
+	"style": {
+	"type": "rect",
+	"ratio": 1.597
+	},
+	"quickSearch": 0,
+	"api": "csp_XBPQ",
+	"ext": {
+	"主页url": "https://www.xsmp3.com",
+	"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+	"数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+	"图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+	"标题": "title=\"&&\"",
+	"副标题":" >&&</a",
+	"链接": "href=\"&&\"",
+	"播放二次截取": "autoplay&&;</script>",
+	"播放数组": "\\[&&\\]",
+	"播放列表": "{&&}",
+	"播放链接": "url*\"&&\"",
+	"播放标题": "name*\"&&\"",
+	"播放副标题": "artist*\"&&\"",
+	"线路数组": "相声随身听",
+	"线路标题": "💕琉芸👉+相声随身听",
+	"导演": "小米",
+	"主演": "相声明星",
+	"简介": "相声合集",
+	"分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+	"分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"}
+},
+{
+	"key": "评书",
+	"name": "📻正版┃评书",
+	"type": 3,
+	"searchable": 0,
+	"style": {
+	"type": "rect",
+	"ratio": 1.597
+	},
+	"quickSearch": 0,
+	"api": "csp_XBPQ",
+	"ext": {
+	"主页url": "https://www.psmp3.com",
+	"数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+	"数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+	"图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+	"标题": "title=\"&&\"",
+	"副标题": ">&&</a",
+	"链接": "href=\"&&\"",
+	"播放二次截取": "autoplay&&;</script>",
+	"播放数组": "\\[&&\\]",
+	"播放列表": "{&&}",
+	"播放链接": "url*\"&&\"",
+	"播放标题": "name*\"&&\"",
+	"播放副标题": "artist*\"&&\"",
+	"线路数组": "评书随身听",
+	"线路标题": "💕琉芸👉+评书随身听",
+	"导演": "小米",
+	"主演": "评书明星",
+	"简介": "评书合集",
+	"分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+	"分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"}
+},      
+{
+    "key": "10",
+    "name": "📛┣☪全✿局┫【更新时间:2024】",
+    "api": "1",
+    "type": 3
+},
+{
+    "key":"本地",
+    "name": "📛┣☪琉✿芸┫【更新时间:12.30】",
+    "type":3,
+    "api":"csp_LocalFile"
+}],
 
 "parses":[
 {
@@ -270,3 +366,4 @@
 	"name": "本地嗅探器直播",
 	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
 ]}]}
+
