@@ -5,19 +5,38 @@
 
 "sites": [
 {
-    "key": "csp_豆瓣",
-    "name": "🎬┣豆瓣┫预告┃",
+    "key": "csp_预告",
+    "name": "🎬┣新片┫预告",
     "type": 3,
     "api": "csp_XBPQ",
-    "playerType": 2,
-    "ext": "./Lib/豆瓣预告.json"
+    "ext": {
+    "首页":"正在热映",
+    "图片代理":"",
+    "分类url":"https://movie.douban.com/{cateId}/;;aRC",
+    "分类":"琉芸💜即将上映$cinema/later#正在-热映$cinema/nowplaying#",
+    "数组":"琉芸💜即将上映--class=\"item mod &&</ul>||正在-热映--class=\"list-item&&</ul>",
+    "图片":"src=\"&&\"",
+    "标题":"\"intro\">&&</a>",
+    "链接":"href=\"&&\"",
+    "副标题":"✨琉芸专享✨+data-score=\"&&\"+class=\"release-date\">&&</li>",
+    "播放数组":"<li class=\"video&&</li>",
+    "播放列表":"<a&&</a>",
+    "播放标题":"alt=\"&&\"",
+    "播放链接":"https://m.douban.com+href=\"&&\""}
 },
 {
-    "key": "drpy_js_豆瓣",
-    "name": "🎬┣豆瓣┫导航┃",
+    "key": "csp_豆瓣",
+    "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./XB/douban.js"
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题": "琉芸✨TC",
+    "影片地区": "大陆",
+    "简介": "💕琉芸👉：简介:+<p>&&</p>",
+    "线路数组": "onclick=&&</li>",
+    "线路标题": "💕琉芸👉线路",
+    "分类url": "https://www.03yy.cyou/{cateId}-{catePg}.html",
+    "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#大陆综艺$type/index29#港台综艺$type/index30"}
 },
 {
     "key": "克隆合集",
