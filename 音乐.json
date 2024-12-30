@@ -4,13 +4,6 @@
   "warningText": "tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
   "sites": [
     {
-      "key": "csp_哔哩MV",
-      "name": "🎬哔哩🎵音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "ext": "https://12194.kstore.space/Lib/Bili音乐.json"
-    },
-    {
       "key": "music",
       "name": "🎬酷狗🎵音乐",
       "type": 3,
@@ -26,28 +19,32 @@
       }
     },
     {
+      "key": "csp_哔哩MV",
+      "name": "🎬哔哩🎵音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "ext": "https://d.kstore.dev/download/12194/Lib/Bili音乐.json"
+    },
+    {
       "key": "drpy_js_酷狗MV",
       "name": "🎸酷狗🎵MV",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://12194.kstore.space/TV/酷狗MV.js"
+      "ext": "https://d.kstore.dev/download/12194/TV/酷狗MV.js"
     },
     {
       "key": "drpy_js_酷奇MV",
       "name": "🎸酷奇🎵MV",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://12194.kstore.space/TV/酷奇MV.js"
+      "ext": "https://d.kstore.dev/download/12194/TV/酷奇MV.js"
     },
-    //{"key": "hipy_js_KTV歌厅[听]","name": "🎸歌厅🎵MV","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://12194.kstore.space/TV/KTV歌厅.js"},
     {
-      "key": "hipy_IKTV",
+      "key": "hipy_js_KTV歌厅[听]",
       "name": "🎸歌厅🎵MV",
       "type": 3,
-      "api": "csp_WexIktv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt"
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.dev/download/12194/TV/KTV歌厅.js"
     },
     {
       "key": "da_ry",
@@ -63,7 +60,7 @@
       "name": "🎧种子┃音乐",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://12194.kstore.space/TV/种子音乐[听].js"
+      "ext": "https://d.kstore.dev/download/12194/TV/种子音乐[听].js"
     },
     {
       "key": "hipy_js_gequ",
@@ -71,6 +68,18 @@
       "type": 3,
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
       "ext": "http://zb.hys.cool/app/lib/16万mv.js"
+    },
+    {
+      "key": "T4-qingting",
+      "name": "🅱️音乐-蜻蜓(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/qingting.php"
+    },
+    {
+      "key": "djmv",
+      "name": "🅱️音乐-DJMV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/djmv.php"
     },
     {
       "key": "T4-tangdou",
@@ -85,34 +94,30 @@
       "api": "https://catbox.n13.club/t4/djuu.php"
     },
     {
-      "key": "Biliych",
-      "name": "🅱️音乐-演唱会MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "ext": {"json":"https://tv.xn--11x555b.top/EXT/biliych.json"},
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734381223246/fan.txt"
+      "key": "T4-Bliych",
+      "name": "🅱️B站-演唱会(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/bili.php?id=Bliych"
     },
     {
-      "key": "MTV",
-      "name": "🅱️B站-明星MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "ext": {"json":"https://tv.xn--11x555b.top/EXT/MTV.json"},
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734381223246/fan.txt"
+      "key": "T4-bmtv",
+      "name": "🅱️B站-MTV(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t4/bili.php?id=bMTV"
     },
     {
       "key": "drpy_js_广播迷FM",
       "name": "📻┃播迷┃FM",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://12194.kstore.space/TV/广播迷FM.js"
+      "ext": "https://d.kstore.dev/download/12194/TV/广播迷FM.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "📻┃蜻蜓┃FM",
       "type": 3,
       "api": "https://weixine.net/js/lib/drpy2.min.js",
-      "ext": "https://12194.kstore.space/TV/蜻蜓FM.js"
+      "ext": "https://d.kstore.dev/download/12194/TV/蜻蜓FM.js"
     },
     {
       "key": "drpy_js_喜马拉雅",
@@ -136,7 +141,7 @@
     },
     {
       "key": "本地",
-      "name": "📛┣☪琉✿芸┫【更新时间:12.06】",
+      "name": "📛┣☪琉✿芸┫【更新时间:12.30】",
       "type": 3,
       "api": "csp_LocalFile"
     }
