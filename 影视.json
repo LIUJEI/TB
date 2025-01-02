@@ -45,6 +45,14 @@
     "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#大陆综艺$type/index29#港台综艺$type/index30"}
 },
 {
+    "key":"csp_影视③",
+    "name":"影视③秒播",
+    "type":3,
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/fix2511.jar",
+    "api":"csp_Hudie",
+    "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+},
+{
     "key": "csp_影视①",
     "name": "影视①秒播",
     "type": 3,
@@ -61,20 +69,12 @@
     "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
 },
 {
-    "key":"csp_影视③",
-    "name":"影视③秒播",
-    "type":3,
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/fix2511.jar",
-    "api":"csp_Drama",
-    "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw=="
-},
-{
     "key":"csp_影视④",
     "name":"影视④秒播",
     "type":3,
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/fix2511.jar",
-    "api":"csp_Hudie",
-    "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    "api":"csp_Drama",
+    "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw=="
 },
 {
     "key":"dr_腾迅",
