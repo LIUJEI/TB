@@ -521,6 +521,36 @@
     "jar":"./JAR/Yoursmile.jar"
 },
 {
+    "key": "csp_Netfixtv",
+    "name": "网盘至臻☪4K弹幕",
+    "type": 3,
+    "api": "csp_Duopan",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar",
+    "ext": {
+    "site_urls": [
+    "https://mihdr.top",
+    "http://www.xhww.net",
+    "http://xhww.net",
+    "https://xiaomiai.site"],
+    "url_key": "Duopan",
+    "threadinfo": {"chunksize": 250,"threads": 10}}
+},
+{
+    "key": "csp_玩偶",
+    "name": "网盘玩偶☪4K弹幕",
+    "type": 3,
+    "api": "csp_Wogg",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+    "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "wogg": true,
+    "danmu": true}
+},
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
@@ -532,7 +562,7 @@
 },
 {
     "key":"网盘",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:12.30】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:01.04】",
     "type": 3,
     "api": "csp_Config",
     "searchable": 0,
