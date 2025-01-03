@@ -25,9 +25,6 @@
     "key": "hipy_js_星芽短剧",
     "name": "♨️短劇®星芽",
     "type": 3,
-    "key": "hipy_js_星芽短剧",
-    "name": "♨️星芽☪短劇",
-    "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "https://d.kstore.dev/download/12194/TV/xingya.js"
 },
