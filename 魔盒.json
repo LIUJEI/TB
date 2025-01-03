@@ -1244,7 +1244,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://12194.kstore.space/Lib/py_cctv.py"
+    "ext": "https://d.kstore.dev/download/12194/Lib/py_cctv.py"
 },
 {
    "key": "m1905",
@@ -1254,7 +1254,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://12194.kstore.space/Lib/m1905.py"
+    "ext": "https://d.kstore.dev/download/12194/Lib/m1905.py"
 },
 {
     "key":"cctv",
@@ -1262,7 +1262,7 @@
     "type":3,
     "api":"csp_CCTV",
     "jar":"https://git.acwing.com/999/tvbox/-/raw/main/JAR/荷.jar",
-    "ext":"https://12194.kstore.space/Lib/央视大全.py"
+    "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
 },
 {
     "key":"py_cctv_企鹅",
@@ -1272,7 +1272,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
-    "ext":"https://12194.kstore.space/Lib/企鹅体育.py"
+    "ext":"https://d.kstore.dev/download/12194/Lib/企鹅体育.py"
 },
 {
     "key": "华为吧克隆",
@@ -1330,100 +1330,100 @@
     "filterable": 0
 },
 {
-    "key":"drpy_js_酷狗MV",
-    "name":"🎸酷狗🎵MV",
-    "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.dev/download/12194/TV/酷狗MV.js"
-}, 
-{
     "key":"csp_music",
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Kugou",
     "playerType":2,
     "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]},
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "jar":"./JAR/Yoursmile.jar"
 },
+{
+    "key":"drpy_js_酷狗MV",
+    "name":"🎸酷奇🎵MV",
+    "type":3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext":"https://d.kstore.dev/download/12194/TV/酷奇MV.js"
+}, 
 {
     "key": "csp_Bili短剧",
     "name": "🅱️短剧┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/Bili短剧.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/Bili短剧.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "MV",
     "name": "🅱️歌曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/Bili音乐.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/Bili音乐.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key":  "少儿",
     "name": "🅰️少儿┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/少儿合集.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/少儿合集.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小学课堂",
     "name": "🅰️小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小学课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/小学课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "初中课堂",
     "name": "🅰️初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/初中课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/初中课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key":  "高中课堂",
     "name": "🅰️高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/高中课堂.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/高中课堂.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔科学",
     "name":"🌏科学┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔科学.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/小灯塔科学.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔地理",
     "name":"🌏地理┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔地理.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/小灯塔地理.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔百科",
     "name":"🌏百科┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔百科.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/小灯塔百科.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "小灯塔国学",
     "name":"🌏国学┃小灯塔",
     "type":3,
     "api": "csp_Bili",
-    "ext": "https://12194.kstore.space/Lib/小灯塔国学.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    "ext": "./XB/小灯塔国学.json",
+    "jar":"./JAR/Yoursmile.jar"
 },
 {
     "key": "ConfigCenter",
@@ -1437,7 +1437,7 @@
 },
 {
     "key":"网盘",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:12.28】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:12.30】",
     "type": 3,
     "api": "csp_Config",
     "searchable": 0,
