@@ -5,21 +5,21 @@
 
 "sites":[
 {
-  "key": "机器人",
-  "name": "🎬短剧®机器",
-  "type": 3,
-  "api": "csp_Ikanbot",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
     "key": "csp_Bili短剧1",
     "name": "🎬短剧®哔哩",
     "type": 3,
     "api": "csp_Bili",
     "ext": "https://d.kstore.dev/download/12194/Lib/Bili短剧.json",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+},
+{
+    "key": "机器人",
+    "name": "🎬短剧®机器",
+    "type": 3,
+    "api": "csp_Ikanbot",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "hipy_js_星芽短剧",
@@ -481,3 +481,4 @@
 	"name": "本地嗅探器直播",
 	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
 ]}]}
+
