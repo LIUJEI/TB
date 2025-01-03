@@ -435,10 +435,10 @@
 },
 {
     "key":"drpy_js_酷狗MV",
-    "name":"🎸酷狗🎵MV",
+    "name":"🎸酷奇🎵MV",
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.dev/download/12194/TV/酷狗MV.js"
+    "ext":"https://d.kstore.dev/download/12194/TV/酷奇MV.js"
 }, 
 {
     "key": "csp_Bili短剧",
@@ -455,20 +455,6 @@
     "api": "csp_Bili",
     "ext": "./XB/Bili音乐.json",
     "jar":"./JAR/Yoursmile.jar"
-},
-{
-    "key": "2400部恐怖电影📲",
-    "name": "📲电影┃影视",
-    "type": 3,
-    "api": "http://zb.hys.cool/app/lib/16万hys.js",
-    "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
-},
-{
-    "key": "十六万MV听歌📣",
-    "name": "📣听歌┃歌曲",
-    "type": 3,
-    "api": "http://zb.hys.cool/app/lib/16万hys.js",
-    "ext": "http://zb.hys.cool/app/lib/16万mv.js"
 },
 {
     "key":  "少儿",
