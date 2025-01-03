@@ -51,13 +51,6 @@
     "changeable": 0
 },
 {
-  "key": "hipy_js_gequ",
-  "name": "🎸音乐┃合集",
-  "type": 3,
-  "api": "http://zb.hys.cool/app/lib/16万hys.js",
-  "ext": "http://zb.hys.cool/app/lib/16万mv.js"
-},
-{
     "key": "DJ呦呦音乐网",
     "name": "🎸呦呦┃音乐",
     "type": 3,
@@ -102,12 +95,6 @@
     "ext": "http://47.108.190.141/hipy/drpy_js/老白故事[听].js"
 },
 {
-    "key": "cat_博看听书",
-    "name": "📚️ 博看┃听书",
-    "type": 3,
-    "api": "https://yydf.540734621.xyz/QQ/js/Bookan_open.js"
-},
-{
     "key": "Wexlaobaitingshu",
     "name": "📚️‍白兔┃听书",
     "type": 3,
@@ -122,17 +109,6 @@
     "api": "csp_Wex275tingshu",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/wex.txt",
     "changeable": 1
-},
-{
-    "key":"T4-qingting",
-    "name":"🅱️音乐-蜻蜓(T4)",
-    "type":4,"api":"https://catbox.n13.club/t4/qingting.php"
-},
-{
-    "key":"T4-tangdou",
-    "name":"🅱️音乐-糖豆(T4)",
-    "type":4,
-    "api":"https://catbox.n13.club/t4/tangdou.php"
 },
 {
     "key": "Wexliyuan",
@@ -366,4 +342,5 @@
 	"name": "本地嗅探器直播",
 	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
 ]}]}
+
 
