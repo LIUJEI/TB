@@ -25,7 +25,7 @@
 },
 {
     "key": "华为吧克隆",
-    "name": "🍊华为克隆",
+    "name": "华为克隆",
     "type": 4,
     "api": "http://zhangqun66.com/hwb.php",
     "searchable": 1,
@@ -34,7 +34,7 @@
 },
 {
     "key": "黑木耳克隆",
-    "name": "🍊木耳克隆",
+    "name": "木耳克隆",
     "type": 4,
     "api": "http://zhangqun66.com/225.php",
     "searchable": 1,
@@ -43,7 +43,7 @@
 },
 {
     "key": "金鹰克隆",
-    "name": "🍊金鹰克隆",
+    "name": "金鹰克隆",
     "type": 4,
     "api": "http://zhangqun66.com/jy.php",
     "searchable": 1,
@@ -52,7 +52,7 @@
 },
 {
     "key": "索尼克隆",
-    "name": "🍊索尼克隆",
+    "name": "索尼克隆",
     "type": 4,
     "api": "http://zhangqun66.com/sn.php",
     "searchable": 1,
@@ -61,52 +61,27 @@
 },
 {
     "key":"fxz小猫咪",
-    "name":"快播🍊猫咪",
+    "name":"快播猫咪",
     "type":1,
     "api":"http://zy.xiaomaomi.cc/api.php/provide/vod/",
     "categories": ["电影","连续剧","综艺","动漫","小破站"]
-
 },
 {
     "key": "华为吧资源",
-    "name": "快播🍊华为",
+    "name": "快播华为",
     "type": 1,
     "api": "https://hw8.live/api.php/provide/vod/",
     "playurl": "https://dp.hw8.live/player/?url=",
     "categories": ["电影","电视剧","国产剧","国产综艺","动画电影","短剧"]
 },
 {
-            "key": "小宝影视",
-            "name": "💡小宝┃快播",
-            "type": 1,
-            "api": "http://www.xiaobao168.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "影猫影视",
-            "name": "💡影猫┃快播",
-            "type": 1,
-            "api": "http://v.tkbot.fun/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "HG影视",
-            "name": "💡皇冠┃快播",
-            "type": 1,
-            "api": "https://hong.hgyx.vip/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "BILFUN影视",
-            "name": "💡有趣┃快播",
-            "type": 1,
-            "api": "https://a.waijutv.cc/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+    "key": "影猫影视",
+    "name": "快播🍊影猫",
+    "type": 1,
+    "api": "http://v.tkbot.fun/api.php/provide/vod/",
+    "searchable": 1,
+    "quickSearch": 1
+},
 {
   "key": "三六资源",
   "name": "采集🍊三六",
