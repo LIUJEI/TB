@@ -48,33 +48,35 @@
     "key":"csp_影视①",
     "name":"影视①秒播",
     "type":3,
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/fix2511.jar",
-    "api":"csp_Drama",
-    "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw=="
+    "api":"csp_TTian",
+    "ext":"daHR0cDovL3YubGt1eXMuY24=",
+    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
+    
 },
 {
     "key":"csp_影视②",
     "name":"影视②秒播",
     "type":3,
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/fix2511.jar",
     "api":"csp_Hudie",
-    "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
+    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
 },
 {
     "key": "csp_影视③",
     "name": "影视③秒播",
     "type": 3,
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XM2511.jar",
-    "api": "csp_MiTuApp",
-    "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+    "api":"csp_Shark",
+    "ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
+    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
 },
 {
     "key": "csp_影视④",
     "name": "影视④秒播",
-    "type": 3,
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XM2511.jar",
-    "api": "csp_MiTuApp",
-    "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+    "type":3,
+    "api":"csp_Drama",
+    "playerType":1,
+    "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw==",
+    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
 },
 {
     "key":"dr_腾迅",
@@ -117,6 +119,20 @@
     "type": 3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TS/bili.js"
+},
+{
+    "key": "hipy_js_梦米影院",
+    "name": "💝梦米☪影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TV/梦米.js"
+},
+{
+    "key": "hipy_js_糖果影院",
+    "name": "💝糖果☪影視",
+    "type": 3,
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TV/糖果.js"
 },
 {
     "key": "米兔弹幕",
@@ -185,6 +201,20 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./TS/华为直连.js"
+},
+{
+    "key":"csp_xBPQ_电视",
+    "name":"💮电视☪剧网",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/Lib/电视剧网.json"
+},
+{ 
+    "key": "csp_XB_乐享", 
+    "name": "💮乐享☪观影",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/Lib/乐享.json"
 },
 {
     "key":"csp_XB_UU",
