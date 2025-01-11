@@ -50,33 +50,123 @@
     "type":3,
     "api":"csp_TTian",
     "ext":"daHR0cDovL3YubGt1eXMuY24=",
-    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
-    
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
 },
 {
     "key":"csp_影视②",
     "name":"影视②秒播",
-    "type":3,
-    "api":"csp_Hudie",
-    "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
-    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
+    "type": 3,
+    "api": "csp_Shark",
+    "playerType": 1,
+    "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
 },
 {
     "key": "csp_影视③",
     "name": "影视③秒播",
     "type": 3,
-    "api":"csp_Shark",
-    "ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=",
-    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
+    "api": "csp_Xdai",
+    "playerType": 1,
+    "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
 },
 {
     "key": "csp_影视④",
     "name": "影视④秒播",
-    "type":3,
-    "api":"csp_Drama",
-    "playerType":1,
-    "ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw==",
-    "jar":"http://cdn.qiaoji8.com/fix241229.jar"
+    "type": 3,
+    "api": "csp_Xdai",
+    "playerType": 1,
+    "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE=",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
+},
+{
+    "key": "客星",
+    "name": "影视⑤秒播",
+    "type": 3,
+    "api": "csp_Xdai",
+    "playerType": 1,
+    "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
+},
+{
+    "key": "木叶",
+    "name": "影视⑥秒播",
+    "type": 3,
+    "api": "csp_Xdai",
+    "playerType": 2,
+    "ext": "saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ=",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
+},
+{
+    "key": "蝴蝶",
+    "name": "影视⑦秒播",
+    "type": 3,
+    "api": "csp_Hudie",
+    "playerType": 2,
+    "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
+},
+{
+    "key": "柠檬",
+    "name": "影视⑧秒播",
+    "type": 3,
+    "api": "csp_Nmvod",
+    "playerType": 2,
+    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+    "jar":"http://cdn.qiaoji8.com/fix250111.jar"
+},
+{
+   "key": "py_ky酷云",
+   "name": "酷云☪直连",
+   "type": 3,
+   "api": "https://d.kstore.dev/download/12194/TV/酷云直连.js"
+},
+{
+    "key": "py_华为",
+    "name": "华为☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/TV/华为直连.js"
+},
+{
+   "key": "py_ky360",
+   "name": "卫士☪直连",
+   "type": 3,
+   "api": "https://d.kstore.dev/download/12194/TV/360直连.js"
+},
+{
+    "key": "py_农民",
+    "name": "农民☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/TV/农民直连.js"
+},
+{
+   "key": "py_ky视觉",
+   "name": "视觉☪直连",
+   "type": 3,
+   "api": "https://d.kstore.dev/download/12194/TV/视觉直连.js"
+},
+{
+    "key": "py_皮虾",
+    "name": "皮虾☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/TV/皮虾直连.js"
+},
+{
+    "key": "py_ky1080",
+    "name": "蓝光☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/TV/1080直连.js"
+},
+{
+    "key": "py_瓜子",
+    "name": "瓜子☪直连",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/TV/瓜子直连.js"
 },
 {
     "key":"dr_腾迅",
