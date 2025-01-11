@@ -125,21 +125,13 @@
     "key": "py_华为",
     "name": "华为☪直连",
     "type": 3,
-    "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/TV/华为直连.js"
-},
-{
-   "key": "py_ky360",
-   "name": "卫士☪直连",
-   "type": 3,
-   "api": "https://d.kstore.dev/download/12194/TV/360直连.js"
 },
 {
     "key": "py_农民",
     "name": "农民☪直连",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/TV/农民直连.js"
+    "api": "https://d.kstore.dev/download/12194/TV/农民直连.js"
 },
 {
    "key": "py_ky视觉",
@@ -151,22 +143,25 @@
     "key": "py_皮虾",
     "name": "皮虾☪直连",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/TV/皮虾直连.js"
+    "api": "https://d.kstore.dev/download/12194/TV/皮虾直连.js"
 },
 {
     "key": "py_ky1080",
     "name": "蓝光☪直连",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/TV/1080直连.js"
+    "api": "https://d.kstore.dev/download/12194/TV/1080直连.js"
 },
 {
     "key": "py_瓜子",
     "name": "瓜子☪直连",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/TV/瓜子直连.js"
+    "api": "https://d.kstore.dev/download/12194/TV/瓜子直连.js"
+},
+{
+   "key": "py_ky360",
+   "name": "卫士☪直连",
+   "type": 3,
+   "api": "https://d.kstore.dev/download/12194/TV/360直连.js"
 },
 {
     "key":"dr_腾迅",
@@ -278,19 +273,6 @@
     "type":3,
     "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext":"./TS/兄弟.js"
-},
-{
-   "key": "py_ky酷云",
-   "name": "💮酷云☪直连",
-   "type": 3,
-   "api": "./TS/酷云直连.js"
-},
-{
-    "key": "py_华为",
-    "name": "💮华为☪直连",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./TS/华为直连.js"
 },
 {
     "key":"csp_xBPQ_电视",
