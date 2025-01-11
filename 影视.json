@@ -125,7 +125,7 @@
     "key": "py_华为",
     "name": "华为☪直连",
     "type": 3,
-    "ext": "https://d.kstore.dev/download/12194/TV/华为直连.js"
+    "api": "https://d.kstore.dev/download/12194/TV/华为直连.js"
 },
 {
     "key": "py_农民",
