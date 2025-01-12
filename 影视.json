@@ -116,18 +116,6 @@
     "jar":"http://cdn.qiaoji8.com/fix250111.jar"
 },
 {
-   "key": "py_ky酷云",
-   "name": "酷云☪PHP",
-   "type": 3,
-   "api": "https://d.kstore.dev/download/12194/drpy/酷云.php"
-},
-
-    "key": "py_华为",
-    "name": "华为☪PHP",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/drpy/华为.php"
-{
     "key": "py_农民",
     "name": "农民☪PHP",
     "type": 3,
@@ -140,23 +128,10 @@
    "api": "https://d.kstore.dev/download/12194/drpy/视觉.php"
 },
 {
-    "key": "py_皮虾",
-    "name": "皮虾☪PHP",
-    "api": "https://d.kstore.dev/download/12194/drpy/aop.php",
-    "ext": "https://d.kstore.dev/download/12194/drpy/皮虾.php"
-},
-{
     "key": "py_ky1080",
     "name": "蓝光☪PHP",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/drpy/1080.php"
-},
-{
-    "key": "py_瓜子",
-    "name": "瓜子☪PHP",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/drpy/aop.php",
-    "ext": "https://d.kstore.dev/download/12194/drpy/瓜子.php"
 },
 {
    "key": "py_ky360",
