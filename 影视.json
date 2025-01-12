@@ -119,25 +119,39 @@
     "key": "py_农民",
     "name": "农民☪PHP",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/drpy/农民.php"
+    "api": "https://d.kstore.dev/download/12194/drpy/农民.js"
 },
 {
    "key": "py_ky视觉",
    "name": "视觉☪PHP",
    "type": 3,
-   "api": "https://d.kstore.dev/download/12194/drpy/视觉.php"
+   "api": "https://d.kstore.dev/download/12194/drpy/视觉.js"
 },
 {
     "key": "py_ky1080",
     "name": "蓝光☪PHP",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/drpy/1080.php"
+    "api": "https://d.kstore.dev/download/12194/drpy/1080.js"
 },
 {
-   "key": "py_ky360",
-   "name": "卫士☪PHP",
+    "key": "py_皮虾",
+    "name": "皮虾☪PHP",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/drpy/aop.js",
+    "ext": "https://d.kstore.dev/download/12194/drpy/皮虾.js"
+},
+{
+   "key": "py_ky酷云",
+   "name": "酷云☪PHP",
    "type": 3,
-   "api": "https://d.kstore.dev/download/12194/drpy/360.php"
+   "api": "https://d.kstore.dev/download/12194/drpy/酷云.js"
+},
+{
+    "key": "py_华为",
+    "name": "华为☪PHP",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/drpy/华为.js"
 },
 {
     "key":"dr_腾迅",
