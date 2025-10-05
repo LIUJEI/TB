@@ -1,8 +1,12 @@
 {
-  
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar",
-  "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
-  "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
+/*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
+
+  "warningText":"💕永久完全免费，切勿付费购买💕",  
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+
+//数据接口====================================网站===============================================
 
 "sites":[
 {
@@ -342,5 +346,6 @@
 	"name": "本地嗅探器直播",
 	"urls": ["proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"]}
 ]}]}
+
 
 
