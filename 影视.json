@@ -835,7 +835,7 @@
     "key": "py_cctv",
     "name": "💫cctv┃综合 ",
     "type": 3,
-    "ext": "./BPQ/央库云.py",
+    "api": "https://d.kstore.dev/download/12194/Lib/央库云.py",
     "order_num": 0
 },
 {
@@ -1219,5 +1219,6 @@
     {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
     {"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
     "ads":["43.248.128.138"]}
+
 
 
