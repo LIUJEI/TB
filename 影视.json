@@ -376,7 +376,7 @@
     "name":"橘子🚂APP",
     "type":3,
     "api":"csp_Muou",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
 },
 {
@@ -391,7 +391,7 @@
     "name":"猫云🚂APP",
     "type":3,
     "api":"csp_Muou",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
 },
 {
@@ -399,7 +399,7 @@
     "name": "科兴🚂APP",
     "type": 3,
     "api": "csp_Xdai",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
 },
 {
@@ -407,7 +407,7 @@
     "name":"下饭🚂APP", 
     "type":3,
     "api":"csp_Qiji",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
 },
 {
@@ -415,7 +415,7 @@
     "name":"全网🚂APP",
     "type":3,
     "api":"csp_qiao2",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 },
 {
@@ -423,7 +423,7 @@
     "name":"超前🚂APP",
     "type":3,
     "api":"csp_Xdai",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":"7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
 },
 {
@@ -482,28 +482,28 @@
     "name": "🪁视觉🔹影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/视觉.json"
+    "ext": "./BPQ/视觉.json"
 },
 {
     "key": "麦田影视",
     "name": "🌋麦田🔹影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/麦田.json"
+    "ext": "./BPQ/麦田.json"
 },
 {
     "key": "csp_xBPQ_天龙",
     "name": "🐉天龙🔹影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/天龙.json"
+    "ext": "./BPQ/天龙.json"
 },
 {
     "key": " csp_XB_好影",
     "name": "🍃好影🔹快看",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/好影.json"
+    "ext": "./BPQ/好影.json"
 },
 {
     "key":"dr_腾迅",
@@ -559,34 +559,34 @@
     "name": "🎬影院☪短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json"
+    "ext": "./BPQ/起看短剧.json"
 },
 {
     "key": "河马短剧",
     "name": "♨️河马🦛短剧",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
+    "api": "./BPQ/河马短剧.py"
 },
 {
     "key": "天龙影院",
     "name": "♨️天龙®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/天龙短剧.json"
+    "ext": "./BPQ/天龙短剧.json"
 },
 {
     "key": "老王影院",
     "name": "♨️老王®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/老王短剧.json"
+    "ext": "./BPQ/老王短剧.json"
 },
 {
     "key": "csp_XYQHiker_河马短剧",
     "name": "♨️短劇®河马",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json"
+    "ext": "./BPQ/河马短剧.json"
 },
 { 
     "key": "csp_番茄短剧", 
@@ -827,7 +827,7 @@
     "key": "py_cctv",
     "name": "💫cctv┃综合 ",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/Lib/央库云.py",
+    "api": "./BPQ/央库云.py",
     "order_num": 0
 },
 {
@@ -836,7 +836,7 @@
     "type":3,
     "api":"csp_CCTV",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
-    "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
+    "ext":"./BPQ/央视大全.py"
 },
 {
     "key": "华为吧克隆",
@@ -880,7 +880,7 @@
     "name": "🎸酷狗┃音乐",
     "type": 3,
     "api":"csp_Kugou",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+    "jar": "./JAR/nan.jar",
     "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
@@ -898,7 +898,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/歌曲.json"},
+    "json": "./BPQ/歌曲.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -908,7 +908,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/戏曲.json"},
+    "json": "./BPQ/戏曲.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -918,7 +918,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/相声.json"},
+    "json": "./BPQ/相声.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -928,7 +928,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小品.json"},
+    "json": "./BPQ/小品.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -938,7 +938,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/听书.json"},
+    "json": "./BPQ/听书.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -948,7 +948,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/课程.json"},
+    "json": "./BPQ/课程.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -958,7 +958,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/幼儿.json"},
+    "json": "./BPQ/幼儿.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -968,7 +968,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小学.json"},
+    "json": "./BPQ/小学.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -978,7 +978,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/初中.json"},
+    "json": "./BPQ/初中.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -988,7 +988,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/高中.json"},
+    "json": "./BPQ/高中.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -998,7 +998,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小灯塔科学.json"},
+    "json": "./BPQ/小灯塔科学.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -1008,7 +1008,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小灯塔地理.json"},
+    "json": "./BPQ/小灯塔地理.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -1018,7 +1018,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小灯塔百科.json"},
+    "json": "./BPQ/小灯塔百科.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -1028,7 +1028,7 @@
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/小灯塔国学.json"},
+    "json": "./BPQ/小灯塔国学.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -1229,6 +1229,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
