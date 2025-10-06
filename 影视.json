@@ -411,8 +411,8 @@
     "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
 },
 {
-    "key":"csp_qiao2_",
-    "name":"全网🚂APP",
+    "key":"csp_qiao2_聚集",
+    "name":"聚搜🚂APP",
     "type":3,
     "api":"csp_qiao2",
     "jar": "./JAR/nan.jar",
@@ -1229,6 +1229,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
