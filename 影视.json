@@ -150,8 +150,37 @@
     "ua": ""}
 },
 {
+    "key": "csp_驿站",
+    "name": "驿站☪秒播",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "",
+    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+    "dataKey": "dyyztvapiappyyds",
+    "dataIv": "dyyztvapiappyyds",
+    "deviceId": "",
+    "version": "",
+    "ua": ""}
+},
+{
+    "key": "csp_云端",
+    "name": "云端☪秒播",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+    "site": "",
+    "dataKey": "k9o3p2c8b7m3z0o8",
+    "dataIv": "k9o3p2c8b7m3z0o8",
+    "deviceId": "",
+    "version": ""}
+},
+{
     "key": "csp_八天",
-    "name": "八天☪秒播",
+    "name": "霸天☪秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -179,7 +208,7 @@
 },
 {
     "key": "csp_九零",
-    "name": "九零☪秒播",
+    "name": "酒令☪秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -299,33 +328,16 @@
    "ua": ""}
 },
 {
-    "key": "驿站",
-    "name": "驿站☪秒播",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "",
-    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-    "dataKey": "dyyztvapiappyyds",
-    "dataIv": "dyyztvapiappyyds",
-    "deviceId": "",
-    "version": "",
-    "ua": ""}
-},
-{
-    "key": "云端",
-    "name": "云端☪秒播",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
-    "site": "",
-    "dataKey": "k9o3p2c8b7m3z0o8",
-    "dataIv": "k9o3p2c8b7m3z0o8",
-    "deviceId": "",
-    "version": ""}
+	"key": "csp_bind",
+	"name": "濒度🚂APP",
+	"type": 3,
+	"api": "csp_AppGet",
+	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/mao.jar",
+	"ext": {
+	"url": "https://bind.315999.xyz/89.txt",
+	"dataKey": "#getapp@TMD@2025",
+	"siteApi": "get",
+	"version": "102"}
 },
 {
     "key": "csp_云速",
@@ -414,13 +426,6 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
     "ext":"7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
 },
-{
-    "key":"csp_Qiji_追忆",
-    "name": "追忆🚂APP",
-    "type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://d.kstore.dev/download/12194/TV/AppGet.js?type=url&params=https://list.iqiyi.com/www/1/----------0---11-25-1---.html"
-}, 
 {
     "key": "csp_Jpys_金牌",
     "name": "🎊金牌🔹影視",
@@ -563,24 +568,11 @@
     "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
 },
 {
-    "key": "锦鲤短剧",
-    "name": "♨️锦鲤®短剧",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/Lib/锦鲤短剧.py"
-},
-{
     "key": "天龙影院",
     "name": "♨️天龙®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/天龙短剧.json"
-},
-{
-    "key": "安迪短剧",
-    "name": "♨️安迪®短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/安迪短剧.json"
 },
 {
     "key": "老王影院",
@@ -848,18 +840,9 @@
 },
 {
     "key": "华为吧克隆",
-    "name": "🐉华为吧克隆",
+    "name": "🐉华为克隆",
     "type": 4,
     "api": "http://zhangqun66.com/hwb.php",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
-    "key": "黑木耳克隆",
-    "name": "🐉黑木耳克隆",
-    "type": 4,
-    "api": "http://zhangqun66.com/225.php",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -891,15 +874,6 @@
     "quickSearch": 1,
     "style": {"type": "rect","ratio": 1.33},
     "filterable": 0
-},
-{
-   "key": "采集之王",
-   "name": "🐉采集合集",
-   "type": 1,
-   "api": "http://zhangqun1818.serv00.net:5053",
-   "searchable": 1,
-   "style": {"type": "rect","ratio": 1.33},
-   "changeable": 1
 },
 {
     "key":"csp_music",
@@ -1069,7 +1043,7 @@
 },
 {
     "key":"本地视频",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:09.18】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:10.06】",
     "type": 3,
     "api": "csp_LocalFile"
 }],
@@ -1255,6 +1229,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
