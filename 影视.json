@@ -60,7 +60,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "playerType": 2,
-    "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py",
+    "api": "https://d.kstore.dev/download/12194/TV/AppV2.py",
     "ext": {
     "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
     "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
@@ -380,13 +380,6 @@
     "ext":"7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
 },
 {
-    "key": "火猫视界",
-	"name": "火猫🚂APP",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://d.kstore.dev/download/12194/TV/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
-},
-{
     "key":"csp_Muou_猫云",
     "name":"猫云🚂APP",
     "type":3,
@@ -425,6 +418,13 @@
     "api":"csp_Xdai",
     "jar": "./JAR/nan.jar",
     "ext":"7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
+},
+{
+    "key": "火猫视界",
+	"name": "火猫🚂APP",
+	"type": 3,
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://d.kstore.dev/download/12194/TV/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
 },
 {
     "key": "csp_Jpys_金牌",
@@ -1198,6 +1198,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
