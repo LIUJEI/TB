@@ -531,7 +531,7 @@
     "name":"💝优酷🧃TV",
     "type":3,
     "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/yKtv.js"
+    "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
 },
 {
     "key":"dr_搜狗",
@@ -551,8 +551,8 @@
     "key": "hipy_js_星芽短剧",
     "name": "🎬短劇☪系列",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/xingya.js"
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TV/xingya.js"
 },
 {
     "key": "csp_一起看短剧",
@@ -572,14 +572,14 @@
     "name": "♨️短劇®河马",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/河马短剧.json"
 },
 {
     "key": "天龙影院",
     "name": "♨️天龙®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天龙短剧.json"
+    "ext": "https://d.kstore.dev/download/12194/Lib/天龙短剧.json"
 },
 {
     "key": "老王影院",
@@ -803,7 +803,7 @@
     "key": "py_cctv",
     "name": "💫cctv┃综合 ",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/央库云.py",
+    "api": "./BPQ/央库云.py",
     "order_num": 0
 },
 {
@@ -811,8 +811,8 @@
     "name":"💫cctv┃大全",
     "type":3,
     "api":"csp_CCTV",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/央视大全.py"
+    "jar":"./JAR/荷.jar",
+    "ext":"./BPQ/央视大全.py"
 },
 {
     "key": "华为吧克隆",
@@ -1205,6 +1205,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
