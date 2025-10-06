@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
+    "spider": "./JAR/xiao.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -332,7 +332,7 @@
 	"name": "濒度🚂APP",
 	"type": 3,
 	"api": "csp_AppGet",
-	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/mao.jar",
+	"jar": "./JAR/mao.jar",
 	"ext": {
 	"url": "https://bind.315999.xyz/89.txt",
 	"dataKey": "#getapp@TMD@2025",
@@ -343,7 +343,7 @@
     "key": "csp_云速",
     "name": "云速🚂APP",
     "type": 3,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
+    "jar": "./JAR/xm.jar",
     "api": "csp_AppQi",
     "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
 },
@@ -351,7 +351,7 @@
     "key": "csp_大豆",
     "name": "大豆🚂APP",
     "type": 3,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
+    "jar": "./JAR/xm.jar",
     "api": "csp_AppQi",
     "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
 },
@@ -359,7 +359,7 @@
    "key": "AppQi1",
    "name": "爱影🚂APP",
    "type": 3,
-   "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
+   "jar": "./JAR/xm.jar",
    "api": "csp_AppQi",
    "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
 },
@@ -367,7 +367,7 @@
     "key":"csp_Xdai_爆炸",
     "name":"爆炸🚂APP",
     "type": 3,
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
+    "jar": "./JAR/xm.jar",
     "api": "csp_AppMuou",
     "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
 },
@@ -1229,6 +1229,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
