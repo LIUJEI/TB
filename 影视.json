@@ -510,49 +510,49 @@
     "name":"💝腾讯🐧TV",
     "type":3,
     "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/QQtv.js"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
 },
 {
     "key":"dr_芒果",
     "name":"💝芒果🥭TV",
     "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"💝奇艺🥝TV",
     "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
 },
 {
     "key":"dr_优酷",
     "name":"💝优酷🧃TV",
     "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/yKtv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"💝搜狗🦊TV",
     "type":3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext":"https://d.kstore.dev/download/12194/TV/SGtv.js"
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "💝哔哩💫TV",
     "type": 3,
-    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/bili.js"
+    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
 },
 {
     "key": "hipy_js_星芽短剧",
     "name": "🎬短劇☪系列",
     "type": 3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/xingya.js"
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/xingya.js"
 },
 {
     "key": "csp_一起看短剧",
@@ -566,6 +566,13 @@
     "name": "♨️河马🦛短剧",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/河马短剧.py"
+},
+{
+    "key": "csp_XYQHiker_河马短剧",
+    "name": "♨️短劇®河马",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json"
 },
 {
     "key": "天龙影院",
@@ -1198,6 +1205,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
