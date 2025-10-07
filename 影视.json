@@ -800,21 +800,6 @@
     "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"] 
 },
 {
-    "key": "py_cctv",
-    "name": "💫cctv┃综合 ",
-    "type": 3,
-    "api": "./BPQ/央库云.py",
-    "order_num": 0
-},
-{
-    "key":"cctv",
-    "name":"💫cctv┃大全",
-    "type":3,
-    "api":"csp_CCTV",
-    "jar":"./JAR/荷.jar",
-    "ext":"./BPQ/央视大全.py"
-},
-{
     "key": "华为吧克隆",
     "name": "🐉华为克隆",
     "type": 4,
@@ -852,6 +837,21 @@
     "filterable": 0
 },
 {
+    "key": "py_cctv",
+    "name": "💫cctv┃综合 ",
+    "type": 3,
+    "api": "./BPQ/央库云.py",
+    "order_num": 0
+},
+{
+    "key":"cctv",
+    "name":"💫cctv┃大全",
+    "type":3,
+    "api":"csp_CCTV",
+    "jar":"./JAR/荷.jar",
+    "ext":"./BPQ/央视大全.py"
+},
+{
     "key":"csp_music",
     "name": "🎸酷狗┃音乐",
     "type": 3,
@@ -860,12 +860,10 @@
     "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
-     "key": "酷狗音乐",
-     "name": "🎸┃酷狗┃音乐",
-     "type": 3,
-     "api": "csp_Kugou",
-     "jar": "https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png",
-     "style": {"type": "rect","ratio": 1.433}
+    "key": "T4-qingting",
+    "name": "🎸蜻蜓┃音乐",
+    "type": 4,
+    "api": "https://catbox.n13.club/t9/qingting.php"
 }, 
 {
     "key": "csp_BiliMV",
@@ -1205,6 +1203,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
