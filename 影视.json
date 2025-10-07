@@ -853,18 +853,19 @@
 },
 {
     "key":"csp_music",
-    "name": "🎸酷狗┃音乐",
+    "name": "🎸酷狗┃音乐FM",
     "type": 3,
     "api":"csp_Kugou",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
     "ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
-    "key": "T4-qingting",
-    "name": "🎸蜻蜓┃音乐",
-    "type": 4,
-    "api": "https://catbox.n13.club/t9/qingting.php"
-}, 
+	"key": "drpy_js_蜻蜓FM",
+	"name": "🎸蜻蜓┃音乐FM",
+	"type": 3,
+	"api": "https://qist.ugigc.dpdns.org/lib/drpy2.min.js",
+	"ext": "https://qist.ugigc.dpdns.org/js/蜻蜓FM.js"
+},
 {
     "key": "csp_BiliMV",
     "name": "🅱️歌曲┃哔哩",
@@ -1203,6 +1204,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
