@@ -863,8 +863,8 @@
 	"key": "drpy_js_蜻蜓FM",
 	"name": "🎸蜻蜓┃音乐FM",
 	"type": 3,
-	"api": "https://qist.ugigc.dpdns.org/lib/drpy2.min.js",
-	"ext": "https://qist.ugigc.dpdns.org/js/蜻蜓FM.js"
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/edit/master/TS/蜻蜓FM.js"
 },
 {
     "key": "csp_BiliMV",
@@ -1204,6 +1204,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
