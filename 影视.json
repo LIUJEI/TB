@@ -32,14 +32,14 @@
 },
 {
     "key": "csp_langk",
-    "name": "浪酷☪秒播",
+    "name": "浪酷☪影視",
     "type": 3,
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.lkuys.cn"}
 },
 {
     "key": "csp_闪影",
-    "name": "闪影☪秒播",
+    "name": "闪影☪官方",
     "type": 3,
     "api": "csp_AppYs",
     "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
@@ -55,14 +55,14 @@
 },
 {
     "key": "火猫视界",
-	"name": "火猫☪影视",
+	"name": "火猫☪視蘋",
 	"type": 3,
 	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
 },
 {
     "key": "csp_团夕",
-    "name": "团夕☪影视",
+    "name": "团夕☪視蘋",
     "type": 3,
     "searchable": 1,
     "quickSearch": 0,
@@ -337,7 +337,7 @@
 },
 {
 	"key": "csp_bind",
-	"name": "宾东☪弹幕",
+	"name": "柚子☪弹幕",
 	"type": 3,
 	"api": "csp_AppGet",
 	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/mao.jar",
@@ -470,11 +470,11 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json"
 },
 {
-    "key": " csp_XB_雪梨",
-    "name": "🍐雪梨🔹影視",
+    "key": " csp_XB_天狗",
+    "name": "🐶天狗🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/雪梨.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json"
 }, 
 {
     "key": "csp_1817",
@@ -1174,6 +1174,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
