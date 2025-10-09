@@ -823,7 +823,7 @@
 },
 {
     "key": "drpy_js_蜻蜓FM",
-	"name": "🐦蜻蜓┃广播",
+	"name": "🦋🦗蜻蜓┃广播",
 	"type": 3,
 	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/蜻蜓FM.js"
@@ -1174,6 +1174,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
