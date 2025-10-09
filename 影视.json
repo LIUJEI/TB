@@ -91,7 +91,6 @@
     "key": "csp_咖啡",
     "name": "咖啡☪秒播",
     "type": 3,
-    "quickSearch": 1,
     "api": "csp_AppQi",
     "ext": {
     "url": "",
@@ -119,7 +118,6 @@
     "key": "csp_蘑菇",
     "name": "蘑菇☪秒播",
     "type": 3,
-    "quickSearch": 1,
     "api": "csp_AppQi",
     "ext": {
     "url": "",
@@ -160,6 +158,7 @@
     "key": "csp_蚂蚁",
     "name": "蚂蚁☪秒播",
     "type": 3,
+    "quickSearch": 1,
     "api": "csp_AppGet",
     "ext": {
     "url": "",
@@ -174,6 +173,7 @@
     "key": "csp_鲸鱼",
     "name": "鲸鱼☪弹幕",
     "type": 3,
+    "quickSearch": 1,
     "api": "csp_AppQi",
     "ext": {
     "url": "",
@@ -1174,6 +1174,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
