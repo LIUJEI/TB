@@ -155,21 +155,6 @@
     "version": "120"}
 },
 {
-    "key": "csp_蚂蚁",
-    "name": "蚂蚁☪秒播",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "",
-    "site": "https://dingchaowangzhan.oss-cn-beijing.aliyuncs.com/1.txt",
-    "dataKey": "1387006363333333",
-    "dataIv": "1387006363333333",
-    "deviceId": "",
-    "version": "",
-    "ua": ""}
-},
-{
     "key": "csp_鲸鱼",
     "name": "鲸鱼☪弹幕",
     "type": 3,
@@ -334,18 +319,6 @@
     "deviceId": "",
     "version": "",
     "ua": ""}
-},
-{
-	"key": "csp_bind",
-	"name": "柚子☪弹幕",
-	"type": 3,
-	"api": "csp_AppGet",
-	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/mao.jar",
-	"ext": {
-	"url": "https://bind.315999.xyz/89.txt",
-	"dataKey": "#getapp@TMD@2025",
-	"siteApi": "get",
-	"version": "102"}
 },
 {
     "key": "csp_大豆",
@@ -523,7 +496,7 @@
     "name": "☁云播🔹影院",
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/云播.js"
+    "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/TVB云播.js"
 },  
 {
     "key": "hipy_js_lwangys",
@@ -536,15 +509,8 @@
     "key": "hipy_js_tianlys",
     "name": "🐉天龙🔹影院",
     "type": 3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/天龙.js"
-},
-{
-    "key": "hipy_js_guanjys",
-    "name": "🏡冠建🔹影院",
-    "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/冠建.js"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/天龙.js"
 },
 {
     "key": "hipy_js_北川影视",
@@ -552,27 +518,6 @@
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/北川.js"
-},
-{
-    "key": "hipy_js_xuanfys",
-    "name": "🌪旋风🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/旋风.js"
-},
-{
-    "key": "hipy_js_feimys",
-    "name": "😺飞猫🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/飞猫.js"
-},  
-{
-    "key": "hipy_js_quganys",
-    "name": "🎹曲肝🔹肠断",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/曲肝肠断.js"
 },
 {
     "key":"dr_腾迅",
@@ -1258,6 +1203,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
