@@ -38,8 +38,15 @@
     "ext": {"url": "http://v.lkuys.cn"}
 },
 {
+    "key": "火猫视界",
+	"name": "火猫☪視蘋",
+	"type": 3,
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+},
+{
     "key": "csp_Jpys_金牌",
-    "name": "金牌🔹影視",
+    "name": "金牌☪影視",
     "type": 3,
     "api": "csp_Jpys",
     "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -67,13 +74,6 @@
     "api":"csp_Qiji",
     "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
     "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
-},
-{
-    "key": "火猫视界",
-	"name": "火猫☪視蘋",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
 },
 {
     "key": "csp_团夕",
@@ -414,28 +414,32 @@
     "name": "🍋柠檬🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
 },
 {
     "key": " csp_XB_天狗",
     "name": "🐶天狗🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
 }, 
 {
     "key": "csp_1817",
     "name": "🪁壹捌🔹壹柒",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/壹捌.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/壹捌.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
 },
 {
     "key": "csp_xBPQ_万能",
     "name": "🌋万能🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/万能.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/万能.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
 },
 {
     "key": "hipy_js_wangys",
@@ -1118,6 +1122,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
