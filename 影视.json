@@ -224,7 +224,7 @@
 },
 {
     "key": "csp_兔兔牛逼",
-    "name": "图图☪影视",
+    "name": "兔兔☪影视",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -1146,6 +1146,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
