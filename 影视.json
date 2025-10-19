@@ -380,6 +380,22 @@
     "version": ""}
 },
 {
+    "key": "冷心",
+    "name": "冷心☪秒播",
+    "type": 3,
+    "api": "csp_AppMuou",
+    "ext": {"url": "http://app.789dd.cn","name": "火猫影视"},
+    "jar": "https://www.lequxiang.com.cn/down.php/dbe639527df26d6a0fd4f7c9256be475.txt;md5;dbe639527df26d6a0fd4f7c9256be475"
+},
+{
+    "key": "金牌",
+    "name": "金牌☪影院",
+    "type": 3,
+    "api": "csp_AppMuou",
+    "ext": {"site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt","name": "金牌影院（请断网再安装）"},
+    "jar": "https://www.lequxiang.com.cn/down.php/dbe639527df26d6a0fd4f7c9256be475.txt;md5;dbe639527df26d6a0fd4f7c9256be475"
+},
+{
     "key": "csp_闪影",
     "name": "闪影☪官方",
     "type": 3,
@@ -1146,6 +1162,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
