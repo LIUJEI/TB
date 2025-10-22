@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
+    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/sa.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -1191,6 +1191,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
