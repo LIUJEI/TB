@@ -223,17 +223,26 @@
     "version": ""}
 },
 {
-    "key": "csp_兔兔牛逼",
-    "name": "兔兔☪影视",
+    "key": "余白",
+    "name": "余白☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://www.milkidc.cn",
-    "dataKey": "20c79c979da8db0f",
-    "dataIv": "20c79c979da8db0f",
-    "deviceId": "",
-    "version": ""}
-},  
+    "url": "https://dec.yb4k.top",
+    "dataKey": "KsmJgfp3MVQFKWRa",
+    "dataIv": "KsmJgfp3MVQFKWRa",
+    "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"}
+},
+{
+    "key": "数字",
+    "name": "数字☪弹幕",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://app1-0-0.87333.cc",
+    "dataKey": "VwsHxkCViDXEExWa",
+    "dataIv": "VwsHxkCViDXEExWa"}
+},
 {
     "key": "csp_火花",
     "name": "火花☪弹幕",
@@ -364,18 +373,6 @@
     "url": "https://dy.8ttv.cn",
     "dataKey": "1111111111111111",
     "dataIv": "1111111111111111",
-    "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "csp_丫丫",
-    "name": "丫丫☪动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://tv.yy-fun.cc",
-    "dataKey": "qkxnwkfjwpcnwycl",
-    "dataIv": "qkxnwkfjwpcnwycl",
     "deviceId": "",
     "version": ""}
 },
@@ -536,6 +533,38 @@
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/北川.js"
+},
+{
+    "key":"csp_XYQH_奇趣影视",
+    "name":"🧨奇趣🔹影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/%E5%A5%87%E8%B6%A3.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+},
+{
+    "key":"csp_XYQH_55影视",
+    "name":"🕔55🔹影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/55.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+},
+{
+    "key":"csp_XYQH_看戏",
+    "name":"📺看戏🔹影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/看戏.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+},
+{
+    "key":"csp_XYQH_韩剧佬",
+    "name":"🍲韩剧🔹佬K",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩剧佬.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
     "key":"dr_腾迅",
@@ -1162,6 +1191,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
