@@ -449,48 +449,42 @@
     "name": "🍋柠檬🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json"
 },
 {
     "key": " csp_XB_天狗",
     "name": "🐶天狗🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json"
 }, 
 {
     "key": "csp_1817",
     "name": "🪁壹捌🔹壹柒",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/壹捌.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/壹捌.json"
 },
 {
     "key": "csp_xBPQ_万能",
     "name": "🌋万能🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/万能.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/万能.json"
 },
 {
     "key": "hipy_js_fantys",
     "name": "🍙饭团🔹影院",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json"
 },  
 {
     "key": "hipy_js_TVBys",
     "name": "☁云播🔹影院",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json"
 },
 {
     "key": "hipy_js_wangys",
@@ -1020,7 +1014,7 @@
 },
 {
     "key":"本地视频",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:10.18】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:10.23】",
     "type": 3,
     "api": "csp_LocalFile"
 }],
@@ -1206,6 +1200,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
