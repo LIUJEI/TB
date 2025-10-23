@@ -477,6 +477,22 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
 },
 {
+    "key": "hipy_js_fantys",
+    "name": "🍙饭团🔹影院",
+    "type": 3,
+    "api":"csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+},  
+{
+    "key": "hipy_js_TVBys",
+    "name": "☁云播🔹影院",
+    "type": 3,
+    "api":"csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+},
+{
     "key": "hipy_js_wangys",
     "name": "🐺旺旺🔹影院",
     "type": 3,
@@ -497,20 +513,6 @@
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/人人.js"
 }, 
-{
-    "key": "hipy_js_fantys",
-    "name": "🍙饭团🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/饭团.js"
-},  
-{
-    "key": "hipy_js_TVBys",
-    "name": "☁云播🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/TVB云播.js"
-},  
 {
     "key": "hipy_js_lwangys",
     "name": "👩‍🌾老王🔹影院",
@@ -537,7 +539,7 @@
     "name":"🧨奇趣🔹影视",
     "type":3,
     "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/%E5%A5%87%E8%B6%A3.json",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇趣.json",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
@@ -619,6 +621,21 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json"
+},
+{
+	"key": "csp_AppXY",
+	"name": "♨️短剧®影视",
+	"type": 3,
+	"api": "csp_DuanJu",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+},
+{
+	"key": "csp_Music",
+	"name": "♨️音乐®直播",
+	"type": 3,
+	"api": "csp_Music",
+	"ext": "http://www.qeecc.com",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"		
 },
 {
     "key": "河马短剧",
@@ -1189,6 +1206,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
