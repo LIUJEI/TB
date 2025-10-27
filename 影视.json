@@ -377,6 +377,23 @@
     "categories": ["电影","电视剧","综艺","动漫","短剧","纪录片"]
 },
 {
+    "key": "csp_yuanju",
+    "name": "缘聚☪秒播",
+    "type": 3,
+    "api": "csp_qiao2",
+    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
+},	
+{
+    "key":"csp_Muou_猫云",
+    "name":"猫云☪秒播",
+    "type":3,
+    "api":"csp_Muou",
+    "ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
+},
+
+{
     "key": "csp_团夕",
     "name": "团夕☪wifi直连",
     "type": 3,
@@ -410,24 +427,8 @@
     "type":3,
     "api":"csp_Qiji",
     "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar"
-},
-{
-    "key": "csp_yuanju",
-    "name": "缘聚☪秒播",
-    "type": 3,
-    "api": "csp_qiao2",
-    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar"
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
 },	
-{
-    "key":"csp_Muou_猫云",
-    "name":"猫云☪秒播",
-    "type":3,
-    "api":"csp_Muou",
-    "ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar"
-},
 {
     "key": "csp_xBPQ_柠檬",
     "name": "🍋柠檬🔹影視",
@@ -546,7 +547,7 @@
 },
 {
     "key": "csp_Jpys_金牌",
-    "name": "金牌☪影視",
+    "name": "🚒金牌🔹影視",
     "type": 3,
     "api": "csp_Jpys",
     "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -670,7 +671,7 @@
 },
 {
     "key": "河马短剧",
-    "name": "♨️河马🦛短剧",
+    "name": "♨️河马®短剧",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
 },
@@ -1190,6 +1191,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
