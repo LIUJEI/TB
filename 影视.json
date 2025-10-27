@@ -709,13 +709,6 @@
     "ext": "https://d.kstore.dev/download/12194/Lib/老王短剧.json"
 },
 {
-    "key": "csp_XYQHiker_河马短剧",
-    "name": "♨️短劇®河马",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json"
-},
-{
     "key":"xbpq_djuw",
     "name":"♨️抖音®短剧",
     "type":3,
@@ -812,13 +805,6 @@
         "古装仙侠",
         "悬疑烧脑"
       ]
-},
-{
-    "key": "无忧资源",
-    "name": "♨️短剧®无忧",
-    "type": 1,
-    "api": "https://www.wyvod.com/api.php/provide/vod/",
-    "categories":["短剧"]
 },
 {
     "key": "华为吧克隆",
@@ -1210,6 +1196,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
