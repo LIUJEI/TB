@@ -392,7 +392,38 @@
     "ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602",
     "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
 },
-
+{
+	"key": "AppQi1",
+	"name": "爱盈☪小米",
+	"type": 3,
+	"api": "csp_AppQi",
+	"ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc=",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+},
+{
+	"key": "AppQi3",
+	"name": "爆炸☪小米",
+	"type": 3,
+	"api": "csp_AppQi",
+	"ext": "XSJiCWoJEGFoOdKZQ3W3pG4QYj6kuTSnLRDxFYNZWjIPLTHHAeib23CrNf2Ymrxa8iTANsHrwj35FQ3ORCXCuw==",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+},
+{
+	"key": "追忆",
+	"name": "追忆☪影视",
+	"type": 3,
+	"api": "csp_AppSy",
+	"ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA==",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+},
+{
+	"key": "大豆",
+	"name": "大豆☪影视",
+	"type": 3,
+	"api": "csp_AppQi",
+	"ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+},
 {
     "key": "csp_团夕",
     "name": "团夕☪wifi直连",
@@ -547,7 +578,7 @@
 },
 {
     "key": "csp_Jpys_金牌",
-    "name": "🚒金牌🔹影視",
+    "name": "✅金牌🔹影視",
     "type": 3,
     "api": "csp_Jpys",
     "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -570,13 +601,15 @@
     "key": "csp_LiteApple",
     "name": "🍏苹果🔹影視",
     "type": 3,
-    "api": "csp_LiteApple"
+    "api": "csp_LiteApple",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
 },
 {
-    "key": "csp_Ddrk",
-    "name": "🏕低端🔹影視",
-    "type": 3,
-    "api": "csp_Ddys"
+    "key": "csp_Gz360",
+	"name": "🍉瓜子🔹影视",
+	"type": 3,
+	"api": "csp_Gz360",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
 },
 {
     "key": "csp_SP360",
@@ -1191,6 +1224,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
