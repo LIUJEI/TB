@@ -689,20 +689,6 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"		
 },
 {
-    "key": "Wexduanjuhema",
-    "name": "♨️短剧®仙品",
-    "type": 3,
-    "api": "csp_WexduanjuhemaGuard",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/wex.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a"
-},
-{
-    "key": "Wexduanjuvop",
-    "name": "♨️短剧®秒播",
-    "type": 3,
-    "api": "csp_WexduanjuvopGuard",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/wex.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a"
-},
-{
     "key": "河马短剧",
     "name": "♨️河马®短剧",
     "type": 3,
@@ -1224,6 +1210,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
