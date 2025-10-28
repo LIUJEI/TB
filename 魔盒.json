@@ -1505,7 +1505,7 @@
 },
 {
     "key": "ConfigCenter",
-    "name": "🇨🇳┣☪配✿置┫【2025】",
+    "name": "🇨🇳┣☪配✿置┫【1028】",
     "type": 3,
     "api": "csp_Config",
     "searchable": 0,
@@ -1515,7 +1515,7 @@
 },
 {
     "key":"版本信息",
-    "name": "🇨🇳┣☪版✿本┫【10.28】",
+    "name": "🇨🇳┣☪版✿本┫【2025】",
     "type": 3,
     "api": "csp_Market",
     "searchable": 0,
@@ -1712,6 +1712,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
