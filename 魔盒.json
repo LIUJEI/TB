@@ -1505,7 +1505,7 @@
 },
 {
     "key": "ConfigCenter",
-    "name": "🇨🇳┣☪全✿局┫【更新时间:2025】",
+    "name": "🇨🇳┣☪配✿置┫【2025】",
     "type": 3,
     "api": "csp_Config",
     "searchable": 0,
@@ -1514,10 +1514,14 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
-    "key":"本地视频",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:10.18】",
+    "key":"版本信息",
+    "name": "🇨🇳┣☪版✿本┫【10.28】",
     "type": 3,
-    "api": "csp_LocalFile"
+    "api": "csp_Market",
+    "searchable": 0,
+    "changeable": 0,
+    "indexs": 0,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
 }],
 
 "parses":[
@@ -1708,6 +1712,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
