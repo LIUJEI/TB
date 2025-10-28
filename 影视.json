@@ -76,6 +76,17 @@
     "version": "120"}
 },
 {
+    "key": "开心",
+    "name": "开心☪秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+    "dataKey": "ca94b06ca3c7d80e",
+    "dataIv": "ca94b06ca3c7d80e",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "csp_蘑菇",
     "name": "蘑菇☪秒播",
     "type": 3,
@@ -113,7 +124,7 @@
 },
 {
     "key": "csp_鲸鱼",
-    "name": "鲸鱼☪弹幕",
+    "name": "鲸鱼☪秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -125,7 +136,7 @@
 },
 {
     "key": "秒看",
-    "name": "秒看☪弹幕",
+    "name": "秒看☪视频",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -136,26 +147,16 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "余白",
-    "name": "余白☪弹幕",
+    "key": "csp_爱看",
+    "name": "爱看☪秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "https://dec.yb4k.top",
-    "dataKey": "KsmJgfp3MVQFKWRa",
-    "dataIv": "KsmJgfp3MVQFKWRa",
-    "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"}
-},
-{
-    "key": "开心",
-    "name": "开心☪弹幕",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
-    "dataKey": "ca94b06ca3c7d80e",
-    "dataIv": "ca94b06ca3c7d80e",
-    "ua": "okhttp/3.10.0"}
+    "url": "https://www.appdm.akandm.com",
+    "dataKey": "uI1TkPJC8B46AyN3",
+    "dataIv": "uI1TkPJC8B46AyN3",
+    "deviceId": "",
+    "version": ""}
 },
 {
     "key": "星空",
@@ -178,18 +179,6 @@
     "dataIv": "VwsHxkCViDXEExWa"}
 },
 {
-    "key": "csp_HG影视",
-    "name": "全网☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://ios.hgyx.vip",
-    "dataKey": "062dec75d039980e",
-    "dataIv": "062dec75d039980e",
-    "deviceId": "",
-    "version": ""}
-}, 
-{
     "key": "csp_火花",
     "name": "火花☪弹幕",
     "type": 3,
@@ -203,7 +192,7 @@
 },
 {
     "key": "csp_坚果",
-    "name": "坚果☪弹幕",
+    "name": "坚果☪视频",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -212,18 +201,6 @@
     "dataIv": "2015692015692015",
     "deviceId": "",
     "version": ""}
-},
-{
-    "key": "csp_仓鼠",
-    "name": "仓鼠☪弹幕",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-    "dataKey": "da61247f5b662597",
-    "dataIv": "da61247f5b662597",
-    "deviceId": "",
-    "version": "120"}
 },
 {
     "key": "csp_若惜",
@@ -239,7 +216,7 @@
 },
 {
     "key": "csp_旗星",
-    "name": "旗星☪弹幕",
+    "name": "旗星☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -263,7 +240,7 @@
 },
 {
     "key": "csp_热剧",
-    "name": "热剧☪弹幕",
+    "name": "热剧☪天堂",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -275,50 +252,13 @@
 },
 {
     "key": "csp_追剧狂人",
-    "name": "狂人☪弹幕",
+    "name": "狂人☪追剧",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
     "url": "https://www.zjkrmv.vip",
     "dataKey": "vXeyuJFqTKqWUtWU",
     "dataIv": "vXeyuJFqTKqWUtWU",
-    "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "csp_batian",
-    "name": "八天☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://dy.8ttv.cn",
-    "dataKey": "1111111111111111",
-    "dataIv": "1111111111111111",
-    "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "csp_万能",
-    "name": "万能☪影院",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://wnvod.cc",
-    "dataKey": "5uBvur6znNUmE3zb",
-    "dataIv": "5uBvur6znNUmE3zb",
-    "deviceId": "",
-    "version": "",
-    "ua": "myapp/1.0.3"}
-},
-{
-    "key": "csp_爱看",
-    "name": "爱看☪秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.appdm.akandm.com",
-    "dataKey": "uI1TkPJC8B46AyN3",
-    "dataIv": "uI1TkPJC8B46AyN3",
     "deviceId": "",
     "version": ""}
 },
@@ -347,15 +287,88 @@
     "version": ""}
 },
 {
-    "key": "冷心",
-    "name": "冷心☪視蘋",
+    "key": "csp_batian",
+    "name": "八天☪电影",
     "type": 3,
-    "api": "csp_AppMuou",
-    "ext": {"url": "http://app.789dd.cn","name": "火猫影视"}
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://dy.8ttv.cn",
+    "dataKey": "1111111111111111",
+    "dataIv": "1111111111111111",
+    "deviceId": "",
+    "version": ""}
 },
 {
-    "key": "金牌",
-    "name": "金牌☪影院",
+    "key": "余白",
+    "name": "余白☪弹幕",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://dec.yb4k.top",
+    "dataKey": "KsmJgfp3MVQFKWRa",
+    "dataIv": "KsmJgfp3MVQFKWRa",
+    "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"}
+},
+{
+    "key": "csp_HG影视",
+    "name": "全网☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://ios.hgyx.vip",
+    "dataKey": "062dec75d039980e",
+    "dataIv": "062dec75d039980e",
+    "deviceId": "",
+    "version": ""}
+},
+{
+    "key": "csp_仓鼠",
+    "name": "仓鼠☪弹幕",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+    "dataKey": "da61247f5b662597",
+    "dataIv": "da61247f5b662597",
+    "deviceId": "",
+    "version": "120"}
+},
+{
+    "key": "csp_万能",
+    "name": "万能☪影院",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://wnvod.cc",
+    "dataKey": "5uBvur6znNUmE3zb",
+    "dataIv": "5uBvur6znNUmE3zb",
+    "deviceId": "",
+    "version": "",
+    "ua": "myapp/1.0.3"}
+},
+{
+    "key": "csp_团夕",
+    "name": "团夕☪影視",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 0,
+    "playerType": 2,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
+    "ext": {
+    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+    "apisignkey": "lvdoutv-1.0.0"}
+},
+{
+    "key": "火猫视界",
+	"name": "火猫☪影視",
+	"type": 3,
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+},
+{
+    "key": "csp_文采",
+    "name": "文采☪影院",
     "type": 3,
     "api": "csp_AppMuou",
     "ext": {"site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt","name": "金牌影院（请断网再安装）"}
@@ -369,7 +382,7 @@
     "categories": ["电影","剧集","短剧","综艺","动漫"]
 },
 {
-    "key": "金蝉",
+    "key": "csp_金蝉",
     "name": "金蝉☪官方",
     "type": 1,
     "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
@@ -377,11 +390,19 @@
     "categories": ["电影","电视剧","综艺","动漫","短剧","纪录片"]
 },
 {
-    "key": "csp_yuanju",
-    "name": "缘聚☪秒播",
+    "key": "nangua",
+    "name": "南瓜☪影視",
     "type": 3,
-    "api": "csp_qiao2",
-    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
+    "api": "csp_NanGua",
+    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
+},
+{
+    "key":"下饭",
+    "name":"下饭☪影視", 
+    "type":3,
+    "api":"csp_Qiji",
+    "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
     "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
 },	
 {
@@ -417,47 +438,11 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
 },
 {
-	"key": "大豆",
-	"name": "大豆☪影视",
-	"type": 3,
-	"api": "csp_AppQi",
-	"ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
-},
-{
-    "key": "csp_团夕",
-    "name": "团夕☪wifi直连",
+    "key": "csp_yuanju",
+    "name": "缘聚☪秒播",
     "type": 3,
-    "searchable": 1,
-    "quickSearch": 0,
-    "playerType": 2,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0"}
-},
-{
-    "key": "火猫视界",
-	"name": "火猫☪wifi直连",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
-},
-{
-    "key": "nangua",
-    "name": "南瓜☪wifi直连",
-    "type": 3,
-    "api": "csp_NanGua",
-    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
-},
-{
-    "key":"下饭",
-    "name":"下饭☪wifi直连", 
-    "type":3,
-    "api":"csp_Qiji",
-    "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
+    "api": "csp_qiao2",
+    "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
     "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
 },	
 {
@@ -1196,6 +1181,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
