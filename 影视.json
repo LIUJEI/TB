@@ -264,7 +264,7 @@
 },
 {
     "key": "csp_客星",
-    "name": "灵虎☪秒播",
+    "name": "灵虎☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -287,6 +287,47 @@
     "version": ""}
 },
 {
+    "key": "csp_兔兔",
+    "name": "兔兔☪弹幕",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://www.milkidc.cn",
+    "dataKey": "20c79c979da8db0f",
+    "dataIv": "20c79c979da8db0f"}
+},
+{
+    "key": "csp_稀饭",
+    "name": "稀饭☪弹幕",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://app.xifanys.com",
+    "dataKey": "HM6Ly9yeS4ya3dvL",
+    "dataIv": "HM6Ly9yeS4ya3dvL"}
+},
+{
+    "key": "csp_云端",
+    "name": "云端☪弹幕",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+    "dataKey": "k9o3p2c8b7m3z0o8",
+    "dataIv": "k9o3p2c8b7m3z0o8"}
+},
+{
+    "key": "csp_莱米",
+    "name": "莱米☪弹幕",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+    "dataKey": "ce032244d093b3e2",
+    "dataIv": "ce032244d093b3e2"}
+},
+{
     "key": "csp_batian",
     "name": "八天☪电影",
     "type": 3,
@@ -299,7 +340,7 @@
     "version": ""}
 },
 {
-    "key": "余白",
+    "key": "csp_余白",
     "name": "余白☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
@@ -334,37 +375,14 @@
     "version": "120"}
 },
 {
-    "key": "csp_万能",
-    "name": "万能☪影院",
+    "key": "于浅",
+    "name": "于浅☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "https://wnvod.cc",
-    "dataKey": "5uBvur6znNUmE3zb",
-    "dataIv": "5uBvur6znNUmE3zb",
-    "deviceId": "",
-    "version": "",
-    "ua": "myapp/1.0.3"}
-},
-{
-    "key": "csp_团夕",
-    "name": "团夕☪影視",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 0,
-    "playerType": 2,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0"}
-},
-{
-    "key": "火猫视界",
-	"name": "火猫☪影視",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+    "url": "http://202.140.143.116:88",
+    "dataKey": "leroulerop.lerom",
+    "dataIv": "leroulerop.lerom"}
 },
 {
     "key": "csp_文采",
@@ -372,22 +390,6 @@
     "type": 3,
     "api": "csp_AppMuou",
     "ext": {"site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt","name": "金牌影院（请断网再安装）"}
-},
-{
-    "key": "csp_闪影",
-    "name": "闪影☪官方",
-    "type": 3,
-    "api": "csp_AppYs",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-    "categories": ["电影","剧集","短剧","综艺","动漫"]
-},
-{
-    "key": "csp_金蝉",
-    "name": "金蝉☪官方",
-    "type": 1,
-    "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
-    "playUrl": "json:http://114.66.40.16:7700/api.php?url=",
-    "categories": ["电影","电视剧","综艺","动漫","短剧","纪录片"]
 },
 {
     "key": "nangua",
@@ -444,7 +446,43 @@
     "api": "csp_qiao2",
     "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
     "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
-},	
+},
+{
+    "key": "csp_团夕",
+    "name": "团夕☪視蘋",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 0,
+    "playerType": 2,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
+    "ext": {
+    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+    "apisignkey": "lvdoutv-1.0.0"}
+},
+{
+    "key": "火猫视界",
+	"name": "火猫☪視蘋",
+	"type": 3,
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+},
+{
+    "key": "csp_闪影",
+    "name": "闪影☪官方",
+    "type": 3,
+    "api": "csp_AppYs",
+    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+    "categories": ["电影","剧集","短剧","综艺","动漫"]
+},
+{
+    "key": "csp_金蝉",
+    "name": "金蝉☪官方",
+    "type": 1,
+    "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
+    "playUrl": "json:http://114.66.40.16:7700/api.php?url=",
+    "categories": ["电影","电视剧","综艺","动漫","短剧","纪录片"]
+},
 {
     "key": "csp_xBPQ_柠檬",
     "name": "🍋柠檬🔹影視",
@@ -985,7 +1023,7 @@
 },
 {
     "key": "ConfigCenter",
-    "name": "🇨🇳┣☪全✿局┫【更新时间:2025】",
+    "name": "🇨🇳┣☪配✿置┫【更新时间:2025】",
     "type": 3,
     "api": "csp_Config",
     "searchable": 0,
@@ -994,10 +1032,14 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
-    "key":"本地视频",
-    "name": "🇨🇳┣☪配✿置┫【更新时间:10.28】",
+    "key":"版本信息",
+    "name": "🇨🇳┣☪版✿本┫【更新时间:10.28】",
     "type": 3,
-    "api": "csp_LocalFile"
+    "api": "csp_Market",
+    "searchable": 0,
+    "changeable": 0,
+    "indexs": 0,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
 }],
 
 "parses":[
@@ -1181,6 +1223,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
