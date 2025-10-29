@@ -797,7 +797,7 @@
 },
 {
     "key": "csp_BiliMV",
-    "name": "🅱️歌曲┃哔哩",
+    "name": "🎸哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
     "ext": {
@@ -806,134 +806,12 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
-    "key": "csp_哔哩戏曲",
-    "name": "🅱️戏曲┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_哔哩相声",
-    "name": "🅱️相声┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_哔哩小品",
-    "name": "🅱️小品┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_哔哩听书",
-    "name": "🅱️听书┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://d.kstore.dev/download/12194/Lib/听书.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key":"csp_Bili课程",
-    "name":"🅱️课教┃合集",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili幼儿",
-    "name": "🅱️幼儿┃哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili小学课堂",
-    "name": "🅱️小学┃课堂",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili初中课堂",
-    "name": "🅱️初中┃课堂",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key":  "csp_Bili高中课堂",
-    "name": "🅱️高中┃课堂",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "小灯塔科学",
-    "name":"🌏科学┃小灯塔",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/科学.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili小灯塔地理",
-    "name":"🌏地理┃小灯塔",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/地理.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili小灯塔百科",
-    "name":"🌏百科┃小灯塔",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/百科.json"},
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_Bili小灯塔国学",
-    "name":"🌏国学┃小灯塔",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/国学.json"},
-    "style": {"type": "rect","ratio": 1.597}
+	"key":"csp_Kugou",
+	"name":"🎸酷狗┃音乐",
+	"type":3,
+	"api":"csp_Kugou",
+	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
     "key": "csp_Netfixtv",
@@ -1199,6 +1077,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
