@@ -985,132 +985,83 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
-      "key": "yydsys",
-      "name": "多多影音┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
+    "key": "csp_Netfixtv",
+    "name": "💌至臻┃4K网盘",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "site_urls": [
+    "https://mihdr.top",
+    "https://www.mihdr.top",
+    "https://www.miqk.cc",
+    "https://xiaomiai.site",
+    "https://xiaomi666.fun",
+    "https://www.zhizhenpan.fun"],
+    "url_key": "Netfixtv",
+    "token": "",
+    "ucCookie": "",
+    "quarkCookie": "",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
+},
+{
+    "key": "csp_Duopan",
+    "name": "🖍蜡笔┃4K网盘",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "site_urls": [
+    "http://xiaocge.fun",
+    "http://feimo.fun",
+    "https://feimao666.fun",
+    "http://feimao888.fun",
+    "http://www.labi88.sbs",
+    "http://fmao.site",
+    "http://fmao.shop"],
+    "threadinfo": {"chunksize": 512,"threads": 16},
+    "url_key": "Duopan4"}
+},
+{
+    "key": "csp_Netfixtv2",
+    "name": "🎥二小┃4K网盘",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "site_urls": [
+    "https://www.wexwp.cc",
+    "https://wexwp.cc",
+    "https://www.2xiaopan.fun/",
+    "https://2xiaopan.fun/",
+    "https://www.2xiaoyun.fun/",
+    "https://www.2xiaoyun.fun/",
+    "https://www.xhww.net/"],
+    "url_key": "UC",
+    "token": "",
+    "ucCookie": "",
+    "quarkCookie": "",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
+},
+{
+    "key": "csp_Wogg",
+    "name": "🧸玩偶┃4K网盘",
+    "type": 3,
+    "api": "csp_Wogg",
+      "changeable": "0",
+      "quickSearch": 0,
       "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
-    },	
-    {
-      "key": "Wogg",
-      "name": "玩偶哥哥┃网盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "Mogg",
-      "name": "木偶哥哥┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "yyds",
-      "name": "多多影音┃备用",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "夸克至臻",
-      "name": "至臻┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "夸克奥秘",
-      "name": "奥秘┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "蜡笔网盘",
-      "name": "蜡笔┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
-    },
-    {
-      "key": "Hdhive",
-      "name": "影巢┃网盘",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$proxy$$$1"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "皮皮虾┃网盘",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
-    },
-    {
-      "key": "Libvio",
-      "name": "LIBVIO┃网盘",
-      "type": 3,
-      "api": "csp_Libvio",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
-    },
+    "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8rYFx7ctv7/EwYIQ8UriiQKDIJuqIvlQQje6dXLxWHRiSlxkxqMyYKI0d1JGw46AuOAoB1VAvOCaqYqiTezjHHt8wMymbT/vDdiFXkMbc44kNGdjpzSyL2/kBZIAQaYMPgSkEYlv4faMeCi3MaCLYaT3C7qaUzLc56RYGLF2rmtIoYgMFOG9eSpyjO66jU/3v2f1yXnqTEEKd1/+/m8DBi8KudUm92Pa/NN8zRcY5nClAo1Eqn9bGzuO/+M4V5KG/RhdFdHyzxIpxfgoBRhn4j7GEzWBxrg4JiW2kP8Vo0iQm0S8aJUTOf1ROVp2sKW36D2Q/IgMvEqazefGXZSyNSTsjbNbVc2cHMxKrbUQIPqhD5y93kdVqr5glHjuqjrDC8Pa54/l2nFeWMZIRN7ZxMpY9O1WSazlqA1GI2A6UtmKIx6r2dX7seMOOENI+Tjl2ojAYQscbGgYpzVNL9VNf/w7xQaHqjtWLUcAOmJYweA0mZb6cGoAd8Gjcwz7iper0s53AViof2QbBffDKJxF820BsiCZAMp+Nq1Y7wrFqnnEN7HiE+YHPDxNfvBXnEgubPXu6DeZGa6edzqVbRwO52"
+},
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
     "api": "csp_Config",
-    "searchable": 0,
-    "changeable": 0,
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json"
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
 },
 {
     "key":"版本信息",
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
-    "searchable": 0,
-    "changeable": 0,
     "indexs": 0,
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
 }],
@@ -1296,6 +1247,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
