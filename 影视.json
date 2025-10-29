@@ -797,7 +797,7 @@
 },
 {
     "key": "csp_BiliMV",
-    "name": "🎸哔哩┃音乐",
+    "name": "🎧哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
     "ext": {
@@ -807,7 +807,7 @@
 },
 {
 	"key":"csp_Kugou",
-	"name":"🎸酷狗┃音乐",
+	"name":"🎧酷狗┃音乐",
 	"type":3,
 	"api":"csp_Kugou",
 	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
@@ -815,7 +815,7 @@
 },
 {
     "key": "csp_Netfixtv",
-    "name": "💌┣至臻┫4K网盘",
+    "name": "🎢┣至臻┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
 	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
@@ -835,7 +835,7 @@
 },
 {
     "key": "csp_Duopan",
-    "name": "🖍┣蜡笔┫4K网盘",
+    "name": "🎢┣蜡笔┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
 	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
@@ -853,7 +853,7 @@
 },
 {
     "key": "csp_Netfixtv2",
-    "name": "🎥┣二小┫4K网盘",
+    "name": "🎢┣二小┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
 	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
@@ -874,7 +874,7 @@
 },
 {
     "key": "csp_Wogg",
-    "name": "🧸┣玩偶┫4K网盘",
+    "name": "🎢┣玩偶┫4K网盘",
     "type": 3,
     "api": "csp_Wogg",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
@@ -1077,6 +1077,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
