@@ -986,9 +986,10 @@
 },
 {
     "key": "csp_Netfixtv",
-    "name": "💌至臻┃4K网盘",
+    "name": "💌┣至臻┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
+	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
     "ext": {
     "site_urls": [
     "https://mihdr.top",
@@ -1005,9 +1006,10 @@
 },
 {
     "key": "csp_Duopan",
-    "name": "🖍蜡笔┃4K网盘",
+    "name": "🖍┣蜡笔┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
+	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
     "ext": {
     "site_urls": [
     "http://xiaocge.fun",
@@ -1022,9 +1024,10 @@
 },
 {
     "key": "csp_Netfixtv2",
-    "name": "🎥二小┃4K网盘",
+    "name": "🎥┣二小┫4K网盘",
     "type": 3,
     "api": "csp_Duopan",
+	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
     "ext": {
     "site_urls": [
     "https://www.wexwp.cc",
@@ -1042,12 +1045,10 @@
 },
 {
     "key": "csp_Wogg",
-    "name": "🧸玩偶┃4K网盘",
+    "name": "🧸┣玩偶┫4K网盘",
     "type": 3,
     "api": "csp_Wogg",
-      "changeable": "0",
-      "quickSearch": 0,
-      "filterable": 1,
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
     "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8rYFx7ctv7/EwYIQ8UriiQKDIJuqIvlQQje6dXLxWHRiSlxkxqMyYKI0d1JGw46AuOAoB1VAvOCaqYqiTezjHHt8wMymbT/vDdiFXkMbc44kNGdjpzSyL2/kBZIAQaYMPgSkEYlv4faMeCi3MaCLYaT3C7qaUzLc56RYGLF2rmtIoYgMFOG9eSpyjO66jU/3v2f1yXnqTEEKd1/+/m8DBi8KudUm92Pa/NN8zRcY5nClAo1Eqn9bGzuO/+M4V5KG/RhdFdHyzxIpxfgoBRhn4j7GEzWBxrg4JiW2kP8Vo0iQm0S8aJUTOf1ROVp2sKW36D2Q/IgMvEqazefGXZSyNSTsjbNbVc2cHMxKrbUQIPqhD5y93kdVqr5glHjuqjrDC8Pa54/l2nFeWMZIRN7ZxMpY9O1WSazlqA1GI2A6UtmKIx6r2dX7seMOOENI+Tjl2ojAYQscbGgYpzVNL9VNf/w7xQaHqjtWLUcAOmJYweA0mZb6cGoAd8Gjcwz7iper0s53AViof2QbBffDKJxF820BsiCZAMp+Nq1Y7wrFqnnEN7HiE+YHPDxNfvBXnEgubPXu6DeZGa6edzqVbRwO52"
 },
 {
@@ -1247,6 +1248,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
