@@ -841,8 +841,8 @@
     "name":"💫cctv┃大全",
     "type":3,
     "api":"csp_CCTV",
-    "jar":"./JAR/荷.jar",
-    "ext":"./BPQ/央视大全.py"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
+    "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
 },
 {
     "key": "csp_BiliMV",
@@ -985,14 +985,124 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
+      "key": "yydsys",
+      "name": "多多影音┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+    },	
+    {
+      "key": "Wogg",
+      "name": "玩偶哥哥┃网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$http://wogg.xxooo.cf/$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "Mogg",
+      "name": "木偶哥哥┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "yyds",
+      "name": "多多影音┃备用",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://tv.yydsys.cc/$$$proxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "夸克至臻",
+      "name": "至臻┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "夸克奥秘",
+      "name": "奥秘┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "蜡笔网盘",
+      "name": "蜡笔┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/wogg.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
+    },
+    {
+      "key": "Hdhive",
+      "name": "影巢┃网盘",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$proxy$$$1"
+    },
+    {
+      "key": "Ppxzy",
+      "name": "皮皮虾┃网盘",
+      "type": 3,
+      "api": "csp_Ppxzy",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
+    },
+    {
+      "key": "Libvio",
+      "name": "LIBVIO┃网盘",
+      "type": 3,
+      "api": "csp_Libvio",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json$$$https://www.libvio.fun/$$$null"
+    },
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/pg.jar;md5;e38eae28a7e71dab9a634f9b650c3460",
     "api": "csp_Config",
     "searchable": 0,
     "changeable": 0,
-    "indexs": 0,
-    "style": {"type": "rect","ratio": 1.597}
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/lib/tokenm.json"
 },
 {
     "key":"版本信息",
@@ -1186,6 +1296,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
