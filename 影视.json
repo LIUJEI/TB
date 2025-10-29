@@ -751,7 +751,7 @@
     "type": 0,
     "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
     "playurl": "json:https://www.iqiyizyjx.com/?url=",
-    "categories": ["电影","国产剧","综艺","动漫","短剧","伦理片"]
+    "categories": ["短剧","古装片","国产剧","大陆综艺","动漫电影","伦理片"]
 },
 {
     "key": "华为吧克隆",
@@ -1077,6 +1077,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
