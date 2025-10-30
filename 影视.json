@@ -18,7 +18,7 @@
 },
 {
     "key": "csp_预告",
-    "name": "🎬┣预告┫【10.28】",
+    "name": "🎬┣新片┫预告",
     "type": 3,
     "api": "csp_YGP",
     "searchable": 0
@@ -644,18 +644,31 @@
     "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
 },
 {
-    "key": "天龙影院",
-    "name": "♨️天龙®短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/天龙短剧.json"
-},
-{
     "key": "老王影院",
     "name": "♨️老王®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/老王短剧.json"
+},
+{
+    "key":"csp_剧剧吧",
+    "name":"♨️短劇®剧网",
+    "type":3,
+    "api":"csp_XBPQ", 
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
+},
+{ 
+    "key": "csp_茄子短剧", 
+    "name": "♨️茄子®短劇", 
+    "type":3,
+    "api":"csp_XBPQ", 
+    "ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "副标题": "琉芸✨-+right\">&&<",
+    "线路标题":"panel-hd\">&&",
+    "分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
+    "分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
 },
 {
     "key":"xbpq_djuw",
@@ -685,16 +698,6 @@
     "分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
 },
 {
-    "key":"xbpq_55dj",
-    "name":"♨️五五®短剧",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
-	"分类url":"https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-    "分类":"♨️五五短剧$1",
-    "搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
-},
-{
     "key":"xbpq_jzdj",
     "name":"♨️九洲®短剧",
     "type":3,
@@ -705,29 +708,14 @@
     "搜索url":"https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}
 },
 {
-    "key":"csp_剧剧吧",
-    "name":"♨️短劇®剧网",
+    "key":"xbpq_55dj",
+    "name":"♨️五五®短剧",
     "type":3,
-    "api":"csp_XBPQ", 
+    "api":"csp_XBPQ",
     "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
-    "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-    "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
-},
-{
-    "key": "豆瓣资源站",
-    "name": "♨️短剧®豆瓣",
-    "type": 0,
-    "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
-    "playurl": "json:https://www.dbjiexi.com:966/jx/?url=",
-    "categories": ["短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑"]
-},
-{
-    "key": "茅台资源站",
-    "name": "♨️短剧®茅台",
-    "type": 0,
-    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-    "playurl": "json:https://mtjiexi.cc:966/?url=",
-    "categories": ["短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑"]
+	"分类url":"https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+    "分类":"♨️五五短剧$1",
+    "搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
 },
 {
     "key": "csp_闪影",
@@ -814,84 +802,22 @@
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
-    "key": "csp_Netfixtv",
-    "name": "🎢┣至臻┫4K网盘",
-    "type": 3,
-    "api": "csp_Duopan",
-	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
-    "ext": {
-    "site_urls": [
-    "https://mihdr.top",
-    "https://www.mihdr.top",
-    "https://www.miqk.cc",
-    "https://xiaomiai.site",
-    "https://xiaomi666.fun",
-    "https://www.zhizhenpan.fun"],
-    "url_key": "Netfixtv",
-    "token": "",
-    "ucCookie": "",
-    "quarkCookie": "",
-    "threadinfo": {"chunksize": 512,"threads": 16}}
-},
-{
-    "key": "csp_Duopan",
-    "name": "🎢┣蜡笔┫4K网盘",
-    "type": 3,
-    "api": "csp_Duopan",
-	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
-    "ext": {
-    "site_urls": [
-    "http://xiaocge.fun",
-    "http://feimo.fun",
-    "https://feimao666.fun",
-    "http://feimao888.fun",
-    "http://www.labi88.sbs",
-    "http://fmao.site",
-    "http://fmao.shop"],
-    "threadinfo": {"chunksize": 512,"threads": 16},
-    "url_key": "Duopan4"}
-},
-{
-    "key": "csp_Netfixtv2",
-    "name": "🎢┣二小┫4K网盘",
-    "type": 3,
-    "api": "csp_Duopan",
-	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
-    "ext": {
-    "site_urls": [
-    "https://www.wexwp.cc",
-    "https://wexwp.cc",
-    "https://www.2xiaopan.fun/",
-    "https://2xiaopan.fun/",
-    "https://www.2xiaoyun.fun/",
-    "https://www.2xiaoyun.fun/",
-    "https://www.xhww.net/"],
-    "url_key": "UC",
-    "token": "",
-    "ucCookie": "",
-    "quarkCookie": "",
-    "threadinfo": {"chunksize": 512,"threads": 16}}
-},
-{
-    "key": "csp_Wogg",
-    "name": "🎢┣玩偶┫4K网盘",
-    "type": 3,
-    "api": "csp_Wogg",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
-    "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg8rYFx7ctv7/EwYIQ8UriiQKDIJuqIvlQQje6dXLxWHRiSlxkxqMyYKI0d1JGw46AuOAoB1VAvOCaqYqiTezjHHt8wMymbT/vDdiFXkMbc44kNGdjpzSyL2/kBZIAQaYMPgSkEYlv4faMeCi3MaCLYaT3C7qaUzLc56RYGLF2rmtIoYgMFOG9eSpyjO66jU/3v2f1yXnqTEEKd1/+/m8DBi8KudUm92Pa/NN8zRcY5nClAo1Eqn9bGzuO/+M4V5KG/RhdFdHyzxIpxfgoBRhn4j7GEzWBxrg4JiW2kP8Vo0iQm0S8aJUTOf1ROVp2sKW36D2Q/IgMvEqazefGXZSyNSTsjbNbVc2cHMxKrbUQIPqhD5y93kdVqr5glHjuqjrDC8Pa54/l2nFeWMZIRN7ZxMpY9O1WSazlqA1GI2A6UtmKIx6r2dX7seMOOENI+Tjl2ojAYQscbGgYpzVNL9VNf/w7xQaHqjtWLUcAOmJYweA0mZb6cGoAd8Gjcwz7iper0s53AViof2QbBffDKJxF820BsiCZAMp+Nq1Y7wrFqnnEN7HiE+YHPDxNfvBXnEgubPXu6DeZGa6edzqVbRwO52"
-},
-{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
+    "searchable": 0,
+    "changeable": 0,
+    "indexs": 0,
+    "style": {"type": "rect","ratio": 1.597}
 },
 {
     "key":"版本信息",
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
+	"searchable": 0,
+    "changeable": 0,
     "indexs": 0,
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
 }],
@@ -1077,6 +1003,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
