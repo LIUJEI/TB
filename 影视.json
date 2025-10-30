@@ -461,18 +461,19 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json"
 },
 {
-    "key": "hipy_js_wangys",
+    "key": "csp_XBPQ_乐播",
+    "name": "🎢乐播🔹剧院",
+    "type": 3,
+    "api":"csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/乐播.json"
+},
+{
+    "key": "csp_XYQH_wangys",
     "name": "🐺旺旺🔹影院",
     "type": 3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/旺旺.js"
-},  
-{
-    "key": "hipy_js_4kys",
-    "name": "🎢新4k🔹剧院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/4k.js"
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
     "key": "hipy_js_reys",
@@ -624,11 +625,12 @@
     "ext": "https://d.kstore.dev/download/12194/TV/xingya.js"
 },
 {
-    "key": "csp_一起看短剧",
+    "key": "csp_XYQHiker_河马短剧",
     "name": "🎬影院☪短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json"
+    "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
 	"key": "csp_AppXY",
@@ -639,16 +641,41 @@
 },
 {
     "key": "河马短剧",
-    "name": "♨️河马®短剧",
+    "name": "河马®短劇",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
 },
 {
+    "key": "星芽短剧",
+    "name": "星芽®短剧",
+    "type": 3,
+    "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/XYDJ.py"
+},
+{
+    "key": "剧王短剧",
+    "name": "剧王®短剧",
+    "type": 3,
+    "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JWDJ.py"
+},
+{
+    "key": "锦鲤短剧",
+    "name": "锦鲤®短剧",
+    "type": 3,
+    "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JLDJ.py"
+},
+{
     "key": "老王影院",
-    "name": "♨️老王®短剧",
+    "name": "老王®短劇",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/老王短剧.json"
+},
+{
+    "key": "csp_一起看短剧",
+    "name": "起看®短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json"
 },
 {
     "key":"csp_剧剧吧",
@@ -802,6 +829,60 @@
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
+    "key": "csp_小斑快映",
+    "name": "🏛┣快映┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/dy/xbky.json"
+},
+{
+    "key": "csp_至臻",
+    "name": "🏛┣至臻┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/zz.json"
+},
+{
+    "key": "csp_Wogg",
+    "name": "🏛┣玩偶┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/wogg.json"
+},
+{
+    "key": "csp_蜡笔",
+    "name": "🏛┣蜡笔┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/lb.json"
+},
+{
+    "key": "csp_虎斑",
+    "name": "🏛┣虎斑┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/hb.json"
+},
+{
+    "key": "csp_多多",
+    "name": "🏛┣多多┫4K网盘",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "searchable": 1,
+    "changeable": 1,
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/yyds.json"
+},
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
@@ -816,8 +897,6 @@
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
-	"searchable": 0,
-    "changeable": 0,
     "indexs": 0,
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
 }],
@@ -1003,6 +1082,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
