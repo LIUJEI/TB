@@ -829,13 +829,14 @@
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
-    "key": "csp_小斑快映",
-    "name": "🏛┣快映┫4K网盘",
+    "key": "csp_木偶",
+    "name": "🏛┣木偶┫4K网盘",
     "type": 3,
-    "api": "csp_PanWebShare",
+    "api": "csp_Mogg",
     "searchable": 1,
     "changeable": 1,
-    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/dy/xbky.json"
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
+    "ext": {"site": "http://muou.6qu.top,http://123.666291.xyz,https://mogg.5568.eu.org,https://mo.91muou.icu,https://mo.666291.xyz"}
 },
 {
     "key": "csp_至臻",
@@ -1084,6 +1085,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
