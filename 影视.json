@@ -641,38 +641,38 @@
 },
 {
     "key": "河马短剧",
-    "name": "河马®短劇",
+    "name": "♨️河马®短劇",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
 },
 {
     "key": "星芽短剧",
-    "name": "星芽®短剧",
+    "name": "♨️星芽®短剧",
     "type": 3,
     "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/XYDJ.py"
 },
 {
     "key": "剧王短剧",
-    "name": "剧王®短剧",
+    "name": "♨️剧王®短剧",
     "type": 3,
     "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JWDJ.py"
 },
 {
     "key": "锦鲤短剧",
-    "name": "锦鲤®短剧",
+    "name": "♨️锦鲤®短剧",
     "type": 3,
     "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JLDJ.py"
 },
 {
     "key": "老王影院",
-    "name": "老王®短劇",
+    "name": "♨️老王®短劇",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/老王短剧.json"
 },
 {
     "key": "csp_一起看短剧",
-    "name": "起看®短剧",
+    "name": "♨️起看®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json"
@@ -1082,6 +1082,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
