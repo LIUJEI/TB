@@ -135,16 +135,16 @@
     "version": ""}
 },
 {
-    "key": "秒看",
-    "name": "秒看☪视频",
+    "key": "csp_清风",
+    "name": "清风☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "site": "https://mk1080.top/get.txt",
-    "dataKey": "c60d88b2eep53za8",
-    "dataIv": "c60d88b2eep53za8",
-    "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-    "ua": "okhttp/3.10.0"}
+    "url": "http://qfys.myqf.asia",
+    "dataKey": "vpsj6z4e7scbjbis",
+    "dataIv": "vpsj6z4e7scbjbis",
+    "token": "cea6598a6f09e3af6d583911a81d37f4070c9007eaf35d72dc3cf81e64357bbf",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"}
 },
 {
     "key": "csp_爱看",
@@ -1089,6 +1089,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
