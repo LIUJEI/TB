@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/sa.jar",
+    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xsys.txt;md5;09312a5b1310b6c6e33be885b2cf6e43",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -1089,6 +1089,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
