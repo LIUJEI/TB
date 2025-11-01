@@ -191,18 +191,6 @@
     "version": ""}
 },
 {
-    "key": "csp_坚果",
-    "name": "坚果☪视频",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://a.ngdy1.cn",
-    "dataKey": "2015692015692015",
-    "dataIv": "2015692015692015",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "csp_若惜",
     "name": "若惜☪弹幕",
     "type": 3,
@@ -385,6 +373,18 @@
     "dataIv": "leroulerop.lerom"}
 },
 {
+    "key": "csp_坚果",
+    "name": "坚果☪视频",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://a.ngdy1.cn",
+    "dataKey": "2015692015692015",
+    "dataIv": "2015692015692015",
+    "deviceId": "",
+    "version": ""}
+},
+{
     "key": "冷心",
     "name": "冷心☪秒播",
     "type": 3,
@@ -512,27 +512,11 @@
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
-    "key":"csp_XYQH_55影视",
-    "name":"🕔55🔹影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/55.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
-},
-{
     "key":"csp_XYQH_看戏",
     "name":"📺看戏🔹影视",
     "type":3,
     "api":"csp_XYQHiker",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/看戏.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
-},
-{
-    "key":"csp_XYQH_韩剧佬",
-    "name":"🍲韩剧🔹佬K",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩剧佬.json",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
@@ -796,11 +780,13 @@
     "filterable": 0
 },
 {
-    "key": "drpy_js_蜻蜓FM",
-	"name": "💫蜻蜓┃广播",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/蜻蜓FM.js"
+    "key":"csp_live10",
+    "name":"💫冰茶┃直播",
+    "type":3,
+    "quickSearch":1,
+    "changeable":1,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/dy/live10.js",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/yszb.png"
 },
 {
     "key":"cctv",
@@ -1089,6 +1075,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
