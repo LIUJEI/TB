@@ -252,7 +252,7 @@
 },
 {
     "key": "csp_客星",
-    "name": "灵虎☪弹幕",
+    "name": "小虎☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -273,16 +273,6 @@
     "dataIv": "dyyztvapiappyyds",
     "deviceId": "",
     "version": ""}
-},
-{
-    "key": "csp_兔兔",
-    "name": "兔兔☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://www.milkidc.cn",
-    "dataKey": "20c79c979da8db0f",
-    "dataIv": "20c79c979da8db0f"}
 },
 {
     "key": "csp_稀饭",
@@ -326,17 +316,6 @@
     "dataIv": "1111111111111111",
     "deviceId": "",
     "version": ""}
-},
-{
-    "key": "csp_余白",
-    "name": "余白☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://dec.yb4k.top",
-    "dataKey": "KsmJgfp3MVQFKWRa",
-    "dataIv": "KsmJgfp3MVQFKWRa",
-    "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"}
 },
 {
     "key": "csp_HG影视",
@@ -797,6 +776,20 @@
     "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
 },
 {
+    "key": "CCTV低分辨",
+    "name": "💫cctv┃大全",
+    "type": 1,
+    "api": "http://zhangqun1818.serv00.net/cctv.php",
+    "style": {"type": "rect","ratio": 1.33}
+},
+{
+    "key": "影视文件播放",
+    "name": "💫影视┃播放",
+    "type": 4,
+    "api": "http://zhangqun1818.serv00.net/zh/2242.php",
+    "style": {"type": "rect","ratio": 1.33}
+},
+{
     "key": "csp_BiliMV",
     "name": "🎧哔哩┃音乐",
     "type": 3,
@@ -813,65 +806,6 @@
 	"api":"csp_Kugou",
 	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
-},
-{
-    "key": "csp_多多",
-    "name": "🏛┣多多┫4K网盘",
-    "type": 3,
-    "api": "csp_Ddyy",
-    "changeable": 1,
-    "timeout": 30,
-	"jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-    "ext": {"site": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz"}
-},
-{
-    "key": "csp_木偶",
-    "name": "🏛┣木偶┫4K网盘",
-    "type": 3,
-    "api": "csp_Mogg",
-    "searchable": 1,
-    "changeable": 1,
-    "jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-    "ext": {"site": "http://muou.6qu.top,http://123.666291.xyz,https://mogg.5568.eu.org,https://mo.91muou.icu,https://mo.666291.xyz"}
-},
-{
-    "key": "csp_至臻",
-    "name": "🏛┣至臻┫4K网盘",
-    "type": 3,
-    "api": "csp_Mogg",
-    "quickSearch": 1,
-    "changeable": 1,
-	"jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-    "ext": {"site": "http://mihdr.top,http://xiaomi666.fun,http://www.miqk.cc,https://xiaomiai.site"}
-},
-{
-    "key": "csp_Wogg",
-    "name": "🏛┣玩偶┫4K网盘",
-	"type": 3,
-    "api": "csp_Wogg",
-    "changeable": 1,
-    "timeout": 30,
-	"jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-    "ext": {"site": "https://wogg.xxooo.cf,https://www.wogg.bf,https://woggpan.333232.xyz,https://woggapi.888484.xyz,https://www.wogg.lol,https://www.wogg.net"}
-},
-{
-    "key": "csp_蜡笔",
-    "name": "🏛┣蜡笔┫4K网盘",
-    "type": 3,
-    "api": "csp_Mogg",
-    "quickSearch": 1,
-    "changeable": 1,
-	"jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-    "ext": {"site": "http://www.labi88.sbs,http://feimaoai.site,https://feimao666.fun,http://feimao888.fun"}
-},
-{
-    "key": "csp_虎斑",
-    "name": "🏛┣虎斑┫4K网盘",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "searchable": 1,
-    "changeable": 1,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/hb.json"
 },
 {
     "key": "ConfigCenter",
@@ -1075,6 +1009,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
