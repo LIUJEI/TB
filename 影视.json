@@ -823,7 +823,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.tmp"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
 }],
 
 "parses":[
@@ -1009,6 +1009,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
