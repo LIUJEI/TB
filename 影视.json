@@ -135,16 +135,15 @@
     "version": ""}
 },
 {
-    "key": "csp_清风",
-    "name": "清风☪弹幕",
+    "key": "爱影",
+    "name": "爱影☪弹幕",
     "type": 3,
-    "api": "csp_AppGet",
+    "quickSearch": 1,
+    "api": "csp_AppQi",
     "ext": {
-    "url": "http://qfys.myqf.asia",
-    "dataKey": "vpsj6z4e7scbjbis",
-    "dataIv": "vpsj6z4e7scbjbis",
-    "token": "7d7bc6b8bd0433079a6aa4f718a38a11945b15fce2875270ab96dd6272358288",
-    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"}
+    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
+    "dataKey": "sada21321sdq231d",
+    "dataIv": "sada21321sdq231d"}
 },
 {
     "key": "csp_爱看",
@@ -352,16 +351,37 @@
     "dataIv": "leroulerop.lerom"}
 },
 {
-    "key": "csp_坚果",
-    "name": "坚果☪视频",
+    "key": "csp_影视帝国",
+    "name": "影视☪帝国",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://a.ngdy1.cn",
+    "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
     "dataKey": "2015692015692015",
     "dataIv": "2015692015692015",
     "deviceId": "",
-    "version": ""}
+    "version": "version"}
+},
+{
+    "key": "优势",
+    "name": "优势☪影視",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://zxy-ys.810211.dpdns.org",
+    "dataKey": "1234567890123456",
+    "dataIv": "1234567890123456",
+    "deviceId": "",
+    "version": "version"}
+},
+{
+    "key": "私人",
+    "name": "私人☪影院",
+    "type": 3,
+    "changeable": 0,
+    "api": "csp_AppYsV2",
+    "ext": "https://v.catcs.cc//api.php/v1.vod"
 },
 {
     "key": "冷心",
@@ -760,7 +780,7 @@
 },
 {
     "key":"cctv",
-    "name":"💫cctv┃大全",
+    "name":"💫cctv┃直播",
     "type":3,
     "api":"csp_CCTV",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
@@ -1010,6 +1030,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
