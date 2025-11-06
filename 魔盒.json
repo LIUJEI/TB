@@ -85,7 +85,7 @@
     "name":"┣☪琉✿芸┫盒子┃",
     "type":3,
     "api":"csp_XYQHiker",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar",
+    "jar":"https://www.lequxiang.com.cn/down.php/b768cf93202d16ac6e451d42250d8b48.jar",
     "ext": {
     "规则名": "电影盒子",
     "规则作者": "",
@@ -1723,6 +1723,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
