@@ -398,24 +398,20 @@
     "ext": {"site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt","name": "金牌影院（请断网再安装）"}
 },
 {
-    "key": "csp_团夕",
-    "name": "团夕☪wifi专用",
+    "key": "nangua",
+    "name": "南瓜☪影視",
     "type": 3,
-    "searchable": 1,
-    "quickSearch": 0,
-    "playerType": 2,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0"}
+    "api": "csp_NanGua",
+    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E"
 },
 {
-    "key": "火猫视界",
-	"name": "火猫☪wifi专用",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+    "key": "csp_布蕾",
+    "name": "布蕾☪影視",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar": "https://pan.qingyuji.cn/f/d/dK9Nta/1114.jpg;md5;398269a135696bab40747b2ec1d76fba",
+    "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
 },
 {
     "key": "csp_xBPQ_柠檬",
@@ -1030,6 +1026,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
