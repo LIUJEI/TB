@@ -731,23 +731,6 @@
     "style": {"type": "rect","ratio": 1.33}
 },
 {
-    "key":"csp_live10",
-    "name":"💫冰茶┃直播",
-    "type":3,
-    "quickSearch":1,
-    "changeable":1,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/dy/live10.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/yszb.png"
-},
-{
-    "key": "csp_Music",
-    "name": "💫音乐┃直播",
-    "type": 3,
-    "api": "csp_Music",
-    "ext": "http://www.qeecc.com",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
-},
-{
     "key": "csp_BiliMV",
     "name": "🎧哔哩┃音乐",
     "type": 3,
@@ -967,6 +950,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
