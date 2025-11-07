@@ -178,18 +178,6 @@
     "dataIv": "VwsHxkCViDXEExWa"}
 },
 {
-    "key": "csp_火花",
-    "name": "火花☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://v.itcxo.cn/txt/1.txt",
-    "dataKey": "PoiUytRedFghjklm",
-    "dataIv": "PoiUytRedFghjklm",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "csp_若惜",
     "name": "若惜☪弹幕",
     "type": 3,
@@ -351,39 +339,6 @@
     "dataIv": "leroulerop.lerom"}
 },
 {
-    "key": "csp_影视帝国",
-    "name": "影视☪帝国",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
-    "dataKey": "2015692015692015",
-    "dataIv": "2015692015692015",
-    "deviceId": "",
-    "version": "version"}
-},
-{
-    "key": "优势",
-    "name": "优势☪影視",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://zxy-ys.810211.dpdns.org",
-    "dataKey": "1234567890123456",
-    "dataIv": "1234567890123456",
-    "deviceId": "",
-    "version": "version"}
-},
-{
-    "key": "私人",
-    "name": "私人☪影院",
-    "type": 3,
-    "changeable": 0,
-    "api": "csp_AppYsV2",
-    "ext": "https://v.catcs.cc//api.php/v1.vod"
-},
-{
     "key": "冷心",
     "name": "冷心☪秒播",
     "type": 3,
@@ -427,20 +382,6 @@
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json"
 }, 
-{
-    "key": "csp_1817",
-    "name": "🪁壹捌🔹壹柒",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/壹捌.json"
-},
-{
-    "key": "csp_xBPQ_万能",
-    "name": "🌋万能🔹影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/万能.json"
-},
 {
     "key": "hipy_js_fantys",
     "name": "🍙饭团🔹影院",
@@ -1026,6 +967,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
