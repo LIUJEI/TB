@@ -764,7 +764,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
+    "ext": "./版本.json"
 }],
 
 "parses":[
@@ -950,6 +950,7 @@
       "playerType": 2
     }
 ]}
+
 
 
 
