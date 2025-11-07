@@ -8,27 +8,44 @@
 {
     "name": "当前更新",
     "url": "https://github.com/LIUJEI/TB/archive/refs/heads/master.zip",
-    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/dy/国庆.jpg",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/6758.gif",
     "version": "version"
 },
 {
     "name": "同步更新",
     "url": "https://github.com/LIUJEI/TB/archive/refs/heads/master.zip",
-    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/dy/天阁.jpg",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/tu1.jpg",
     "version": "version"
 },
 {
     "name": "本地待加",
     "url": "",
-    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/tu1.jpg",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/天阁.jpg",
     "version": ""
 },
 {
     "name": "本地待加",
     "url": "",
     "icon": "https://gitee.com/lyun_1_0/tb/raw/master/tu3.jpg",
+    "version": ""}]
+},
+{
+    "name": "应用中心",
+    "list": [
+{
+    "name": "影视下载",
+    "url": "",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/tu4.png",
+    "version": ""
+},
+{
+    "name": "影视下载",
+    "url": "",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/tu2.png",
     "version": ""
 }
 ]
 }
+]
+
 ]
