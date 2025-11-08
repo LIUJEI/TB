@@ -787,7 +787,7 @@
     "name": "🏁琉芸★智能解析★",
     "type": 1,
     "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-],  
+}],  
 "rules": [
        {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
        {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
@@ -902,3 +902,4 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
