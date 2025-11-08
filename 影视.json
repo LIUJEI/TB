@@ -767,34 +767,69 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
 }],
 
-"parses":[
-
-{
-    "name": "🌐自动聚合",
-    "type": 1,
-    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
-},
-{
-    "name": "晴天4K ",
-    "type": 1,
-    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-},
-{
-    "name": "白云",
-    "type": 1,
-    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
-    "ext": {"header": {"Accept": "*/*","Origin": "https://jx.xmflv.com"}}
-},
-{
-    "name": "🏁琉芸★智能嗅探★",
-    "type": 1,
-    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
-},
-{
-    "name": "🏁琉芸★智能解析★",
-    "type": 1,
-    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-}],  
+"parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "自定：请先设置",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+    },
+    {
+      "name": "晴天4K Q1026038872",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+    },
+    {
+      "name": "虎斑XM",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+      "ext": {
+        "header": {
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
+        }
+      }
+    },
+    {
+      "name": "虎斑szy",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
+    },
+    {
+      "name": "虎斑mt4K",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
+    },
+    {
+      "name": "虎斑HJ",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
+    },
+    {
+      "name": "虎斑WS",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
+    },
+    {
+      "name": "虎斑AB",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
+    },
+    {
+      "name": "虎斑V6",
+      "type": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
+    }
+  ],
 "rules": [
        {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
        {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
@@ -906,6 +941,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
