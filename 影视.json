@@ -769,14 +769,25 @@
 
 "parses":[
 {
-    "name":"🌐自动聚合",
-    "type":3,
-    "url": "Demo"
-},
-{
     "name": "☪虾米㊎",
     "type": 0,
     "url":"https://jx.xmflv.cc/?url="
+},
+{
+    "name": "🌐自动聚合",
+    "type": 1,
+    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+},
+{
+    "name": "晴天4K ",
+    "type": 1,
+    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+},
+{
+    "name": "白云",
+    "type": 1,
+    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
+    "ext": {"header": {"Accept": "*/*","Origin": "https://jx.xmflv.com"}}
 },
 {
     "name": "🏁琉芸★智能嗅探★",
@@ -797,9 +808,6 @@
        {"name": "新视觉嗅探","hosts": ["muzhi-video.bj.bcebos.com"],"regex": ["202403/"]},
        {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
        {"name": "海外看","hosts": ["haiwaikan"],"regex": ["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
-       {"name": "饭团点击","hosts": ["dadagui","freeok","dadagui"],
-       "script": ["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]},
-       {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
        {"name": "一起看广告","hosts": ["yqk88"],"regex": ["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
        {
         "name": "量子",
@@ -902,4 +910,5 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
