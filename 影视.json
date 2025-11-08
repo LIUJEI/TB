@@ -779,254 +779,126 @@
     "url":"https://jx.xmflv.cc/?url="
 },
 {
-    "name": "☪全网㊍",
-    "type": 0,
-    "url": "https://huayong.net/999/?v="
-},
-{
-    "name": "☪盘古㊌",
-    "type": 0,
-    "url": "https://www.pangujiexi.com/pangu/?url="
-},
-{
-    "name": "☪冰豆㊋",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url="
-},
-{
-    "name":"☪拉野㊏",
-    "type":0,
-    "url":"http://www.ckplayer.vip/jiexi/?url="
-},
-{
-    "name":"☪无边芸❂",
-    "type":"1",
-    "url":"http://114.66.40.16:7700/api.php?url="
-}, 
-{
-    "name":"☪芸解析❂",
-    "type":0,
-    "url":"https://jx.yparse.com/index.php?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-},
-{
-    "name": "☪爱奇艺❂",
-    "type": 0,
-    "url":"https://jx.m3u8.tv/jiexi/?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
-},    
-{
-    "name":"☪咸鱼❂",
-    "type":0,
-    "url":"https://jx.xymp4.cc/?url=",
-    "ext":{
-    "header":{
-    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-    "referer":"https://www.xyflv.cc/"}}
-}, 
-{
     "name": "🏁琉芸★智能嗅探★",
-    "url": "https://www.8090g.cn/jiexi/?url=",
-    "type": 0,
-    "ext": {
-    "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},
-    "header": {"User-Agent": "Mozilla/5.0"}
+    "type": 1,
+    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
 },
 {
     "name": "🏁琉芸★智能解析★",
-    "type": 0,
-    "url": "https://jx.xmflv.com/?url=",
-    "ext": {
-    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","芒果TV","tnmb","seven","bilibili","1905"],
-    "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}  
+    "type": 1,
+    "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
 ],  
-"flags": [
-    "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
-],
-"doh": [
-    {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
-    {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]},
-    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
-    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
-    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]}
-],
-"hosts": [
-    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
-],
 "rules": [
-    {"name": "头条","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
-    {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
-    {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
-    {"name": "農民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
-    {"name": "新视觉嗅探","hosts": ["muzhi-video.bj.bcebos.com"],"regex": ["202403/"]},
-    {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
-    {"name": "海外看","hosts": ["haiwaikan"],"regex": ["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
-    {"name": "饭团点击","hosts": ["dadagui","freeok","dadagui"],
-    "script": ["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]},
-    {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-    {"name": "毛驢點擊","hosts": ["www.maolvys.com"],"script": ["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]}
-],
-"ijk":[
-    {"group":"软解码","options":[
-    {"category":4,"name":"opensles","value":"0"},
-    {"category":4,"name":"overlay-format","value":"842225234"},
-    {"category":4,"name":"framedrop","value":"1"},
-    {"category":4,"name":"soundtouch","value":"1"},
-    {"category":4,"name":"start-on-prepared","value":"1"},
-    {"category":1,"name":"http-detect-range-support","value":"0"},
-    {"category":1,"name":"fflags","value":"fastseek"},
-    {"category":2,"name":"skip_loop_filter","value":"48"},
-    {"category":4,"name":"reconnect","value":"1"},
-    {"category":4,"name":"enable-accurate-seek","value":"0"},
-    {"category":4,"name":"mediacodec","value":"0"},
-    {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-    {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-    {"category":4,"name":"mediacodec-hevc","value":"0"},
-    {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}, 
-    {"group":"硬解码","options":[
-    {"category":4,"name":"opensles","value":"0"},
-    {"category":4,"name":"overlay-format","value":"842225234"},
-    {"category":4,"name":"framedrop","value":"1"},
-    {"category":4,"name":"soundtouch","value":"1"},
-    {"category":4,"name":"start-on-prepared","value":"1"},
-    {"category":1,"name":"http-detect-range-support","value":"0"},
-    {"category":1,"name":"fflags","value":"fastseek"},
-    {"category":2,"name":"skip_loop_filter","value":"48"},
-    {"category":4,"name":"reconnect","value":"1"},
-    {"category":4,"name":"enable-accurate-seek","value":"0"},
-    {"category":4,"name":"mediacodec","value":"1"},
-    {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-    {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-    {"category":4,"name":"mediacodec-hevc","value":"1"},
-    {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}], 
-    "ads":["static-mozai.4gtv.tv"], 
-"lives": [
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/iptv.m3u",
-      "ua": "okhttp/3.15",
-      "playerType": 2
-    }
-]}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
+       {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
+       {"name": "农民嗅探","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
+       {"name": "暴风","hosts": ["bfzy","bfbfvip","bfengbf"],"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts"]},
+       {"name": "头条","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},
+       {"name": "新视觉嗅探","hosts": ["muzhi-video.bj.bcebos.com"],"regex": ["202403/"]},
+       {"name": "七新嗅探","hosts": ["api.52wyb.com"],"regex": ["m3u8?pt=m3u8"]},
+       {"name": "海外看","hosts": ["haiwaikan"],"regex": ["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+       {"name": "饭团点击","hosts": ["dadagui","freeok","dadagui"],
+       "script": ["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]},
+       {"name": "夜市點擊","hosts": ["yeslivetv.com"],"script": ["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
+       {"name": "一起看广告","hosts": ["yqk88"],"regex": ["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
+       {
+        "name": "量子",
+        "hosts": ["vip.lz","hd.lz",".cdnlz"],
+        "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "17.19"]
+      },
+      {
+        "name": "非凡",
+        "hosts": ["vip.ffzy","hd.ffzy","super.ffzy"],
+        "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+        "17.99",
+        "14.45"]
+      },
+      {
+        "name": "索尼",
+        "hosts": ["suonizy"],
+        "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"]
+      },
+      {
+        "name": "快看",
+        "hosts": ["kuaikan"],
+        "regex": [
+        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+      },
+      {
+        "name": "磁力广告",
+        "hosts": ["magnet"],
+        "regex": [
+        "更多",
+        "请访问",
+        "example",
+        "社 區",
+        "x u u",
+        "直 播",
+        "更 新",
+        "社 区",
+        "有趣",
+        "有 趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+       ]}],
+"doh": [
+       {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
+       {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+       {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
+       {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
+       {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
+"ijk": [
+       {"group": "软解码","options": [
+       {"category": 4,"name": "opensles","value": "0"},
+       {"category": 4,"name": "overlay-format","value": "842225234"},
+       {"category": 4,"name": "framedrop","value": "1"},
+       {"category": 4,"name": "soundtouch","value": "1"},
+       {"category": 4,"name": "start-on-prepared","value": "1"},
+       {"category": 1,"name": "http-detect-range-support","value": "0"},
+       {"category": 1,"name": "fflags","value": "fastseek"},
+       {"category": 2,"name": "skip_loop_filter","value": "48"},
+       {"category": 4,"name": "reconnect","value": "1"},
+       {"category": 4,"name": "enable-accurate-seek","value": "0"},
+       {"category": 4,"name": "mediacodec","value": "0"},
+       {"category": 4,"name": "mediacodec-auto-rotate","value": "0"},
+       {"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},
+       {"category": 4,"name": "mediacodec-hevc","value": "0"},
+       {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]},
+       {"group": "硬解码","options": [
+       {"category": 4,"name": "opensles","value": "0"},
+       {"category": 4,"name": "overlay-format","value": "842225234"},
+       {"category": 4,"name": "framedrop","value": "1"},
+       {"category": 4,"name": "soundtouch","value": "1"},
+       {"category": 4,"name": "start-on-prepared","value": "1"},
+       {"category": 1,"name": "http-detect-range-support","value": "0"},
+       {"category": 1,"name": "fflags","value": "fastseek"},
+       {"category": 2,"name": "skip_loop_filter","value": "48"},
+       {"category": 4,"name": "reconnect","value": "1"},
+       {"category": 4,"name": "enable-accurate-seek","value": "0"},
+       {"category": 4,"name": "mediacodec","value": "1"},
+       {"category": 4,"name": "mediacodec-auto-rotate","value": "1"},
+       {"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},
+       {"category": 4,"name": "mediacodec-hevc","value": "1"},
+       {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
+ "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
+ "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
+ "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
