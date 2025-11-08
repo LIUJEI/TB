@@ -768,11 +768,7 @@
 }],
 
 "parses":[
-{
-    "name": "☪虾米㊎",
-    "type": 0,
-    "url":"https://jx.xmflv.cc/?url="
-},
+
 {
     "name": "🌐自动聚合",
     "type": 1,
@@ -910,5 +906,6 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
