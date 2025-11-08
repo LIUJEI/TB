@@ -5,6 +5,7 @@
     "spider": "https://www.lequxiang.com.cn/down.php/09312a5b1310b6c6e33be885b2cf6e43.txt;md5;09312a5b1310b6c6e33be885b2cf6e43",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 
 //数据接口====================================网站===============================================
 
@@ -506,35 +507,35 @@
     "key":"dr_奇异",
     "name":"💝奇艺🥝TV",
     "type":3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
 },
 {
     "key":"dr_优酷",
     "name":"💝优酷🧃TV",
     "type":3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
     "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"💝搜狗🦊TV",
     "type":3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
     "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
 },
 {
     "key":"dr_腾迅",
     "name":"💝腾讯🐧TV",
     "type":3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "💝哔哩💫TV",
     "type": 3,
-    "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+    "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
 },
 {
@@ -774,17 +775,12 @@
       "url": "Demo"
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
       "name": "自定：请先设置",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
     },
     {
-      "name": "晴天4K Q1026038872",
+      "name": "晴天4K ",
       "type": 1,
       "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
     },
@@ -938,9 +934,11 @@
        {"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},
        {"category": 4,"name": "mediacodec-hevc","value": "1"},
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
+
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
