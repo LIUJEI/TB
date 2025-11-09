@@ -768,64 +768,84 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
 }],
 
-"parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "自定：请先设置",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
-    },
-    {
-      "name": "晴天4K ",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-    },
-    {
-      "name": "虎斑XM",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
-      "ext": {
-        "header": {
-          "Accept": "*/*",
-          "Origin": "https://jx.xmflv.com"
-        }
-      }
-    },
-    {
-      "name": "虎斑szy",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getszyjx&url="
-    },
-    {
-      "name": "虎斑mt4K",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getmgtvjx&url="
-    },
-    {
-      "name": "虎斑HJ",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=gethuajx&url="
-    },
-    {
-      "name": "虎斑WS",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
-    },
-    {
-      "name": "虎斑AB",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-    },
-    {
-      "name": "虎斑V6",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
-    }
-  ],
+"parses":[
+{
+    "name":"🌐自动聚合",
+    "type":3,
+    "url": "Demo"
+},
+{
+    "name": "☪虾米㊎",
+    "type": 0,
+    "url":"https://jx.xmflv.cc/?url="
+},
+{
+    "name": "☪全网㊍",
+    "type": 0,
+    "url": "https://huayong.net/999/?v="
+},
+{
+    "name": "☪盘古㊌",
+    "type": 0,
+    "url": "https://www.pangujiexi.com/pangu/?url="
+},
+{
+    "name": "☪冰豆㊋",
+    "type": 0,
+    "url": "https://bd.jx.cn/?url="
+},
+{
+    "name":"☪拉野㊏",
+    "type":0,
+    "url":"http://www.ckplayer.vip/jiexi/?url="
+},
+{
+    "name":"☪无边芸❂",
+    "type":"1",
+    "url":"http://114.66.40.16:7700/api.php?url="
+},
+
+{
+    "name":"☪芸解析❂",
+    "type":0,
+    "url":"https://jx.yparse.com/index.php?url=",
+    "ext":{
+    "header":{
+    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+},
+{
+    "name": "☪爱奇艺❂",
+    "type": 0,
+    "url":"https://jx.m3u8.tv/jiexi/?url=",
+    "ext":{
+    "header":{
+    "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
+},    
+{
+    "name":"☪咸鱼❂",
+    "type":0,
+    "url":"https://jx.xymp4.cc/?url=",
+    "ext":{
+    "header":{
+    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+    "referer":"https://www.xyflv.cc/"}}
+}, 
+{
+    "name": "🏁琉芸★智能嗅探★",
+    "url": "https://www.8090g.cn/jiexi/?url=",
+    "type": 0,
+    "ext": {
+    "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},
+    "header": {"User-Agent": "Mozilla/5.0"}
+},
+{
+    "name": "🏁琉芸★智能解析★",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {
+    "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","芒果TV","tnmb","seven","bilibili","1905"],
+    "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}  
+],
 "rules": [
        {"name": "火山嗅探","hosts": ["huoshan.com"],"regex": ["item_id="]},
        {"name": "抖音嗅探","hosts": ["douyin.com"],"regex": ["is_play_url="]},
@@ -938,6 +958,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
