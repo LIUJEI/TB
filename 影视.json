@@ -136,17 +136,6 @@
     "version": ""}
 },
 {
-    "key": "爱影",
-    "name": "爱影☪弹幕",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-    "dataKey": "sada21321sdq231d",
-    "dataIv": "sada21321sdq231d"}
-},
-{
     "key": "csp_爱看",
     "name": "爱看☪秒播",
     "type": 3,
@@ -169,6 +158,18 @@
     "dataIv": "AJcdjkAjkdJDkvcd"}
 },
 {
+    "key": "csp_仓鼠",
+    "name": "仓鼠☪弹幕",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+    "dataKey": "da61247f5b662597",
+    "dataIv": "da61247f5b662597",
+    "deviceId": "",
+    "version": "120"}
+},
+{
     "key": "数字",
     "name": "数字☪弹幕",
     "type": 3,
@@ -177,18 +178,6 @@
     "url": "http://app1-0-0.87333.cc",
     "dataKey": "VwsHxkCViDXEExWa",
     "dataIv": "VwsHxkCViDXEExWa"}
-},
-{
-    "key": "csp_若惜",
-    "name": "若惜☪弹幕",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "https://appcms.rx4k.top",
-    "dataKey": "ZX10ysTYZWtIJCTU",
-    "dataIv": "ZX10ysTYZWtIJCTU",
-    "deviceId": "",
-    "version": "120"}
 },
 {
     "key": "csp_旗星",
@@ -318,26 +307,13 @@
     "version": ""}
 },
 {
-    "key": "csp_仓鼠",
-    "name": "仓鼠☪弹幕",
+    "key": "csp_若惜",
+    "name": "若惜☪弹幕",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "csp_AppMuou",
     "ext": {
-    "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-    "dataKey": "da61247f5b662597",
-    "dataIv": "da61247f5b662597",
-    "deviceId": "",
-    "version": "120"}
-},
-{
-    "key": "于浅",
-    "name": "于浅☪影視",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://202.140.143.116:88",
-    "dataKey": "leroulerop.lerom",
-    "dataIv": "leroulerop.lerom"}
+    "url": "http://app.yiyi521.top",
+    "name": "YIYI影视"}
 },
 {
     "key": "冷心",
@@ -958,6 +934,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
