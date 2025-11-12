@@ -348,8 +348,7 @@
 	"name": "🏘️玫瑰🔹小镇",
 	"type": 3,
 	"api": "csp_XBPQ",
-	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-    "副标题": "琉芸专属+right\">&&<",
+	"ext": {
 	"请求头": "User-Agent$MOBILE_UA",
 	"编码": "UTF-8",
 	"分类url": "http://dyxz.tv/;;!H"}
@@ -359,8 +358,7 @@
 	"name": "🚁快快🔹影视",
 	"type": 3,
 	"api": "csp_XBPQ",
-	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-    "副标题": "琉芸专属+right\">&&<",
+	"ext": {
 	"请求头": "User-Agent$MOBILE_UA",
 	"编码": "UTF-8",
 	"分类url": "https://4k4k.live/;;!H"}
@@ -968,6 +966,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
