@@ -88,18 +88,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_蘑菇",
-    "name": "蘑菇☪秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-    "dataKey": "sada21321sdq231d",
-    "dataIv": "sada21321sdq231d",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "紫金草视频",
     "name": "紫金☪秒播",
     "type": 3,
@@ -307,6 +295,17 @@
     "version": ""}
 },
 {
+    "key": "瑞奇影视",
+    "name": "瑞奇☪弹幕",
+    "type": 3,
+    "searchable": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://rqxk.gdata.fun",
+    "dataKey": "yangruiqiYsapp00",
+    "dataIv": "yangruiqiYsapp00"}
+},
+{
     "key": "csp_YIYI",
     "name": "若惜☪弹幕",
     "type": 3,
@@ -345,12 +344,47 @@
     "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
 },
 {
+	"key": "csp_小镇",
+	"name": "🏘️玫瑰🔹小镇",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "副标题": "琉芸专属+right\">&&<",
+	"请求头": "User-Agent$MOBILE_UA",
+	"编码": "UTF-8",
+	"分类url": "http://dyxz.tv/;;!H"}
+},
+{
+	"key": "csp_快快",
+	"name": "🚁快快🔹影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "副标题": "琉芸专属+right\">&&<",
+	"请求头": "User-Agent$MOBILE_UA",
+	"编码": "UTF-8",
+	"分类url": "https://4k4k.live/;;!H"}
+},
+{	
+	"key":"csp_永乐影视",
+	"name":"🎷永乐🔹秒播",
+	"type":3,
+	"api":"csp_XBPQ",
+	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "副标题": "琉芸专属+right\">&&<",
+	"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "永乐视频$9#电影$1#国产剧$13#电视剧$2#综艺$3#动漫$4",
+    "类型": "",
+    "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
+},
+{
     "key": "csp_xBPQ_柠檬",
     "name": "🍋柠檬🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json"
-},
+},	
 {
     "key": " csp_XB_天狗",
     "name": "🐶天狗🔹影視",
@@ -388,6 +422,22 @@
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
+    "key":"csp_XYQH_奇趣影视",
+    "name":"🧨奇趣🔹影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇趣.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+},
+{
+    "key":"csp_XYQH_看戏",
+    "name":"📺看戏🔹影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/看戏.json",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+},
+{
     "key": "hipy_js_reys",
     "name": "👨🏻‍🎓人人🔹影院",
     "type": 3,
@@ -407,29 +457,6 @@
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/天龙.js"
-},
-{
-    "key": "hipy_js_北川影视",
-    "name": "⛲北川🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/北川.js"
-},
-{
-    "key":"csp_XYQH_奇趣影视",
-    "name":"🧨奇趣🔹影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇趣.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
-},
-{
-    "key":"csp_XYQH_看戏",
-    "name":"📺看戏🔹影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/看戏.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
     "key": "csp_Jpys_金牌",
@@ -750,6 +777,14 @@
     "url": "Demo"
 },
 {
+	"name": "🌐白白聚合",
+	"type": "1",
+	"url": "http://120.46.190.255/小白白.php?url=",
+	"ext": {
+	"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","leshi","imgo","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","m1905"],
+	"header": {"User-Agent": "okhttp/4.9.1"}}
+},
+{
     "name": "☪虾米㊎",
     "type": 0,
     "url":"https://jx.xmflv.cc/?url="
@@ -933,6 +968,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
