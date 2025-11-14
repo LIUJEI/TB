@@ -306,12 +306,15 @@
     "dataIv": "yangruiqiYsapp00"}
 },
 {
-    "key": "csp_YIYI",
-    "name": "若惜☪弹幕",
-    "type": 3,
-    "api": "csp_AppMuou",
-    "ext": {
-    "url": "http://app.yiyi521.top","name": "YIYI影视"}
+   "key": "茉莉",
+   "name": "茉莉☪弹幕",
+   "type": 3,
+   "searchable": 1,
+   "api": "csp_AppGet",
+   "ext": {
+   "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+   "dataKey": "88689667dce61725",
+   "dataIv": "88689667dce61725"}
 },
 {
     "key": "冷心",
@@ -946,6 +949,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
