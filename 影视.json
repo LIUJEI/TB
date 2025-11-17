@@ -137,7 +137,7 @@
 },
 {
     "key": "csp_星空",
-    "name": "星空☪弹幕",
+    "name": "星空☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -147,7 +147,7 @@
 },
 {
     "key": "csp_仓鼠",
-    "name": "仓鼠☪弹幕",
+    "name": "仓鼠☪影視",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -159,7 +159,7 @@
 },
 {
    "key": "csp_茉莉",
-   "name": "茉莉☪弹幕",
+   "name": "茉莉☪影視",
    "type": 3,
    "searchable": 1,
    "api": "csp_AppGet",
@@ -170,7 +170,7 @@
 },
 {
     "key": "csp_魔方",
-    "name": "魔方☪影视",
+    "name": "魔方☪影視",
     "type": 3,
     "searchable": 1,
     "changeable": 1,
@@ -182,7 +182,7 @@
 },
 {
     "key": "csp_客星",
-    "name": "小虎☪影视",
+    "name": "小虎☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -194,7 +194,7 @@
 },
 {
     "key": "csp_小猫",
-    "name": "小猫☪影视",
+    "name": "小猫☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -204,7 +204,7 @@
 },
 {
     "key": "csp_数字",
-    "name": "数字☪弹幕",
+    "name": "数字☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -238,7 +238,7 @@
 },
 {
     "key": "csp_驿站",
-    "name": "驿站☪弹幕",
+    "name": "驿站☪影视",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -250,7 +250,7 @@
 },
 {
     "key": "csp_稀饭",
-    "name": "稀饭☪弹幕",
+    "name": "稀饭☪影视",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -293,6 +293,26 @@
     "dataIv": "mayday6770249ash"}
 },
 {
+    "key": "坚果",
+    "name": "坚果☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
+    "dataKey": "2015692015692015",
+    "dataIv": "2015692015692015",
+    "deviceId": "deviceId",
+    "version": "versio"}
+},
+{
+    "key": "私人",
+    "name": "私人☪影视",
+    "type": 3,
+    "changeable": 1,
+    "api": "csp_AppYsV2",
+    "ext": "https://v.catcs.cc/api.php/v1.vod"
+},
+{
     "key": "nangua",
     "name": "南瓜☪影視",
     "type": 3,
@@ -310,7 +330,7 @@
 },
 {	
 	"key":"csp_永乐影视",
-	"name":"🎷永乐🔹秒播",
+	"name":"🎷永乐🔹影視",
 	"type":3,
 	"api":"csp_XBPQ",
 	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
@@ -911,6 +931,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
