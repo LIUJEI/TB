@@ -77,7 +77,7 @@
     "version": "120"}
 },
 {
-    "key": "开心",
+    "key": "csp_开心",
     "name": "开心☪秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -88,7 +88,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "紫金草视频",
+    "key": "csp_紫金草视频",
     "name": "紫金☪秒播",
     "type": 3,
     "api": "csp_AppGet",
@@ -136,7 +136,7 @@
     "version": ""}
 },
 {
-    "key": "星空",
+    "key": "csp_星空",
     "name": "星空☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
@@ -158,7 +158,52 @@
     "version": "120"}
 },
 {
-    "key": "数字",
+   "key": "csp_茉莉",
+   "name": "茉莉☪弹幕",
+   "type": 3,
+   "searchable": 1,
+   "api": "csp_AppGet",
+   "ext": {
+   "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+   "dataKey": "88689667dce61725",
+   "dataIv": "88689667dce61725"}
+},
+{
+    "key": "csp_魔方",
+    "name": "魔方☪影视",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://app.ybn-ooo.top",
+    "dataKey": "vcfgytu7654rtyui",
+    "dataIv": "vcfgytu7654rtyui"}
+},
+{
+    "key": "csp_客星",
+    "name": "小虎☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://bind.315999.xyz/89.txt",
+    "dataKey": "#getapp@TMD@2025",
+    "dataIv": "#getapp@TMD@2025",
+    "deviceId": "",
+    "version": "120"}
+},
+{
+    "key": "csp_小猫",
+    "name": "小猫☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
+    "dataKey": "xmyxmyxywlkjxywl",
+    "dataIv": "xmyxmyxywlkjxywl"}
+},
+{
+    "key": "csp_数字",
     "name": "数字☪弹幕",
     "type": 3,
     "api": "csp_AppGet",
@@ -180,30 +225,6 @@
     "version": "120"}
 },
 {
-    "key": "csp_火狐",
-    "name": "火狐☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://huohu.yihn.cc",
-    "dataKey": "huohushipingetap",
-    "dataIv": "huohushipingetap",
-    "deviceId": "",
-    "version": "140"}
-},
-{
-    "key": "csp_热剧",
-    "name": "热剧☪天堂",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "https://www.rebovod.com",
-    "dataKey": "8191A7F47B37882F",
-    "dataIv": "8191A7F47B37882F",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "csp_追剧狂人",
     "name": "狂人☪追剧",
     "type": 3,
@@ -214,18 +235,6 @@
     "dataIv": "vXeyuJFqTKqWUtWU",
     "deviceId": "",
     "version": ""}
-},
-{
-    "key": "csp_客星",
-    "name": "小虎☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://bind.315999.xyz/89.txt",
-    "dataKey": "#getapp@TMD@2025",
-    "dataIv": "#getapp@TMD@2025",
-    "deviceId": "",
-    "version": "120"}
 },
 {
     "key": "csp_驿站",
@@ -260,17 +269,6 @@
     "dataIv": "k9o3p2c8b7m3z0o8"}
 },
 {
-    "key": "csp_莱米",
-    "name": "莱米☪弹幕",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-    "dataKey": "ce032244d093b3e2",
-    "dataIv": "ce032244d093b3e2"}
-},
-{
     "key": "csp_batian",
     "name": "八天☪电影",
     "type": 3,
@@ -283,52 +281,16 @@
     "version": ""}
 },
 {
-    "key": "csp_HG影视",
-    "name": "全网☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://ios.hgyx.vip",
-    "dataKey": "062dec75d039980e",
-    "dataIv": "062dec75d039980e",
-    "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "瑞奇影视",
-    "name": "瑞奇☪弹幕",
+    "key": "柒月",
+    "name": "柒月☪影视",
     "type": 3,
     "searchable": 1,
+    "changeable": 1,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://rqxk.gdata.fun",
-    "dataKey": "yangruiqiYsapp00",
-    "dataIv": "yangruiqiYsapp00"}
-},
-{
-   "key": "茉莉",
-   "name": "茉莉☪弹幕",
-   "type": 3,
-   "searchable": 1,
-   "api": "csp_AppGet",
-   "ext": {
-   "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-   "dataKey": "88689667dce61725",
-   "dataIv": "88689667dce61725"}
-},
-{
-    "key": "冷心",
-    "name": "冷心☪秒播",
-    "type": 3,
-    "api": "csp_AppMuou",
-    "ext": {"url": "http://app.789dd.cn","name": "火猫影视"}
-},
-{
-    "key": "csp_文采",
-    "name": "文采☪影院",
-    "type": 3,
-    "api": "csp_AppMuou",
-    "ext": {"site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt","name": "金牌影院（请断网再安装）"}
+    "url": "https://www.ys.mk",
+    "dataKey": "mayday6770249ash",
+    "dataIv": "mayday6770249ash"}
 },
 {
     "key": "nangua",
@@ -949,6 +911,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
