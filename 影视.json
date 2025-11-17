@@ -374,7 +374,7 @@
     "name": "布蕾☪影視",
     "type": 3,
     "api": "csp_AppQi",
-    "jar": "https://pan.qingyuji.cn/f/d/qG3VfD/1117.png",
+    "jar": "https://pan.qingyuji.cn/f/d/qG3VfD/1117.png;md5;398269a135696bab40747b2ec1d76fba",
     "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
 },
 {	
@@ -980,6 +980,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
