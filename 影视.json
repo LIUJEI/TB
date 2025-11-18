@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "https://www.lequxiang.com.cn/down.php/09312a5b1310b6c6e33be885b2cf6e43.txt;md5;09312a5b1310b6c6e33be885b2cf6e43",
+    "spider": "https://www.lequxiang.com.cn/down.php/d953efb664c8ae87cfc09dbb6a3f38b4.jar;md5;fea703aa18754f6c55dd20906be14867",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
@@ -378,17 +378,15 @@
     "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
 },
 {	
-	"key":"csp_永乐影视",
-	"name":"🎷永乐🔹影視",
-	"type":3,
-	"api":"csp_XBPQ",
-	"ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-    "副标题": "琉芸专属",
-	"请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "永乐视频$9#电影$1#国产剧$13#电视剧$2#综艺$3#动漫$4",
-    "类型": "",
-    "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
+	"key": "csp_茉小影",
+    "name": "🪁茉影🔹视频",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "首页": "https://www.moxy.top",
+    "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
+    "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+    "图片": "data-src=\"&&\""}
 },
 {
     "key": "csp_xBPQ_柠檬",
@@ -442,14 +440,6 @@
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
 },
 {
-    "key":"csp_XYQH_看戏",
-    "name":"📺看戏🔹影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/BPQ/看戏.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
-},
-{
     "key": "hipy_js_reys",
     "name": "👨🏻‍🎓人人🔹影院",
     "type": 3,
@@ -462,13 +452,6 @@
     "type": 3,
     "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/老王.js"
-},
-{
-    "key": "hipy_js_tianlys",
-    "name": "🐉天龙🔹影院",
-    "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/天龙.js"
 },
 {
     "key": "csp_Jpys_金牌",
@@ -501,8 +484,7 @@
     "key": "csp_Gz360",
 	"name": "🍉瓜子🔹影视",
 	"type": 3,
-	"api": "csp_Gz360",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+	"api": "csp_Gz360"
 },
 {
     "key": "csp_SP360",
@@ -593,12 +575,6 @@
     "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JWDJ.py"
 },
 {
-    "key": "锦鲤短剧",
-    "name": "♨️锦鲤®短剧",
-    "type": 3,
-    "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JLDJ.py"
-},
-{
     "key": "老王影院",
     "name": "♨️老王®短劇",
     "type": 3,
@@ -617,7 +593,7 @@
     "name":"♨️短劇®剧网",
     "type":3,
     "api":"csp_XBPQ", 
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
     "分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"} 
 },
@@ -637,7 +613,7 @@
     "name":"♨️抖音®短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类url":"https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
     "分类":"♨️抖音短剧$5"}
 },
@@ -646,7 +622,7 @@
     "name":"♨️蝶众®短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类":"♨️蝶众短剧$6",
     "分类url":"https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
 },
@@ -655,7 +631,7 @@
     "name":"♨️兰岛®短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类":"♨️兰岛短剧$20",
     "分类url":"https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
 },
@@ -664,7 +640,7 @@
     "name":"♨️九洲®短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
 	"分类url":"https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
     "分类":"♨️九洲短剧$5",
     "搜索url":"https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}
@@ -674,10 +650,18 @@
     "name":"♨️五五®短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
 	"分类url":"https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
     "分类":"♨️五五短剧$1",
     "搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
+},
+{
+    "key": "xbpq_茅台",
+    "name": "♨️短剧®茅台",
+    "type": 0,
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+    "playurl": "json:https://mtjiexi.cc:966/?url=",
+    "categories": ["短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑"]
 },
 {
     "key": "csp_闪影",
@@ -980,6 +964,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
