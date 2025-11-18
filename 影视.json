@@ -317,19 +317,6 @@
     "version": "version"}
 },
 {
-    "key": "csp_莱米",
-    "name": "莱米☪弹幕",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-    "dataKey": "ce032244d093b3e2",
-    "dataIv": "ce032244d093b3e2",
-    "deviceId": "",
-    "version": "version"}
-},
-{
     "key": "csp_HG影视",
     "name": "全网☪影视",
     "type": 3,
@@ -341,18 +328,6 @@
     "deviceId": "",
     "version": "version"}
 },	
-{
-    "key": "坚果",
-    "name": "坚果☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
-    "dataKey": "2015692015692015",
-    "dataIv": "2015692015692015",
-    "deviceId": "deviceId",
-    "version": "versio"}
-},
 {
     "key": "私人",
     "name": "私人☪影视",
@@ -382,6 +357,7 @@
     "name": "🪁茉影🔹视频",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar",
     "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "首页": "https://www.moxy.top",
     "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
@@ -393,7 +369,8 @@
     "name": "🍙饭团🔹影院",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
+    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
 },  
 {
     "key": "hipy_js_TVBys",
@@ -790,14 +767,6 @@
     "url": "Demo"
 },
 {
-	"name": "🌐白白聚合",
-	"type": "1",
-	"url": "http://120.46.190.255/小白白.php?url=",
-	"ext": {
-	"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","leshi","imgo","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","m1905"],
-	"header": {"User-Agent": "okhttp/4.9.1"}}
-},
-{
     "name": "☪虾米㊎",
     "type": 0,
     "url":"https://jx.xmflv.cc/?url="
@@ -981,6 +950,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
