@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "https://www.lequxiang.com.cn/down.php/d953efb664c8ae87cfc09dbb6a3f38b4.jar;md5;fea703aa18754f6c55dd20906be14867",
+    "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/sa.jar;md5;057dacae6a38ab13270a5cb179622726",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 	"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
@@ -134,16 +134,6 @@
     "dataIv": "uI1TkPJC8B46AyN3",
     "deviceId": "",
     "version": ""}
-},
-{
-    "key": "csp_星空",
-    "name": "星空☪影視",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://xkcms.xkgzs.xyz",
-    "dataKey": "AJcdjkAjkdJDkvcd",
-    "dataIv": "AJcdjkAjkdJDkvcd"}
 },
 {
     "key": "csp_仓鼠",
@@ -327,7 +317,17 @@
     "dataIv": "062dec75d039980e",
     "deviceId": "",
     "version": "version"}
-},	
+},
+{
+    "key": "csp_金牌",
+    "name": "文采☪影院",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+    "dataKey": "kecbio48dsq131ed",
+    "dataIv": "kecbio48dsq131ed"}
+},
 {
     "key": "私人",
     "name": "私人☪影视",
@@ -335,6 +335,50 @@
     "changeable": 1,
     "api": "csp_AppYsV2",
     "ext": "https://v.catcs.cc/api.php/v1.vod"
+},
+{
+    "key": "csp_思念",
+    "name": "思念☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "https://snys2.xyz","timeout": 15,"ver": 2}
+},
+{
+    "key": "csp_空星",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://fox.qwqfun.com"}
+},
+{
+    "key": "csp_极兔",
+    "name": "极兔☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://www.mzd.asia"}
+},
+{
+    "key": "csp_二三",
+    "name": "二三☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://a.cfys.xn--fiqs8s"}
+},
+{
+    "key": "火猫视界",
+	"name": "火猫☪wifi专用",
+	"type": 3,
+	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
+},
+{
+    "key": "csp_羊羊",
+    "name": "羊羊☪学院",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "csp_AppMuou",
+    "ext": {"url": "https://ht.zhenxun.love","name": "羊羊学院"}
 },
 {
     "key": "nangua",
@@ -349,7 +393,7 @@
     "name": "布蕾☪影視",
     "type": 3,
     "api": "csp_AppQi",
-    "jar": "https://pan.qingyuji.cn/f/d/qG3VfD/1117.png;md5;398269a135696bab40747b2ec1d76fba",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar",
     "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZs2oYEHsmeJ7qO916dp7EwGSHrLa99AaS96nuzx3wbRg9O4Syz4DgXRB/Lb2vvIW/H"
 },
 {	
@@ -950,6 +994,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
