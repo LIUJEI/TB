@@ -205,18 +205,6 @@
     "dataIv": "685bf108bc47b67d"}
 },
 {
-    "key": "csp_魔方",
-    "name": "魔方☪影視",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://app.ybn-ooo.top",
-    "dataKey": "vcfgytu7654rtyui",
-    "dataIv": "vcfgytu7654rtyui"}
-},
-{
     "key": "csp_冷心",
     "name": "冷心☪影視",
     "type": 3,
@@ -235,27 +223,6 @@
     "url": "http://103.23.148.70:14500",
     "dataKey": "J6AIORKJ3PQOJKM8",
     "dataIv": "J6AIORKJ3PQOJKM8"}
-},
-{
-    "key": "csp_xingk",
-    "name": "星空☪影視",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://43.154.4.75",
-    "dataKey": "HDk-7CnlK8SQUGLg",
-    "dataIv": "HDk-7CnlK8SQUGLg"}
-},
-{
-    "key": "csp_莱米",
-    "name": "莱米☪影視",
-    "type": 3,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-    "dataKey": "ce032244d093b3e2",
-    "dataIv": "ce032244d093b3e2"}
 },
 {
     "key": "csp_旗星",
@@ -328,18 +295,6 @@
     "version": ""}
 },
 {
-    "key": "csp_驿站",
-    "name": "驿站☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-    "dataKey": "dyyztvapiappyyds",
-    "dataIv": "dyyztvapiappyyds",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "csp_稀饭",
     "name": "稀饭☪影视",
     "type": 3,
@@ -386,6 +341,29 @@
     "version": "version"}
 },
 {
+    "key": "csp_莱米",
+    "name": "莱米☪影視",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+    "dataKey": "ce032244d093b3e2",
+    "dataIv": "ce032244d093b3e2"}
+},
+{
+    "key": "csp_魔方",
+    "name": "魔方☪影視",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://app.ybn-ooo.top",
+    "dataKey": "vcfgytu7654rtyui",
+    "dataIv": "vcfgytu7654rtyui"}
+},
+{
     "key": "csp_瑞奇",
     "name": "瑞奇☪APP",
     "type": 3,
@@ -407,6 +385,7 @@
     "deviceId": "",
     "version": "version"}
 },
+
 {
     "key": "csp_团夕",
     "name": "团夕☪wifi专用",
@@ -1012,6 +991,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
