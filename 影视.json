@@ -39,51 +39,6 @@
     "ext": {"url": "http://v.lkuys.cn"}
 },
 {
-    "key": "csp_思念",
-    "name": "思念☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "https://snys2.xyz","timeout": 15,"ver": 2}
-},
-{
-    "key": "csp_空星",
-    "name": "星空☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "http://fox.qwqfun.com"}
-},
-{
-    "key": "csp_极兔",
-    "name": "极兔☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "http://www.mzd.asia"}
-},
-{
-    "key": "csp_二三",
-    "name": "贰叁☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "http://a.cfys.xn--fiqs8s"}
-},
-{
-    "key": "csp_羊羊",
-    "name": "羊羊☪学院",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "api": "csp_AppMuou",
-    "ext": {"url": "https://ht.zhenxun.love","name": "羊羊学院"}
-},
-{
-    "key": "私人",
-    "name": "私人☪影视",
-    "type": 3,
-    "changeable": 1,
-    "api": "csp_AppYsV2",
-    "ext": "https://v.catcs.cc/api.php/v1.vod"
-},
-{
     "key": "csp_花小猪",
     "name": "花猪☪秒播",
     "type": 3,
@@ -146,30 +101,6 @@
     "version": "120"}
 },
 {
-    "key": "csp_鲸鱼",
-    "name": "鲸鱼☪秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-    "dataKey": "AAdgrdghjfgswerA",
-    "dataIv": "AAdgrdghjfgswerA",
-    "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "csp_旗星",
-    "name": "旗星☪影視",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://ys.qist.top",
-    "dataKey": "2SWSPFxugBLPPOKo",
-    "dataIv": "2SWSPFxugBLPPOKo",
-    "deviceId": "",
-    "version": "120"}
-},
-{
     "key": "csp_仓鼠",
     "name": "仓鼠☪影視",
     "type": 3,
@@ -182,6 +113,18 @@
     "version": "120"}
 },
 {
+    "key": "csp_鲸鱼",
+    "name": "鲸鱼☪秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+    "dataKey": "AAdgrdghjfgswerA",
+    "dataIv": "AAdgrdghjfgswerA",
+    "deviceId": "",
+    "version": ""}
+},
+{
    "key": "csp_茉莉",
    "name": "茉莉☪影視",
    "type": 3,
@@ -191,6 +134,140 @@
    "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
    "dataKey": "88689667dce61725",
    "dataIv": "88689667dce61725"}
+},
+{
+    "key": "csp_思念",
+    "name": "思念☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "https://snys2.xyz","timeout": 15,"ver": 2}
+},
+{
+    "key": "csp_空星",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://fox.qwqfun.com"}
+},
+{
+    "key": "csp_极兔",
+    "name": "极兔☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://www.mzd.asia"}
+},
+{
+    "key": "csp_二三",
+    "name": "贰叁☪影視",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "http://a.cfys.xn--fiqs8s"}
+},
+{
+    "key": "csp_羊羊",
+    "name": "羊羊☪学院",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "csp_AppMuou",
+    "ext": {"url": "https://ht.zhenxun.love","name": "羊羊学院"}
+},
+{
+    "key": "csp_文采",
+    "name": "文采☪影院",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+    "dataKey": "kecbio48dsq131ed",
+    "dataIv": "kecbio48dsq131ed"}
+},
+{
+    "key": "csp_鹤雪",
+    "name": "鹤雪☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://hxys.07hx.shop",
+    "dataKey": "hex200762200762.",
+    "dataIv": "hex200762200762."}
+},
+{
+    "key": "csp_新剧",
+    "name": "新剧☪影視",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://211.154.24.56:8369",
+    "dataKey": "685bf108bc47b67d",
+    "dataIv": "685bf108bc47b67d"}
+},
+{
+    "key": "csp_魔方",
+    "name": "魔方☪影視",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://app.ybn-ooo.top",
+    "dataKey": "vcfgytu7654rtyui",
+    "dataIv": "vcfgytu7654rtyui"}
+},
+{
+    "key": "csp_冷心",
+    "name": "冷心☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://dy.58ys.vip",
+    "dataKey": "JEWibY1AgWF0V1xx",
+    "dataIv": "JEWibY1AgWF0V1xx"}
+},
+{
+    "key": "csp_huom",
+    "name": "火猫☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://103.23.148.70:14500",
+    "dataKey": "J6AIORKJ3PQOJKM8",
+    "dataIv": "J6AIORKJ3PQOJKM8"}
+},
+{
+    "key": "csp_xingk",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://43.154.4.75",
+    "dataKey": "HDk-7CnlK8SQUGLg",
+    "dataIv": "HDk-7CnlK8SQUGLg"}
+},
+{
+    "key": "csp_莱米",
+    "name": "莱米☪影視",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+    "dataKey": "ce032244d093b3e2",
+    "dataIv": "ce032244d093b3e2"}
+},
+{
+    "key": "csp_旗星",
+    "name": "旗星☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://ys.qist.top",
+    "dataKey": "2SWSPFxugBLPPOKo",
+    "dataIv": "2SWSPFxugBLPPOKo",
+    "deviceId": "",
+    "version": "120"}
 },
 {
     "key": "柒月",
@@ -206,7 +283,7 @@
 },
 {
     "key": "csp_客星",
-    "name": "小虎☪影視",
+    "name": "柚子☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -329,16 +406,6 @@
     "dataIv": "062dec75d039980e",
     "deviceId": "",
     "version": "version"}
-},
-{
-    "key": "csp_金牌",
-    "name": "文采☪影院",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
-    "dataKey": "kecbio48dsq131ed",
-    "dataIv": "kecbio48dsq131ed"}
 },
 {
     "key": "csp_团夕",
@@ -945,6 +1012,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
