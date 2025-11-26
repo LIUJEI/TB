@@ -143,8 +143,8 @@
     "ext": {"host": "https://snys2.xyz","timeout": 15,"ver": 2}
 },
 {
-    "key": "csp_空星",
-    "name": "星空☪影視",
+    "key": "csp_富农",
+    "name": "富农☪影視",
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "http://fox.qwqfun.com"}
@@ -385,7 +385,30 @@
     "deviceId": "",
     "version": "version"}
 },
-
+{
+    "key": "csp_驿站",
+    "name": "驿站☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+    "dataKey": "dyyztvapiappyyds",
+    "dataIv": "dyyztvapiappyyds",
+    "deviceId": "",
+    "version": ""}
+},
+{
+    "key": "星星",
+    "name": "星星☪影视",
+    "type": 3,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://starani.qcanime.xyz",
+    "dataKey": "123456789StarAni",
+    "dataIv": "123456789StarAni",
+    "ua": "okhttp/3.10.0 BDYS/109.0.0.8"}
+},
 {
     "key": "csp_团夕",
     "name": "团夕☪wifi专用",
@@ -991,6 +1014,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
