@@ -143,26 +143,11 @@
     "ext": {"host": "http://fox.tvmao.top"}
 },
 {
-    "key": "csp_富农",
-    "name": "富农☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "http://fox.qwqfun.com"},
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/sa.jar"
-},
-{
     "key": "csp_极兔",
     "name": "极兔☪影視",
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "https://www.dhxxfhsz.top","ver": 2}
-},
-{
-    "key": "csp_二三",
-    "name": "贰叁☪影視",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "http://a.cfys.xn--fiqs8s"}
 },
 {
     "key": "csp_星空",
@@ -977,6 +962,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
