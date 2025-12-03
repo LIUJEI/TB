@@ -150,12 +150,32 @@
     "ext": {"host": "https://www.dhxxfhsz.top","ver": 2}
 },
 {
-    "key": "csp_星空",
+    "key": "星空",
     "name": "星空☪影視",
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "http://fox.qwqfun.com"}
 },
+{
+    "key": "星空",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://43.154.4.75",
+    "dataKey": "HDk-7CnlK8SQUGLg",
+    "dataIv": "HDk-7CnlK8SQUGLg"}
+},
+{
+    "key": "星空",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://xkcms.xkgzs.xyz",
+    "dataKey": "AJcdjkAjkdJDkvcd",
+    "dataIv": "AJcdjkAjkdJDkvcd"}
+},	
 {
     "key": "csp_文采",
     "name": "文采☪影院",
@@ -201,14 +221,14 @@
     "dataIv": "685bf108bc47b67d"}
 },
 {
-    "key": "csp_五八",
-    "name": "冷心☪影視",
+    "key": "csp_柒月",
+    "name": "柒月☪影视",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "https://dy.58ys.vip",
-    "dataKey": "JEWibY1AgWF0V1xx",
-    "dataIv": "JEWibY1AgWF0V1xx"}
+    "url": "https://www.ys.mk",
+    "dataKey": "mayday6770249ash",
+    "dataIv": "mayday6770249ash"}
 },
 {
     "key": "csp_huom",
@@ -334,18 +354,6 @@
     "version": "version"}
 },
 {
-    "key": "csp_驿站",
-    "name": "驿站☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-    "dataKey": "dyyztvapiappyyds",
-    "dataIv": "dyyztvapiappyyds",
-    "deviceId": "",
-    "version": ""}
-},
-{
     "key": "csp_客星",
     "name": "柚子☪影視",
     "type": 3,
@@ -356,6 +364,18 @@
     "dataIv": "#getapp@TMD@2025",
     "deviceId": "",
     "version": "120"}
+},
+{
+    "key": "csp_驿站",
+    "name": "驿站☪影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+    "dataKey": "dyyztvapiappyyds",
+    "dataIv": "dyyztvapiappyyds",
+    "deviceId": "",
+    "version": ""}
 },
 {
     "key": "csp_团夕",
@@ -962,6 +982,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
