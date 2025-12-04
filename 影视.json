@@ -369,7 +369,7 @@
 },
 {
     "key": "csp_团夕",
-    "name": "团夕☪wifi专用",
+    "name": "团夕☪影视",
     "type": 3,
     "searchable": 1,
     "quickSearch": 0,
@@ -382,26 +382,60 @@
 },	
 {
     "key": "火猫视界",
-	"name": "火猫☪wifi专用",
+	"name": "火猫☪影视",
 	"type": 3,
 	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
 },
 {
-    "key": "csp_my",
-    "name": "🕷蚂蚁🔹影视",
+    "key": "nangua",
+    "name": "南瓜☪影视",
     "type": 3,
-    "api": "https://www.lequxiang.com.cn/down.php/072e7d2e5c69f201f0bf58ee5ec55b2b.py",
-    "ext": "http://101.35.85.16:5555",
+    "api": "csp_NanGua",
+    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
+    "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j"
+},
+{
+    "key": "布蕾",
+    "name": "💣布蕾🔹影视",
+    "quickSearch": 1,
+    "searchable": 1,
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
+    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
+},
+{
+    "key":"下饭",
+    "name":"下饭☪影视", 
+    "type":3,
+    "api":"csp_Qiji",
+    "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
+    "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j"
+},
+{
+    "key": "追番达人",
+    "name": "🐂追忆🔹影视",
+    "type": 3,
+    "api": "csp_Appfox",
+    "ext": "https://fox.ystva.com",
+    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
 },
 {
     "key": "爱看fox",
-    "name": "👀爱看┃影视",
+    "name": "👀爱看🔹影视",
     "type": 3,
     "api": "csp_Appfox",
-    "ext": "https://www.lequxiang.com.cn/down.php/5c198f952ccff30dafbdb26b7e2a9c1c.json",
-    "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
-    },
+    "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
+    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
+}, 
+{
+    "key": "csp_my",
+    "name": "🕷蚂蚁🔹影视",
+    "type": 3,
+    "api": "https://13826.kstore.vip/AppToV5.py",
+    "ext": "http://101.35.85.16:5555"
+},
 {	
 	"key": "csp_茉小影",
     "name": "🪁茉影🔹视频",
@@ -1003,6 +1037,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
