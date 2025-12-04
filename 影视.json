@@ -387,6 +387,21 @@
 	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
 },
+{
+    "key": "csp_my",
+    "name": "🕷蚂蚁🔹影视",
+    "type": 3,
+    "api": "https://www.lequxiang.com.cn/down.php/072e7d2e5c69f201f0bf58ee5ec55b2b.py",
+    "ext": "http://101.35.85.16:5555",
+},
+{
+    "key": "爱看fox",
+    "name": "👀爱看┃影视",
+    "type": 3,
+    "api": "csp_Appfox",
+    "ext": "https://www.lequxiang.com.cn/down.php/5c198f952ccff30dafbdb26b7e2a9c1c.json",
+    "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    },
 {	
 	"key": "csp_茉小影",
     "name": "🪁茉影🔹视频",
@@ -441,7 +456,7 @@
 }, 
 {
     "key": "鲨鱼影视②",
-    "name": "鲨鱼🔹系列",
+    "name": "🐋鲨鱼🔹系列",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu2.json",
@@ -449,7 +464,7 @@
 },
 {
     "key": "鲨鱼影视③",
-    "name": "鲨鱼🔹系列",
+    "name": "🐋鲨鱼🔹系列",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu3.json",
@@ -457,7 +472,7 @@
 },
 {
     "key": "鲨鱼影视④",
-    "name": "鲨鱼🔹系列",
+    "name": "🐋鲨鱼🔹系列",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu4.json",
@@ -465,7 +480,7 @@
 },
 {
     "key": "鲨鱼影视①",
-    "name": "鲨鱼🔹系列",
+    "name": "🐋鲨鱼🔹系列",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu1.json",
@@ -988,6 +1003,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
