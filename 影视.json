@@ -389,7 +389,7 @@
 },
 {
     "key": "nangua",
-    "name": "南瓜☪影视",
+    "name": "🎃南瓜🔹影视",
     "type": 3,
     "api": "csp_NanGua",
     "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
@@ -407,7 +407,7 @@
 },
 {
     "key":"下饭",
-    "name":"下饭☪影视", 
+    "name":"🍚下饭🔹影视", 
     "type":3,
     "api":"csp_Qiji",
     "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
@@ -1037,6 +1037,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
