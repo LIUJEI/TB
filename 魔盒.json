@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -12,15 +12,14 @@
 {
     "key":"csp_魔盒",
     "name":"┣☪琉✿芸┫魔盒┃",
-    "type":3,
+    "type": 3,
     "api":"csp_XYQHiker",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar",
     "ext": {
-    "请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
+    "请求头参数": "User-Agent$手机#accept$text/html#Referer$https://vip.wwgz.cn:5200/",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
-    "首页推荐链接": "https://www.wwgz.cn",
+    "首页推荐链接": "https://vip.wwgz.cn:5200/",
     "首页列表数组规则": "body&&.globalPicList",
     "首页片单列表数组规则": "li:has(img)",
     "首页片单是否Jsoup写法": "1",
@@ -28,9 +27,10 @@
     "首页片单链接": "a&&href",
     "首页片单图片": "img&&data-echo||data-src||src",
     "首页片单副标题": ".sBottom&&Text",
-    "首页片单链接加前缀": "https://www.wwgz.cn",
+    "首页片单链接加前缀": "https://vip.wwgz.cn:5200/",
+    "首页片单链接加后缀": "",
     "分类起始页码": "1",
-    "分类链接": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html",
+    "分类链接": "https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html",
     "分类名称": "大陆&电影&电视剧&综艺&动漫&短剧",
     "分类名称替换词": "5&1&2&3&4&26",
     "筛选数据": "ext",
@@ -45,9 +45,10 @@
     "分类片单链接": "a&&href",
     "分类片单图片": "img&&data-echo||data-src||src",
     "分类片单副标题": ".sBottom&&Text",
-    "分类片单链接加前缀": "https://www.wwgz.cn",
-    "搜索请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
-    "search_url": "https://v.nmvod.cn/index.php?m=vod-search;post",
+    "分类片单链接加前缀": "https://vip.wwgz.cn:5200/",
+    "分类片单链接加后缀": "",
+    "搜索请求头参数": "User-Agent$手机#Referer$https://vip.wwgz.cn:5200/",
+    "search_url": "https://vip.wwgz.cn:5200/index.php?m=vod-search;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": "#data_list&&li",
@@ -56,7 +57,8 @@
     "sea_title": ".sTit&&Text",
     "sea_url": "a&&href",
     "搜索片单副标题": ".sDes,-1&&Text",
-    "搜索片单链接加前缀": "https://www.wwgz.cn",
+    "搜索片单链接加前缀": "https://vip.wwgz.cn:5200/",
+    "搜索片单链接加后缀": "",
     "链接是否直接播放": "0",
     "直接播放链接加前缀": "https://live.52sf.ga/huya/",
     "直接播放链接加后缀": "#isVideo=true#",
@@ -64,17 +66,18 @@
     "详情是否Jsoup写法": "1",
     "类型详情": ".type-title&&Text",
     "年代详情": "body&&span:contains(年代：)&&Text!年代：",
+    "地区详情": "",
     "演员详情": "body&&.sDes:contains(主演:)&&Text!主演:",
     "简介详情": ".detail-con&&p&&Text!简介:",
     "线路列表数组规则": "#leftTabBox&&ul&&li",
-    "线路标题": "Text[替换:默认=>💕琉芸👉专线]",
     "播放列表数组规则": "#leftTabBox&&.numList",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",
     "选集链接": "a&&href",
     "是否反转选集序列": "1",
-    "选集链接加前缀": "https://www.wwgz.cn",
+    "选集链接加前缀": "https://vip.wwgz.cn:5200/",
+    "选集链接加后缀": "",
     "分析MacPlayer": "0",
     "是否开启手动嗅探": "1",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#item/video#video_mp4#video/tos",
@@ -85,7 +88,6 @@
     "name":"┣☪琉✿芸┫盒子┃",
     "type":3,
 	"api":"csp_XYQHiker",
-	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar",
     "ext": {
     "请求头参数": "手机",
     "网页编码格式": "UTF-8",
@@ -1318,6 +1320,7 @@
 "lives": [
     {"name":"🈴刘公子","type":0,"url":"http://lzo.xh.sd/tvbox/live.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType":1,"timeout":10}
 ]}
+
 
 
 
