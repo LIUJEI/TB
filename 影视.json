@@ -546,14 +546,15 @@
     "name": "🌾农民🔹影視",
     "type": 3,
     "api": "csp_Wwys",
-    "ext": "https://www.wwgz.cn"
+    "ext": "https://vip.wwgz.cn:5200"
 },
 {
     "key":"csp_SaoHuo",
     "name":"🔥骚火🔹影視",
     "type":3,
-    "api":"csp_SaoHuo",
-    "ext":"https://shdy5.us"
+    "api": "csp_SaoHuo",
+    "playerType": 2,
+    "ext": "https://shdy5.us"
 },
 {
     "key": "csp_LiteApple",
@@ -565,7 +566,10 @@
     "key": "csp_Gz360",
 	"name": "🍉瓜子🔹影视",
 	"type": 3,
-	"api": "csp_Gz360"
+	"api": "csp_Gz360",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "csp_Qiyou",
@@ -991,40 +995,6 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
