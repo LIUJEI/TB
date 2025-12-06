@@ -436,12 +436,28 @@
     "api": "https://13826.kstore.vip/AppToV5.py",
     "ext": "http://101.35.85.16:5555"
 },
+{
+    "key": "AppQi3",
+    "name": "💣爆炸┃小米",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|okhttp/3.10.0",
+    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
+},
+{
+    "key": "若曦",
+    "name": "💣若曦┃小米",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0",
+    "jar": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png;md5;13bd3e6c4c887d3f139a347625a08bee"
+},
 {	
 	"key": "csp_茉小影",
     "name": "🪁茉影🔹视频",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar",
+	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar",
     "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "首页": "https://www.moxy.top",
     "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
@@ -454,7 +470,7 @@
     "type": 3,
     "api":"csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 },  
 {
     "key": "hipy_js_TVBys",
@@ -462,7 +478,7 @@
     "type": 3,
     "api":"csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
-    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 },
 {
     "key": "csp_XBPQ_剧集",
@@ -470,7 +486,7 @@
     "type": 3,
     "api":"csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
-    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 },
 {
     "key": "csp_xBPQ_柠檬",
@@ -478,7 +494,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 },	
 {
     "key": " csp_XB_天狗",
@@ -486,7 +502,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json",
-    "jar":"https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 }, 
 {
     "key": "鲨鱼影视②",
@@ -494,7 +510,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu2.json",
-    "jar": "https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar"
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
 },
 {
     "key": "鲨鱼影视④",
@@ -809,7 +825,7 @@
 	"name":"🎧酷狗┃音乐",
 	"type":3,
 	"api":"csp_Kugou",
-	"jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/nan.jar",
+	"jar":"https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png",
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
@@ -1021,6 +1037,7 @@
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "lives": [{"name": "平台直播","type": 0,"url": "https://sub.ottiptv.cc/iptv.m3u","ua": "okhttp/3.15","playerType": 2}],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
