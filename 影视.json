@@ -804,29 +804,44 @@
     "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
 },
 {
-    "key": "CCTV低分辨",
-    "name": "💫cctv┃大全",
-    "type": 1,
-    "api": "http://zhangqun1818.serv00.net/cctv.php",
-    "style": {"type": "rect","ratio": 1.33}
+    "key": "猫直播",
+    "name": "💫熊猫┃直播",
+    "type":3,
+   "api":"https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.js",
+   "ext":"https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.txt"
+},
+{
+	"key":"csp_Kugou",
+	"name":"🎸┃酷狗┃音乐",
+	"type":3,
+	"api":"csp_Kugou",
+	"jar":"https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png",
+	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
+},
+{
+    "key": "酷狗音乐",
+    "name": "🎸┃酷狗┃音乐",
+    "type": 3,
+    "api": "csp_Kugou",
+    "jar":"https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png",
+    "style": {"type": "rect","ratio": 1.433}
+},
+{
+	"key": "csp_Music",
+	"name": "🎧┃车载┃音乐",
+	"type": 3,
+	"api": "csp_Music",
+	"jar":"https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png"
 },
 {
     "key": "csp_BiliMV",
-    "name": "🎧哔哩┃音乐",
+    "name": "🎧┃哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
     "ext": {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
     "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"},
     "style": {"type": "rect","ratio": 1.597}
-},
-{
-	"key":"csp_Kugou",
-	"name":"🎧酷狗┃音乐",
-	"type":3,
-	"api":"csp_Kugou",
-	"jar":"https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png",
-	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
     "key": "ConfigCenter",
@@ -926,22 +941,21 @@
     "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}  
 ],
 "lives": [
+   {
+    "name": "📺冰茶",
+    "type": 0,
+    "url": "https://gitee.com/lyun_1_0/tb/raw/master/lib/冰茶.m3u",
+    "timeout": 10,
+    "ua": "bingcha/1.1(mianfeifenxiang)"
+  },
   {
-    "name": "咪咕",
+    "name": "📺咪咕",
     "type": 0,
 	"url": "https://gitee.com/lyun_1_0/tb/raw/master/lib/咪咕.m3u",
     "playerType": 2,
     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
     "logo": "https://epg.v1.mk/logo/{name}.png"
-  },
-  {
-    "name":"冰茶TV",
-    "type":0,
-    "url":"https://gitee.com/lyun_1_0/tb/raw/master/lib/冰茶.m3u",
-    "ua":"okhttp/3.15",
-    "epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-    "logo": "https://epg.v1.mk/logo/{name}.png"
-  },
+  }],
 "ijk": [
        {"group": "软解码","options": [
        {"category": 4,"name": "opensles","value": "0"},
@@ -977,6 +991,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
