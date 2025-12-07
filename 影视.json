@@ -710,10 +710,8 @@
     "name": "🎧┃哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"},
-    "style": {"type": "rect","ratio": 1.597}
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"},
+    "style": {"type": "rect","ratio": 1.333}
 },
 {
     "key": "ConfigCenter",
@@ -863,6 +861,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
