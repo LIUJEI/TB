@@ -548,7 +548,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/XYQHiker.jar"
+    "jar":"https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar"
 },
 {
 	"key": "csp_AppXY",
@@ -568,12 +568,6 @@
     "name": "♨️星芽®短剧",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/星芽.py"
-},
-{
-    "key": "剧王短剧",
-    "name": "♨️剧王®短剧",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧王.py"
 },
 {
     "key": "老王影院",
@@ -657,14 +651,6 @@
     "搜索url":"https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
 },
 {
-    "key": "xbpq_茅台",
-    "name": "♨️短剧®茅台",
-    "type": 0,
-    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-    "playurl": "json:https://mtjiexi.cc:966/?url=",
-    "categories": ["短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑"]
-},
-{
     "key": "csp_闪影",
     "name": "🐉闪影官方",
     "type": 3,
@@ -689,31 +675,12 @@
     "categories": ["短剧","古装片","国产剧","大陆综艺","动漫电影","伦理片"]
 },
 {
-    "key": "华为吧克隆",
-    "name": "🐉华为克隆",
-    "type": 4,
-    "api": "http://zhangqun66.com/hwb.php",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
-    "key": "金鹰克隆",
-    "name": "🐉金鹰克隆",
-    "type": 4,
-    "api": "http://zhangqun66.com/jy.php",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
-},
-{
-    "key": "索尼克隆",
-    "name": "🐉索尼克隆",
-    "type": 4,
-    "api": "http://zhangqun66.com/sn.php",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0
+    "key": "xbpq_茅台",
+    "name": "🐉茅台官方",
+    "type": 0,
+    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+    "playurl": "json:https://mtjiexi.cc:966/?url=",
+    "categories": ["电影","电视剧","综艺","动漫","短剧大全","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑"]
 },
 {
     "key":"cctv",
@@ -896,6 +863,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
