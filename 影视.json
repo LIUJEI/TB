@@ -263,18 +263,6 @@
     "version": ""}
 },
 {
-    "key": "csp_火狐",
-    "name": "火狐☪弹幕",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://huohu.yihn.cc",
-    "dataKey": "huohushipingetap",
-    "dataIv": "huohushipingetap",
-    "deviceId": "",
-    "version": "140"}
-},
-{
     "key": "csp_莱米",
     "name": "莱米☪影視",
     "type": 3,
@@ -296,16 +284,16 @@
     "dataIv": "yangruiqiYsapp00"}
 },
 {
-    "key": "星星",
-    "name": "星星☪影视",
+    "key": "csp_火狐",
+    "name": "火狐☪弹幕",
     "type": 3,
-    "quickSearch": 1,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://starani.qcanime.xyz",
-    "dataKey": "123456789StarAni",
-    "dataIv": "123456789StarAni",
-    "ua": "okhttp/3.10.0 BDYS/109.0.0.8"}
+    "url": "http://huohu.yihn.cc",
+    "dataKey": "huohushipingetap",
+    "dataIv": "huohushipingetap",
+    "deviceId": "",
+    "version": "140"}
 },
 {
     "key": "csp_客星",
@@ -454,11 +442,12 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/人人.js"
 }, 
 {
-    "key": "hipy_js_lwangys",
-    "name": "👩‍🌾老王🔹影院",
+    "key": "csp_Nongm",
+    "name": "🌾农民🔹影視",
     "type": 3,
-    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/老王.js"
+    "api":"csp_XYQHiker",
+    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/dy/农民.json",
+    "jar":"https://jihulab.com/mzzz1-group/ysc01/-/raw/main/bh06151.jar"
 },
 {
     "key": "csp_Jpys_金牌",
@@ -467,13 +456,6 @@
     "api": "csp_Jpys",
     "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },  	
-{
-    "key": "csp_Nongm",
-    "name": "🌾农民🔹影視",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://www.wwgz.cn"
-},
 {
     "key":"csp_SaoHuo",
     "name":"🔥骚火🔹影視",
@@ -510,13 +492,6 @@
 	"api": "csp_Jianpian",
 	"style": {"type": "rect","ratio": 1.333},
 	"ext": "https://ev2089.zxbwv.com"
-},
-{
-    "key": "csp_Tvyb",
-    "name": "☁云播🔹影视",
-    "type": 3,
-    "api": "csp_Tvyb",
-    "ext": "http://www.viptv05.com"
 },
 {
     "key":"dr_芒果",
@@ -921,6 +896,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
