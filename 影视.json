@@ -137,7 +137,7 @@
 },
 {
     "key": "csp_吉米",
-    "name": "吉米☪影視",
+    "name": "吉利☪影視",
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "http://fox.tvmao.top"}
@@ -207,18 +207,6 @@
     "dataKey": "ca94b06ca3c7d80e",
     "dataIv": "ca94b06ca3c7d80e",
     "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_新剧",
-    "name": "新剧☪影視",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
 },
 {
     "key": "csp_huom",
@@ -298,18 +286,6 @@
     "dataIv": "ce032244d093b3e2"}
 },
 {
-    "key": "csp_魔方",
-    "name": "魔方☪影視",
-    "type": 3,
-    "searchable": 1,
-    "changeable": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://app.ybn-ooo.top",
-    "dataKey": "vcfgytu7654rtyui",
-    "dataIv": "vcfgytu7654rtyui"}
-},
-{
     "key": "csp_瑞奇",
     "name": "瑞奇☪APP",
     "type": 3,
@@ -332,18 +308,6 @@
     "ua": "okhttp/3.10.0 BDYS/109.0.0.8"}
 },
 {
-    "key": "csp_HG影视",
-    "name": "全网☪影视",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://ios.hgyx.vip",
-    "dataKey": "062dec75d039980e",
-    "dataIv": "062dec75d039980e",
-    "deviceId": "",
-    "version": "version"}
-},
-{
     "key": "csp_客星",
     "name": "柚子☪影視",
     "type": 3,
@@ -356,62 +320,16 @@
     "version": "120"}
 },
 {
-    "key": "csp_驿站",
-    "name": "驿站☪影视",
+    "key": "csp_HG影视",
+    "name": "全网☪影视",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-    "dataKey": "dyyztvapiappyyds",
-    "dataIv": "dyyztvapiappyyds",
+    "url": "https://ios.hgyx.vip",
+    "dataKey": "062dec75d039980e",
+    "dataIv": "062dec75d039980e",
     "deviceId": "",
-    "version": ""}
-},
-{
-    "key": "csp_团夕",
-    "name": "团夕☪影视",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 0,
-    "playerType": 2,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0"}
-},	
-{
-    "key": "火猫视界",
-	"name": "火猫☪影视",
-	"type": 3,
-	"api": "https://tvbox.catvod.com/js/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppGet.js?type=url&params=http://156.238.236.120:14500$J6AIORKJ3PQOJKM9$J6AIORKJ3PQOJKM9"
-},
-{
-    "key": "nangua",
-    "name": "🎃南瓜🔹影视",
-    "type": 3,
-    "api": "csp_NanGua",
-    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-    "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j"
-},
-{
-    "key": "布蕾",
-    "name": "💣布蕾🔹影视",
-    "quickSearch": 1,
-    "searchable": 1,
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
-    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
-},
-{
-    "key":"下饭",
-    "name":"🍚下饭🔹影视", 
-    "type":3,
-    "api":"csp_Qiji",
-    "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19",
-    "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j"
+    "version": "version"}
 },
 {
     "key": "追番达人",
@@ -437,16 +355,24 @@
     "ext": "http://101.35.85.16:5555"
 },
 {
-    "key": "AppQi3",
-    "name": "💣爆炸┃小米",
+    "key": "布蕾",
+    "name": "💣布蕾🔹影院",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|okhttp/3.10.0",
+    "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
+    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
+},
+{
+    "key": "风云",
+    "name": "🎴风云🔹影院",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0",
     "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
 },
 {
     "key": "若曦",
-    "name": "💣若曦┃小米",
+    "name": "💣若曦🔹影院",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0",
@@ -546,7 +472,7 @@
     "name": "🌾农民🔹影視",
     "type": 3,
     "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
+    "ext": "https://www.wwgz.cn"
 },
 {
     "key":"csp_SaoHuo",
@@ -576,6 +502,21 @@
     "name": "💮奇优🔹影视",
     "type": 3,
     "api": "csp_Qiyou"
+},
+{
+	"key": "csp_Jianpian",
+	"name": "✨荐片🔹磁力",
+	"type": 3,
+	"api": "csp_Jianpian",
+	"style": {"type": "rect","ratio": 1.333},
+	"ext": "https://ev2089.zxbwv.com"
+},
+{
+    "key": "csp_Tvyb",
+    "name": "☁云播🔹影视",
+    "type": 3,
+    "api": "csp_Tvyb",
+    "ext": "http://www.viptv05.com"
 },
 {
     "key":"dr_芒果",
@@ -639,7 +580,7 @@
 	"name": "♨️短剧®影视",
 	"type": 3,
 	"api": "csp_DuanJu",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar;md5;e42ffade41561af9389469704bd21c99"
+    "jar": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png"
 },
 {
     "key": "河马短剧",
@@ -823,21 +764,6 @@
 	"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}
 },
 {
-    "key": "酷狗音乐",
-    "name": "🎸┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_Kugou",
-    "jar":"https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png",
-    "style": {"type": "rect","ratio": 1.433}
-},
-{
-	"key": "csp_Music",
-	"name": "🎧┃车载┃音乐",
-	"type": 3,
-	"api": "csp_Music",
-	"jar":"https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png"
-},
-{
     "key": "csp_BiliMV",
     "name": "🎧┃哔哩┃音乐",
     "type": 3,
@@ -995,6 +921,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
