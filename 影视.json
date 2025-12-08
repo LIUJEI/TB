@@ -39,22 +39,8 @@
     "ext": {"url": "http://v.lkuys.cn"}
 },
 {
-    "key": "csp_花小猪",
-    "name": "花猪☪秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "",
-    "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
-    "dataKey": "seb5tq9mykp2w9ry",
-    "dataIv": "seb5tq9mykp2w9ry",
-    "deviceId": "",
-    "version": "",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_咖啡",
-    "name": "咖啡☪秒播",
+    "key": "csp_暮气",
+    "name": "幕启☪秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -77,16 +63,26 @@
     "version": "120"}
 },
 {
-    "key": "csp_紫金草视频",
-    "name": "紫金☪秒播",
+    "key": "csp_爱盈",
+    "name": "爱盈☪影視",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": {
-    "url": "http://www.zjcvod.com",
-    "dataKey": "ab4e9a421675f14b",
-    "dataIv": "ab4e9a421675f14b",
-    "deviceId": "",
-    "version": ""}
+    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
+    "dataKey": "sda1231sasddad21",
+    "dataIv": "sda1231sasddad21",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_顾我",
+    "name": "顾我☪影視",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
+    "dataKey": "ca94b06ca3c7d80e",
+    "dataIv": "ca94b06ca3c7d80e",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_雄鹰",
@@ -113,6 +109,20 @@
     "version": "120"}
 },
 {
+    "key": "csp_花小猪",
+    "name": "花猪☪秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "",
+    "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+    "dataKey": "seb5tq9mykp2w9ry",
+    "dataIv": "seb5tq9mykp2w9ry",
+    "deviceId": "",
+    "version": "",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "csp_鲸鱼",
     "name": "鲸鱼☪秒播",
     "type": 3,
@@ -123,17 +133,6 @@
     "dataIv": "AAdgrdghjfgswerA",
     "deviceId": "",
     "version": ""}
-},
-{
-   "key": "csp_茉莉",
-   "name": "茉莉☪影視",
-   "type": 3,
-   "searchable": 1,
-   "api": "csp_AppGet",
-   "ext": {
-   "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-   "dataKey": "88689667dce61725",
-   "dataIv": "88689667dce61725"}
 },
 {
     "key": "csp_吉米",
@@ -157,25 +156,73 @@
     "ext": {"host": "http://fox.qwqfun.com"}
 },
 {
-    "key": "星空",
-    "name": "星空☪影視",
+    "key": "csp_恋鱼",
+    "name": "恋鱼☪影視",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://43.154.4.75",
-    "dataKey": "HDk-7CnlK8SQUGLg",
-    "dataIv": "HDk-7CnlK8SQUGLg"}
+    "api": "csp_AppFox",
+    "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
 },
 {
-    "key": "星空",
-    "name": "星空☪影視",
+    "key": "csp_剧猫",
+    "name": "剧猫☪影視",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://xkcms.xkgzs.xyz",
-    "dataKey": "AJcdjkAjkdJDkvcd",
-    "dataIv": "AJcdjkAjkdJDkvcd"}
-},	
+    "site": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt",
+    "dataKey": "zjmznbl2026zcxgb",
+    "dataIv": "zjmznbl2026zcxgb"}
+},
+{
+    "key": "csp_剧梦",
+    "name": "剧梦☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.jumengwu.com",
+    "dataKey": "1f0a873caf2550a5",
+    "dataIv": "1f0a873caf2550a5" }
+},
+{
+    "key": "csp_缘梦",
+    "name": "缘梦☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.zipfve.cn",
+    "dataKey": "1234567890987654",
+    "dataIv": "1234567890987654"}
+},
+{
+    "key": "csp_麻花",
+    "name": "麻花☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://49.235.114.19:150",
+    "dataKey": "q7gj4f9br3fls6nh",
+    "dataIv": "q7gj4f9br3fls6nh"}
+},  
+{
+   "key": "csp_茉莉",
+   "name": "茉莉☪影視",
+   "type": 3,
+   "searchable": 1,
+   "api": "csp_AppGet",
+   "ext": {
+   "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+   "dataKey": "88689667dce61725",
+   "dataIv": "88689667dce61725"}
+},
+{
+    "key": "csp_瑞奇",
+    "name": "瑞奇☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://rqxk.gdata.fun",
+    "dataKey": "yangruiqiYsapp00",
+    "dataIv": "yangruiqiYsapp00"}
+},
 {
     "key": "csp_文采",
     "name": "文采☪影院",
@@ -185,28 +232,6 @@
     "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
     "dataKey": "kecbio48dsq131ed",
     "dataIv": "kecbio48dsq131ed"}
-},
-{
-    "key": "csp_爱盈",
-    "name": "爱盈☪影視",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
-    "dataKey": "sda1231sasddad21",
-    "dataIv": "sda1231sasddad21",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_顾我",
-    "name": "顾我☪影視",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
-    "dataKey": "ca94b06ca3c7d80e",
-    "dataIv": "ca94b06ca3c7d80e",
-    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_huom",
@@ -274,16 +299,6 @@
     "dataIv": "ce032244d093b3e2"}
 },
 {
-    "key": "csp_瑞奇",
-    "name": "瑞奇☪APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://rqxk.gdata.fun",
-    "dataKey": "yangruiqiYsapp00",
-    "dataIv": "yangruiqiYsapp00"}
-},
-{
     "key": "csp_火狐",
     "name": "火狐☪弹幕",
     "type": 3,
@@ -294,6 +309,18 @@
     "dataIv": "huohushipingetap",
     "deviceId": "",
     "version": "140"}
+},
+{
+    "key": "csp_紫金草视频",
+    "name": "紫金☪秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://www.zjcvod.com",
+    "dataKey": "ab4e9a421675f14b",
+    "dataIv": "ab4e9a421675f14b",
+    "deviceId": "",
+    "version": ""}
 },
 {
     "key": "csp_客星",
@@ -319,6 +346,38 @@
     "deviceId": "",
     "version": "version"}
 },
+{
+    "key": "csp_新剧",
+    "name": "新剧☪影視",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://211.154.24.56:8369",
+    "dataKey": "685bf108bc47b67d",
+    "dataIv": "685bf108bc47b67d"}
+},
+{
+    "key": "星空",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://43.154.4.75",
+    "dataKey": "HDk-7CnlK8SQUGLg",
+    "dataIv": "HDk-7CnlK8SQUGLg"}
+},
+{
+    "key": "星空",
+    "name": "星空☪影視",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://xkcms.xkgzs.xyz",
+    "dataKey": "AJcdjkAjkdJDkvcd",
+    "dataIv": "AJcdjkAjkdJDkvcd"}
+},	
 {
     "key": "追番达人",
     "name": "🐂追忆🔹影视",
@@ -861,6 +920,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
