@@ -414,38 +414,7 @@
     "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
     "apisignkey": "lvdoutv-1.0.0"}
 },
-{
-    "key": "追番达人",
-    "name": "🐂追忆🔹影视",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": "https://fox.ystva.com",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
-},
-{
-    "key": "爱看fox",
-    "name": "👀爱看🔹影视",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
-}, 
-{
-    "key": "布蕾",
-    "name": "💣布蕾🔹影院",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
-},
-{
-    "key": "若曦",
-    "name": "💣若曦🔹影院",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0",
-    "jar": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png;md5;13bd3e6c4c887d3f139a347625a08bee"
-},
+
 {	
 	"key": "csp_茉小影",
     "name": "🪁茉影🔹视频",
@@ -973,6 +942,7 @@
     {"category": 4,"name": "mediacodec-hevc","value": "1"},
     {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
     "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
