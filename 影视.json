@@ -173,9 +173,10 @@
 	"key": "椰子", 
 	"name": "椰子☪影視", 
 	"type": 3, 
-	"searchable": 1, "changeable": 1, 
 	"api": "csp_AppGet", 
-	"ext": {"url": "http://103.109.20.117:6699", "dataKey": "xxm9N4P9rS2zjdyz", "dataIv": "xxm9N4P9rS2zjdyz"}
+	"ext": {"url": "http://103.109.20.117:6699", 
+	"dataKey": "xxm9N4P9rS2zjdyz", 
+	"dataIv": "xxm9N4P9rS2zjdyz"}
 },
 {
     "key": "csp_剧猫",
@@ -392,23 +393,7 @@
     "url": "http://xkcms.xkgzs.xyz",
     "dataKey": "AJcdjkAjkdJDkvcd",
     "dataIv": "AJcdjkAjkdJDkvcd"}
-},	
-{
-    "key": "追番达人",
-    "name": "🐂追忆🔹影视",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": "https://fox.ystva.com",
-    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
 },
-{
-    "key": "爱看fox",
-    "name": "👀爱看🔹影视",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
-    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
-}, 
 {
     "key": "csp_my",
     "name": "🕷蚂蚁🔹影视",
@@ -417,20 +402,41 @@
     "ext": "http://101.35.85.16:5555"
 },
 {
+    "key": "csp_团夕",
+    "name": "团夕🔹影视",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 0,
+    "playerType": 2,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
+    "ext": {
+    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+    "apisignkey": "lvdoutv-1.0.0"}
+},
+{
+    "key": "追番达人",
+    "name": "🐂追忆🔹影视",
+    "type": 3,
+    "api": "csp_Appfox",
+    "ext": "https://fox.ystva.com",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
+},
+{
+    "key": "爱看fox",
+    "name": "👀爱看🔹影视",
+    "type": 3,
+    "api": "csp_Appfox",
+    "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
+}, 
+{
     "key": "布蕾",
     "name": "💣布蕾🔹影院",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
-    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
-},
-{
-    "key": "风云",
-    "name": "🎴风云🔹影院",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0",
-    "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42179/mi1202.png?sign=DZVkZMhfeSvsSsCkSwVnwJWLRlMZCFt3nXfNL2Ndpe8%3D%3A0"
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xm.jar"
 },
 {
     "key": "若曦",
@@ -967,6 +973,7 @@
     {"category": 4,"name": "mediacodec-hevc","value": "1"},
     {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
     "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
