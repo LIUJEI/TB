@@ -135,6 +135,13 @@
     "version": ""}
 },
 {
+	"key": "木瓜", 
+	"name": "木瓜☪影視", 
+	"type": 3, 
+	"api": "csp_AppFox", 
+	"ext": {"host": "http://www.yezitv.top"}
+},
+{
     "key": "csp_吉米",
     "name": "吉利☪影視",
     "type": 3,
@@ -161,6 +168,14 @@
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
+},
+{
+	"key": "椰子", 
+	"name": "椰子☪影視", 
+	"type": 3, 
+	"searchable": 1, "changeable": 1, 
+	"api": "csp_AppGet", 
+	"ext": {"url": "http://103.109.20.117:6699", "dataKey": "xxm9N4P9rS2zjdyz", "dataIv": "xxm9N4P9rS2zjdyz"}
 },
 {
     "key": "csp_剧猫",
@@ -952,6 +967,7 @@
     {"category": 4,"name": "mediacodec-hevc","value": "1"},
     {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
     "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
