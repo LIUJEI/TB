@@ -7,8 +7,7 @@
 
 //数据接口====================================网站===============================================
 
-"sites": [
-    {
+{
       "key": "csp_DouBan",
       "name": "🎬┣豆瓣┫推荐",
       "type": 3,
@@ -347,7 +346,7 @@
     },
     {
       "key": "荐片",
-      "name": "🎬荐片🔹影视",
+      "name": "🎉荐片🔹影视",
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://ev2089.zxbwv.com",
@@ -376,48 +375,7 @@
       "ext": "https://www.czzymovie.com/",
       "ua": "okhttp/12.13"
     },
-    {
-      "key": "dr_芒果",
-      "name": "💝芒果🥭TV",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
-    },
-    {
-      "key": "dr_奇异",
-      "name": "💝奇艺🥝TV",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
-    },
-    {
-      "key": "dr_优酷",
-      "name": "💝优酷🧃TV",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
-    },
-    {
-      "key": "dr_搜狗",
-      "name": "💝搜狗🦊TV",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
-    },
-    {
-      "key": "dr_腾迅",
-      "name": "💝腾讯🐧TV",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
-    },
-    {
-      "key": "dr_哔哩视频",
-      "name": "💝哔哩💫TV",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
-    },
+  
     {
       "key": "hipy_js_星芽短剧",
       "name": "🎬短劇☪系列",
@@ -547,7 +505,7 @@
     },
     {
       "key": "csp_闪影",
-      "name": "🐉闪影官方",
+      "name": "🐉┃闪影┃官方",
       "type": 3,
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
@@ -561,7 +519,7 @@
     },
     {
       "key": "csp_金蝉",
-      "name": "🐉金蝉官方",
+      "name": "🐉┃金蝉┃官方",
       "type": 1,
       "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
       "playUrl": "json:http://114.66.40.16:7700/api.php?url=",
@@ -576,7 +534,7 @@
     },
     {
       "key": "爱奇艺资源站",
-      "name": "🐉爱奇艺资",
+      "name": "🐉┃爱奇┃艺资",
       "type": 0,
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "playurl": "json:https://www.iqiyizyjx.com/?url=",
@@ -591,7 +549,7 @@
     },
     {
       "key": "xbpq_茅台",
-      "name": "🐉茅台官方",
+      "name": "🐉┃茅台┃官方",
       "type": 0,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
       "playurl": "json:https://mtjiexi.cc:966/?url=",
@@ -611,8 +569,50 @@
       ]
     },
     {
+      "key": "dr_芒果",
+      "name": "🐉┃芒果┃官方",
+      "type": 3,
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
+    },
+    {
+      "key": "dr_奇异",
+      "name": "🐉┃奇艺┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
+    },
+    {
+      "key": "dr_优酷",
+      "name": "🐉┃优酷┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
+    },
+    {
+      "key": "dr_搜狗",
+      "name": "🐉┃搜狗┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
+    },
+    {
+      "key": "dr_腾迅",
+      "name": "🐉┃腾讯┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
+    },
+    {
+      "key": "dr_哔哩视频",
+      "name": "🐉┃哔哩┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
+    },
+    {
       "key": "cctv",
-      "name": "💫cctv┃直播",
+      "name": "💫┃cctv┃直播",
       "type": 3,
       "api": "csp_CCTV",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
@@ -620,7 +620,7 @@
     },
     {
       "key": "猫直播",
-      "name": "💫熊猫┃直播",
+      "name": "💫┃熊猫┃直播",
       "type": 3,
       "api": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.js",
       "ext": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.txt"
@@ -645,7 +645,8 @@
       "type": 3,
       "api": "csp_Bili",
       "ext": {
-        "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"
+        "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json",
+        "cookie": ""
       },
       "style": {
         "type": "rect",
@@ -985,3 +986,4 @@
     "vip.ffzyad.com"
   ]
 }
+
