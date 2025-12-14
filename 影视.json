@@ -1,13 +1,14 @@
 {
-/*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-
+  /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
+  
   "spider": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
-
-//数据接口====================================网站===============================================
-
-{
+  
+  //数据接口====================================网站===============================================
+  
+  "sites": [
+    {
       "key": "csp_DouBan",
       "name": "🎬┣豆瓣┫推荐",
       "type": 3,
@@ -192,7 +193,7 @@
     },
     {
       "key": "csp_my",
-      "name": "🕷蚂蚁🔹影视",
+      "name": "🪀蚂蚁🔹影视",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
       "ext": "http://101.35.85.16:5555",
@@ -212,7 +213,7 @@
     },
     {
       "key": "csp_茉小影",
-      "name": "🪁茉影🔹视频",
+      "name": "🪀茉影🔹视频",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -222,11 +223,11 @@
         "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
         "图片": "data-src=\"&&\""
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "app影视",
-      "name": "🎠APP🔹影院",
+      "name": "🪀APP🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -234,20 +235,20 @@
         "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "hipy_js_fantys",
-      "name": "🍙饭团🔹影院",
+      "name": "🪀饭团🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_Nongm",
-      "name": "🌾农民🔹影視",
+      "name": "🪀农民🔹影視",
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/农民.json",
@@ -255,7 +256,7 @@
     },
     {
       "key": "hipy_js_TVBys",
-      "name": "☁云播🔹影院",
+      "name": "🪀云播🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
@@ -264,43 +265,43 @@
     },
     {
       "key": "csp_xBPQ_柠檬",
-      "name": "🍋柠檬🔹影視",
+      "name": "🪀柠檬🔹影視",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": " csp_XB_天狗",
-      "name": "🐶天狗🔹影視",
+      "name": "🪀天狗🔹影視",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_XBPQ_剧集",
-      "name": "🎢剧集🔹剧院",
+      "name": "🪀剧集🔹剧院",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_vs",
-      "name": "🎊维斯🔹影视",
+      "name": "🪀维斯🔹影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/vsys.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_xBPQ_奇优",
-      "name": "💮奇优🔹影视",
+      "name": "🪀奇优🔹影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
@@ -309,23 +310,23 @@
     },
     {
       "key": "鲨鱼影视②",
-      "name": "🐋鲨鱼🔹系列",
+      "name": "🪀鲨鱼🔹系列",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu2.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "hipy_js_reys",
-      "name": "👨🏻‍🎓人人🔹影院",
+      "name": "🪀人人🔹影院",
       "type": 3,
       "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/人人.js"
     },
     {
       "key": "csp_南瓜",
-      "name": "🎃南瓜🔹影院",
+      "name": "🪀南瓜🔹影院",
       "type": 3,
       "api": "csp_NanGua",
       "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j",
@@ -333,7 +334,7 @@
     },
     {
       "key": "csp_团夕",
-      "name": "💮团夕🔹影视",
+      "name": "🪀团夕🔹影视",
       "type": 3,
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
       "ext": {
@@ -341,12 +342,11 @@
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
         "apisignkey": "lvdoutv-1.0.0",
         "ua": "okhttp/12.13"
-      },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      }
     },
     {
       "key": "荐片",
-      "name": "🎉荐片🔹影视",
+      "name": "🪀荐片🔹影视",
       "api": "csp_Jianpian",
       "type": 3,
       "ext": "https://ev2089.zxbwv.com",
@@ -354,7 +354,7 @@
     },
     {
       "key": "csp_SaoHuo",
-      "name": "🔥火火🔹影视",
+      "name": "🪀火火🔹影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us",
@@ -362,20 +362,19 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "🍉瓜子🔹影视",
+      "name": "🪀瓜子🔹影视",
       "type": 3,
       "api": "csp_Gz360",
       "ua": "okhttp/12.13"
     },
     {
       "key": "厂长",
-      "name": "🏭厂长🔹影视",
+      "name": "🪀厂长🔹影视",
       "type": 3,
       "api": "csp_Czsapp",
       "ext": "https://www.czzymovie.com/",
       "ua": "okhttp/12.13"
     },
-  
     {
       "key": "hipy_js_星芽短剧",
       "name": "🎬短劇☪系列",
@@ -413,7 +412,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_剧剧吧",
@@ -425,7 +424,7 @@
         "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
         "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -439,7 +438,7 @@
         "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "xbpq_djuw",
@@ -451,7 +450,7 @@
         "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
         "分类": "♨️抖音短剧$5"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "xbpq_dzdj",
@@ -463,7 +462,7 @@
         "分类": "♨️蝶众短剧$6",
         "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "xbpq_lddj",
@@ -475,7 +474,7 @@
         "分类": "♨️兰岛短剧$20",
         "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "xbpq_jzdj",
@@ -488,7 +487,7 @@
         "分类": "♨️九洲短剧$5",
         "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "xbpq_55dj",
@@ -501,7 +500,7 @@
         "分类": "♨️五五短剧$1",
         "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
       "key": "csp_闪影",
@@ -641,7 +640,7 @@
     },
     {
       "key": "csp_BiliMV",
-      "name": "🎧┃哔哩┃音乐",
+      "name": "🎸┃哔哩┃音乐",
       "type": 3,
       "api": "csp_Bili",
       "ext": {
@@ -816,168 +815,6 @@
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
-    }
-  ],
-  "ijk": [
-    {
-      "group": "软解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
-    },
-    {
-      "group": "硬解码",
-      "options": [
-        {
-          "category": 4,
-          "name": "opensles",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "overlay-format",
-          "value": "842225234"
-        },
-        {
-          "category": 4,
-          "name": "framedrop",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "soundtouch",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "start-on-prepared",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "http-detect-range-support",
-          "value": "0"
-        },
-        {
-          "category": 1,
-          "name": "fflags",
-          "value": "fastseek"
-        },
-        {
-          "category": 2,
-          "name": "skip_loop_filter",
-          "value": "48"
-        },
-        {
-          "category": 4,
-          "name": "reconnect",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "enable-accurate-seek",
-          "value": "0"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
-          "value": "1"
-        },
-        {
-          "category": 4,
-          "name": "mediacodec-hevc",
-          "value": "1"
-        },
-        {
-          "category": 1,
-          "name": "dns_cache_timeout",
-          "value": "600000000"
-        }
-      ]
     }
   ],
   "ads": [
