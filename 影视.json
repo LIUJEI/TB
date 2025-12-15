@@ -216,26 +216,98 @@
       "name": "🪀茉影🔹视频",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "首页": "https://www.moxy.top",
         "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
         "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
         "图片": "data-src=\"&&\""
-      },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      }
     },
     {
       "key": "app影视",
       "name": "🪀APP🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
         "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      }
+    },
+    {
+      "key":"csp_XBPQ_耐看点播",
+      "name":"🪀耐看🔹点播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+      "数组":"public-list-exp\"&&</div></",
+      "副标题":"琉芸✨-+">&&</div>",
+      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+      "线路数组":"<a class=\"swiper-slide\">&&</a",
+      "线路标题":"💕琉芸👉-+&&",
+      "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
+    },
+    {
+      "key": "csp_Nongm",
+      "name": "🪀农民🔹影視",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+	    "请求头": "User-Agent$MOBILE_UA",
+      "编码": "UTF-8",
+	    "主页url": "https://nkvod.com/",
+      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;d0",
+      "线路二次截取": "\"anthology-tab&&</div>",
+      "线路数组": "\\&nbsp&&span",
+      "线路标题": ";&&<",
+      "播放数组": "anthology-list-play&&</ul>",
+      "播放列表": "<a&&/a>",
+      "播放标题": ">&&<",
+      "播放链接": "href=\"&&\""}
+    },
+    {
+      "key": "csp_xBPQ_奇优",
+      "name": "🪀奇优🔹影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+      "请求头":"User-Agent$MOBILE_UA","防走丢":"http://www.qiyoudy1.com/",
+      "副标题":"琉芸✨-+text-right\">&&</span>",
+      "播放数组":"stui-content__playlist clearfix&&</ul>",
+      "播放列表":"<a&&a>",
+      "播放链接":"href=\"&&\"",
+      "播放标题":"title=\"&&\"",
+      "线路数组":"<li id=\"tab&&</li>",
+      "线路标题":"💕琉芸👉-+>&&</a>",
+      "分类url":"http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
+      "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","排序":"按时间$time#按人气$hit"}
+    },
+    { 
+      "key": "xl影视", 
+      "name": "🪀修罗🔹影视", 
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/XBPQ.jar",
+      "ext": {
+      "数组": "card card-sm card-link&&</div>",
+      "图片": "src=\"&&\"",
+      "标题": "mb-0 card-title text-truncate\">&&<",
+      "副标题": "琉芸✨-+start-0 text-red-fg\">&&</span>",
+      "链接": "href=\"&&\"",
+      "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&\"",
+      "线路标题": "💕琉芸👉-+>&&<",
+      "播放数组": "download-list&&</tbody>",
+      "播放列表": "<tr&&</tr>",
+      "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
+      "跳转播放链接": "href=\"&&\"",
+      "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId}&year={year};;d0",
+      "分类": "电影$0#电视剧$1#短剧$https://v.xlys.ltd.ua/s/duanju"}
     },
     {
       "key": "hipy_js_fantys",
@@ -246,23 +318,7 @@
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
-    {
-      "key": "csp_Nongm",
-      "name": "🪀农民🔹影視",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/农民.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
-    },
-    {
-      "key": "hipy_js_TVBys",
-      "name": "🪀云播🔹影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
-    },
+    
     {
       "key": "csp_xBPQ_柠檬",
       "name": "🪀柠檬🔹影視",
@@ -297,15 +353,15 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/vsys.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
     {
-      "key": "csp_xBPQ_奇优",
-      "name": "🪀奇优🔹影视",
+      "key": "hipy_js_TVBys",
+      "name": "🪀云播🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/qiyou.json",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
     {
@@ -823,4 +879,5 @@
     "vip.ffzyad.com"
   ]
 }
+
 
