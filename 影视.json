@@ -22,12 +22,36 @@
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
     },
+	{
+      "key": "csp_my",
+      "name": "♾️蚂蚁☪影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
+      "ext": "http://101.35.85.16:5555",
+      "ua": "okhttp/12.13"
+    },
+    {
+      "key": "csp_Jpys_金牌",
+      "name": "♾️金牌☪影視",
+      "type": 3,
+      "api": "csp_Jpys",
+	  "ua": "okhttp/12.13"
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
     {
       "key": "csp_顾我",
       "name": "♾️顾我☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|3.10.0"
+    },
+	{
+      "key": "csp_爱盈",
+      "name": "♾️爱盈☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0"
     },
     {
       "key": "csp_花小猪",
@@ -42,6 +66,13 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
+    },
+	{
+      "key": "csp_恋鱼",
+      "name": "♾️恋鱼☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext":  "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json|"ver": 2"
     },
     {
       "key": "csp_jpys",
@@ -149,40 +180,6 @@
       "ext": "https://dy.8ttv.cn|1111111111111111"
     },
     {
-      "key": "csp_my",
-      "name": "🪀蚂蚁🔹影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
-      "ext": "http://101.35.85.16:5555",
-      "ua": "okhttp/12.13"
-    },
-    {
-      "key": "csp_Jpys_金牌",
-      "name": "🪀金牌🔹影視",
-      "type": 3,
-      "api": "csp_Jpys",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-      "ext": {
-        "site": "https://www.jiabaide.cn",
-        "ua": "okhttp/12.13",
-        "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"
-      }
-    },
-    {
-      "key": "csp_茉小影",
-      "name": "🪀茉影🔹视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-        "首页": "https://www.moxy.top",
-        "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
-        "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
-        "图片": "data-src=\"&&\""
-      }
-    },
-    {
       "key": "app影视",
       "name": "🪀APP🔹影院",
       "type": 3,
@@ -195,55 +192,34 @@
       }
     },
     {
-      "key":"csp_XBPQ_耐看点播",
-      "name":"🪀耐看🔹点播",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-      "数组":"public-list-exp\"&&</div></",
-      "副标题":"琉芸✨-+>&&</div>",
-      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-      "线路数组":"<a class=\"swiper-slide\">&&</a",
-      "线路标题":"💕琉芸👉-+&&",
-      "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
-    },
-    {
-      "key": "csp_Nongm",
-      "name": "🪀农民🔹影視",
+      "key": "csp_XBPQ_耐看点播",
+      "name": "🪀耐看🔹点播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://dd.ma/CFlLnSbJ",
-      "ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-	  "请求头": "User-Agent$MOBILE_UA",
-      "编码": "UTF-8",
-	  "主页url": "https://nkvod.com/",
-      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;d0",
-      "线路二次截取": "\"anthology-tab&&</div>",
-      "线路数组": "\\&nbsp&&span",
-      "线路标题": ";&&<",
-      "播放数组": "anthology-list-play&&</ul>",
-      "播放列表": "<a&&/a>",
-      "播放标题": ">&&<",
-      "播放链接": "href=\"&&\""}
+      "ext": {
+        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+        "数组": "public-list-exp\"&&</div></",
+        "副标题": "琉芸✨-+>&&</div>",
+        "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "线路数组": "<a class=\"swiper-slide\">&&</a",
+        "线路标题": "💕琉芸👉-+&&",
+        "播放数组": "<ul class=\"anthology-list-play size\">&&</ul>"
+      }
     },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🪀奇优🔹影视",
+	{
+      "key": "csp_茉小影",
+      "name": "🪀茉影🔹视频",
       "type": 3,
-      "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-      "请求头":"User-Agent$MOBILE_UA","防走丢":"http://www.qiyoudy1.com/",
-      "副标题":"琉芸✨-+text-right\">&&</span>",
-      "播放数组":"stui-content__playlist clearfix&&</ul>",
-      "播放列表":"<a&&a>",
-      "播放链接":"href=\"&&\"",
-      "播放标题":"title=\"&&\"",
-      "线路数组":"<li id=\"tab&&</li>",
-      "线路标题":"💕琉芸👉-+>&&</a>",
-      "分类url":"http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
-      "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","排序":"按时间$time#按人气$hit"}
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+      "ext": {
+        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+        "首页": "https://www.moxy.top",
+        "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+        "图片": "data-src=\"&&\""
+      }
     },
     {
       "key": "hipy_js_fantys",
@@ -264,15 +240,6 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
     {
-      "key": " csp_XB_天狗",
-      "name": "🪀天狗🔹影視",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
-    },
-    {
       "key": "csp_XBPQ_剧集",
       "name": "🪀剧集🔹剧院",
       "type": 3,
@@ -280,15 +247,6 @@
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
-    },
-    {
-      "key": "csp_vs",
-      "name": "🪀维斯🔹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/vsys.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
     {
       "key": "hipy_js_TVBys",
@@ -327,15 +285,33 @@
       "name": "🪀瓜子🔹影视",
       "type": 3,
       "api": "csp_Gz360",
-      "ua": "okhttp/12.13"
+      "ua": "okhttp/12.13",
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
     {
-      "key": "厂长",
-      "name": "🪀厂长🔹影视",
+      "key": "csp_LiteApple",
+      "name": "🪀苹果🔹影视",
       "type": 3,
-      "api": "csp_Czsapp",
-      "ext": "https://www.czzymovie.com/",
-      "ua": "okhttp/12.13"
+      "api": "csp_LiteApple",
+      "ua": "okhttp/12.13",
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+    },
+	{
+      "key": "csp_Qiyou",
+      "name": "🪀奇优🔹影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "ua": "okhttp/12.13",
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+    },
+	{
+      "key": "csp_Nongm",
+      "name": "🪀农民🔹影視",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200",
+      "ua": "okhttp/12.13",
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
     {
       "key": "hipy_js_星芽短剧",
@@ -787,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
