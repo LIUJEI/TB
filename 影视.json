@@ -245,7 +245,7 @@
       "jar": "http://dd.ma/CFlLnSbJ",
       "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
       "数组":"public-list-exp\"&&</div></",
-      "副标题":"琉芸✨-+">&&</div>",
+      "副标题":"琉芸✨-+>&&</div>",
       "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
       "线路数组":"<a class=\"swiper-slide\">&&</a",
       "线路标题":"💕琉芸👉-+&&",
@@ -258,9 +258,9 @@
       "api": "csp_XBPQ",
       "jar": "http://dd.ma/CFlLnSbJ",
       "ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-	    "请求头": "User-Agent$MOBILE_UA",
+	  "请求头": "User-Agent$MOBILE_UA",
       "编码": "UTF-8",
-	    "主页url": "https://nkvod.com/",
+	  "主页url": "https://nkvod.com/",
       "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;d0",
       "线路二次截取": "\"anthology-tab&&</div>",
       "线路数组": "\\&nbsp&&span",
@@ -879,5 +879,6 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
