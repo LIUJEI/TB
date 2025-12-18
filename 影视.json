@@ -72,7 +72,7 @@
       "name": "♾️恋鱼☪影視",
       "type": 3,
       "api": "csp_AppQi",
-      "ext":  "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json|"ver": 2"
+      "ext":  "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json|"
     },
     {
       "key": "csp_jpys",
@@ -763,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
