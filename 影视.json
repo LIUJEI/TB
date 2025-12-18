@@ -16,26 +16,11 @@
       "searchable": 0
     },
     {
-      "key": "csp_预告",
-      "name": "🎬┣新片┫预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0
-    },
-    {
       "key": "csp_reboys",
-      "name": "♾️热门☪影視",
+      "name": "🎬┣热门┫影視",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "key": "csp_langk",
-      "name": "♾️浪酷☪影視",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.lkuys.cn"
     },
     {
       "key": "csp_顾我",
@@ -43,13 +28,6 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|3.10.0"
-    },
-    {
-      "key": "csp_爱盈",
-      "name": "♾️爱盈☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|3.10.0"
     },
     {
       "key": "csp_花小猪",
@@ -129,13 +107,6 @@
       "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
     },
     {
-      "key": "csp_椰子",
-      "name": "♾️椰子☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://103.109.20.117:6699|xxm9N4P9rS2zjdyz"
-    },
-    {
       "key": "csp_剧梦",
       "name": "♾️剧梦☪影視",
       "type": 3,
@@ -157,13 +128,6 @@
       "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
     },
     {
-      "key": "csp_huom",
-      "name": "♾️火猫☪影視",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": "http://103.23.148.70:14500|J6AIORKJ3PQOJKM8"
-    },
-    {
       "key": "csp_客星",
       "name": "♾️柚子☪影視",
       "type": 3,
@@ -176,13 +140,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
-    },
-    {
-      "key": "csp_稀饭",
-      "name": "♾️稀饭☪影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL"
     },
     {
       "key": "csp_batian",
@@ -204,19 +161,19 @@
       "name": "🪀金牌🔹影視",
       "type": 3,
       "api": "csp_Jpys",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
       "ext": {
         "site": "https://www.jiabaide.cn",
         "ua": "okhttp/12.13",
         "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"
-      },
-      "jar": "https://www.lequxiang.com.cn/down.php/c3823fce7251fe4a94effe3c06f6595d.txt"
+      }
     },
     {
       "key": "csp_茉小影",
       "name": "🪀茉影🔹视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "首页": "https://www.moxy.top",
@@ -230,7 +187,7 @@
       "name": "🪀APP🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
         "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -288,27 +245,6 @@
       "分类url":"http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
       "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","排序":"按时间$time#按人气$hit"}
     },
-    { 
-      "key": "xl影视", 
-      "name": "🪀修罗🔹影视", 
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar":"http://gzy.hk3.345888.xyz.cdn.cloudflare.net/json/XBPQ.jar",
-      "ext": {
-      "数组": "card card-sm card-link&&</div>",
-      "图片": "src=\"&&\"",
-      "标题": "mb-0 card-title text-truncate\">&&<",
-      "副标题": "琉芸✨-+start-0 text-red-fg\">&&</span>",
-      "链接": "href=\"&&\"",
-      "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&\"",
-      "线路标题": "💕琉芸👉-+>&&<",
-      "播放数组": "download-list&&</tbody>",
-      "播放列表": "<tr&&</tr>",
-      "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
-      "跳转播放链接": "href=\"&&\"",
-      "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId}&year={year};;d0",
-      "分类": "电影$0#电视剧$1#短剧$https://v.xlys.ltd.ua/s/duanju"}
-    },
     {
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
@@ -318,7 +254,6 @@
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
     },
-    
     {
       "key": "csp_xBPQ_柠檬",
       "name": "🪀柠檬🔹影視",
@@ -365,40 +300,11 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
     {
-      "key": "鲨鱼影视②",
-      "name": "🪀鲨鱼🔹系列",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/sayu2.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
-    },
-    {
       "key": "hipy_js_reys",
       "name": "🪀人人🔹影院",
       "type": 3,
       "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/人人.js"
-    },
-    {
-      "key": "csp_南瓜",
-      "name": "🪀南瓜🔹影院",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://lz.qaiu.top/parser?url=https://rjjh2021.lanzoub.com/irnim3cd3d4j",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-    {
-      "key": "csp_团夕",
-      "name": "🪀团夕🔹影视",
-      "type": 3,
-      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-      "ext": {
-        "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0",
-        "ua": "okhttp/12.13"
-      }
     },
     {
       "key": "荐片",
@@ -713,6 +619,7 @@
       "name": "🇨🇳┣☪配✿置┫辅助",
       "type": 3,
       "api": "csp_Config",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -727,6 +634,7 @@
       "type": 3,
       "api": "csp_Market",
       "indexs": 0,
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
     }
   ],
@@ -879,6 +787,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
