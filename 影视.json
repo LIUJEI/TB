@@ -330,6 +330,34 @@
       "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
+	{
+      "key": "锦鲤短剧",
+      "name": "♨️锦鲤®短剧",
+      "type": 3,
+      "api": "csp_JinliDJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+    },
+    {
+      "key": "笒鬼短剧",
+      "name": "♨️笒鬼®短剧",
+      "type": 3,
+      "api": "csp_CenguiDJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+    },
+    {
+      "key": "百度短剧",
+      "name": "♨️百度®短剧",
+      "type": 3,
+      "api": "csp_BaiduDJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+    },
+    {
+      "key": "星阁短剧",
+      "name": "♨️星阁®短剧",
+      "type": 3,
+      "api": "csp_XinggeDJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+    },
     {
       "key": "河马短剧",
       "name": "♨️河马®短劇",
@@ -616,67 +644,50 @@
     }
   ],
   "parses": [
+	{
+      "name":"☪2s0",
+      "type":0,
+      "url":"https://jx.2s0.cn/player/?url="
+    }, 
+    {
+      "name":"☪ik9",
+      "type":0,
+      "url":"https://yparse.ik9.cc/index.php?url="
+    },
     {
       "name": "☪虾米㊎",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "☪全网㊍",
+      "name": "☪淘片㊍",
       "type": 0,
-      "url": "https://huayong.net/999/?v="
+      "url": "https://jx.yparse.com/index.php?url="
     },
     {
-      "name": "☪盘古㊌",
+      "name": "☪咸鱼㊌",
       "type": 0,
-      "url": "https://www.pangujiexi.com/pangu/?url="
+      "url": "https://jx.xymp4.cc/?url="
     },
     {
       "name": "☪冰豆㊋",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
-    {
-      "name": "☪拉野㊏",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "☪无边芸❂",
+	{
+      "name": "☪七七㊏",
       "type": "1",
-      "url": "http://114.66.40.16:7700/api.php?url="
+      "url": "https://jx.77flv.cc/?url="
     },
     {
       "name": "☪芸解析❂",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
+      "url": "https://jx.yparse.com/index.php?url="
     },
     {
       "name": "☪爱奇艺❂",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
-          "referer": "https://jiejie.uk/"
-        }
-      }
-    },
-    {
-      "name": "☪咸鱼❂",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-          "referer": "https://www.xyflv.cc/"
-        }
-      }
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "🏁琉芸★智能嗅探★",
@@ -764,6 +775,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
