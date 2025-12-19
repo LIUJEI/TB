@@ -36,7 +36,7 @@
       "type": 3,
       "api": "csp_Jpys",
 	  "ua": "okhttp/12.13",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
@@ -213,7 +213,7 @@
       "name": "🪀茉影🔹视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "首页": "https://www.moxy.top",
@@ -287,7 +287,7 @@
       "type": 3,
       "api": "csp_Gz360",
       "ua": "okhttp/12.13",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
     {
       "key": "csp_LiteApple",
@@ -295,7 +295,7 @@
       "type": 3,
       "api": "csp_LiteApple",
       "ua": "okhttp/12.13",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
 	{
       "key": "csp_Qiyou",
@@ -303,7 +303,7 @@
       "type": 3,
       "api": "csp_Qiyou",
       "ua": "okhttp/12.13",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
 	{
       "key": "csp_Nongm",
@@ -312,7 +312,7 @@
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
       "ua": "okhttp/12.13",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
     {
       "key": "hipy_js_星芽短剧",
@@ -624,7 +624,7 @@
       "name": "🇨🇳┣☪配✿置┫辅助",
       "type": 3,
       "api": "csp_Config",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -639,35 +639,35 @@
       "type": 3,
       "api": "csp_Market",
       "indexs": 0,
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
     }
   ],
   "parses": [
 	{
-      "name":"☪2s0",
+      "name":"☪2s0❂",
       "type":0,
       "url":"https://jx.2s0.cn/player/?url="
     }, 
     {
-      "name":"☪ik9",
+      "name":"☪ik9❂",
       "type":0,
       "url":"https://yparse.ik9.cc/index.php?url="
     },
     {
-      "name": "☪虾米㊎",
-      "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
-    },
-    {
-      "name": "☪淘片㊍",
+      "name": "☪淘片㊎",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url="
     },
     {
-      "name": "☪咸鱼㊌",
+      "name": "☪咸鱼㊍",
       "type": 0,
       "url": "https://jx.xymp4.cc/?url="
+    },
+	{
+      "name": "☪虾米㊌",
+      "type": 0,
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "☪冰豆㊋",
@@ -691,67 +691,20 @@
     },
     {
       "name": "🏁琉芸★智能嗅探★",
-      "url": "https://www.8090g.cn/jiexi/?url=",
-      "type": 0,
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
+      "type":1,
+      "url":"https://zy.qiaoji8.com/xiafan.php?url=",
+      "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
+      "header":{"User-Agent":"okhttp/4.9.1"}}
     },
     {
       "name": "🏁琉芸★智能解析★",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "芒果TV",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
+      "type": 1,
+	  "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+	  "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
+	  "header":{"User-Agent":"okhttp/4.9.1"}}
     }
   ],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
   "lives": [
     {
       "name": "📺冰茶",
@@ -775,11 +728,6 @@
     "vip.ffzyad.com"
   ]
 }
-
-
-
-
-
 
 
 
