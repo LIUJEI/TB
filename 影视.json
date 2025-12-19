@@ -67,14 +67,6 @@
       "api": "csp_AppQi",
       "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
     },
-	{
-      "key": "csp_恋鱼",
-      "name": "♾️恋鱼☪影視",
-      "type": 3,
-      "api": "csp_AppFox",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
-    },
     {
       "key": "csp_jpys",
       "name": "♾️精品☪影院",
@@ -180,6 +172,14 @@
       "api": "csp_AppGet",
       "ext": "https://dy.8ttv.cn|1111111111111111"
     },
+	{
+      "key": "csp_恋鱼",
+      "name": "♾️恋鱼☪影視",
+      "type": 3,
+      "api": "csp_AppFox",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
+    },
     {
     "key": "csp_小镇",
     "name": "🪀玫瑰🔹小镇",
@@ -225,7 +225,7 @@
       "name":"🪀耐看🔹点播",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar",
+      "jar": "http://dd.ma/CFlLnSbJ",
       "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
       "数组":"public-list-exp\"&&</div></",
       "副标题":"琉芸✨-+>&&</div>",
@@ -740,6 +740,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
