@@ -225,7 +225,7 @@
       "name":"🪀耐看🔹点播",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar",
       "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
       "数组":"public-list-exp\"&&</div></",
       "副标题":"琉芸✨-+>&&</div>",
@@ -384,7 +384,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
       "key": "csp_剧剧吧",
@@ -396,7 +396,7 @@
         "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
         "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -736,6 +736,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
