@@ -71,8 +71,9 @@
       "key": "csp_恋鱼",
       "name": "♾️恋鱼☪影視",
       "type": 3,
-      "api": "csp_AppQi",
-      "ext":  "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json|2"
+      "api": "csp_AppFox",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
     },
     {
       "key": "csp_jpys",
@@ -763,6 +764,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
