@@ -182,7 +182,7 @@
     },
     {
     "key": "csp_小镇",
-    "name": "🏠️玫瑰🔹小镇",
+    "name": "🪀玫瑰🔹小镇",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
@@ -194,7 +194,7 @@
    },
    {
     "key": "csp_旺旺影视",
-    "name": "🐶旺旺🔹影视",
+    "name": "🪀旺旺🔹影视",
     "type": 3,
     "api": "csp_XBPQ",
     "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
@@ -220,6 +220,20 @@
         "图片": "data-src=\"&&\""
       }
     },
+	{
+      "key":"csp_XBPQ_耐看点播",
+      "name":"🪀耐看🔹点播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+      "数组":"public-list-exp\"&&</div></",
+      "副标题":"琉芸✨-+>&&</div>",
+      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+      "线路数组":"<a class=\"swiper-slide\">&&</a",
+      "线路标题":"💕琉芸👉-+&&",
+      "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
+    },
     {
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
@@ -227,7 +241,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
       "key": "csp_xBPQ_柠檬",
@@ -236,7 +250,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
       "key": "csp_XBPQ_剧集",
@@ -245,7 +259,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
       "key": "hipy_js_TVBys",
@@ -255,13 +269,6 @@
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
-    },
-    {
-      "key": "hipy_js_reys",
-      "name": "🪀人人🔹影院",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/dy/人人.js"
     },
     {
       "key": "荐片",
@@ -729,6 +736,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
