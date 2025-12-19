@@ -378,13 +378,16 @@
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/星芽.py"
     },
     {
-      "key": "csp_一起看短剧",
-      "name": "♨️起看®短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://d.kstore.dev/download/12194/Lib/起看短剧.json",
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+      "key": "红果短剧", 
+	  "name": "♨️红果®短剧", 
+	  "type":3,
+	  "api":"csp_XBPQ", 
+	  "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+	  "ext": {"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","简介":"【琉🔹芸❤广告勿信👉剧情】:+text\">&&</div>",
+	  "首页":"0",
+	  "线路标题":"javascript:;\">&&</a",
+	  "分类url":"https://www.hongguodj1.cc/vod/type/id/{cateId}-{catePg}/",
+	  "分类":"短剧大全$duanjudaquan#闪婚离婚$shanhunlihun#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi"}
     },
     {
       "key": "csp_剧剧吧",
@@ -736,6 +739,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
