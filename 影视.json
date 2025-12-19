@@ -181,39 +181,37 @@
       "ext": "https://dy.8ttv.cn|1111111111111111"
     },
     {
-      "key": "app影视",
-      "name": "🪀APP🔹影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
-        "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "csp_XBPQ_耐看点播",
-      "name": "🪀耐看🔹点播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-        "数组": "public-list-exp\"&&</div></",
-        "副标题": "琉芸✨-+>&&</div>",
-        "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "线路数组": "<a class=\"swiper-slide\">&&</a",
-        "线路标题": "💕琉芸👉-+&&",
-        "播放数组": "<ul class=\"anthology-list-play size\">&&</ul>"
-      }
+    "key": "csp_小镇",
+    "name": "🏠️玫瑰🔹小镇",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "http://dyxz.tv/;;!H",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
+   },
+   {
+    "key": "csp_旺旺影视",
+    "name": "🐶旺旺🔹影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+    "ext": {
+    "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
+    "请求头": "手机",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
+    "播放数组": "stui-content__playlist clearfix\"&&</ul>",
+    "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
+    "分类": "电视剧$2#电影$1#动漫$4#综艺$3"}
     },
 	{
       "key": "csp_茉小影",
       "name": "🪀茉影🔹视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
+      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "首页": "https://www.moxy.top",
@@ -657,54 +655,57 @@
     {
       "name": "☪淘片㊎",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
+      "url": "https://jx.yparse.com/index.php?url=",
+	  "ext": {
+	  "header": {"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
     {
       "name": "☪咸鱼㊍",
       "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
+      "url": "https://jx.xymp4.cc/?url=",
+	  "ext":{
+	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+	  "referer":"https://www.xyflv.cc/"}}
     },
 	{
       "name": "☪虾米㊌",
       "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "https://jx.xmflv.com/?url=",
+	  "ext": {
+	  "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
     },
     {
       "name": "☪冰豆㊋",
       "type": 0,
-      "url": "https://bd.jx.cn/?url="
+      "url": "https://bd.jx.cn/?url=",
+	  "ext": {
+	  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
 	{
       "name": "☪七七㊏",
       "type": "1",
-      "url": "https://jx.77flv.cc/?url="
-    },
-    {
-      "name": "☪芸解析❂",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "☪爱奇艺❂",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.77flv.cc/?url=",
+	  "ext":{
+	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+	  "referer":"https://jiejie.uk/"}}
     },
     {
       "name": "🏁琉芸★智能嗅探★",
       "type":1,
       "url":"https://zy.qiaoji8.com/xiafan.php?url=",
-      "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
-      "header":{"User-Agent":"okhttp/4.9.1"}}
+      "ext":{
+	  "flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}
     },
     {
       "name": "🏁琉芸★智能解析★",
-      "type": 1,
-	  "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-	  "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
-	  "header":{"User-Agent":"okhttp/4.9.1"}}
-    }
-  ],
+      "type":0,
+	  "url":"https://jx.yparse.com/index.php?url=",
+	  "ext":{
+	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    }],
+	
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
+	
   "lives": [
     {
       "name": "📺冰茶",
@@ -728,6 +729,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
