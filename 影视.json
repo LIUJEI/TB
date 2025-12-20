@@ -35,9 +35,10 @@
       "name": "♾️金牌☪影視",
       "type": 3,
       "api": "csp_Jpys",
-	  "ua": "okhttp/12.13",
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": {
+      "site": "https://www.jiabaide.cn",
+      "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"}
     },
     {
       "key": "csp_顾我",
@@ -713,6 +714,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
