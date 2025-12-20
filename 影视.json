@@ -252,13 +252,16 @@
       "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
     },
     {
-      "key": "hipy_js_TVBys",
-      "name": "🪀云播🔹影院",
+      "key": "app影视",
+      "name": "🪀APP🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB云播.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext": {
+        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
+        "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+      }
     },
     {
       "key": "荐片",
@@ -730,6 +733,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
