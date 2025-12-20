@@ -173,38 +173,25 @@
       "ext": "https://dy.8ttv.cn|1111111111111111"
     },
 	{
-      "key": "csp_恋鱼",
-      "name": "♾️恋鱼☪影視",
+      "key": "csp_莱米",
+      "name": "♾️莱米☪影視",
       "type": 3,
-      "api": "csp_AppFox",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
+      "api": "csp_AppGet",
+      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
     {
-    "key": "csp_小镇",
-    "name": "🪀玫瑰🔹小镇",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类url": "http://dyxz.tv/;;!H",
-    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
-   },
-   {
-    "key": "csp_旺旺影视",
-    "name": "🪀旺旺🔹影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-    "ext": {
-    "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
-    "请求头": "手机",
-    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
-    "播放数组": "stui-content__playlist clearfix\"&&</ul>",
-    "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
-    "分类": "电视剧$2#电影$1#动漫$4#综艺$3"}
+      "key": "csp_旺旺影视",
+      "name": "🪀旺旺🔹影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
+      "ext": {
+      "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
+      "请求头": "手机",
+      "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
+      "播放数组": "stui-content__playlist clearfix\"&&</ul>",
+      "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
+      "分类": "电视剧$2#电影$1#动漫$4#综艺$3"}
     },
 	{
       "key": "csp_茉小影",
@@ -219,20 +206,6 @@
         "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
         "图片": "data-src=\"&&\""
       }
-    },
-	{
-      "key":"csp_XBPQ_耐看点播",
-      "name":"🪀耐看🔹点播",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
-      "数组":"public-list-exp\"&&</div></",
-      "副标题":"琉芸✨-+>&&</div>",
-      "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-      "线路数组":"<a class=\"swiper-slide\">&&</a",
-      "线路标题":"💕琉芸👉-+&&",
-      "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
     },
     {
       "key": "hipy_js_fantys",
@@ -740,6 +713,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
