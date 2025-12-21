@@ -76,13 +76,6 @@
 	  "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
 	},
 	{
-	  "key": "csp_开心2",
-	  "name": "♾️开心☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "http://114.66.31.132:1080|staraugust123456|okhttp/3.10.0"
-	},
-	{
 	  "key": "csp_橘子",
 	  "name": "♾️橘子☪影視",
 	  "type": 3,
@@ -125,8 +118,8 @@
       "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh"
     },
     {
-      "key": "csp_云云",
-      "name": "♾️风云☪影視",
+      "key": "csp_白云",
+      "name": "♾️白云☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
@@ -238,6 +231,13 @@
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": {"host": "https://www.70yyw.cc","ver": 2}
     },
+	{
+	  "key": "csp_AppXY",
+	  "name": "🐸短剧┃影视",
+	  "type": 3,
+	  "api": "csp_DuanJu",
+	  "ext": ""
+	},
 	{
       "key":"风云",
       "name":"🎴风云🔹影视",
@@ -807,6 +807,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
