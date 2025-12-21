@@ -119,7 +119,7 @@
     },
     {
       "key": "csp_白云",
-      "name": "♾️白云☪影視",
+      "name": "♾️云云☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
@@ -215,6 +215,13 @@
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
+	{
+      "key": "小猫",
+      "name": "♾️小猫☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
+    },
     {
       "key": "恋鱼",
       "name": "♾️恋鱼☪影視",
@@ -232,13 +239,6 @@
       "ext": {"host": "https://www.70yyw.cc","ver": 2}
     },
 	{
-	  "key": "csp_AppXY",
-	  "name": "🐸短剧┃影视",
-	  "type": 3,
-	  "api": "csp_DuanJu",
-	  "ext": ""
-	},
-	{
       "key":"风云",
       "name":"🎴风云🔹影视",
       "type":3,
@@ -255,8 +255,8 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar"
     },
     {
-      "key":"下饭",
-      "name":"🎴下饭🔹影视", 
+      "key":"csp_雄鹰",
+      "name":"🎴雄鹰🔹影视", 
       "type":3,
       "api":"csp_Qiji",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
@@ -264,7 +264,7 @@
     },
 	{
       "key":"yunyun",
-      "name":"🎴云云🔹影视",
+      "name":"🎴酷云🔹影视",
       "type":3,
       "api":"csp_Qiji",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
@@ -807,6 +807,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
