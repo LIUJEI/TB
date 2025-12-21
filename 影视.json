@@ -40,13 +40,55 @@
       "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"},
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
+	{
+      "key": "csp_若曦",
+      "name": "♾️若曦☪影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
+    },
     {
       "key": "csp_顾我",
       "name": "♾️顾我☪影視",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|3.10.0"
+      "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|okhttp/3.10.0"
     },
+	{
+	  "key": "csp_谷歌",
+	  "name": "♾️谷歌☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://qj.ggtvb.cc|kecbio48dsq131ed|okhttp/3.10.0"
+	},
+	{
+	  "key": "csp_布蕾",
+	  "name": "♾️布蕾☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
+	},
+	{
+	  "key": "csp_AppGET",
+	  "name": "♾️魔法☪影視",
+	  "type": 3,
+	  "api": "csp_AppGet",
+	  "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
+	},
+	{
+	  "key": "csp_开心2",
+	  "name": "♾️开心☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "http://114.66.31.132:1080|staraugust123456|okhttp/3.10.0"
+	},
+	{
+	  "key": "csp_橘子",
+	  "name": "♾️橘子☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
+	},  
 	{
       "key": "csp_爱盈",
       "name": "♾️爱盈☪影視",
@@ -733,6 +775,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
