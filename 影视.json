@@ -238,6 +238,38 @@
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": {"host": "https://www.70yyw.cc","ver": 2}
     },
+	{
+      "key":"风云",
+      "name":"🎴风云🔹影视",
+      "type":3,
+      "api":"csp_qiao2",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+      "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },
+    {
+      "key": "nangua",
+      "name": "🎴南瓜🔹影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar"
+    },
+    {
+      "key":"下饭",
+      "name":"🎴下饭🔹影视", 
+      "type":3,
+      "api":"csp_Qiji",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+      "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
+    },
+	{
+      "key":"yunyun",
+      "name":"🎴云云🔹影视",
+      "type":3,
+      "api":"csp_Qiji",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+      "ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
+    },
     {
       "key": "csp_旺旺影视",
       "name": "🪀旺旺🔹影视",
@@ -775,6 +807,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
