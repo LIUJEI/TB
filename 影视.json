@@ -264,7 +264,7 @@
     },
 	{
       "key":"聚集",
-      "name":"🪀聚集🔹影视",
+      "name":"🎴聚集🔹影视",
       "type":3,
       "api":"csp_qiao2",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
@@ -807,6 +807,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
