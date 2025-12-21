@@ -97,8 +97,8 @@
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry"
     },
     {
-      "key": "csp_鲸鱼",
-      "name": "♾️鲸鱼☪秒播",
+      "key": "csp_酷云",
+      "name": "♾️酷云☪秒播",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
@@ -118,8 +118,8 @@
       "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh"
     },
     {
-      "key": "csp_白云",
-      "name": "♾️云云☪影視",
+      "key": "csp_如意云",
+      "name": "♾️如意☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
@@ -188,7 +188,7 @@
       "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
     },
     {
-      "key": "csp_客星",
+      "key": "csp_bin'd",
       "name": "♾️柚子☪影視",
       "type": 3,
       "api": "csp_AppGet",
@@ -263,12 +263,12 @@
       "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
 	{
-      "key":"yunyun",
-      "name":"🎴酷云🔹影视",
+      "key":"聚集",
+      "name":"🪀聚集🔹影视",
       "type":3,
-      "api":"csp_Qiji",
+      "api":"csp_qiao2",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
-      "ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
+      "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "csp_旺旺影视",
@@ -305,7 +305,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
     },
     {
       "key": "csp_xBPQ_柠檬",
@@ -314,7 +314,7 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
     },
     {
       "key": "csp_XBPQ_剧集",
@@ -323,14 +323,14 @@
       "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
     },
     {
       "key": "app影视",
       "name": "🪀APP🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
         "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -807,6 +807,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
