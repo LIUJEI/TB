@@ -35,10 +35,10 @@
       "name": "♾️金牌☪影視",
       "type": 3,
       "api": "csp_Jpys",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
       "ext": {
       "site": "https://www.jiabaide.cn",
-      "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"},
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"}
     },
 	{
       "key": "csp_若曦",
@@ -793,6 +793,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
