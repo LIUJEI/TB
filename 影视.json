@@ -38,7 +38,7 @@
       "ext": {
       "site": "https://www.jiabaide.cn",
       "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"},
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
 	{
       "key": "csp_若曦",
@@ -174,13 +174,6 @@
       "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
     },
     {
-      "key": "csp_缘梦",
-      "name": "♾️缘梦☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://www.zipfve.cn|1234567890987654"
-    },
-    {
       "key": "csp_旗星",
       "name": "♾️旗星☪影視",
       "type": 3,
@@ -214,13 +207,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-    },
-	{
-      "key": "小猫",
-      "name": "♾️小猫☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext":"http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
     },
     {
       "key": "恋鱼",
@@ -807,6 +793,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
