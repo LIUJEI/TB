@@ -27,14 +27,14 @@
       "name": "♾️奇奇☪影視",
       "type": 3,
       "api": "csp_AppGet", 
-      "ext": "http://103.236.61.192:8006|123456789abcdefg|okhttp/3.14.9"
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
     },
 	{
       "key": "csp_白鸽", 
       "name": "♾️白鸽☪影視",
       "type": 3, 
       "api": "csp_AppGet", 
-      "ext": "https://cy.baige.asia|599D0FE5178642FD|okhttp/3.14.9"
+      "ext": "https://cy.baige.asia|599D0FE5178642FD"
     },
 	{
 	  "key": "csp_XINXIN",
@@ -111,14 +111,14 @@
       "name": "♾️精品☪影院",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://dtqj1.gg1080.com:443/dtjp.txt|kecbio48dsq131ed|okhttp/3.14.9"
+      "ext": "https://dtqj1.gg1080.com:443/dtjp.txt|kecbio48dsq131ed"
     },
     {
       "key": "csp_麻花",
       "name": "♾️麻花☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh|okhttp/3.14.9"
+      "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh"
     },
     {
       "key": "csp_如意云",
@@ -146,7 +146,7 @@
       "name": "♾️紫金☪秒播",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://www.zjcvod.com|ab4e9a421675f14b|okhttp/3.14.9"
+      "ext": "http://www.zjcvod.com|ab4e9a421675f14b"
     },
     {
       "key": "csp_火狐",
@@ -160,14 +160,14 @@
       "name": "♾️新剧☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://211.154.24.56:8369|685bf108bc47b67d|okhttp/3.14.9"
+      "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
     },
     {
       "key": "csp_剧梦",
       "name": "♾️剧梦☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://www.jumengwu.com|1f0a873caf2550a5|okhttp/3.14.9"
+      "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
     },
     {
       "key": "csp_旗星",
@@ -188,14 +188,14 @@
       "name": "♾️数字☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa|okhttp/3.14.9"
+      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
     },
     {
       "key": "csp_batian",
       "name": "♾️八天☪电影",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://dy.8ttv.cn|1111111111111111|okhttp/3.14.9"
+      "ext": "https://dy.8ttv.cn|1111111111111111"
     },
 	{
       "key": "csp_莱米",
@@ -706,7 +706,7 @@
 	  "name": "♾️漫国🔹动漫", 
 	  "type": 3, 
 	  "api": "csp_AppSy", 
-	  "ext": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt|rectangleadsadxa|aassddwwxxllsx1x|"
+	  "ext": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt|aassddwwxxllsx1x"
 	}, 
     {
 	  "key": "丫丫动漫", 
@@ -850,6 +850,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
