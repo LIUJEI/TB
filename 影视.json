@@ -23,50 +23,25 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "csp_my",
-      "name": "♾️蚂蚁☪影视",
+      "key": "csp_瑞奇",
+      "name": "♾️奇奇☪影視",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
-      "ext": "http://101.35.85.16:5555",
-      "ua": "okhttp/12.13"
-    },
-    {
-      "key": "csp_Jpys_界牌",
-      "name": "♾️界牌☪影視",
-      "type": 3,
-      "api": "csp_Jpys",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-      "ext": {
-      "site": "https://m.hkybqufgh.com",
-      "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json"}
+      "api": "csp_AppGet", 
+      "ext": "http://103.236.61.192:8006|123456789abcdefg|okhttp/3.14.9"
     },
 	{
-		"key": "csp_XINXIN",
-		"name": "♾️鑫鑫☪影视",
-		"type": 3,
-		"api": "csp_AppGet",
-		"ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
-	},
-	{
-      "key": "csp_若曦",
-      "name": "♾️若曦☪影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
-    },
-    {
-      "key": "csp_顾我",
-      "name": "♾️顾我☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|okhttp/3.10.0"
+      "key": "csp_白鸽", 
+      "name": "♾️白鸽☪影視",
+      "type": 3, 
+      "api": "csp_AppGet", 
+      "ext": "https://cy.baige.asia|599D0FE5178642FD|okhttp/3.14.9"
     },
 	{
-	  "key": "csp_谷歌",
-	  "name": "♾️谷歌☪影視",
+	  "key": "csp_XINXIN",
+	  "name": "♾️鑫鑫☪影视",
 	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://qj.ggtvb.cc|kecbio48dsq131ed|okhttp/3.10.0"
+	  "api": "csp_AppGet",
+	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
 	{
 	  "key": "csp_布蕾",
@@ -88,7 +63,28 @@
 	  "type": 3,
 	  "api": "csp_AppQi",
 	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
-	},  
+	}, 
+	{
+	  "key": "csp_谷歌",
+	  "name": "♾️谷歌☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://qj.ggtvb.cc|kecbio48dsq131ed|okhttp/3.10.0"
+	},
+	{
+      "key": "csp_顾我",
+      "name": "♾️顾我☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|okhttp/3.10.0"
+    },
+	{
+      "key": "csp_若曦",
+      "name": "♾️若曦☪影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
+    },
 	{
       "key": "csp_爱盈",
       "name": "♾️爱盈☪影視",
@@ -115,14 +111,14 @@
       "name": "♾️精品☪影院",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://dtqj1.gg1080.com:443/dtjp.txt|kecbio48dsq131ed"
+      "ext": "https://dtqj1.gg1080.com:443/dtjp.txt|kecbio48dsq131ed|okhttp/3.14.9"
     },
     {
       "key": "csp_麻花",
       "name": "♾️麻花☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh"
+      "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh|okhttp/3.14.9"
     },
     {
       "key": "csp_如意云",
@@ -146,18 +142,11 @@
       "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|120"
     },
     {
-      "key": "csp_瑞奇",
-      "name": "♾️瑞奇☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
-    },
-    {
       "key": "csp_紫金草视频",
       "name": "♾️紫金☪秒播",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://www.zjcvod.com|ab4e9a421675f14b"
+      "ext": "http://www.zjcvod.com|ab4e9a421675f14b|okhttp/3.14.9"
     },
     {
       "key": "csp_火狐",
@@ -171,14 +160,14 @@
       "name": "♾️新剧☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+      "ext": "http://211.154.24.56:8369|685bf108bc47b67d|okhttp/3.14.9"
     },
     {
       "key": "csp_剧梦",
       "name": "♾️剧梦☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
+      "ext": "https://www.jumengwu.com|1f0a873caf2550a5|okhttp/3.14.9"
     },
     {
       "key": "csp_旗星",
@@ -199,14 +188,14 @@
       "name": "♾️数字☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
+      "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa|okhttp/3.14.9"
     },
     {
       "key": "csp_batian",
       "name": "♾️八天☪电影",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://dy.8ttv.cn|1111111111111111"
+      "ext": "https://dy.8ttv.cn|1111111111111111|okhttp/3.14.9"
     },
 	{
       "key": "csp_莱米",
@@ -232,12 +221,22 @@
       "ext": {"host": "https://www.70yyw.cc","ver": 2}
     },
 	{
-	  "key": "csp_YALI",
-	  "name": "♾️鸭梨☪动漫",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
-	},
+      "key": "csp_my",
+      "name": "♾️蚂蚁☪影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
+      "ext": "http://101.35.85.16:5555",
+      "ua": "okhttp/12.13"
+    },
+    {
+      "key": "csp_Jpys_界牌",
+      "name": "♾️界牌☪影視",
+      "type": 3,
+      "api": "csp_Jpys",
+	  "ua": "okhttp/12.13",
+	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
 	{
       "key":"风云",
       "name":"🎴风云🔹影视",
@@ -695,6 +694,62 @@
         "ratio": 1.333
       }
     },
+	{
+	  "key": "csp_YALI",
+	  "name": "♾️鸭梨🔹动漫",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
+	},
+	{
+	  "key": "漫国动漫", 
+	  "name": "♾️漫国🔹动漫", 
+	  "type": 3, 
+	  "api": "csp_AppSy", 
+	  "ext": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt|rectangleadsadxa|aassddwwxxllsx1x|"
+	}, 
+    {
+	  "key": "丫丫动漫", 
+	  "name": "♾️丫丫🔹动漫", 
+	  "type": 3, 
+	  "api": "csp_AppGet", 
+	  "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
+	},
+    {
+	  "key": "曼波动漫", 
+	  "name": "♾️曼波🔹动漫", 
+	  "type": 3, 
+	  "api": "csp_AppGet", 
+	  "ext": "https://app.omofun1.top|66dc309cbeeca454"
+	},
+	{
+      "key": "咕咕动漫",
+      "name": "♾️咕咕🔹动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
+    },
+    {
+      "key": "冬日动漫",
+      "name": "♾️冬日🔹动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://www.drdm.fun|qE2nD0rL1lH4uP9r"
+    },
+    {
+      "key": "方舟动漫",
+      "name": "♾️方舟🔹动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://www.cyfz.vip|e72cdfd629e8895d"
+    },
+    {
+      "key": "元咲动漫",
+      "name": "♾️元咲🔹动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
+    },
     {
       "key": "ConfigCenter",
       "name": "🇨🇳┣☪配✿置┫辅助",
@@ -795,5 +850,6 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
