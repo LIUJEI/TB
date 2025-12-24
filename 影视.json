@@ -33,8 +33,7 @@
       "key": "csp_白鸽", 
       "name": "♾️白鸽☪影視",
       "type": 3, 
-      "searchable": 1, 
-	  "changeable": 1, 
+      "jar": "https://z.wiki/u/hlODoDASN;md5;9566f3277218f6caefcb027c3dd9f992",
       "api": "csp_AppGet", 
       "ext": "https://cy.baige.asia|599D0FE5178642FD"
     },
@@ -838,6 +837,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
