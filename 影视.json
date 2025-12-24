@@ -33,6 +33,8 @@
       "key": "csp_白鸽", 
       "name": "♾️白鸽☪影視",
       "type": 3, 
+      "searchable": 1, 
+	  "changeable": 1, 
       "api": "csp_AppGet", 
       "ext": "https://cy.baige.asia|599D0FE5178642FD"
     },
@@ -701,13 +703,6 @@
 	  "api": "csp_AppQi",
 	  "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
 	},
-	{
-	  "key": "漫国动漫", 
-	  "name": "♾️漫国🔹动漫", 
-	  "type": 3, 
-	  "api": "csp_AppSy", 
-	  "ext": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt|aassddwwxxllsx1x"
-	}, 
     {
 	  "key": "丫丫动漫", 
 	  "name": "♾️丫丫🔹动漫", 
@@ -728,13 +723,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
-    },
-    {
-      "key": "冬日动漫",
-      "name": "♾️冬日🔹动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://www.drdm.fun|qE2nD0rL1lH4uP9r"
     },
     {
       "key": "方舟动漫",
@@ -850,6 +838,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
