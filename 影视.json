@@ -23,40 +23,12 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "csp_奇奇",
-      "name": "♾️奇奇☪影視",
-      "type": 3,
-      "api": "csp_AppGet", 
-      "ext": "http://103.236.61.192:8006|123456789abcdefg"
-    },
-	{
 	  "key": "csp_XINXIN",
 	  "name": "♾️鑫鑫☪影视",
 	  "type": 3,
 	  "api": "csp_AppGet",
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
-	{
-	  "key": "csp_布蕾",
-	  "name": "♾️布蕾☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
-	},
-	{
-	  "key": "csp_AppGET",
-	  "name": "♾️魔法☪影視",
-	  "type": 3,
-	  "api": "csp_AppGet",
-	  "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
-	},
-	{
-	  "key": "csp_橘子",
-	  "name": "♾️橘子☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
-	}, 
 	{
 	  "key": "csp_谷歌",
 	  "name": "♾️谷歌☪影視",
@@ -134,6 +106,34 @@
       "api": "csp_AppQi",
       "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|120"
     },
+	{
+	  "key": "csp_布蕾",
+	  "name": "♾️布蕾☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
+	},
+	{
+      "key": "csp_奇奇",
+      "name": "♾️奇奇☪影視",
+      "type": 3,
+      "api": "csp_AppGet", 
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
+    },
+	{
+	  "key": "csp_AppGET",
+	  "name": "♾️魔法☪影視",
+	  "type": 3,
+	  "api": "csp_AppGet",
+	  "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
+	},
+	{
+	  "key": "csp_橘子",
+	  "name": "♾️橘子☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
+	}, 
     {
       "key": "csp_紫金草视频",
       "name": "♾️紫金☪秒播",
@@ -865,6 +865,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
