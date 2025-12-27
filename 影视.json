@@ -301,7 +301,7 @@
     },
 	{
 	  "key":"csp_huomaoys",
-	  "name":"火猫🔹影视",
+	  "name":"🎴火猫🔹影视",
 	  "type":3,
 	  "api":"csp_Qiji",
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
@@ -309,7 +309,7 @@
 	},
 	{
 	  "key":"csp_guanwang",
-	  "name":"官网🔹影视",
+	  "name":"🎴官网🔹影视",
 	  "type":3,
 	  "api":"csp_Qiji",
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
@@ -865,6 +865,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
