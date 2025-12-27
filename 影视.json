@@ -23,23 +23,11 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "csp_瑞奇",
+      "key": "csp_奇奇",
       "name": "♾️奇奇☪影視",
       "type": 3,
       "api": "csp_AppGet", 
       "ext": "http://103.236.61.192:8006|123456789abcdefg"
-    },
-	{
-      "key": "csp_白鸽", 
-      "name": "♾️白鸽☪影視",
-      "type": 3, 
-      "jar": "https://z.wiki/u/hlODoDASN;md5;9566f3277218f6caefcb027c3dd9f992",
-      "api": "csp_AppGet",
-      "ext": {
-                "url": "https://cy.baige.asia",
-                "dataKey": "599D0FE5178642FD",
-                "dataIv": "599D0FE5178642FD"
-            }
     },
 	{
 	  "key": "csp_XINXIN",
@@ -209,8 +197,16 @@
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
+	{
+      "key": "csp_白鸽", 
+      "name": "♾️白鸽☪影視",
+      "type": 3, 
+      "jar": "https://z.wiki/u/hlODoDASN;md5;9566f3277218f6caefcb027c3dd9f992",
+      "api": "csp_AppGet",
+      "ext": {"url": "https://cy.baige.asia","dataKey": "599D0FE5178642FD","dataIv": "599D0FE5178642FD"}
+    },
     {
-      "key": "恋鱼",
+      "key": "csp_恋鱼",
       "name": "♾️恋鱼☪影視",
       "type": 3,
       "api": "csp_AppFox",
@@ -218,12 +214,41 @@
       "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
     },
     {
-      "key": "麒麟",
+      "key": "csp_麒麟",
       "name": "♾️麒麟☪影視",
       "type": 3,
       "api": "csp_AppFox",
 	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
       "ext": {"host": "https://www.70yyw.cc","ver": 2}
+    },
+    {
+      "key": "csp_木瓜",
+      "name": "♾️木瓜☪影視",
+      "type": 3,
+      "api": "csp_AppFox",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
+      "ext": {"host": "http://www.yezitv.top"}
+    },
+    {
+      "key": "csp_瑞奇",
+      "name": "♾️瑞奇☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
+    },
+	{
+      "key": "csp_驿站",
+      "name": "♾️驿站☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+    },
+	{
+      "key": "csp_稀饭",
+      "name": "♾️稀饭☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL"
     },
 	{
       "key": "csp_my",
@@ -259,21 +284,37 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar"
     },
     {
-      "key":"csp_雄鹰",
-      "name":"🎴雄鹰🔹影视", 
+      "key":"csp_lanyingys",
+      "name":"🎴蓝影🔹影视", 
       "type":3,
       "api":"csp_Qiji",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
       "ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
     },
 	{
-      "key":"聚集",
+      "key":"csp_聚集",
       "name":"🎴聚集🔹影视",
       "type":3,
       "api":"csp_qiao2",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
+	{
+	  "key":"csp_huomaoys",
+	  "name":"火猫🔹影视",
+	  "type":3,
+	  "api":"csp_Qiji",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+	  "ext":"7lj763gg402i7942553k9hj9k1128h95g3l8920j828g332i08154lg0h6134l040hj849gl8i4k9881381lh48ig2g41il4k131270lk1h6j7l723863llg60l91544k9k693l1g7722664ii126k"
+	},
+	{
+	  "key":"csp_guanwang",
+	  "name":"官网🔹影视",
+	  "type":3,
+	  "api":"csp_Qiji",
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+	  "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
+	},
     {
       "key": "csp_旺旺影视",
       "name": "🪀旺旺🔹影视",
@@ -362,24 +403,21 @@
       "name": "🪀瓜子🔹影视",
       "type": 3,
       "api": "csp_Gz360",
-      "ua": "okhttp/12.13",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "ua": "okhttp/12.13"
     },
     {
       "key": "csp_LiteApple",
       "name": "🪀苹果🔹影视",
       "type": 3,
       "api": "csp_LiteApple",
-      "ua": "okhttp/12.13",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "ua": "okhttp/12.13"
     },
 	{
       "key": "csp_Qiyou",
       "name": "🪀奇优🔹影视",
       "type": 3,
       "api": "csp_Qiyou",
-      "ua": "okhttp/12.13",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "ua": "okhttp/12.13"
     },
 	{
       "key": "csp_Nongm",
@@ -387,8 +425,7 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
-      "ua": "okhttp/12.13",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "ua": "okhttp/12.13"
     },
     {
       "key": "hipy_js_星芽短剧",
@@ -769,39 +806,32 @@
     {
       "name": "☪淘片㊎",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-	  "ext": {
-	  "header": {"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+      "url": "https://jx.yparse.com/index.php?url="
     },
     {
       "name": "☪咸鱼㊍",
       "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
-	  "ext":{
-	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-	  "referer":"https://www.xyflv.cc/"}}
+      "url": "https://jx.xymp4.cc/?url="
     },
 	{
       "name": "☪虾米㊌",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-	  "ext": {
-	  "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "☪冰豆㊋",
       "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-	  "ext": {
-	  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+      "url": "https://bd.jx.cn/?url="
     },
 	{
       "name": "☪七七㊏",
       "type": "1",
-      "url": "https://jx.77flv.cc/?url=",
-	  "ext":{
-	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-	  "referer":"https://jiejie.uk/"}}
+      "url": "https://jx.77flv.cc/?url="
+    },
+	{
+      "name": "🏁琉芸★智能解析★",
+      "type":0,
+	  "url":"https://jx.yparse.com/index.php?url="
     },
     {
       "name": "🏁琉芸★智能嗅探★",
@@ -809,14 +839,8 @@
       "url":"https://zy.qiaoji8.com/xiafan.php?url=",
       "ext":{
 	  "flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}
-    },
-    {
-      "name": "🏁琉芸★智能解析★",
-      "type":0,
-	  "url":"https://jx.yparse.com/index.php?url=",
-	  "ext":{
-	  "header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    }],
+    }
+    ],
   "lives": [
     {
       "name": "📺冰茶",
@@ -834,13 +858,14 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
-
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
