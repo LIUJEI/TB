@@ -34,8 +34,12 @@
       "name": "♾️白鸽☪影視",
       "type": 3, 
       "jar": "https://z.wiki/u/hlODoDASN;md5;9566f3277218f6caefcb027c3dd9f992",
-      "api": "csp_AppGet", 
-      "ext": "https://cy.baige.asia|599D0FE5178642FD"
+      "api": "csp_AppGet",
+      "ext": {
+                "url": "https://cy.baige.asia",
+                "dataKey": "599D0FE5178642FD",
+                "dataIv": "599D0FE5178642FD"
+            }
     },
 	{
 	  "key": "csp_XINXIN",
@@ -115,11 +119,11 @@
       "ext": "https://dtqj1.gg1080.com:443/dtjp.txt|kecbio48dsq131ed"
     },
     {
-      "key": "csp_麻花",
-      "name": "♾️麻花☪影視",
+      "key": "csp_皇宫",
+      "name": "♾️皇宫☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://49.235.114.19:150|q7gj4f9br3fls6nh"
+      "ext": "https://ios.hgyx.vip|062dec75d039980e|Dart/3.5 (dart:io)"
     },
     {
       "key": "csp_如意云",
@@ -837,6 +841,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
