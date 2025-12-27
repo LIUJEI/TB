@@ -299,22 +299,7 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
-	{
-	  "key":"csp_huomaoys",
-	  "name":"🎴火猫🔹影视",
-	  "type":3,
-	  "api":"csp_Qiji",
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
-	  "ext":"7lj763gg402i7942553k9hj9k1128h95g3l8920j828g332i08154lg0h6134l040hj849gl8i4k9881381lh48ig2g41il4k131270lk1h6j7l723863llg60l91544k9k693l1g7722664ii126k"
-	},
-	{
-	  "key":"csp_guanwang",
-	  "name":"🎴官网🔹影视",
-	  "type":3,
-	  "api":"csp_Qiji",
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
-	  "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
-	},
+	
     {
       "key": "csp_旺旺影视",
       "name": "🪀旺旺🔹影视",
@@ -865,6 +850,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
