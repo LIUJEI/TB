@@ -789,32 +789,44 @@
     {
       "name": "☪淘片㊎",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
     {
       "name": "☪咸鱼㊍",
       "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"}}
     },
 	{
       "name": "☪虾米㊌",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
     },
     {
       "name": "☪冰豆㊋",
       "type": 0,
-      "url": "https://bd.jx.cn/?url="
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
 	{
       "name": "☪七七㊏",
       "type": "1",
-      "url": "https://jx.77flv.cc/?url="
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
 	{
       "name": "🏁琉芸★智能解析★",
       "type":0,
-	  "url":"https://jx.yparse.com/index.php?url="
+	  "url":"https://jx.yparse.com/index.php?url=",
+      "ext": {"header": {
+      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
     {
       "name": "🏁琉芸★智能嗅探★",
@@ -841,13 +853,48 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
+  "flags": [
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
+    ],
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
