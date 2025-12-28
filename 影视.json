@@ -278,8 +278,8 @@
       "name":"🎴蓝影🔹影视", 
       "type":3,
       "api":"csp_Qiji",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
-      "ext":"7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
+	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+	  "ext":"7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
 	{
       "key":"csp_聚集",
@@ -848,6 +848,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
