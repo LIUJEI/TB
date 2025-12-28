@@ -268,6 +268,20 @@
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
 	{
+		"key": "csp_laoya1",
+		"name": "🎴老鸭🔹影视",
+		"type": 3,
+		"api": "https://d.kstore.dev/download/12194/TV/fox.js",
+		"ext": {"host": "http://103.109.20.117:550/"}
+	},
+	{
+		"key": "csp_laoya2",
+		"name": "🎴老雅🔹影视",
+		"type": 3,
+		"api": "https://d.kstore.dev/download/12194/TV/fox.js",
+		"ext": {"host": "https://app2512.ystva.com"}
+	},  
+	{
       "key":"风云",
       "name":"🎴风云🔹影视",
       "type":3,
@@ -850,6 +864,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
