@@ -250,14 +250,6 @@
       "api": "csp_AppGet",
       "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL"
     },
-	{
-      "key": "csp_my",
-      "name": "♾️蚂蚁☪影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py",
-      "ext": "http://101.35.85.16:5555",
-      "ua": "okhttp/12.13"
-    },
     {
       "key": "csp_Jpys_界牌",
       "name": "♾️界牌☪影視",
@@ -267,13 +259,6 @@
 	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
-	{
-		"key": "csp_laoya1",
-		"name": "🎴老鸭🔹影视",
-		"type": 3,
-		"api": "https://d.kstore.dev/download/12194/TV/fox.js",
-		"ext": {"host": "http://103.109.20.117:550/"}
-	},
 	{
 		"key": "csp_laoya2",
 		"name": "🎴老雅🔹影视",
@@ -864,6 +849,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
