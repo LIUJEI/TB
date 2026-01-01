@@ -349,6 +349,12 @@
       "ua": "okhttp/12.13"
     },
     {
+      "key": "hipy_js_聚合短剧",
+      "name": "🎬短劇☪系列",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/JHdj.js"
+    },
+	{
       "key": "hipy_js_星芽短剧",
       "name": "🎬短劇☪系列",
       "type": 3,
@@ -356,15 +362,33 @@
       "ext": "https://d.kstore.dev/download/12194/TV/xingya.js"
     },
     {
-      "key": "csp_XYQHiker_河马短剧",
-      "name": "🎬影院☪短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
+	   "name":"♨️豪堪®短剧",
+	   "key":"csp_豪堪短剧",
+	   "type":3,
+	   "api":"csp_HHkkAmns",
+	   "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
     },
-    
+    {
+	  "name":"♨️盒马®短剧",
+	  "key":"csp_盒马短剧",
+	  "type":3,
+	  "api":"csp_HemaAmns",
+	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
+    {
+	  "name":"♨️拜拜®短剧",
+	  "key":"csp_拜拜短剧",
+	  "type":3,
+	  "api":"csp_BddjAmns",
+	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
+    {
+	  "name":"♨️喵喵®短剧",
+	  "key":"csp_喵喵短剧",
+	  "type":3,
+	  "api":"csp_QmdjAmns",
+	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
 	{
       "key": "csp_锦鲤短剧",
       "name": "♨️锦鲤®短剧",
@@ -378,7 +402,7 @@
       "type": 3,
       "api": "csp_CenguiDJ",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
-    }
+    },
     {
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
@@ -826,6 +850,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
