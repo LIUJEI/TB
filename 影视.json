@@ -23,6 +23,34 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
+      "key": "csp_mayi",
+      "name": "♾️神兽☪影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
+      "ext": {"host": "http://118.89.203.120:8365/","ver": 2}
+    },
+	{
+	  "key": "csp_qilin70",
+	  "name": "♾️麒麟☪影视",
+	  "type": 3,
+	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+	  "ext": {"host": "https://www.70yyw.cc","ver": 2}
+	},
+	{
+	  "key": "csp_baih",
+	  "name": "♾️白虎☪影视",
+	  "type": 3,
+	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
+	},
+	{
+      "key": "csp_恋鱼",
+      "name": "♾️恋鱼☪影視",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
+    },
+	{
       "key": "csp_仓鼠",
       "name": "♾️仓鼠☪影視",
       "type": 3,
@@ -177,28 +205,6 @@
 	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
 	},
 	{
-      "key": "csp_mayi",
-      "name": "🎴神兽🔹影视",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
-      "ext": {"host": "http://118.89.203.120:8365/"}
-    },
-	{
-
-	  "key": "csp_qilin70",
-	  "name": "🎴麒麟🔹影视",
-	  "type": 3,
-	  "api": "https://d.kstore.dev/download/12194/TV/fox.js",
-	  "ext": {"host": "https://www.70yyw.cc"}
-	},
-	{
-	  "key": "csp_baih",
-	  "name": "🎴白虎🔹影视",
-	  "type": 3,
-	  "api": "https://d.kstore.dev/download/12194/TV/fox.js",
-	  "ext": {"host": "https://app2512.ystva.com"}
-	},
-	{
       "key": "nangua",
       "name": "🎴南瓜🔹影视",
       "type": 3,
@@ -229,15 +235,6 @@
       "api":"csp_qiao2",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },
-	{
-      "key": "csp_Jpys_界牌",
-      "name": "🎴界牌☪影視",
-      "type": 3,
-      "api": "csp_Jpys",
-	  "ua": "okhttp/12.13",
-	  "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "csp_旺旺影视",
@@ -835,6 +832,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
