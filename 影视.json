@@ -364,43 +364,70 @@
       "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
+    {
+      "key": "csp_剧和短剧",
+      "name": "♨️聚合®短剧",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/JHdj.js"
+    },
+    {
+	   "name":"♨️豪堪®短剧",
+	   "key":"csp_豪堪短剧",
+	   "type":3,
+	   "api":"csp_HHkkAmns",
+	   "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+    },
+    {
+		"name":"♨️盒马®短剧",
+		"key":"csp_盒马短剧",
+		"type":3,
+		"api":"csp_HemaAmns",
+		"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
+    {
+		"name":"♨️拜拜®短剧",
+		"key":"csp_拜拜短剧",
+		"type":3,
+		"api":"csp_BddjAmns",
+		"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
+    {
+		"name":"♨️喵喵®短剧",
+		"key":"csp_喵喵短剧",
+		"type":3,
+		"api":"csp_QmdjAmns",
+		"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
 	{
-      "key": "锦鲤短剧",
+      "key": "csp_锦鲤短剧",
       "name": "♨️锦鲤®短剧",
       "type": 3,
       "api": "csp_JinliDJ",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
     {
-      "key": "笒鬼短剧",
+      "key": "csp_笒鬼短剧",
       "name": "♨️笒鬼®短剧",
       "type": 3,
       "api": "csp_CenguiDJ",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
-    },
+    }
     {
-      "key": "百度短剧",
-      "name": "♨️百度®短剧",
-      "type": 3,
-      "api": "csp_BaiduDJ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
-    },
-    {
-      "key": "星阁短剧",
+      "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
       "api": "csp_XinggeDJ",
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
     {
-      "key": "河马短剧",
+      "key": "csp_河马短剧",
       "name": "♨️河马®短劇",
       "type": 3,
       "ua": "okhttp/12.13",
       "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
     },
     {
-      "key": "星芽短剧",
+      "key": "csp_星芽短剧",
       "name": "♨️星芽®短剧",
       "type": 3,
       "ua": "okhttp/12.13",
@@ -832,6 +859,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
