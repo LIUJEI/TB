@@ -34,21 +34,21 @@
       "name": "♾️青龙☪影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json,"ver": 2"}
+      "ext": {"host": "http://121.40.131.51:2556/host.json,"ver": 2}
     },
 	{
 	  "key": "csp_baih",
 	  "name": "♾️白虎☪影视",
 	  "type": 3,
 	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-	  "ext": {"host": "https://app2512.ystva.com,"ver": 2"}
+	  "ext": {"host": "https://app2512.ystva.com,"ver": 2}
 	},
 	{
       "key": "csp_mayi",
       "name": "♾️神兽☪影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
-      "ext": {"host": "http://118.89.203.120:8365/,"ver": 2"}
+      "ext": {"host": "http://118.89.203.120:8365/,"ver": 2}
     },
 	{
       "key": "csp_恋鱼",
@@ -62,7 +62,7 @@
       "name": "♾️木瓜☪影視",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://www.yezitv.top,"ver": 2"}
+      "ext": {"host": "http://www.yezitv.top,"ver": 2}
     },
 	{
       "key": "csp_仓鼠",
@@ -855,6 +855,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
