@@ -23,32 +23,32 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "csp_mayi",
-      "name": "♾️神兽☪影视",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
-      "ext": {"host": "http://118.89.203.120:8365/"}
-    },
-	{
 	  "key": "csp_qilin70",
 	  "name": "♾️麒麟☪影视",
 	  "type": 3,
 	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-	  "ext": {"host": "https://www.70yyw.cc"}
-	},
-	{
-	  "key": "csp_baih",
-	  "name": "♾️白虎☪影视",
-	  "type": 3,
-	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-	  "ext": {"host": "https://app2512.ystva.com"}
+	  "ext": {"host": "https://www.70yyw.cc","ver": 2}
 	},
 	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json"}
+      "ext": {"host": "http://121.40.131.51:2556/host.json,"ver": 2"}
+    },
+	{
+	  "key": "csp_baih",
+	  "name": "♾️白虎☪影视",
+	  "type": 3,
+	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+	  "ext": {"host": "https://app2512.ystva.com,"ver": 2"}
+	},
+	{
+      "key": "csp_mayi",
+      "name": "♾️神兽☪影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
+      "ext": {"host": "http://118.89.203.120:8365/,"ver": 2"}
     },
 	{
       "key": "csp_恋鱼",
@@ -58,11 +58,11 @@
       "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"}
     },
 	{
-      "key": "白鸽",
-      "name": "♾️白鸽☪影視",
+      "key": "csp_木瓜",
+      "name": "♾️木瓜☪影視",
       "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://cy.baige.asia|599D0FE5178642FD"
+      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "ext": {"host": "http://www.yezitv.top,"ver": 2"}
     },
 	{
       "key": "csp_仓鼠",
@@ -855,6 +855,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
