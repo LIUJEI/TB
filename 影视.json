@@ -134,22 +134,6 @@
       "api": "csp_AppGet",
       "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
     },
-    {
-      "key": "csp_恋鱼",
-      "name": "♾️恋鱼☪影視",
-      "type": 3,
-      "api": "csp_AppFox",
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
-      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
-    },
-    {
-      "key": "csp_麒麟",
-      "name": "♾️麒麟☪影視",
-      "type": 3,
-      "api": "csp_AppFox",
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
-      "ext": {"host": "https://www.70yyw.cc","ver": 2}
-    },
 	{
       "key": "csp_batian",
       "name": "♾️八天☪电影",
@@ -194,15 +178,15 @@
 	},
 	{
       "key": "csp_mayi",
-      "name": "🎴蚂蚁🔹影视",
+      "name": "🎴神兽🔹影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
       "ext": {"host": "http://118.89.203.120:8365/"}
     },
 	{
 
-	  "key": "csp_shens",
-	  "name": "🎴神兽🔹影视",
+	  "key": "csp_qilin70",
+	  "name": "🎴麒麟🔹影视",
 	  "type": 3,
 	  "api": "https://d.kstore.dev/download/12194/TV/fox.js",
 	  "ext": {"host": "https://www.70yyw.cc"}
@@ -851,6 +835,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
