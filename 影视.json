@@ -322,7 +322,7 @@
       "name": "🪀荐片🔹影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/荐片.js",
-      "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "荐片蓝光"}
+      "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片"}
     },
     {
       "key": "csp_SaoHuo",
@@ -431,10 +431,10 @@
     },
     { 
 		"key": "csp_红果短剧", 
-		"name": "🍎红果短剧", 
+		"name": "♨️红果®短剧", 
 		"type":3,
 		"api":"csp_XBPQ", 
-		"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar",
+		"jar": "http://dd.ma/CFlLnSbJ",
 		"ext": {"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
 		"简介":"【琉🔹芸❤广告勿信👉剧情】:+text\">&&</div>",
 		"首页":"0",
@@ -855,6 +855,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
