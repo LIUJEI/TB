@@ -411,25 +411,20 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
     },
     {
-      "key": "csp_河马短剧",
+      "key": "csp_XYQHiker_河马短剧",
       "name": "♨️河马®短劇",
       "type": 3,
+      "api": "csp_XBPQ",
       "ua": "okhttp/12.13",
-      "api": "https://d.kstore.dev/download/12194/Lib/河马短剧.py"
-    },
-    {
-      "key": "csp_星芽短剧",
-      "name": "♨️星芽®短剧",
-      "type": 3,
-      "ua": "okhttp/12.13",
-      "api": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/星芽.py"
+      "ext": "https://d.kstore.dev/download/12194/Lib/河马短剧.json",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/BH.jar"
     },
     { 
 		"key": "csp_红果短剧", 
 		"name": "🍎红果短剧", 
 		"type":3,
 		"api":"csp_XBPQ", 
-		"jar": "http://dd.ma/CFlLnSbJ",
+		"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar",
 		"ext": {"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
 		"简介":"【琉🔹芸❤广告勿信👉剧情】:+text\">&&</div>",
 		"首页":"0",
@@ -850,6 +845,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
