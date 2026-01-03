@@ -132,7 +132,7 @@
       "name": "♾️新剧☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://211.154.24.56:9797/685bf108bc47b67d"
+      "ext": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt|685bf108bc47b67d"
     },
     {
       "key": "csp_旗星",
@@ -841,6 +841,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
