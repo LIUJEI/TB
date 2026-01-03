@@ -55,14 +55,14 @@
       "name": "♾️恋鱼☪影視",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"}
+      "ext": {"host": "http://103.117.137.33:1433"}
     },
 	{
-      "key": "csp_木瓜",
-      "name": "♾️木瓜☪影視",
+      "key": "csp_椰子",
+      "name": "♾️椰子☪影視",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://www.yezitv.top","ver": 2}
+      "ext": {"host": "http://103.109.20.117:550","ver": 2}
     },
 	{
       "key": "csp_仓鼠",
@@ -855,6 +855,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
