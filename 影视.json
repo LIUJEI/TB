@@ -10,7 +10,7 @@
   "sites": [
     {
       "key": "csp_DouBan",
-      "name": "🎬┣豆瓣┫新年快乐",
+      "name": "🎬┣豆瓣┫推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -853,6 +853,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
