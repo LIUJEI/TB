@@ -114,26 +114,12 @@
       "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
     },
 	{
-	  "key": "csp_AppGET",
-	  "name": "♾️魔法☪影視",
-	  "type": 3,
-	  "api": "csp_AppGet",
-	  "ext": "https://www.mfsp4k.top|1234567887654321|okhttp/3.10.0"
-	},
-	{
 	  "key": "csp_橘子",
 	  "name": "♾️橘子☪影視",
 	  "type": 3,
 	  "api": "csp_AppQi",
 	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
 	}, 
-    {
-      "key": "csp_火狐",
-      "name": "♾️火狐☪弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://huohu.yihn.cc|huohushipingetap|140"
-    },
 	{
 	  "key": "csp_XINXIN",
 	  "name": "♾️鑫鑫☪影视",
@@ -146,7 +132,7 @@
       "name": "♾️新剧☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+      "ext": "http://211.154.24.56:9797/685bf108bc47b67d"
     },
     {
       "key": "csp_旗星",
@@ -855,6 +841,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
