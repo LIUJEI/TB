@@ -30,8 +30,8 @@
       "ext": {"host": "http://103.109.20.117:550","ver": 2}
     },
 	{
-      "key": "csp_恋鱼",
-      "name": "♾️恋鱼☪影視",
+      "key": "csp_csp_qilin70",
+      "name": "♾️麒麟☪影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
       "ext": {"host": "http://103.117.137.33:1433"}
@@ -57,13 +57,6 @@
       "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
       "ext": {"host": "http://118.89.203.120:8365/","ver": 2}
     },
-	{
-	  "key": "csp_qilin70",
-	  "name": "♾️麒麟☪影视",
-	  "type": 3,
-	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-	  "ext": {"host": "https://www.70yyw.cc","ver": 2}
-	},
 	{
       "key": "csp_仓鼠",
       "name": "♾️仓鼠☪影視",
@@ -198,13 +191,6 @@
 	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
 	},
 	{
-      "key": "csp_新剧",
-      "name": "♾️新剧☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
-    },
-	{
       "key": "nangua",
       "name": "🎴南瓜🔹影视",
       "type": 3,
@@ -237,34 +223,6 @@
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
-      "key": "csp_旺旺影视",
-      "name": "🪀旺旺🔹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-      "ext": {
-      "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
-      "请求头": "手机",
-      "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
-      "播放数组": "stui-content__playlist clearfix\"&&</ul>",
-      "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
-      "分类": "电视剧$2#电影$1#动漫$4#综艺$3"}
-    },
-	{
-      "key": "csp_茉小影",
-      "name": "🪀茉影🔹视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-        "首页": "https://www.moxy.top",
-        "分类url": "https://www.moxy.top/show/id/{cateId}/page/{catePg}.html",
-        "分类": "电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
-        "图片": "data-src=\"&&\""
-      }
-    },
-    {
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
       "type": 3,
@@ -283,32 +241,41 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
     },
     {
-      "key": "csp_XBPQ_剧集",
-      "name": "🪀剧集🔹剧院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧集.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
-    },
-    {
-      "key": "app影视",
-      "name": "🪀APP🔹影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
-        "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
       "key": "荐片",
       "name": "🪀荐片🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/荐片.js",
+      "api": "https://d.kstore.dev/download/12194/TV/荐片0.js",
       "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片"}
+    },
+	{
+      "key": "永乐",
+      "name": "🪀永乐🔹影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/%E6%B0%B8%E4%B9%90.js"
+    },
+    {
+      "key": "金牌123",
+      "name": "🪀金牌🔹影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/%E9%87%91%E7%89%8C.js"
+    },
+    {
+      "key": "海龟",
+      "name": "🪀海龟🔹影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/%E6%B5%B7%E9%BE%9F.js"
+    },
+    {
+      "key": "鬼片",
+      "name": "🪀鬼片🔹影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/%E9%AC%BC%E7%89%87.js"
+    },
+    {
+      "key": "apple",
+      "name": "🪀苹果🔹影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/%E8%8B%B9%E6%9E%9C.js"
     },
     {
       "key": "csp_SaoHuo",
@@ -345,6 +312,13 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200",
+      "ua": "okhttp/12.13"
+    },
+	{
+      "key": "爱看机器人",
+      "name": "🪀爱看🔹影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
       "ua": "okhttp/12.13"
     },
     {
@@ -853,6 +827,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
