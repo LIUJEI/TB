@@ -128,13 +128,6 @@
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
     {
-      "key": "csp_新剧",
-      "name": "♾️新剧☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt|685bf108bc47b67d"
-    },
-    {
       "key": "csp_旗星",
       "name": "♾️旗星☪影視",
       "type": 3,
@@ -204,6 +197,13 @@
 	  "api": "csp_AppQi",
 	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
 	},
+	{
+      "key": "csp_白鸽",
+      "name": "♾️白鸽☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://cy.baige.asia|599D0FE5178642FD"
+    },
 	{
       "key": "nangua",
       "name": "🎴南瓜🔹影视",
@@ -841,6 +841,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
