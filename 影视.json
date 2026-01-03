@@ -23,20 +23,6 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "csp_椰子",
-      "name": "♾️椰子☪影視",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://103.109.20.117:550","ver": 2}
-    },
-	{
-      "key": "csp_csp_qilin70",
-      "name": "♾️麒麟☪影视",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
-      "ext": {"host": "http://103.117.137.33:1433"}
-    },
-	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
       "type": 3,
@@ -56,6 +42,20 @@
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
       "ext": {"host": "http://118.89.203.120:8365/","ver": 2}
+    },
+	{
+      "key": "csp_csp_qilin70",
+      "name": "♾️麒麟☪影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "ext": {"host": "http://103.117.137.33:1433"}
+    },
+	{
+      "key": "csp_椰子",
+      "name": "♾️椰子☪影視",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "ext": {"host": "http://103.109.20.117:550","ver": 2}
     },
 	{
       "key": "csp_仓鼠",
@@ -223,24 +223,6 @@
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
-      "key": "hipy_js_fantys",
-      "name": "🪀饭团🔹影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
-    },
-    {
-      "key": "csp_xBPQ_柠檬",
-      "name": "🪀柠檬🔹影視",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
-    },
-    {
       "key": "荐片",
       "name": "🪀荐片🔹影视",
       "type": 3,
@@ -276,6 +258,24 @@
       "name": "🪀苹果🔹影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/%E8%8B%B9%E6%9E%9C.js"
+    },
+	{
+      "key": "hipy_js_fantys",
+      "name": "🪀饭团🔹影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/12.13",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
+    },
+    {
+      "key": "csp_xBPQ_柠檬",
+      "name": "🪀柠檬🔹影視",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ua": "okhttp/12.13",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
     },
     {
       "key": "csp_SaoHuo",
@@ -827,6 +827,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
