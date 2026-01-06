@@ -394,7 +394,7 @@
       "key": "csp_星芽短剧",
       "name": "♨️星芽®短劇",
       "type": 3,
-      "csp_XydjAmns",
+      "api":"csp_XydjAmns",
 	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
     },
 	{
@@ -856,43 +856,3 @@
     "vip.ffzyad.com"
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
