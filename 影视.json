@@ -402,21 +402,21 @@
       "name": "♨️锦鲤®短剧",
       "type": 3,
       "api": "csp_JinliDJ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
     {
       "key": "csp_七猫短剧",
       "name": "♨️七猫®短剧",
       "type": 3,
       "api": "csp_QiMaoDJ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
     {
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
       "api": "csp_XinggeDJ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar"
+      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
     },
     { 
 		"key": "csp_红果短剧", 
@@ -856,3 +856,4 @@
     "vip.ffzyad.com"
   ]
 }
+
