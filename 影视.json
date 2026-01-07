@@ -736,68 +736,59 @@
     }
   ],
   "parses": [
-    {
-      "name": "☪淘片㊎",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    },
-    {
-      "name": "☪咸鱼㊍",
-      "type": 0,
-      "url": "https://jx.xymp4.cc/?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"}}
+	{
+      "name": "☪芸解析㊏",
+      "type": "1",
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
 	{
       "name": "☪虾米㊌",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "☪淘片㊎",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "☪咸鱼㊍",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url="
     },
     {
       "name": "☪冰豆㊋",
       "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    },
-	{
-      "name": "☪芸解析㊏",
-      "type": "1",
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+      "url": "https://bd.jx.cn/?url="
     },
 	{
       "name":"☪拉野㊏",
       "type":0,
-      "url":"http://www.ckplayer.vip/jiexi/?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+      "url":"http://www.ckplayer.vip/jiexi/?url="
    },
    {
       "name": "☪爱奇艺❂",
       "type": 0,
-      "url":"https://jx.m3u8.tv/jiexi/?url=",
-      "ext":{"header":{
-      "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
+      "url":"https://jx.m3u8.tv/jiexi/?url="
     },
 	{
-      "name": "🏁琉芸★智能解析★",
-      "type":0,
-	  "url":"https://jx.yparse.com/index.php?url=",
-      "ext": {"header": {
-      "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+      "name": "🏁琉芸★勾子解析★",
+      "type":"1",
+      "url":"https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}
     },
-    {
-      "name": "🏁琉芸★智能嗅探★",
+	{
+      "name": "🏁琉芸★下饭嗅探★",
       "type":1,
       "url":"https://zy.qiaoji8.com/xiafan.php?url=",
-      "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}}
-    ],
+      "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}
+    },  
+    {
+      "name": "🏁琉芸★内部嗅探★",
+      "type":1,
+      "url":"https://zy.qiaoji8.com/neibu.php?url=",
+      "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}
+    }],
   "lives": [
     {
       "name": "📺冰茶",
@@ -815,45 +806,10 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
-  "flags": [
-        "youku",
-        "优酷",
-        "优 酷",
-        "优酷视频",
-        "qq",
-        "腾讯",
-        "腾 讯",
-        "腾讯视频",
-        "iqiyi",
-        "qiyi",
-        "奇艺",
-        "爱奇艺",
-        "爱 奇 艺",
-        "m1905",
-        "xigua",
-        "letv",
-        "leshi",
-        "乐视",
-        "乐 视",
-        "sohu",
-        "搜狐",
-        "搜 狐",
-        "搜狐视频",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "芒果",
-        "imgo",
-        "芒果TV",
-        "芒 果 T V",
-        "bilibili",
-        "哔 哩",
-        "哔 哩 哔 哩"
-    ],
+ "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com"
   ]
 }
-
