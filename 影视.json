@@ -376,7 +376,7 @@
       "name": "🪀秀儿🔹影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -388,7 +388,7 @@
       "name": "🪀布卡🔹影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -400,13 +400,19 @@
       "name": "🪀快快｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "分类url": "https://4k4k.live/;;!H"
       }
     },
+	{
+      "key": "csp_剧和短剧",
+      "name": "🎬短劇☪系列",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/JHdj.js"
+    },  
 	{
       "key": "hipy_js_星芽短剧",
       "name": "🎬短劇☪系列",
@@ -454,21 +460,21 @@
       "name": "♨️锦鲤®短剧",
       "type": 3,
       "api": "csp_JinliDJ",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
     },
     {
       "key": "csp_七猫短剧",
       "name": "♨️七猫®短剧",
       "type": 3,
       "api": "csp_QiMaoDJ",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
     },
     {
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
       "api": "csp_XinggeDJ",
-      "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
     },
     { 
 		"key": "csp_红果短剧", 
@@ -841,6 +847,7 @@
       "url":"https://zy.qiaoji8.com/neibu.php?url=",
       "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}
     }],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
   "lives": [
     {
       "name": "📺冰茶",
@@ -858,12 +865,13 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     }
   ],
- "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
+
   "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com"
   ]
 }
+
 
 
