@@ -737,39 +737,39 @@
   ],
   "parses": [
 	{
-      "name": "☪芸解析㊏",
-      "type": "1",
-      "url": "https://yparse.ik9.cc/index.php?url="
+      "name": "☪爱奇艺❂",
+      "type": 0,
+      "url":"https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name":"☪拉野❂",
+      "type":0,
+      "url":"http://www.ckplayer.vip/jiexi/?url="
     },
 	{
-      "name": "☪虾米㊌",
+      "name": "☪虾米❂",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "☪淘片㊎",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "☪咸鱼㊍",
+      "name": "☪咸鱼❂",
       "type": 0,
       "url": "https://jx.xymp4.cc/?url="
     },
     {
-      "name": "☪冰豆㊋",
+      "name": "☪冰豆❂",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
 	{
-      "name":"☪拉野㊏",
-      "type":0,
-      "url":"http://www.ckplayer.vip/jiexi/?url="
-   },
-   {
-      "name": "☪爱奇艺❂",
+      "name": "☪淘片❂",
       "type": 0,
-      "url":"https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+	{
+      "name": "☪芸解析❂",
+      "type": "1",
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
 	{
       "name": "🏁琉芸★勾子解析★",
@@ -813,3 +813,4 @@
     "vip.ffzyad.com"
   ]
 }
+
