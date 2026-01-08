@@ -54,7 +54,7 @@
     },
 	{
       "key": "csp_qiji",
-      "name": "♾️奇迹☪影视",
+      "name": "♾️雄鹰☪秒播",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
@@ -189,8 +189,8 @@
       "key": "csp_mayi",
       "name": "♾️神兽☪影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/ToV5.py",
-      "ext": {"host": "http://118.89.203.120:8365/","ver": 2}
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "ext": {"host": "http://118.89.203.120:8365/"}
     },
 	{
       "key": "csp_csp_qilin70",
@@ -726,6 +726,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
