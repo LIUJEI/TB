@@ -172,6 +172,27 @@
       "ext": "https://suikan.tpmbt.cn|pHQsm6wjYaCuSPEz"
     },
 	{
+      "key": "爆炸",
+      "name": "♾️爆炸☪影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|searchList4|initV122|okhttp/3.10.0"
+    },
+    {
+      "key": "金牌",
+      "name": "♾️金牌☪影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
+    },
+	{
+      "key": "csp_新剧",
+      "name": "♾️新剧☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+    },
+	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
       "type": 3,
@@ -205,6 +226,13 @@
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
       "ext": {"host": "http://nico.oiio.fun","ver": 2}
+    },
+	{
+      "key": "椰子",
+      "name": "♾️椰子☪影视",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {"host": "http://www.yezitv.top","ver": 2}
     },
     {
       "key": "荐片",
@@ -435,6 +463,7 @@
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官方",
       "type": 3,
+	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": [
@@ -726,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
