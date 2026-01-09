@@ -231,7 +231,7 @@
       "key": "椰子",
       "name": "♾️椰子☪影视",
       "type": 3,
-      "api": "csp_AppFox",
+      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
       "ext": {"host": "http://www.yezitv.top","ver": 2}
     },
     {
@@ -239,7 +239,7 @@
       "name": "🪀荐片🔹影视",
       "type": 3,
       "api": "https://d.kstore.dev/download/12194/TV/荐片0.js",
-      "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "琉芸🔹蓝光"}
+      "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "极速蓝光"}
     },
 	{
       "key": "永乐",
@@ -463,7 +463,7 @@
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官方",
       "type": 3,
-	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": [
@@ -755,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
