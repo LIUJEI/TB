@@ -566,19 +566,19 @@
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
     },
     {
-      "key": "cctv",
-      "name": "💫┃cctv┃直播",
-      "type": 3,
-      "api": "csp_CCTV",
-      "jar": "./JAR/荷.jar",
-      "api": "./XB/央视.py"
-    },
-    {
       "key": "猫直播",
       "name": "💫┃熊猫┃直播",
       "type": 3,
-      "api": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.js",
-      "ext": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/cattv.txt"
+      "api": "./XB/cattv.js",
+      "ext": "./XB/cattv.txt"
+    },
+	{
+      "key":"cctv",
+      "name":"💫cctv┃直播",
+      "type":3,
+      "api":"csp_CCTV",
+      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
+      "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
     },
     {
       "key": "csp_Kugou",
@@ -655,7 +655,7 @@
       "name": "🇨🇳┣☪配✿置┫辅助",
       "type": 3,
       "api": "csp_Config",
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
+	  "jar": "./JAR/xiao1.10.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -670,8 +670,8 @@
       "type": 3,
       "api": "csp_Market",
       "indexs": 0,
-	  "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/xiao.jar",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.json"
+	  "jar": "./JAR/xiao1.10.jar",
+      "ext": "./XB/single.json"
     }
   ],
   "parses": [
@@ -753,6 +753,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
