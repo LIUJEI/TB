@@ -196,42 +196,42 @@
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "api": "./XB/fuz.js",
       "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
     },
 	{
 	  "key": "csp_baih",
 	  "name": "♾️白虎☪影视",
 	  "type": 3,
-	  "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+	  "api": "./XB/fuz.js",
 	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
 	},
 	{
       "key": "csp_mayi",
       "name": "♾️神兽☪影视",
       "type": 3,
-      "api": "https://13826.kstore.vip/AppToV5.py",
+      "api": "./XB/ToV5.py",
       "ext": {"host": "http://118.89.203.120:8365/"}
     },
 	{
       "key": "csp_csp_qilin70",
       "name": "♾️麒麟☪影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "api": "./XB/fuz.js",
       "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
     },
 	{
       "key": "csp_花柳",
       "name": "♾️花柳☪影視",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "api": "./XB/fuz.js",
       "ext": {"host": "http://nico.oiio.fun","ver": 2}
     },
 	{
       "key": "椰子",
       "name": "♾️椰子☪影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/fuz.js",
+      "api": "./XB/fuz.js",
       "ext": {"host": "http://www.yezitv.top","ver": 2}
     },
     {
@@ -277,7 +277,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XB/饭团.json",
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "csp_xBPQ_柠檬",
@@ -285,7 +285,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XB/柠檬.json",
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
 	{
       "key": "csp_剧和短剧",
@@ -340,21 +340,21 @@
       "name": "♨️锦鲤®短剧",
       "type": 3,
       "api": "csp_JinliDJ",
-      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
+      "jar": "./JAR/xiao1.10.jar"
     },
     {
       "key": "csp_七猫短剧",
       "name": "♨️七猫®短剧",
       "type": 3,
       "api": "csp_QiMaoDJ",
-      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
+      "jar": "./JAR/xiao1.10.jar"
     },
     {
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
       "api": "csp_XinggeDJ",
-      "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260106/Mbv9/01061404.png;md5;ae1a53452b28c1d08a3f584c80cbe5ba"
+      "jar": "./JAR/xiao1.10.jar"
     },
     { 
 		"key": "csp_红果短剧", 
@@ -379,7 +379,7 @@
         "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
         "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -393,7 +393,7 @@
         "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "xbpq_djuw",
@@ -405,7 +405,7 @@
         "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
         "分类": "♨️抖音短剧$5"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "xbpq_dzdj",
@@ -417,7 +417,7 @@
         "分类": "♨️蝶众短剧$6",
         "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "xbpq_lddj",
@@ -429,7 +429,7 @@
         "分类": "♨️兰岛短剧$20",
         "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "xbpq_jzdj",
@@ -442,7 +442,7 @@
         "分类": "♨️九洲短剧$5",
         "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "xbpq_55dj",
@@ -455,13 +455,13 @@
         "分类": "♨️五五短剧$1",
         "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"
       },
-      "jar": "./JAR/荷.jar"
+      "jar": "./JAR/MoHe.jar"
     },
     {
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官方",
       "type": 3,
-	  "jar": "./JAR/荷.jar",
+	  "jar": "./JAR/MoHe.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": [
@@ -570,7 +570,7 @@
       "name": "💫┃cctv┃直播",
       "type": 3,
       "api": "csp_CCTV",
-      "jar": "./JAR/荷.jar",
+      "jar": "./JAR/MoHe.jar",
       "api": "./XB/央视.py"
     },
     {
@@ -753,6 +753,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
