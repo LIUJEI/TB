@@ -602,7 +602,7 @@
       "type": 3,
       "api": "csp_Bili",
       "ext": {
-        "json": "https://github.com/LIUJEI/TB/raw/refs/heads/master/XB/音乐.py",
+        "json": "./XB/音乐.py",
         "cookie": ""
       },
       "style": {
@@ -755,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
