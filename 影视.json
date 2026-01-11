@@ -293,7 +293,7 @@
       "key": "csp_剧和短剧",
       "name": "🎬短劇☪系列",
       "type": 3,
-      "api": "./XB/短合.py"
+      "api": "./XB/短合.js"
     },  
 	{
       "key": "hipy_js_星芽短剧",
@@ -602,7 +602,7 @@
       "type": 3,
       "api": "csp_Bili",
       "ext": {
-        "json": "./XB/音乐.py",
+        "json": "./XB/音乐.json",
         "cookie": ""
       },
       "style": {
@@ -755,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
