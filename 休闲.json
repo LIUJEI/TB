@@ -479,16 +479,16 @@
     {
       "key": "com-Sm",
       "name": "撸铁🥥雪梨",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "filterable": 1
     },
     {
       "key": "采集-apilyzy",
-      "name": "撸铁🥥辣椒",
+      "name": "撸铁🥥蜜橘",
       "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "api": "https://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
