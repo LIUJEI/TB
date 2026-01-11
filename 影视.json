@@ -43,7 +43,7 @@
       "name": "♾️仓鼠☪影視",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi430.txt|7sKhdca8HXGuyZ4x|120"
+      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
     },
 	{
       "key": "csp_顾我",
@@ -238,56 +238,54 @@
       "key": "荐片",
       "name": "🪀荐片🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/荐片0.js",
+      "api": "./XB/荐片0.js",
       "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "极速蓝光"}
     },
 	{
-      "key": "永乐",
+      "key": "csp_js_永乐",
       "name": "🪀永乐🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/%E6%B0%B8%E4%B9%90.js"
+      "api": "./XB/永乐.js"
     },
     {
-      "key": "金牌123",
+      "key": "csp_js_金牌123",
       "name": "🪀金牌🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/%E9%87%91%E7%89%8C.js"
+      "api": "./XB/金牌.js"
     },
     {
-      "key": "海龟",
+      "key": "csp_js_海龟",
       "name": "🪀海龟🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/%E6%B5%B7%E9%BE%9F.js"
+      "api": "./XB/海龟.js"
     },
     {
-      "key": "鬼片",
+      "key": "csp_js_鬼片",
       "name": "🪀鬼片🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/%E9%AC%BC%E7%89%87.js"
+      "api": "./XB/鬼片.js"
     },
     {
-      "key": "apple",
+      "key": "csp_js_apple",
       "name": "🪀苹果🔹影视",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/%E8%8B%B9%E6%9E%9C.js"
+      "api": "./XB/苹果.js"
     },
 	{
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团影院.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
+      "ext": "./XB/饭团.json",
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "csp_xBPQ_柠檬",
       "name": "🪀柠檬🔹影視",
       "type": 3,
       "api": "csp_XBPQ",
-      "ua": "okhttp/12.13",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/柠檬.json",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar"
+      "ext": "./XB/柠檬.json",
+      "jar": "./JAR/荷.jar"
     },
 	{
       "key": "csp_剧和短剧",
@@ -300,7 +298,7 @@
       "name": "🎬短劇☪系列",
       "type": 3,
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://d.kstore.dev/download/12194/TV/xingya.js"
+      "ext": "./XB/星芽.js"
     },
     {
 	   "name":"♨️豪堪®短剧",
@@ -381,7 +379,7 @@
         "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
         "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
       },
-      "jar": "https://www.lequxiang.com.cn/down.php/f2b67a99a11a53ad6cb09dff695c4580.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -395,7 +393,7 @@
         "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "xbpq_djuw",
@@ -407,7 +405,7 @@
         "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
         "分类": "♨️抖音短剧$5"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "xbpq_dzdj",
@@ -419,7 +417,7 @@
         "分类": "♨️蝶众短剧$6",
         "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "xbpq_lddj",
@@ -431,7 +429,7 @@
         "分类": "♨️兰岛短剧$20",
         "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "xbpq_jzdj",
@@ -444,7 +442,7 @@
         "分类": "♨️九洲短剧$5",
         "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "xbpq_55dj",
@@ -457,13 +455,13 @@
         "分类": "♨️五五短剧$1",
         "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MoHe.jar"
+      "jar": "./JAR/荷.jar"
     },
     {
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官方",
       "type": 3,
-	  "jar":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260107/XJ2M/01072024.png;md5;87434390bdc000e5a8d70a935e667b2a",
+	  "jar": "./JAR/荷.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": [
@@ -572,8 +570,8 @@
       "name": "💫┃cctv┃直播",
       "type": 3,
       "api": "csp_CCTV",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
-      "ext": "https://d.kstore.dev/download/12194/Lib/央视大全.py"
+      "jar": "./JAR/荷.jar",
+      "api": "./XB/央视.py"
     },
     {
       "key": "猫直播",
@@ -755,6 +753,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
