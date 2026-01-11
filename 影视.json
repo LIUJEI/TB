@@ -210,7 +210,7 @@
       "key": "csp_mayi",
       "name": "♾️神兽☪影视",
       "type": 3,
-      "api": "./XB/ToV5.py",
+      "api": "https://13826.kstore.vip/AppToV5.py",
       "ext": {"host": "http://118.89.203.120:8365/"}
     },
 	{
@@ -461,7 +461,7 @@
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官方",
       "type": 3,
-	  "jar": "./JAR/MoHe.jar",
+	  "jar": "./JAR/xiao1.10.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": [
@@ -570,7 +570,7 @@
       "name": "💫┃cctv┃直播",
       "type": 3,
       "api": "csp_CCTV",
-      "jar": "./JAR/MoHe.jar",
+      "jar": "./JAR/荷.jar",
       "api": "./XB/央视.py"
     },
     {
@@ -753,6 +753,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
