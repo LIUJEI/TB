@@ -8,7 +8,7 @@
 {
     "name": "当前更新",
     "url": "./TB/master.zip",
-    "icon": "./XB/国庆.jpg",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/国庆.jpg",
     "version": "version"
 },
 {
@@ -48,3 +48,4 @@
 }
 
 ]
+
