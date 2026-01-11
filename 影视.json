@@ -566,11 +566,13 @@
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
     },
     {
-      "key": "猫直播",
-      "name": "💫┃熊猫┃直播",
+       "key": "csp_Music",
+      "name": "💫┃歌曲┃直播",
       "type": 3,
-      "api": "./XB/cattv.js",
-      "ext": "./XB/cattv.txt"
+      "api": "csp_Music",
+      "quickSearch": 0,
+      "searchable": 0,
+      "ext": ""
     },
 	{
       "key":"cctv",
@@ -753,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
