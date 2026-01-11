@@ -293,7 +293,7 @@
       "key": "csp_剧和短剧",
       "name": "🎬短劇☪系列",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/JHdj.js"
+      "api": "./XB/短合.py"
     },  
 	{
       "key": "hipy_js_星芽短剧",
@@ -755,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
