@@ -690,7 +690,7 @@
 	{
       "name": "☪虾米❂",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "☪冰豆❂",
@@ -734,9 +734,9 @@
 	},
     {
       "name": "🏁琉芸★内部嗅探★",
-      "type":1,
-      "url":"https://zy.qiaoji8.com/neibu.php?url=",
-      "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}
+      "type":0,
+      "url":"https://jx.xmflv.com/?url=",
+	  "ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
     }],
     "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
     "lives": [
@@ -763,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
