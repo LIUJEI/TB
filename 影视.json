@@ -708,29 +708,29 @@
       "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
 	{
-      "name": "❂芸解析0",
+	  "name":"❂芸解析❂",
+	  "type":0,
+	  "url":"https://jx.2s0.cn/player/?url="
+	}, 
+	{
+      "name": "❂芸解析1",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
     }, 
 	{
-		"name": "❂芸解析1",
-		"type": 0,
-		"url": "https://www.playm3u8.cn/jiexi.php?url="
+	  "name": "❂芸解析2",
+	  "type": 0,
+	  "url": "https://www.playm3u8.cn/jiexi.php?url="
 	}, 
 	{
-		"name":"❂芸解析2",
-		"type":0,
-		"url":"https://jx.2s0.cn/player/?url="
+	  "name":"❂芸解析3",
+	  "url":"https://jx.hls.one/?url=",
+	  "type":0
 	}, 
 	{
-		"name":"❂芸解析3",
-		"url":"https://jx.hls.one/?url=",
-		"type":0
-	}, 
-	{
-		"name":"❂芸解析4",
-		"type":0,
-		"url":"https://yparse.ik9.cc/index.php?url="
+	  "name":"❂芸解析4",
+	  "type":0,
+	  "url":"https://yparse.ik9.cc/index.php?url="
 	},
     {
       "name": "🏁琉芸★内部嗅探★",
@@ -763,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
