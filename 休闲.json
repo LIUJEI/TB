@@ -324,7 +324,7 @@
         "name": "撸铁🥥猕猴",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "http://dd.ma/CFlLnSbJ",
+        "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
         "ext": {
           "主页url": "https://777170.xyz/%e6%97%a5%e9%9f%a9%e8%a7%86%e9%a2%91/",
           "搜索url": "https://777170.xyz/?s={wd}",
@@ -360,7 +360,7 @@
       "name": "撸铁🥥金陵",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
         "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
         "直接播放": "1",
