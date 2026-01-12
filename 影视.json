@@ -705,24 +705,28 @@
 	{
       "name": "☪芸解析❂",
       "type": "1",
-      "url": "https://yparse.ik9.cc/index.php?url="
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
 	{
       "name": "☪咸鱼❂",
       "type": 0,
-      "url": "https://jx.xymp4.cc/?url="
-    },
-	  
-	{
-      "name": "🏁琉芸★勾子解析★",
-      "type":"1",
-      "url":"https://zy.qiaoji8.com/gouzi.php?url="
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
 	{
-      "name": "🏁琉芸★下饭嗅探★",
-      "type":1,
-      "url":"https://zy.qiaoji8.com/xiafan.php?url="
-    },  
+	  "name":"☪8090❂",
+	  "url":"https://www.8090g.cn/jiexi/?url=",
+	  "type":0
+	},  
+	{"name": "qjbc","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+	}, 
+	{"name":"qj4K","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url="
+	}, 
+	{"name": "playjx","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url="}, 
+	{"name":"qjgz","type":"1","url":"https://zy.qiaoji8.com/gouzi.php?url="
+	}, 
+	{"name":"hls","url":"https://jx.hls.one/?url=","type":0}, 
+	{"name":"2s0","type":0,"url":"https://jx.2s0.cn/player/?url="}, 
+	{"name":"ik9云","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
     {
       "name": "🏁琉芸★内部嗅探★",
       "type":1,
@@ -754,6 +758,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
