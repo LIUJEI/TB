@@ -703,38 +703,43 @@
       "url": "https://jx.yparse.com/index.php?url="
     },
 	{
-      "name": "☪芸解析❂",
-      "type": "1",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-	{
-      "name": "☪咸鱼❂",
+      "name": "☪盘古❂",
       "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
 	{
-	  "name":"☪8090❂",
-	  "url":"https://www.8090g.cn/jiexi/?url=",
-	  "type":0
-	},  
-	{"name": "qjbc","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+      "name": "❂芸解析0",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    }, 
+	{
+		"name": "❂芸解析1",
+		"type": 0,
+		"url": "https://www.playm3u8.cn/jiexi.php?url="
 	}, 
-	{"name":"qj4K","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url="
+	{
+		"name":"❂芸解析2",
+		"type":0,
+		"url":"https://jx.2s0.cn/player/?url="
 	}, 
-	{"name": "playjx","type": 0,"url": "https://www.playm3u8.cn/jiexi.php?url="}, 
-	{"name":"qjgz","type":"1","url":"https://zy.qiaoji8.com/gouzi.php?url="
+	{
+		"name":"❂芸解析3",
+		"url":"https://jx.hls.one/?url=",
+		"type":0
 	}, 
-	{"name":"hls","url":"https://jx.hls.one/?url=","type":0}, 
-	{"name":"2s0","type":0,"url":"https://jx.2s0.cn/player/?url="}, 
-	{"name":"ik9云","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
+	{
+		"name":"❂芸解析4",
+		"type":0,
+		"url":"https://yparse.ik9.cc/index.php?url="
+	},
     {
       "name": "🏁琉芸★内部嗅探★",
       "type":1,
       "url":"https://zy.qiaoji8.com/neibu.php?url=",
       "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}
     }],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-  "lives": [
+    "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
+    "lives": [
     {
       "name": "📺冰茶",
       "type": 0,
@@ -758,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
