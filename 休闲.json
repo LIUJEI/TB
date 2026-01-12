@@ -320,42 +320,6 @@
         }
     },
     {
-        "key": "csp_SOAV",
-        "name": "撸铁🥥猕猴",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-        "ext": {
-          "主页url": "https://777170.xyz/%e6%97%a5%e9%9f%a9%e8%a7%86%e9%a2%91/",
-          "搜索url": "https://777170.xyz/?s={wd}",
-          "数组": "data-video-uid=&&</div>",
-          "图片": "data-src=\"&&\"",
-          "标题": "alt=\"&&\"",
-          "副标题": "芸✨-+</i>&&</span>",
-          "链接": "href=\"&&\"",
-          "简介": "",
-          "分类url": "https://777170.xyz/category/{cateId}/page/{catePg}/;;z",
-          "分类": "中文字幕$中文字幕#國產精選$國產精選#探花約炮$探花約炮#日韩视频$日韩视频#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
-      }
-    },
-    {
-      "key": "csp_快活影網",
-      "name": "撸铁🥥快活",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext": {
-        "主页url": "https://www.777mmx.com/yazhouxingai/index.html",
-        "播放数组": "mod play-list&&</ul",
-        "跳转播放链接": "var playUrl=\"&&\"",
-        "链接": "href=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "直接播放": "1",
-        "分类url": "https://www.777mmx.com/{cateId}/{class}/index.html",
-        "分类": "亚洲性爱$yazhouxingai#欧美高清$oumeixingai#亚洲无码$yazhouav#欧美短AV$oumeiav#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#中文熟女$luanlunshunv#三级经典$sanjijingdian"
-      }
-    },
-    {
       "key": "csp_金陵撸铁汉",
       "name": "撸铁🥥金陵",
       "type": 3,
