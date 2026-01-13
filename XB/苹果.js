@@ -103,7 +103,7 @@ async function detail(id) {
         'vod_actor': data.actor,
         'vod_director': data.director,
         'vod_content': data.content,
-        'vod_play_from': '💕琉芸👉苹果线路', 
+        'vod_play_from': '💕琉芸👉小苹果', 
         'vod_play_url': playlist
     };
 
