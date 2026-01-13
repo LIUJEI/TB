@@ -57,14 +57,14 @@
       "name": "♾️雄鹰☪秒播",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
+      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
     },
 	{
       "key": "csp_爱盈",
       "name": "♾️爱盈☪影視",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0"
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
     },
     {
       "key": "csp_花小猪",
@@ -79,13 +79,6 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
-    },
-    {
-      "key": "csp_如意云",
-      "name": "♾️云云☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
     },
 	{
 	  "key": "csp_橘子",
@@ -214,13 +207,6 @@
       "ext": {"host": "http://118.89.203.120:8365/"}
     },
 	{
-      "key": "csp_csp_qilin70",
-      "name": "♾️麒麟☪影视",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json","ver": 2}
-    },
-	{
       "key": "csp_花柳",
       "name": "♾️花柳☪影視",
       "type": 3,
@@ -241,6 +227,7 @@
       "api": "./XB/荐片0.js",
       "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "极速蓝光"}
     },
+	
 	{
       "key": "csp_js_永乐",
       "name": "🪀永乐🔹影视",
@@ -254,12 +241,6 @@
       "api": "./XB/金牌.js"
     },
     {
-      "key": "csp_js_海龟",
-      "name": "🪀海龟🔹影视",
-      "type": 3,
-      "api": "./XB/海龟.js"
-    },
-    {
       "key": "csp_js_鬼片",
       "name": "🪀鬼片🔹影视",
       "type": 3,
@@ -270,6 +251,24 @@
       "name": "🪀苹果🔹影视",
       "type": 3,
       "api": "./XB/苹果.js"
+    },
+	{
+      "key": "py_jieyingshi",
+      "name": "🪀界牌🔹影视",
+      "type": 3,
+      "api": "./XB/界牌.py"
+    },
+	{
+      "key": "py_fk",
+      "name": "🪀飞快🔹影视",
+      "type": 3,
+      "api": "./XB/飞快.py"
+    },
+	{
+      "key": "csp_js_海龟",
+      "name": "🪀海龟🔹影视",
+      "type": 3,
+      "api": "./XB/海龟.js"
     },
 	{
       "key": "hipy_js_fantys",
@@ -288,17 +287,17 @@
       "jar": "./JAR/MoHe.jar"
     },
 	{
-      "key": "csp_剧和短剧",
-      "name": "🎬短劇☪系列",
-      "type": 3,
-      "api": "./XB/短合.js"
-    },  
+        "key": "csp_剧和短剧",
+        "name": "🎬短劇☪系列",
+        "type": 3,
+        "api": "./XB/短合.js"
+    },
 	{
-      "key": "hipy_js_星芽短剧",
-      "name": "🎬短劇☪系列",
-      "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "./XB/星芽.js"
+        "key": "hipy_js_星芽短剧",
+        "name": "🎬短劇☪系列",
+        "type": 3,
+        "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+        "ext": "./XB/星芽.js"
     },
     {
 	   "name":"♨️豪堪®短剧",
@@ -329,8 +328,15 @@
 	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
 	},
 	{
-      "key": "csp_星芽短剧",
-      "name": "♨️星芽®短劇",
+		"name":"♨️岁岁®短剧",
+		"key":"岁岁短剧",
+		"type":3,
+		"api":"csp_SpdjAmns",
+		"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	},
+	{
+      "key": "csp_星星短剧",
+      "name": "♨️星星®短劇",
       "type": 3,
       "api":"csp_XydjAmns",
 	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
@@ -356,30 +362,12 @@
       "api": "csp_XinggeDJ",
       "jar": "./JAR/xiao1.10.jar"
     },
-    { 
-		"key": "csp_红果短剧", 
-		"name": "♨️红果®短剧", 
-		"type":3,
-		"api":"csp_XBPQ", 
-		"jar": "http://dd.ma/CFlLnSbJ",
-		"ext": {"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
-		"简介":"【琉🔹芸❤广告勿信👉剧情】:+text\">&&</div>",
-		"首页":"0",
-		"线路标题":"javascript:;\">&&</a",
-		"分类url":"https://www.hongguodj1.cc/vod/type/id/{cateId}-{catePg}/",
-		"分类":"短剧大全$duanjudaquan#闪婚离婚$shanhunlihun#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#脑洞悬疑$naodongxuanyi#年代穿越$niandaichuanyue#现代都市$xiandaidushi"}
-	},
-    {
-      "key": "csp_剧剧吧",
-      "name": "♨️短劇®剧网",
+	{
+      "key": "甜圈短剧",
+      "name": "♨️甜圈®短剧",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-        "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-        "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
-      },
-      "jar": "./JAR/MoHe.jar"
+      "api": "csp_TianquanDJ",
+      "jar": "./JAR/xiao1.10.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -459,69 +447,39 @@
     },
     {
       "key": "csp_闪影",
-      "name": "🐉┃闪影┃官方",
+      "name": "🐉┃闪影┃官采",
       "type": 3,
 	  "jar": "./JAR/xiao1.10.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-      "categories": [
-        "电影",
-        "剧集",
-        "短剧",
-        "综艺",
-        "动漫"
-      ]
+      "categories": ["电影","剧集","短剧","综艺","动漫"]
     },
-    {
-      "key": "csp_金蝉",
-      "name": "🐉┃金蝉┃官方",
-      "type": 1,
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
-      "playUrl": "json:http://114.66.40.16:7700/api.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "短剧",
-        "纪录片"
-      ]
+	{
+      "key": "csp_土豆浏览",
+      "name": "🐉┃土豆┃官采",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/土豆.py"
     },
-    {
-      "key": "爱奇艺资源站",
-      "name": "🐉┃爱奇┃艺资",
-      "type": 0,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
-      "playurl": "json:https://www.iqiyizyjx.com/?url=",
-      "categories": [
-        "短剧",
-        "古装片",
-        "国产剧",
-        "大陆综艺",
-        "动漫电影",
-        "伦理片"
-      ]
+    { 
+      "key": "csp_超前", 
+      "name": "🐉┃超前┃官采", 
+      "type": 3, 
+      "api": "csp_AppYsV2", 
+      "ext": "http://chaoqianys.top:91/api.php/app/" 
     },
-    {
-      "key": "xbpq_茅台",
-      "name": "🐉┃茅台┃官方",
-      "type": 0,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
-      "playurl": "json:https://mtjiexi.cc:966/?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "短剧大全",
-        "重生民国",
-        "穿越现代",
-        "反转爽剧",
-        "言情总裁",
-        "现代都市",
-        "古装仙侠",
-        "悬疑烧脑"
-      ]
+    { 
+      "key": "五大平台", 
+      "name": "🐉┃全网┃官采", 
+      "type": 3, 
+	  "api": "csp_AppYsV2", 
+      "ext": "http://39.105.18.5:5565/api.php/app/" 
+	},
+	{
+      "key": "dr_腾迅",
+      "name": "🐉┃腾讯┃官方",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
     },
     {
       "key": "dr_芒果",
@@ -550,13 +508,6 @@
       "type": 3,
       "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
-    },
-    {
-      "key": "dr_腾迅",
-      "name": "🐉┃腾讯┃官方",
-      "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
     },
     {
       "key": "dr_哔哩视频",
@@ -678,19 +629,14 @@
   ],
   "parses": [
 	{
-      "name": "☪爱奇艺❂",
+      "name": "☪虾米❂",
       "type": 0,
-      "url":"https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name":"☪拉野❂",
       "type":0,
       "url":"http://www.ckplayer.vip/jiexi/?url="
-    },
-	{
-      "name": "☪虾米❂",
-      "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "☪冰豆❂",
@@ -706,6 +652,11 @@
       "name": "☪盘古❂",
       "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url="
+    },
+	{
+      "name": "☪爱奇艺❂",
+      "type": 0,
+      "url":"https://jx.m3u8.tv/jiexi/?url="
     },
 	{
 	  "name":"❂芸解析㊎",
@@ -763,6 +714,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
