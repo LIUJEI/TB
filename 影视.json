@@ -445,35 +445,6 @@
       },
       "jar": "./JAR/MoHe.jar"
     },
-    {
-      "key": "csp_闪影",
-      "name": "🐉┃闪影┃官采",
-      "type": 3,
-	  "jar": "./JAR/xiao1.10.jar",
-      "api": "csp_AppYs",
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-      "categories": ["电影","剧集","短剧","综艺","动漫"]
-    },
-	{
-      "key": "csp_土豆浏览",
-      "name": "🐉┃土豆┃官采",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/土豆.py"
-    },
-    { 
-      "key": "csp_超前", 
-      "name": "🐉┃超前┃官采", 
-      "type": 3, 
-      "api": "csp_AppYsV2", 
-      "ext": "http://chaoqianys.top:91/api.php/app/" 
-    },
-    { 
-      "key": "五大平台", 
-      "name": "🐉┃全网┃官采", 
-      "type": 3, 
-	  "api": "csp_AppYsV2", 
-      "ext": "http://39.105.18.5:5565/api.php/app/" 
-	},
 	{
       "key": "dr_腾迅",
       "name": "🐉┃腾讯┃官方",
@@ -515,6 +486,35 @@
       "type": 3,
       "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
+    },
+    {
+      "key": "csp_闪影",
+      "name": "🐉┃闪影┃官采",
+      "type": 3,
+	  "jar": "./JAR/xiao1.10.jar",
+      "api": "csp_AppYs",
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+      "categories": ["电影","剧集","短剧","综艺","动漫"]
+    },
+    { 
+      "key": "csp_超前", 
+      "name": "🐉┃超前┃官采", 
+      "type": 3, 
+      "api": "csp_AppYsV2", 
+      "ext": "http://chaoqianys.top:91/api.php/app/" 
+    },
+    { 
+      "key": "五大平台", 
+      "name": "🐉┃全网┃官采", 
+      "type": 3, 
+	  "api": "csp_AppYsV2", 
+      "ext": "http://39.105.18.5:5565/api.php/app/" 
+	},
+	{
+      "key": "csp_土豆浏览",
+      "name": "🐉┃土豆┃官方",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/12194/TV/土豆.py"
     },
     {
        "key": "csp_Music",
@@ -714,6 +714,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
