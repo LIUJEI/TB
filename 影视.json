@@ -46,20 +46,6 @@
       "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
     },
 	{
-	  "key": "csp_橘子",
-	  "name": "♾️橘子☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://juziapp.tpmbt.cn|K3h6YvSU8BTUfEcb|okhttp/3.10.0"
-	}, 
-	{
-      "key": "csp_顾我",
-      "name": "♾️顾我☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|okhttp/3.10.0"
-    },
-	{
       "key": "csp_爱盈",
       "name": "♾️爱盈☪影視",
       "type": 3,
@@ -73,26 +59,12 @@
       "api": "csp_AppQi",
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry"
     },
-    {
-      "key": "csp_鲸鱼",
-      "name": "♾️鲸鱼☪秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
-    },
 	{
       "key": "csp_qiji",
       "name": "♾️雄鹰☪秒播",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
-    },
-	{
-      "key": "爆炸",
-      "name": "♾️爆炸☪影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|searchList4|initV122|okhttp/3.10.0"
+      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
     },
 	{
       "key": "csp_奇奇",
@@ -206,20 +178,6 @@
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
-	{
-      "key": "csp_qinglo",
-      "name": "♾️青龙☪影视",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
-    },
-	{
-	  "key": "csp_baih",
-	  "name": "♾️白虎☪影视",
-	  "type": 3,
-	  "api": "./XB/fuz.js",
-	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
-	},
 	{
       "key": "csp_mayi",
       "name": "♾️神兽☪影视",
@@ -741,6 +699,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
