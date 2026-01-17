@@ -28,14 +28,14 @@
       "type": 3,
       "api": "csp_NanGua",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar"
+      "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25"
     },
 	{
       "key":"yumi",
       "name":"🎴玉米🔹影视",
       "type":3,
       "api":"csp_qiao2",
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/qiao.jar",
+      "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
@@ -699,6 +699,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
