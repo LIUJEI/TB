@@ -36,7 +36,7 @@
       "type":3,
       "api":"csp_qiao2",
       "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
-      "ext":"7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
+      "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
       "key": "csp_仓鼠",
@@ -80,6 +80,13 @@
 	  "api": "csp_AppGet",
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
+	{
+      "key": "爆炸",
+      "name": "♾️爆炸☪影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t"
+    },
 	{
 	  "key": "csp_布蕾",
 	  "name": "♾️布蕾☪影視",
@@ -144,13 +151,6 @@
       "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
     },
 	{
-      "key": "csp_白鸽",
-      "name": "♾️白鸽☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://cy.baige.asia|599D0FE5178642FD|599D0FE5178642FD"
-    },
-	{
       "key": "csp_魔方",
       "name": "♾️魔方☪影視",
       "type": 3,
@@ -177,6 +177,20 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+    },
+	{
+      "key": "csp_qinglo",
+      "name": "♾️青龙☪影视",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
+    },
+    {
+	  "key": "csp_baih",
+	  "name": "♾️白虎☪影视",
+	  "type": 3,
+      "api": "./XB/fuz.js",
+	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
     },
 	{
       "key": "csp_mayi",
@@ -699,6 +713,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
