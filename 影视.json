@@ -57,7 +57,14 @@
       "name": "♾️花猪☪秒播",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry"
+      "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
+    },
+	{
+      "key": "爆炸",
+      "name": "♾️爆炸☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|searchList4|initV122|okhttp/3.10.0"
     },
 	{
       "key": "csp_qiji",
@@ -79,20 +86,6 @@
 	  "type": 3,
 	  "api": "csp_AppGet",
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
-	},
-	{
-      "key": "爆炸",
-      "name": "♾️爆炸☪影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t"
-    },
-	{
-	  "key": "csp_布蕾",
-	  "name": "♾️布蕾☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
 	},
     {
       "key": "csp_旗星",
@@ -178,6 +171,13 @@
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
+	{
+	  "key": "csp_布蕾",
+	  "name": "♾️布蕾☪影視",
+	  "type": 3,
+	  "api": "csp_AppQi",
+	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
+	},
 	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
@@ -713,6 +713,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
