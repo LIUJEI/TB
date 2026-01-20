@@ -178,27 +178,7 @@
       "api": "csp_AppGet",
       "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
     },
-	{
-      "key": "csp_qinglo",
-      "name": "♾️青龙☪影视",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
-    },
-    {
-	  "key": "csp_baih",
-	  "name": "♾️白虎☪影视",
-	  "type": 3,
-      "api": "./XB/fuz.js",
-	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
-    },
-	{
-      "key": "csp_mayi",
-      "name": "♾️神兽☪影视",
-      "type": 3,
-      "api": "https://13826.kstore.vip/AppToV5.py",
-      "ext": {"host": "http://118.89.203.120:8365/"}
-    },
+
 	{
       "key": "csp_花柳",
       "name": "♾️花柳☪影視",
@@ -219,6 +199,28 @@
       "type": 3,
       "api": "./XB/fuz.js",
       "ext": {"host": "http://www.yezitv.top/dtym.json","ver": 2}
+    },
+	{
+      "key": "csp_qinglo",
+      "name": "♾️青龙☪影视",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
+    },
+    {
+	  "key": "csp_baih",
+	  "name": "♾️白虎☪影视",
+	  "type": 3,
+      "api": "./XB/fuz.js",
+	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
+    },
+	{
+      "key": "csp_mayi",
+      "name": "♾️蚂蚁☪影视",
+	  "type": 3,
+      "api":"csp_qiao2",
+	  "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
+	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "荐片",
@@ -713,6 +715,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
