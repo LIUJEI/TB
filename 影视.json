@@ -383,28 +383,28 @@
       "name": "♨️锦鲤®短剧",
       "type": 3,
       "api": "csp_JinliDJ",
-      "jar": "./JAR/xiao1.10.jar"
+      "jar": "./JAR/spider.jar"
     },
     {
       "key": "csp_七猫短剧",
       "name": "♨️七猫®短剧",
       "type": 3,
       "api": "csp_QiMaoDJ",
-      "jar": "./JAR/xiao1.10.jar"
+      "jar": "./JAR/spider.jar"
     },
     {
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
       "api": "csp_XinggeDJ",
-      "jar": "./JAR/xiao1.10.jar"
+      "jar": "./JAR/spider.jar"
     },
 	{
       "key": "甜圈短剧",
       "name": "♨️甜圈®短剧",
       "type": 3,
       "api": "csp_TianquanDJ",
-      "jar": "./JAR/xiao1.10.jar"
+      "jar": "./JAR/spider.jar"
     },
     {
       "key": "csp_茄子短剧",
@@ -507,21 +507,21 @@
       "key": "dr_优酷",
       "name": "🐉┃优酷┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
     },
     {
       "key": "dr_搜狗",
       "name": "🐉┃搜狗┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
     },
     {
       "key": "dr_哔哩视频",
       "name": "🐉┃哔哩┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
     },
     {
@@ -748,6 +748,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
