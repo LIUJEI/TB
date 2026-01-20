@@ -253,22 +253,10 @@
 		"api":"https://catbox.n13.club/t9/tianfeng.php"
 	},
 	{
-		"key":"csp_mengtaiqi",
-		"name":"♾️蒙太☪影视",
-		"type":4,
-		"api":"https://catbox.n13.club/t9/mengtaiqi.php"
-	},
-	{
 		"key":"csp_jumeng",
 		"name":"♾️聚梦☪影视",
 		"type":4,
 		"api":"https://catbox.n13.club/t9/jumeng.php"
-	},
-	{
-		"key":"csp_xingzhige",
-		"name":"♾️短剧☪影视",
-		"type":4,
-		"api":"https://catbox.n13.club/t9/xingzhige.php"
 	},
     {
       "key": "荐片",
@@ -560,27 +548,24 @@
       "ext": "http://39.105.18.5:5565/api.php/app/" 
 	},
 	{
-      "key": "csp_土豆浏览",
+      "key": "csp_土豆",
       "name": "🐉┃土豆┃官方",
       "type": 3,
-      "api": "https://d.kstore.dev/download/12194/TV/土豆.py"
+      "api": "csp_AppYsV2",
+	  "ext": "http://114.66.55.28:4816/api.php/app/"
     },
     {
        "key": "csp_Music",
-      "name": "💫┃歌曲┃直播",
+      "name": "💫┃歌曲┃大全",
       "type": 3,
       "api": "csp_Music",
-      "quickSearch": 0,
-      "searchable": 0,
       "jar":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4b757687785f9fa1/0108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac"
     },
 	{
-      "key":"cctv",
-      "name":"💫cctv┃直播",
-      "type":3,
-      "api":"csp_CCTV",
-      "jar":"./JAR/荷.jar",
-      "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
+      "key":"csp_yinyue5",
+      "name":"💫┃音乐┃大全",
+      "type":4,
+      "api":"https://catbox.n13.club/t9/yinyue5.php"
     },
     {
       "key": "csp_Kugou",
@@ -763,6 +748,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
