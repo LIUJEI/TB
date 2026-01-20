@@ -246,24 +246,12 @@
 		"type":4,
 		"api":"https://catbox.n13.club/t9/lianyu.php"
 	},
-	{
-		"key":"csp_tianfeng",
-		"name":"♾️天峰☪影视",
-		"type":4,
-		"api":"https://catbox.n13.club/t9/tianfeng.php"
-	},
-	{
-		"key":"csp_jumeng",
-		"name":"♾️聚梦☪影视",
-		"type":4,
-		"api":"https://catbox.n13.club/t9/jumeng.php"
-	},
     {
       "key": "荐片",
       "name": "🪀荐片🔹影视",
       "type": 3,
       "api": "./XB/荐片0.js",
-      "ext": {"host": "https://api.ztcgi.com","catesSet": "电影&电视剧&综艺&动漫&纪录片","tabsSet": "极速蓝光"}
+      "ext": {"host": "https://api.ztcgi.com"}
     },
 	{
       "key": "csp_js_永乐",
@@ -333,7 +321,7 @@
         "key": "hipy_js_星芽短剧",
         "name": "🎬短劇☪系列",
         "type": 3,
-        "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+        "api": "./libs/drpy2.min.js",
         "ext": "./XB/星芽.js"
     },
     {
@@ -748,6 +736,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
