@@ -60,13 +60,6 @@
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
     },
 	{
-      "key": "爆炸",
-      "name": "♾️爆炸☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|searchList4|initV122|okhttp/3.10.0"
-    },
-	{
       "key": "csp_qiji",
       "name": "♾️雄鹰☪秒播",
       "type": 3,
@@ -87,12 +80,19 @@
 	  "api": "csp_AppGet",
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
-    {
-      "key": "csp_旗星",
-      "name": "♾️旗星☪影視",
+	{
+      "key": "csp_方圆",
+      "name": "♾️方圆☪影視",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
+      "ext": "https://fyys1.fytd.top|0ef6fc92a64b4ee7"
+    },
+    {
+      "key": "csp_看呗",
+      "name": "♾️看呗☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://www.winter1.fun|abcdefghigklmn11"
     },
 	{
       "key": "csp_气球",
@@ -116,8 +116,8 @@
       "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
     },
 	{
-      "key": "csp_数字",
-      "name": "♾️数字☪影視",
+      "key": "csp_yongy",
+      "name": "♾️永夜☪影視",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
@@ -172,12 +172,12 @@
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
 	{
-	  "key": "csp_布蕾",
-	  "name": "♾️布蕾☪影視",
-	  "type": 3,
-	  "api": "csp_AppQi",
-	  "ext": "https://qjappcms.bl4k.cc|5f2b7ed203a3a581|okhttp/3.10.0"
-	},
+      "key": "csp_旗星",
+      "name": "♾️旗星☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
+    },
 	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
@@ -713,6 +713,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
