@@ -184,4 +184,5 @@ class Spider(Spider):
         pass
 
     def localProxy(self, param):
+
         pass
