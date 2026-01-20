@@ -207,18 +207,18 @@
       "ext": {"host": "https://qh.70qh.top","ver": 2}
     }, 
 	{
-      "key": "csp_qinglo",
-      "name": "♾️青龙☪影视",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
-    },
-    {
 	  "key": "csp_baih",
 	  "name": "♾️白虎☪影视",
 	  "type": 3,
       "api": "./XB/fuz.js",
 	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
+    },
+	{
+      "key": "csp_qinglo",
+      "name": "♾️青龙☪影视",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
     },
 	{
       "key": "csp_mayi",
@@ -727,6 +727,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
