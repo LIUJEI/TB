@@ -2,7 +2,7 @@
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
   "spider": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
   //数据接口====================================网站===============================================
@@ -28,14 +28,14 @@
       "type": 3,
       "api": "csp_NanGua",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25"
+      "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25"
     },
 	{
       "key":"yumi",
       "name":"🎴玉米🔹影视",
       "type":3,
       "api":"csp_qiao2",
-      "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
+      "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
@@ -130,13 +130,6 @@
       "ext": "https://dy.8ttv.cn|1111111111111111"
     },
 	{
-      "key": "csp_bin'd",
-      "name": "♾️柚子☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
-    },
-	{
       "key": "csp_新剧",
       "name": "♾️新剧☪影視",
       "type": 3,
@@ -149,6 +142,13 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://snysw.xyz/mf4kzs327.txt|1234567887654321"
+    },
+	{
+      "key": "csp_bin'd",
+      "name": "♾️柚子☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
     },
 	{
       "key": "csp_茉莉",
@@ -178,7 +178,13 @@
       "api": "csp_AppGet",
       "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
     },
-
+    {
+      "key": "csp_剧梦",
+      "name": "♾️剧梦☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
+    },
 	{
       "key": "csp_花柳",
       "name": "♾️花柳☪影視",
@@ -201,6 +207,13 @@
       "ext": {"host": "http://www.yezitv.top/dtym.json","ver": 2}
     },
 	{
+      "key": "csp_麒麟",
+      "name": "♾️麒麟☪影視",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host": "https://qh.70qh.top","ver": 2}
+    }, 
+	{
       "key": "csp_qinglo",
       "name": "♾️青龙☪影视",
       "type": 3,
@@ -219,7 +232,7 @@
       "name": "♾️蚂蚁☪影视",
 	  "type": 3,
       "api":"csp_qiao2",
-	  "jar": "http://cdn.qiaoji8.com/fix260108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
+	  "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
 	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
@@ -715,6 +728,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
