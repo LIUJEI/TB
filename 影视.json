@@ -171,13 +171,6 @@
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
     },
-	{
-      "key": "csp_旗星",
-      "name": "♾️旗星☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
-    },
     {
       "key": "csp_剧梦",
       "name": "♾️剧梦☪影視",
@@ -231,9 +224,15 @@
       "key": "csp_mayi",
       "name": "♾️蚂蚁☪影视",
 	  "type": 3,
-      "api":"csp_qiao2",
-	  "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
-	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+      "api":"./XB/Appto.py",
+	  "ext": "http://118.89.203.120:8365/"
+    },
+	{
+      "key": "csp_PIxia",
+      "name": "♾️皮虾☪影视",
+      "type": 3,
+      "api":"./XB/Appto.py",
+      "ext": "http://38.55.237.41:8762"
     },
     {
       "key": "荐片",
@@ -728,6 +727,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
