@@ -234,6 +234,42 @@
       "api":"./XB/Appto.py",
       "ext": "http://38.55.237.41:8762"
     },
+	{
+		"key":"csp_jimi",
+		"name":"♾️吉米☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/jimi.php"
+	},
+	{
+		"key":"csp_lianyu",
+		"name":"♾️恋鱼☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/lianyu.php"
+	},
+	{
+		"key":"csp_tianfeng",
+		"name":"♾️天峰☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/tianfeng.php"
+	},
+	{
+		"key":"csp_mengtaiqi",
+		"name":"♾️蒙太☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/mengtaiqi.php"
+	},
+	{
+		"key":"csp_jumeng",
+		"name":"♾️聚梦☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/jumeng.php"
+	},
+	{
+		"key":"csp_xingzhige",
+		"name":"♾️短剧☪影视",
+		"type":4,
+		"api":"https://catbox.n13.club/t9/xingzhige.php"
+	},
     {
       "key": "荐片",
       "name": "🪀荐片🔹影视",
@@ -727,6 +763,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
