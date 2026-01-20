@@ -486,42 +486,42 @@
       "key": "dr_腾迅",
       "name": "🐉┃腾讯┃官方",
       "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
     },
     {
       "key": "dr_芒果",
       "name": "🐉┃芒果┃官方",
       "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
     },
     {
       "key": "dr_奇异",
       "name": "🐉┃奇艺┃官方",
       "type": 3,
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
     },
     {
       "key": "dr_优酷",
       "name": "🐉┃优酷┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
     },
     {
       "key": "dr_搜狗",
       "name": "🐉┃搜狗┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
     },
     {
       "key": "dr_哔哩视频",
       "name": "🐉┃哔哩┃官方",
       "type": 3,
-      "api": "./TS/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
     },
     {
@@ -748,6 +748,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
