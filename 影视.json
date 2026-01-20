@@ -318,42 +318,42 @@
 	   "key":"csp_豪堪短剧",
 	   "type":3,
 	   "api":"csp_HHkkAmns",
-	   "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	   "jar":"./JAR/aowu.jar"
     },
     {
 	  "name":"♨️盒马®短剧",
 	  "key":"csp_盒马短剧",
 	  "type":3,
 	  "api":"csp_HemaAmns",
-	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	  "jar":"./JAR/aowu.jar"
 	},
     {
 	  "name":"♨️拜拜®短剧",
 	  "key":"csp_拜拜短剧",
 	  "type":3,
 	  "api":"csp_BddjAmns",
-	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	  "jar":"./JAR/aowu.jar"
 	},
     {
 	  "name":"♨️喵喵®短剧",
 	  "key":"csp_喵喵短剧",
 	  "type":3,
 	  "api":"csp_QmdjAmns",
-	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	  "jar":"./JAR/aowu.jar"
 	},
 	{
 		"name":"♨️岁岁®短剧",
 		"key":"岁岁短剧",
 		"type":3,
 		"api":"csp_SpdjAmns",
-		"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+		"jar":"./JAR/aowu.jar"
 	},
 	{
       "key": "csp_星星短剧",
       "name": "♨️星星®短劇",
       "type": 3,
       "api":"csp_XydjAmns",
-	  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"
+	  "jar":"./JAR/aowu.jar"
     },
 	{
       "key": "csp_锦鲤短剧",
@@ -463,7 +463,7 @@
       "key": "dr_腾迅",
       "name": "🐉┃腾讯┃官方",
       "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
     },
     {
@@ -477,35 +477,35 @@
       "key": "dr_奇异",
       "name": "🐉┃奇艺┃官方",
       "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
     },
     {
       "key": "dr_优酷",
       "name": "🐉┃优酷┃官方",
       "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://d.kstore.dev/download/12194/TV/yKtv.js"
     },
     {
       "key": "dr_搜狗",
       "name": "🐉┃搜狗┃官方",
       "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
     },
     {
       "key": "dr_哔哩视频",
       "name": "🐉┃哔哩┃官方",
       "type": 3,
-      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
     },
     {
       "key": "csp_闪影",
       "name": "🐉┃闪影┃官采",
       "type": 3,
-	  "jar": "./JAR/xiao1.10.jar",
+	  "jar": "./JAR/spider.jar",
       "api": "csp_AppYs",
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
       "categories": ["电影","剧集","短剧","综艺","动漫"]
@@ -544,7 +544,7 @@
       "name":"💫cctv┃直播",
       "type":3,
       "api":"csp_CCTV",
-      "jar":"https://gitee.com/lyun_1_0/tb/raw/master/JAR/荷.jar",
+      "jar":"./JAR/荷.jar",
       "ext":"https://d.kstore.dev/download/12194/Lib/央视大全.py"
     },
     {
@@ -622,7 +622,7 @@
       "name": "🇨🇳┣☪配✿置┫辅助",
       "type": 3,
       "api": "csp_Config",
-	  "jar": "./JAR/xiao1.10.jar",
+	  "jar": "./JAR/spider.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -637,7 +637,7 @@
       "type": 3,
       "api": "csp_Market",
       "indexs": 0,
-	  "jar": "./JAR/xiao1.10.jar",
+	  "jar": "./JAR/spider.jar",
       "ext": "./XB/single.json"
     }
   ],
@@ -728,6 +728,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
