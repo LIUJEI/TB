@@ -4,10 +4,6 @@
     "name": "☀️首页巧技",
     "url": "http://cdn.qiaoji8.com/tvbox.json"
 },
-{
-    "url": "http://hb.小虎斑.site:25252/仅供测试",
-    "name": "📁小虎斑📁"
-},
 { 
     "name":"🐠摸鱼🐠",
     "url":"http://我不是.摸鱼儿.com"
@@ -52,7 +48,6 @@
     "name": "📁潇洒📁",
     "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
 },
-
 {
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "name": "📁南风📁"
@@ -62,8 +57,8 @@
     "name": "📁无名1📁"
 },
 {
-    "name":"😹玄珠",
-    "url":"https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+    "url": "http://hb.小虎斑.site:25252/仅供测试",
+    "name": "📁小虎斑📁"
 },
 {
       "name": "🚦分享者🚦",
@@ -71,15 +66,7 @@
 },
 {
       "name": "📁林中小屋📁",
-      "url": "https://8815.kstore.space/Monster.json"
-},
-{
-        "url": "http://175.178.251.183:6689/tv.txt",
-        "name": "📁懒人📁"
-},
-{
-      "url": "https://d.kstore.dev/download/9877/FourD/api.json",
-      "name": "📁潇洒📁"
+      "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace"
 },
 {
       "url": "https://weixine.net/ysc.json",
@@ -94,10 +81,6 @@
       "name": "📁星辰📁"
 },
 {
-      "url": "https://秦始皇.xyz",
-      "name": "📁秦皇📁"
-},
-{
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
       "name": "📁王二📁"
 },
@@ -110,45 +93,17 @@
       "name": "📁老虎📁"
 },
 {
-      "url": "https://小虎斑.xyz/tvbox/",
-      "name": "📁扫地僧📁"
-},
-{
       "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "📁莱斯📁" 
-},
-{
-      "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json",
-      "name": "📁小橙子📁" 
-},
-{
-      "url": "https://2912.kstore.space/0506.json", 
-      "name": "📁西夏📁" 
-},
-{
-      "url": "https://tv.xn--11x555b.top/svip",
-      "name": "📁蜗牛📁"
-},
-{
-      "name": "传说📚",
-      "url": "https://chuanshuo.77blog.cn/tv.json"
 },
 {
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
       "name": "📁宝盒📁"
 },
 {
-      "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-      "name": "📁不良帅📁"
-},
-{
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
       "name": "📁荷城📁"
-},
-{
-      "url":"https://cdn09022024.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
-      "name": "📁T4线📁"
-},     
+},  
 {
       "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-SK.json",
       "name": "📁圥忈📁"
@@ -161,5 +116,6 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
       "name": "📁夜猫子📁"
 }]}
+
 
 
