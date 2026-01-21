@@ -528,10 +528,10 @@
 	  "ext": "http://114.66.55.28:4816/api.php/app/"
     },
     {
-       "key": "csp_qingting",
-      "name": "💫┃蜻蜓┃大全",
+       "key": "csp_djuu",
+      "name": "💫┃车载┃大全",
       "type": 4,
-      "api":"https://catbox.n13.club/t9/qingting.php"
+      "api":"https://catbox.n13.club/t9/djuu.php"
     },
 	{
       "key":"csp_yinyue5",
@@ -720,6 +720,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
