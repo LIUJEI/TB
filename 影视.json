@@ -39,25 +39,18 @@
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
-      "key": "csp_仓鼠",
-      "name": "♾️仓鼠☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
-    },
-	{
-      "key": "csp_爱盈",
-      "name": "♾️爱盈☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
-    },
-    {
       "key": "csp_花小猪",
       "name": "♾️花猪☪秒播",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
+    },
+	{
+      "key": "csp_爱影",
+      "name": "♾️爱影☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
     },
 	{
       "key": "csp_qiji",
@@ -71,7 +64,7 @@
       "name": "♾️奇奇☪影视",
       "type": 3,
       "api": "csp_AppQi",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt|123456789abcdefg"
+      "ext": "http://110.42.67.221:8006|123456789abcdefg|searchList7|initV122|okhttp/3.10.0"
     }, 
 	{
 	  "key": "csp_XINXIN",
@@ -81,11 +74,11 @@
 	  "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88|okhttp/3.14.9"
 	},
 	{
-      "key": "csp_方圆",
-      "name": "♾️方圆☪影視",
+      "key": "csp_仓鼠",
+      "name": "♾️仓鼠☪影視",
       "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://fyys1.fytd.top|0ef6fc92a64b4ee7"
+      "api": "csp_AppQi",
+      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
     },
     {
       "key": "csp_看呗",
@@ -100,13 +93,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://vv.229d.cn|8888888888888888"
-    },
-    {
-      "key": "csp_随看",
-      "name": "♾️随看☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://suikan.tpmbt.cn|pHQsm6wjYaCuSPEz"
     },
     {
       "key": "csp_瑞奇",
@@ -144,13 +130,6 @@
       "ext": "https://snysw.xyz/mf4kzs327.txt|1234567887654321"
     },
 	{
-      "key": "csp_bin'd",
-      "name": "♾️柚子☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
-    },
-	{
       "key": "csp_茉莉",
       "name": "♾️茉莉☪影視",
       "type": 3,
@@ -164,19 +143,12 @@
       "api": "csp_AppQi",
       "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
     },
-	{
-      "key": "csp_莱米",
-      "name": "♾️莱米☪影視",
+    {
+      "key": "csp_驿站",
+      "name": "♾️驿站☪影視",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-    },
-    {
-      "key": "csp_剧梦",
-      "name": "♾️剧梦☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://www.jumengwu.com|1f0a873caf2550a5"
     },
 	{
       "key": "csp_花柳",
@@ -380,13 +352,6 @@
       "api": "csp_QiMaoDJ",
       "jar": "./JAR/spider.jar"
     },
-    {
-      "key": "csp_星阁短剧",
-      "name": "♨️星阁®短剧",
-      "type": 3,
-      "api": "csp_XinggeDJ",
-      "jar": "./JAR/spider.jar"
-    },
 	{
       "key": "甜圈短剧",
       "name": "♨️甜圈®短剧",
@@ -394,6 +359,25 @@
       "api": "csp_TianquanDJ",
       "jar": "./JAR/spider.jar"
     },
+	{
+      "key": "csp_星阁短剧",
+      "name": "♨️星阁®短剧",
+      "type": 3,
+      "api": "csp_XinggeDJ",
+      "jar": "./JAR/spider.jar"
+    },
+	{
+	  "key":"csp-aha",
+	  "name":"♨️音乐®啊哈",
+	  "type":4,
+	  "api":"https://catbox.n13.club/t9/aha.php"
+	},
+	{
+	  "key":"csp-xingzhige",
+	  "name":"♨️星阁®短剧",
+	  "type":4,
+	  "api":"https://catbox.n13.club/t9/xingzhige.php"
+	},
     {
       "key": "csp_茄子短剧",
       "name": "♨️茄子®短劇",
@@ -543,11 +527,10 @@
 	  "ext": "http://114.66.55.28:4816/api.php/app/"
     },
     {
-       "key": "csp_Music",
-      "name": "💫┃歌曲┃大全",
-      "type": 3,
-      "api": "csp_Music",
-      "jar":"https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4b757687785f9fa1/0108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac"
+       "key": "csp_qingting",
+      "name": "💫┃蜻蜓┃大全",
+      "type": 4,
+      "api":"https://catbox.n13.club/t9/qingting.php"
     },
 	{
       "key":"csp_yinyue5",
@@ -736,6 +719,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
