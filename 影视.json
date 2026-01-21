@@ -23,7 +23,7 @@
       "ext": "http://v.rbotv.cn"
     },
 	{
-      "key": "nangua",
+      "key": "csp_nangua",
       "name": "🎴南瓜🔹影视",
       "type": 3,
       "api": "csp_NanGua",
@@ -31,12 +31,20 @@
       "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25"
     },
 	{
-      "key":"yumi",
+      "key":"csp_yumi",
       "name":"🎴玉米🔹影视",
       "type":3,
       "api":"csp_qiao2",
       "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },
+	{
+      "key": "csp_Qiji",
+      "name": "♾️雄鹰☪秒播",
+      "type": 3,
+      "api": "csp_Qiji",
+	  "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
+      "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
 	{
       "key": "csp_花小猪",
@@ -51,13 +59,6 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
-    },
-	{
-      "key": "csp_qiji",
-      "name": "♾️雄鹰☪秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
     },
 	{
       "key": "csp_奇奇",
@@ -144,11 +145,11 @@
       "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
     },
     {
-      "key": "csp_驿站",
-      "name": "♾️驿站☪影視",
+      "key": "csp_鲸鱼",
+      "name": "♾️鲸鱼☪影視",
       "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+      "api": "csp_AppQi",
+      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA"
     },
 	{
       "key": "csp_花柳",
@@ -719,6 +720,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
