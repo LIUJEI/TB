@@ -16,6 +16,30 @@
       "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
     },
     {
+            "key": "疯猫影视",
+            "name": "撸铁🥥疯猫AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "站名": "疯猫av",
+                "主页url": "https://bb.fmav711.icu",
+                "数组": "col-md-3 resent-grid recommended-grid&&</div></div></div>",
+                "标题": "title\"&&</a>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "views views-info\"&&</p>",
+                "线路数组": "glyphicon-play-circle\"&&</a>",
+                "播放数组": "myList&&</ul>",
+                "播放标题": "</span>&&/a>",
+                "搜索url": "/ss/key_{wd}_p{pg}.html",
+                "简介": "myList\"&&</p>",
+                "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+                "分类url": "/fly/{cateId}B4_p{catePg}.html",
+                "分类数组": "<a&&</a>",
+                "分类标题": ">&&/a>",
+                "分类ID": "/fly/&&B4_p.html"}
+    },
+    {
       "key": "小姨子",
       "name": "撸铁🥥小姨子",
       "type": 3,
