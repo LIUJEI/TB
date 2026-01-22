@@ -556,7 +556,7 @@
 },
 {
     "key": "好看影视",
-    "name": "正版🍁好看吧蓝光",
+    "name": "正版🍁好看蓝光",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -697,14 +697,59 @@
     "分类值": "shaos&%E2%85%A1jdy&dongz&aiq&xij&kongb&jings&xuany&fanz&juq&zhanz&zain&keh&qih&maox&jil&qita&guocj&gangtj&hangj&ribj&oumj&taigj&duanj&qitj&guocdm&rhdm&gtdm&omdm&dmdy&qtdm&donghdy&neidzy&gangtazy&rihzy&oumzy&dianyjs"}
 },
 {
-    "key": "小鸭影音",
-    "name": "正版🍁小鸭影音",
+    "key": "csp_小镇",
+    "name": "正版🍁玫瑰小镇",
     "type": 3,
     "api": "csp_XBPQ",
+    "jar": "http://dd.ma/CFlLnSbJ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "http://dyxz.tv/;;!H",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
+},
+{
+    "key": "app影视",
+    "name": "正版🍁APP影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "http://dd.ma/CFlLnSbJ",
     "ext": {
-    "简介": "琉🔹芸❤广告勿信👉剧情 ：+stui-content__desc col-pd clearfix\">&&</div>",
-    "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电视剧$2#电影$1#动漫$30#综艺$29"}
+    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
+    "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
+    "分类": "电影$1#连续剧$2#动漫$4#综艺$3"}
+},
+{
+    "key":"csp_XBPQ_耐看点播",
+    "name":"正版🍁耐看点播",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar": "http://dd.ma/CFlLnSbJ",
+    "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+    "数组":"public-list-exp\"&&</div></",
+    "副标题":"琉芸✨-+>&&</div>",
+    "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "线路数组":"<a class=\"swiper-slide\">&&</a",
+    "线路标题":"💕琉芸👉-+&&",
+    "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
+},
+{
+      "key": "csp_xBPQ_奇优",
+      "name": "正版🍁奇优影视",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+      "请求头":"User-Agent$MOBILE_UA","防走丢":"http://www.qiyoudy1.com/",
+      "副标题":"琉芸✨-+text-right\">&&</span>",
+      "播放数组":"stui-content__playlist clearfix&&</ul>",
+      "播放列表":"<a&&a>",
+      "播放链接":"href=\"&&\"",
+      "播放标题":"title=\"&&\"",
+      "线路数组":"<li id=\"tab&&</li>",
+      "线路标题":"💕琉芸👉-+>&&</a>",
+      "分类url":"http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
+      "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","排序":"按时间$time#按人气$hit"}
 },
 {
     "key": "MoMo",
@@ -1185,6 +1230,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
