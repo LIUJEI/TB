@@ -35,7 +35,7 @@
     "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;d0",
     "线路二次截取": "\"anthology-tab&&</div>",
     "线路数组": "\\&nbsp&&span",
-    "线路标题": "💕琉芸👉-+>&&<",
+    "线路标题": ";&&<",
     "播放数组": "anthology-list-play&&</ul>",
     "播放列表": "<a&&/a>",
     "播放标题": ">&&<",
@@ -1229,6 +1229,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
