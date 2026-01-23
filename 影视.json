@@ -285,6 +285,22 @@
       "api": "./XB/海龟.js"
     },
 	{
+      "key": "csp_XBPQ_人人影视",
+      "name": "🪀人人🔹影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	  "jar": "http://dd.ma/CFlLnSbJ",
+      "ext": "./XB/人人.png"
+    },
+	{
+      "key":"csp_XBPQ_耐看点播",
+      "name":"🪀耐看🔹点播",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "http://dd.ma/CFlLnSbJ",
+      "ext": "./XB/人人.png"
+    },
+	{
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
       "type": 3,
@@ -739,6 +755,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
