@@ -28,7 +28,7 @@
       "type": 3,
       "api": "csp_NanGua",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7"
     },
 	{
       "key":"csp_yumi",
@@ -48,11 +48,11 @@
     },
 	{
 	  "key": "csp_XINXIN",
-	  "name": "♾️鑫鑫☪影视",
+	  "name": "♾️聚集☪影视",
 	  "type": 3,
 	  "api":"csp_Nmvod",
 	  "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-	  "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
 	},
 	{
       "key": "爱营",
@@ -742,6 +742,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
