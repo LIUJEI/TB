@@ -51,9 +51,7 @@
       "name": "♾️爱影☪影視",
       "type": 3,
       "api": "csp_AppGetV2",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
+      "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
       "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EMJRiVaiwwN4fq/9mc2DAAgugdkhTXND+52hgm3ggj65qar4TjeNrCTAD/U6Er0wTLydN68QCGnUP+Az4vpxMIKNJutdzRf+Z5rYQtKX8IglZ92N7G1shuFGXBEngnUmpPhCqPzJHH3gm+Q/sNjl2Camb0qGi8XDNhl4cGORH0dvvpkHLhEzZ+1+/9LwxcTPrLUUJLtYVjCfcGT/jJT24JXrJfVWm+WngZXr8IjU/Apk0ZoHUAmte8/dLlplNyNafu3Tb3FgGkrRS0eVyWUB3d8="
     },
     {
@@ -61,9 +59,7 @@
       "name": "♾️顾我☪影視",
       "type": 3,
       "api": "csp_AppGetV2",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
+      "jar": "./JAR/fix0108.jar;md5;1fbfab3e9f1fc664a90844c488c49b25",
       "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8="
     },
 	{
@@ -655,19 +651,21 @@
   ],
   "parses": [
 	{
+      "name": "☪冰豆❂",
+      "type": 0,
+	  "url": "https://bd.jx.cn/?url=",
+	  "ext": {
+	  "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    },
+	{
       "name": "☪虾米❂",
       "type": 0,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name":"☪拉野❂",
       "type":0,
       "url":"http://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "☪冰豆❂",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url="
     },
 	{
       "name": "☪淘片❂",
@@ -711,10 +709,11 @@
 	},
     {
       "name": "🏁琉芸★内部嗅探★",
-      "type":0,
-      "url":"https://jx.xmflv.com/?url=",
-	  "ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
-    }],
+      "type":1,
+	  "url":"https://zy.qiaoji8.com/xiafan.php?url=",
+	  "ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
+	  "header":{"User-Agent":"okhttp/4.9.1"}}
+	}],
     "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
     "lives": [
     {
@@ -740,6 +739,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
