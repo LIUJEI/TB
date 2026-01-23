@@ -47,6 +47,26 @@
       "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
 	{
+      "key": "爱营",
+      "name": "♾️爱影☪影視",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EMJRiVaiwwN4fq/9mc2DAAgugdkhTXND+52hgm3ggj65qar4TjeNrCTAD/U6Er0wTLydN68QCGnUP+Az4vpxMIKNJutdzRf+Z5rYQtKX8IglZ92N7G1shuFGXBEngnUmpPhCqPzJHH3gm+Q/sNjl2Camb0qGi8XDNhl4cGORH0dvvpkHLhEzZ+1+/9LwxcTPrLUUJLtYVjCfcGT/jJT24JXrJfVWm+WngZXr8IjU/Apk0ZoHUAmte8/dLlplNyNafu3Tb3FgGkrRS0eVyWUB3d8="
+    },
+    {
+      "key": "顾我",
+      "name": "♾️顾我☪影視",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8="
+    },
+	{
       "key": "csp_花小猪",
       "name": "♾️花猪☪秒播",
       "type": 3,
@@ -54,8 +74,8 @@
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
     },
 	{
-      "key": "csp_爱影",
-      "name": "♾️爱影☪影視",
+      "key": "csp_优质",
+      "name": "♾️优质☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
@@ -720,6 +740,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
