@@ -97,13 +97,6 @@
       "api": "csp_AppQi",
       "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
     },
-    {
-      "key": "csp_看呗",
-      "name": "♾️看呗☪影視",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://www.winter1.fun|abcdefghigklmn11"
-    },
 	{
       "key": "csp_气球",
       "name": "♾️气球☪影視",
@@ -159,13 +152,6 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
-    },
-    {
-      "key": "csp_鲸鱼",
-      "name": "♾️鲸鱼☪影視",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA"
     },
 	{
       "key": "csp_花柳",
@@ -755,6 +741,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
