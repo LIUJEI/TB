@@ -24,36 +24,36 @@
     },
 	{
       "key": "csp_nangua",
-      "name": "🎴南瓜🔹影视",
+      "name": "🎴南瓜☪影视",
       "type": 3,
       "api": "csp_NanGua",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/1018/20/1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7"
+	  "jar": "./JAR/fix0108.jar",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
+	{
+	  "key": "csp_XINXIN",
+	  "name": "🎴聚集☪影视",
+	  "type": 3,
+	  "api":"csp_Nmvod",
+	  "jar": "./JAR/fix0108.jar",
+	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+	},
 	{
       "key":"csp_yumi",
       "name":"🎴玉米🔹影视",
       "type":3,
       "api":"csp_qiao2",
-      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "jar": "./JAR/fix0108.jar",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
       "key": "csp_Qiji",
-      "name": "♾️雄鹰☪秒播",
+      "name": "🎴雄鹰☪秒播",
       "type": 3,
       "api": "csp_Qiji",
-	  "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	  "jar": "./JAR/fix0108.jar",
       "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
-	{
-	  "key": "csp_XINXIN",
-	  "name": "♾️聚集☪影视",
-	  "type": 3,
-	  "api":"csp_Nmvod",
-	  "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
-	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-	},
 	{
       "key": "爱营",
       "name": "♾️爱影☪影視",
@@ -742,6 +742,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
