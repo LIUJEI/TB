@@ -1034,15 +1034,6 @@
     "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理$41"}
 },
 {
-    "key": "看影影视",
-    "name": "正版🍁看影蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://www.kanying.me/menu/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-    "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$14"}
-},
-{
     "key": "xbpq_高清剧场",
     "name": "正版🍁高清影视",
     "type": 3,
@@ -1229,6 +1220,7 @@
        {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
  "flags": ["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
  "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
