@@ -28,14 +28,14 @@
       "type": 3,
       "api": "csp_NanGua",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113",
-      "jar": "http://tv.laohu.cool/lh260109.jar;md5;f2d196f8d411313f00000f24e257b6e6"
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"
     },
 	{
       "key":"csp_yumi",
       "name":"🎴玉米🔹影视",
       "type":3,
       "api":"csp_qiao2",
-      "jar": "http://tv.laohu.cool/lh260109.jar;md5;f2d196f8d411313f00000f24e257b6e6",
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
@@ -43,7 +43,7 @@
       "name": "♾️雄鹰☪秒播",
       "type": 3,
       "api": "csp_Qiji",
-	  "jar": "http://tv.laohu.cool/lh260109.jar;md5;f2d196f8d411313f00000f24e257b6e6",
+	  "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
 	{
@@ -51,7 +51,7 @@
 	  "name": "♾️鑫鑫☪影视",
 	  "type": 3,
 	  "api":"csp_Nmvod",
-	  "jar": "http://tv.laohu.cool/lh260109.jar;md5;f2d196f8d411313f00000f24e257b6e6",
+	  "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	  "ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
 	},
 	{
@@ -742,6 +742,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
