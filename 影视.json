@@ -275,7 +275,7 @@
       "name": "🪀人人🔹影视",
       "type": 3,
       "api": "csp_XBPQ",
-	  "jar": "http://dd.ma/CFlLnSbJ",
+	  "jar": "./JAR/MoHe.jar",
       "ext": "./XB/人人.png"
     },
 	{
@@ -283,8 +283,8 @@
       "name":"🪀耐看🔹点播",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext": "./XB/耐看.png"
+      "jar": "./JAR/MoHe.jar",
+      "ext": "./XB/耐看.json"
     },
 	{
       "key": "hipy_js_fantys",
@@ -741,6 +741,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
