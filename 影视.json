@@ -40,7 +40,7 @@
 	},
 	{
       "key":"csp_yumi",
-      "name":"🎴玉米🔹影视",
+      "name":"♾️雄鹰🔹影视",
       "type":3,
       "api":"csp_qiao2",
       "jar": "./JAR/fix0108.jar",
@@ -48,7 +48,7 @@
     },
 	{
       "key": "csp_Qiji",
-      "name": "🎴雄鹰☪秒播",
+      "name": "♾️云云☪秒播",
       "type": 3,
       "api": "csp_Qiji",
 	  "jar": "./JAR/fix0108.jar",
@@ -268,7 +268,7 @@
       "name":"🪀耐看🔹点播",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "./JAR/MoHe.jar",
+      "jar": "http://dd.ma/CFlLnSbJ",
       "ext": "./XB/耐看.json"
     },
 	{
@@ -726,6 +726,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
