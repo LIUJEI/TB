@@ -44,6 +44,13 @@
       "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
     },
 	{
+      "key": "csp_优兔",
+      "name": "♾️优兔☪影視",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+    },
+	{
       "key": "csp_奇奇",
       "name": "♾️奇奇☪影视",
       "type": 3,
@@ -119,18 +126,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
-    },
-	{
-      "key": "看呗",
-      "name": "♾️看呗☪影视",
-      "type": 3,
-      "jar": "./JAR/spider.jar",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.winter1.fun",
-        "dataKey": "abcdefghigklmn11",
-        "dataIv": "abcdefghigklmn11"
-      }
     },
 	{
       "key": "白鸽",
@@ -781,6 +776,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
