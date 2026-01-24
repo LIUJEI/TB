@@ -35,7 +35,7 @@
       "name": "🎴南瓜☪影视",
       "type": 3,
       "api": "csp_NanGua",
-	  "jar": "./JAR/nan.jar",
+	  "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
 	{
@@ -764,6 +764,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
