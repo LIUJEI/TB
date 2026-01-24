@@ -34,7 +34,7 @@
 	  "key": "csp_XINXIN",
 	  "name": "🎴聚集☪影视",
 	  "type": 3,
-	  "api":"csp_Nmvod",
+	  "api": "csp_qiao2",
 	  "jar": "./JAR/fix0108.jar",
 	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
 	},
@@ -81,6 +81,13 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
+    },
+	{
+      "key": "火狐",
+      "name": "♾️火狐☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
     },
 	{
       "key": "csp_气球",
@@ -137,6 +144,37 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
+    },
+	{
+      "key": "天峰",
+      "name": "♾️天峰☪影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://zxy-ys.810211.dpdns.org|1234567890123456"
+    },
+	{
+      "key": "看呗",
+      "name": "♾️看呗☪影视",
+      "type": 3,
+      "jar": "./JAR/spider.jar",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://www.winter1.fun",
+        "dataKey": "abcdefghigklmn11",
+        "dataIv": "abcdefghigklmn11"
+      }
+    },
+	{
+      "key": "白鸽",
+      "name": "♾️白鸽☪影视",
+      "type": 3,
+      "jar": "./JAR/spider.jar",
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://cy.baige.asia",
+        "dataKey": "599D0FE5178642FD",
+        "dataIv": "599D0FE5178642FD"
+      }
     },
 	{
       "key": "csp_花柳",
@@ -726,6 +764,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
