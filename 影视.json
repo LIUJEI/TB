@@ -177,7 +177,7 @@
     },
     {
       "key": "csp_火花",
-      "name": "♾️火花┫APP",
+      "name": "♾️┣火花┫APP",
       "type": 3,
       "api": "./XB/fuz.js",
       "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
@@ -301,7 +301,7 @@
     },
     {
       "key": "csp_js_荐片",
-      "name": "🪀影視🔹影視荐片",
+      "name": "🪀影視🔹荐片",
       "type": 3,
       "api": "./XB/荐片0.js",
       "ext": {"host": "https://api.ztcgi.com"}
@@ -819,6 +819,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
