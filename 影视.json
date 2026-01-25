@@ -632,8 +632,10 @@
 	{
       "key":"csp_yinyue5",
       "name":"💫┃音乐┃大全",
-      "type":4,
-      "api":"https://catbox.n13.club/t9/yinyue5.php"
+      "type": 3,
+      "api": "csp_ChuXin",
+      "jar": "http://我不是.摸鱼儿.top/d/moyu.php",
+      "filterable": 0
     },
     {
       "key": "csp_Kugou",
@@ -819,6 +821,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
