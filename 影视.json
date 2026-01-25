@@ -52,14 +52,14 @@
     },
 	{
       "key": "csp_奇奇",
-      "name": "♾️奇奇☪影视",
+      "name": "♾️奇奇☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "http://110.42.67.221:8006|123456789abcdefg|searchList7|initV122|okhttp/3.10.0"
     }, 
 	{
       "key": "csp_花小猪",
-      "name": "♾️花猪☪秒播",
+      "name": "♾️花猪☪影視",
       "type": 3,
       "api": "csp_AppQi",
       "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
@@ -77,6 +77,35 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
+    },
+	{
+      "key": "csp_芬奇",
+      "name": "♾️芬奇☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
+    },
+	{
+      "key": "csp_王子",
+      "name": "♾️王子☪影視",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+    },
+	{
+      "key": "csp_缘梦",
+      "name": "♾️缘梦☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://165.99.42.137:5432|1234567890987654"
+    },
+	{
+      "key": "csp_小白",
+      "name": "♾️小白☪影視",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
     },
 	{
       "key": "csp_气球",
@@ -140,6 +169,20 @@
       }
     },
 	{
+      "key": "csp_搜搜",
+      "name": "♾️搜搜☪影視",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host":"https://www.zjcvod.com","ver": 2}
+    },
+    {
+      "key": "csp_火花",
+      "name": "♾️火花☪影視",
+      "type": 3,
+      "api": "./XB/fuz.js",
+      "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
+    },
+	{
       "key": "csp_花柳",
       "name": "♾️花柳☪影視",
       "type": 3,
@@ -176,10 +219,10 @@
     },
 	{
       "key": "csp_qinglo",
-      "name": "♾️青龙☪影视",
+      "name": "♾️粉象☪影视",
       "type": 3,
       "api": "./XB/fuz.js",
-      "ext": {"host": "http://121.40.131.51:2556/host.json","ver": 2}
+      "ext": {"host": "http://host1.sopython.top/host.json","ver": 2}
     },
 	{
       "key": "csp_mayi",
@@ -776,6 +819,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
