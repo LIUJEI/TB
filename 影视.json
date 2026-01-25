@@ -503,7 +503,7 @@
       "key": "剧王短剧",
       "name": "♨️剧王®短剧",
       "type": 3,
-      "api": "https://qist.ugigc.dpdns.org/xiaosa/py/剧王短剧.py"
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py"
     },
     {
       "key": "csp_茄子短剧",
@@ -849,6 +849,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
