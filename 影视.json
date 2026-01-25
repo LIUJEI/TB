@@ -229,7 +229,7 @@
 	  "name": "🎴聚集☪影视",
 	  "type": 3,
 	  "api": "csp_qiao2",
-	  "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png",
+	  "jar": "./JAR/fx0711.jar",
 	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
 	},
 	{
@@ -237,7 +237,7 @@
       "name":"🎴雄鹰☪影视",
       "type":3,
       "api":"csp_qiao2",
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png",
+      "jar": "./JAR/fx0711.jar",
       "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
 	{
@@ -245,7 +245,7 @@
       "name": "🎴南瓜☪影视",
       "type": 3,
       "api": "csp_NanGua",
-	  "jar": "./JAR/fix0108.jar",
+	  "jar": "./JAR/fx0711.jar",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
 	{
@@ -253,7 +253,7 @@
       "name": "🎴云云☪秒播",
       "type": 3,
       "api": "csp_Qiji",
-	  "jar": "./JAR/fix0108.jar",
+	  "jar": "./JAR/fx0711.jar",
       "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
     },
     {
@@ -776,6 +776,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
