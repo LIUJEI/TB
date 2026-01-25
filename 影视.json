@@ -307,6 +307,36 @@
       "ext": {"host": "https://api.ztcgi.com"}
     },
 	{
+      "key": "农民影视",
+      "name": "🪀农民🔹影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200",
+      "jar": "./JAR/spider.jar"
+    },
+    {
+      "key": "1905",
+      "name": "🪀1905🔹影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "jar": "./JAR/spider.jar"
+    },
+    {
+      "key": "木兮影视",
+      "name": "🪀木兮🔹影视",
+      "type": 3,
+      "api": "csp_Symx",
+      "ext": "https://film.symx.club",
+      "jar": "./JAR/spider.jar"
+    },
+    {
+      "key": "零度影视",
+      "name": "🪀零度🔹影视",
+      "type": 3,
+      "api": "csp_Lingdu",
+      "jar": "./JAR/spider.jar"
+    },
+	{
       "key": "csp_js_永乐",
       "name": "🪀永乐🔹影視",
       "type": 3,
@@ -393,47 +423,60 @@
         "api": "./libs/drpy2.min.js",
         "ext": "./XB/星芽.js"
     },
+	{
+	  "key":"csp-xingzhige",
+	  "name":"♨️星之阁®短剧",
+	  "type":4,
+	  "api":"https://catbox.n13.club/t9/xingzhige.php"
+	},
     {
 	   "name":"♨️豪堪®短剧",
 	   "key":"csp_豪堪短剧",
 	   "type":3,
 	   "api":"csp_HHkkAmns",
-	   "jar":"./JAR/aowu.jar"
+	   "jar":"./JAR/嗷嗚.jar"
     },
     {
 	  "name":"♨️盒马®短剧",
 	  "key":"csp_盒马短剧",
 	  "type":3,
 	  "api":"csp_HemaAmns",
-	  "jar":"./JAR/aowu.jar"
+	  "jar":"./JAR/嗷嗚.jar"
 	},
     {
 	  "name":"♨️拜拜®短剧",
 	  "key":"csp_拜拜短剧",
 	  "type":3,
 	  "api":"csp_BddjAmns",
-	  "jar":"./JAR/aowu.jar"
+	  "jar":"./JAR/嗷嗚.jar"
 	},
     {
 	  "name":"♨️喵喵®短剧",
 	  "key":"csp_喵喵短剧",
 	  "type":3,
 	  "api":"csp_QmdjAmns",
-	  "jar":"./JAR/aowu.jar"
+	  "jar":"./JAR/嗷嗚.jar"
 	},
 	{
-		"name":"♨️岁岁®短剧",
-		"key":"岁岁短剧",
-		"type":3,
-		"api":"csp_SpdjAmns",
-		"jar":"./JAR/aowu.jar"
+	  "name":"♨️岁岁®短剧",
+	  "key":"岁岁短剧",
+	  "type":3,
+	  "api":"csp_SpdjAmns",
+	  "jar":"./JAR/嗷嗚.jar"
 	},
 	{
       "key": "csp_星星短剧",
       "name": "♨️星星®短劇",
       "type": 3,
       "api":"csp_XydjAmns",
-	  "jar":"./JAR/aowu.jar"
+	  "jar":"./JAR/嗷嗚.jar"
+    },
+	{
+      "key": "甜圈短剧",
+      "name": "♨️甜圈®短剧",
+      "type": 3,
+      "api": "csp_TianquanDJ",
+      "jar": "./JAR/spider.jar"
     },
 	{
       "key": "csp_锦鲤短剧",
@@ -450,13 +493,6 @@
       "jar": "./JAR/spider.jar"
     },
 	{
-      "key": "甜圈短剧",
-      "name": "♨️甜圈®短剧",
-      "type": 3,
-      "api": "csp_TianquanDJ",
-      "jar": "./JAR/spider.jar"
-    },
-	{
       "key": "csp_星阁短剧",
       "name": "♨️星阁®短剧",
       "type": 3,
@@ -464,17 +500,11 @@
       "jar": "./JAR/spider.jar"
     },
 	{
-	  "key":"csp-aha",
-	  "name":"♨️音乐®啊哈",
-	  "type":4,
-	  "api":"https://catbox.n13.club/t9/aha.php"
-	},
-	{
-	  "key":"csp-xingzhige",
-	  "name":"♨️星阁®短剧",
-	  "type":4,
-	  "api":"https://catbox.n13.club/t9/xingzhige.php"
-	},
+      "key": "剧王短剧",
+      "name": "♨️剧王®短剧",
+      "type": 3,
+      "api": "https://qist.ugigc.dpdns.org/xiaosa/py/剧王短剧.py"
+    },
     {
       "key": "csp_茄子短剧",
       "name": "♨️茄子®短劇",
@@ -632,10 +662,8 @@
 	{
       "key":"csp_yinyue5",
       "name":"💫┃音乐┃大全",
-      "type": 3,
-      "api": "csp_ChuXin",
-      "jar": "http://我不是.摸鱼儿.top/d/moyu.php",
-      "filterable": 0
+      "type":4,
+	  "api":"https://catbox.n13.club/t9/aha.php"
     },
     {
       "key": "csp_Kugou",
@@ -821,6 +849,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
