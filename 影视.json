@@ -245,8 +245,8 @@
       "ext": {"sp": "XiongYing"}
     },
 	{
-      "key": "一起",
-      "name": "♾️┣一起┫App",
+      "key": 奈飞",
+      "name": "♾️┣奈飞┫秒播",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
@@ -851,6 +851,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
