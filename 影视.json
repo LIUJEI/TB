@@ -101,13 +101,6 @@
       "ext": "http://165.99.42.137:5432|1234567890987654"
     },
 	{
-      "key": "csp_小白",
-      "name": "♾️┣小白┫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
-    },
-	{
       "key": "csp_气球",
       "name": "♾️┣气球┫APP",
       "type": 3,
@@ -197,14 +190,7 @@
       "ext": {"host": "http://www.yezitv.top","ver": 2}
     },
 	{
-      "key": "csp_木瓜",
-      "name": "♾️┣木瓜┫APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://www.yezitv.top/dtym.json","ver": 2}
-    },
-	{
-      "key": "csp_麒麟",
+      "key": "csp_70",
       "name": "♾️┣麒麟┫APP",
       "type": 3,
       "api": "./XB/fuz.js",
@@ -250,6 +236,22 @@
 		"type":4,
 		"api":"https://catbox.n13.club/t9/lianyu.php"
 	},
+	{
+      "key": "雄鹰",
+      "name": "♾️┣雄鹰┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "XiongYing"}
+    },
+	{
+      "key": "一起",
+      "name": "♾️┣一起┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "Yqs"}
+    },
 	{
       "key": "csp_麻雀",
       "name": "🎴麻雀☪秒播",
@@ -849,6 +851,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
