@@ -245,36 +245,20 @@
       "ext": {"sp": "XiongYing"}
     },
 	{
-      "key": "奈飞",
-      "name": "♾️┣奈飞┫秒播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "Yqs"}
-    },
-	{
        "key": "云云",
-      "name": "🎴云云☪秒播",
+      "name": "♾️┣云云┫App",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
       "ext": {"sp": "YunYun"}
     },
 	{
-	  "key": "csp_XINXIN",
-	  "name": "🎴聚集☪秒播",
-	  "type": 3,
-	  "api": "csp_qiao2",
-	  "jar": "./JAR/fx0711.jar",
-	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-	},
-	{
-      "key":"csp_yumi",
-      "name":"🎴玉米☪秒播",
-      "type":3,
-      "api":"csp_qiao2",
-      "jar": "./JAR/fx0711.jar",
-      "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+      "key": "奈飞",
+      "name": "🎴奈飞☪秒播",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "Yqs"}
     },
 	{
       "key": "csp_nangua",
@@ -283,6 +267,22 @@
       "api": "csp_NanGua",
 	  "jar": "./JAR/fx0711.jar",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+	{
+	  "key": "csp_XINXIN",
+	  "name": "🎴聚合☪秒播",
+	  "type": 3,
+	  "api": "csp_qiao2",
+	  "jar": "./JAR/fx0711.jar",
+	  "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+	},
+	{
+      "key":"csp_yumi",
+      "name":"🎴聚集☪秒播",
+      "type":3,
+      "api":"csp_qiao2",
+      "jar": "./JAR/fx0711.jar",
+      "ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
       "key": "csp_js_荐片",
@@ -834,6 +834,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
