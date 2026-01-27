@@ -51,34 +51,6 @@
       "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
     },
 	{
-      "key": "奇奇",
-      "name": "♾️┣奇奇┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "http://110.42.67.221:8006|123456789abcdefg|searchList7|initV122|okhttp/3.10.0"
-    },
-	{
-      "key": "奇奇",
-      "name": "♾️┣奇奇┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt|123456789abcdefg"
-    },
-	{
-      "key": "csp_花小猪",
-      "name": "♾️┣花猪┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qearchList|initV122|okhttp/3.10.0"
-    },
-	{
-      "key": "csp_仓鼠",
-      "name": "♾️┣仓鼠┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
-    },
-	{
       "key": "火狐",
       "name": "♾️┣火狐┫APP",
       "type": 3,
@@ -99,6 +71,13 @@
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
+    },
+	{
+      "key": "白鸽",
+      "name": "♾️┣白鸽┫APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
     },
 	{
       "key": "csp_缘梦",
@@ -157,16 +136,11 @@
       "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
     },
 	{
-      "key": "白鸽",
-      "name": "♾️┣白鸽┫APP",
+      "key": "csp_仓鼠",
+      "name": "♾️┣仓鼠┫APP",
       "type": 3,
-      "jar": "./JAR/spider.jar",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://cy.baige.asia",
-        "dataKey": "599D0FE5178642FD",
-        "dataIv": "599D0FE5178642FD"
-      }
+      "api": "csp_AppQi",
+      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
     },
 	{
       "key": "csp_搜搜",
@@ -258,6 +232,44 @@
       "api": "csp_AweSomeGuard",
       "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
       "ext": {"sp": "YunYun"}
+    },
+	{
+      "key": "鲸鱼",
+      "name": "♾️┣鲸鱼┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "JingYu"}
+    },
+    {
+      "key": "花猪",
+      "name": "♾️┣花猪┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "XiaoZhu"}
+    },
+	{
+      "key": "奇奇",
+      "name": "♾️┣奇奇┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "QiQi"}
+    },
+	 {
+      "key": "Kan360",
+      "name": "倦枕｜星河",
+      "type": 3,
+      "api": "csp_Kan360",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+        "fishjx": [
+          "https://jx.xmflv.com/?url="
+        ]
+      }
     },
 	{
       "key": "奈飞",
@@ -841,6 +853,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
