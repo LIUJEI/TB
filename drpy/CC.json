@@ -9,10 +9,6 @@
     "url":"http://我不是.摸鱼儿.com"
 },
 {
-    "name": "📁寳盒📁",
-    "url": "http://宝盒接口.top"
-},
-{
     "url": "http://miqk.cc/小米/DEMO.json",
     "name": "📁小米📁"
 }, 	
@@ -25,20 +21,12 @@
     "name": "📁多多📁"
 },
 {
-    "url":"https://gzy.lzo.publicvm.com",
-    "name": "📁刘公子📁"
-},
-{
     "url": "https://catbox.n13.club/jk/jsm.json ",
     "name": "📁肥肥📁"
 },
 {
     "url": "https://gitee.com/senno/tvbox/raw/master/api.json",
     "name": "📁家庭📁"
-},
-{
-      "name": "📁林中📁",
-      "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace"
 },
 {
     "url": "https://qist.ugigc.dpdns.org/xiaosa/api.json",
@@ -49,7 +37,27 @@
     "url": "https://9877.kstore.space/AnotherD/api.json"
 },
 {
-    "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "name": "📁OK📁",
+    "url": "http://ok321.top/tv"
+},
+{
+    "name": "📁寳盒📁",
+    "url": "http://宝盒接口.top"
+},
+{
+    "name": "📁音乐📁",
+    "url": "http://mzrjk.top/听歌"
+},
+{
+    "url":"https://gzy.lzo.publicvm.com",
+    "name": "📁刘公子📁"
+},
+{
+    "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace",
+    "name": "📁林中📁"
+},
+{
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "name": "📁南风📁"
 },
 {
@@ -65,32 +73,12 @@
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/001.json"
 },
 {
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
-      "name": "📁王二📁"
-},
-{
       "url": "http://tv.laohu.cool/tvbox.json",
       "name": "📁老虎📁"
 },
 {
       "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "📁莱斯📁" 
-},
-{
-    "name": "📁OK📁",
-    "url": "http://ok321.top/tv"
-},
-{
-    "name": "📁快乐📁",
-    "url": "http://影视仓接口.top"
-},
-{
-    "name": "📁音乐📁",
-    "url": "http://mzrjk.top/听歌"
-},
-{
-    "name": "📁天微📁",
-    "url": "http://7337.kstore.space/qxys/禁止传播.json"
 },
 {
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
@@ -108,6 +96,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
       "name": "📁夜猫子📁"
 }]}
+
 
 
 
