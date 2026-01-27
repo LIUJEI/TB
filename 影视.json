@@ -136,13 +136,6 @@
       "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
     },
 	{
-      "key": "csp_仓鼠",
-      "name": "♾️┣仓鼠┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://hk440cms.cs4k.top|fL7sY4zN4kB3pG4p|initV122|okhttp/3.10.0"
-    },
-	{
       "key": "csp_搜搜",
       "name": "♾️┣搜搜┫APP",
       "type": 3,
@@ -262,8 +255,7 @@
       "name": "倦枕｜星河",
       "type": 3,
       "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
+      "jar": "./JAR/spider.jar",
       "ext": {
         "filter": "https://open.wya6.com/d/down/2026/json/360.json",
         "fishjx": [
@@ -853,6 +845,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
