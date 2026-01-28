@@ -168,13 +168,6 @@
 	  "ext": {"host": "https://app2512.ystva.com","ver": 2}
     },
 	{
-      "key": "csp_qinglo",
-      "name": "♾️┣粉象┫APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://host1.sopython.top/host.json","ver": 2}
-    },
-	{
       "key": "csp_mayi",
       "name": "♾️┣蚂蚁┫APP",
 	  "type": 3,
@@ -766,6 +759,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
