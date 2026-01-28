@@ -37,32 +37,27 @@
       "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
     },
 	{
-      "key": "金牌",
-      "name": "♾️┣金牌┫APP",
+      "key": "csp_雄鹰",
+      "name": "♾️┣雄鹰┫App",
       "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|initV122|okhttp/3.10.0"
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "XiongYing"}
+    },
+    {
+      "key": "csp_花猪",
+      "name": "♾️┣花猪┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "XiaoZhu"}
     },
 	{
-      "key": "csp_优兔",
-      "name": "♾️┣优兔┫APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
-    },
-	{
-      "key": "火狐",
-      "name": "♾️┣火狐┫APP",
+      "key": "csp_白马",
+      "name": "♾️┣白马┫APP",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
-    },
-	{
-      "key": "csp_芬奇",
-      "name": "♾️┣芬奇┫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
+      "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
     },
 	{
       "key": "csp_王子",
@@ -73,18 +68,48 @@
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
     },
 	{
-      "key": "白鸽",
-      "name": "♾️┣白鸽┫APP",
+      "key": "csp_奇奇",
+      "name": "♾️┣奇奇┫App",
       "type": 3,
-      "api": "csp_AppGet",
-      "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "QiQi"}
     },
 	{
-      "key": "csp_缘梦",
-      "name": "♾️┣缘梦┫APP",
+       "key": "csp_云云",
+      "name": "♾️┣云云┫App",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "YunYun"}
+    },
+	{
+      "key": "csp_优兔",
+      "name": "♾️┣优兔┫APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+    },
+	{
+      "key": "csp_火狐",
+      "name": "♾️┣火狐┫APP",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "http://165.99.42.137:5432|1234567890987654"
+      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
+    },
+	{
+      "key": "csp_汤圆",
+      "name": "♾️┣汤圆┫APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "http://tangyuanapp.top|j519MYJAt3kk9XVA"
+    },
+	{
+      "key": "csp_芬奇",
+      "name": "♾️┣芬奇┫APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
     },
 	{
       "key": "csp_气球",
@@ -92,13 +117,6 @@
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://vv.229d.cn|8888888888888888"
-    },
-    {
-      "key": "csp_瑞奇",
-      "name": "♾️┣瑞奇┫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
     },
 	{
       "key": "csp_yongy",
@@ -108,11 +126,11 @@
       "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
     },
 	{
-      "key": "csp_batian",
-      "name": "♾️┣八天┫APP",
+      "key": "csp_缘梦",
+      "name": "♾️┣缘梦┫APP",
       "type": 3,
       "api": "csp_AppGet",
-      "ext": "https://dy.8ttv.cn|1111111111111111"
+      "ext": "http://165.99.42.137:5432|1234567890987654"
     },
 	{
       "key": "csp_新剧",
@@ -121,40 +139,12 @@
       "api": "csp_AppGet",
       "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
     },
-	{
-      "key": "csp_魔方",
-      "name": "♾️┣魔方┫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://snysw.xyz/mf4kzs327.txt|1234567887654321"
-    },
-	{
-      "key": "csp_茉莉",
-      "name": "♾️┣茉莉┫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
-    },
-	{
-      "key": "csp_搜搜",
-      "name": "♾️┣搜搜┫APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host":"https://www.zjcvod.com","ver": 2}
-    },
     {
       "key": "csp_火花",
       "name": "♾️┣火花┫APP",
       "type": 3,
       "api": "./XB/fuz.js",
       "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
-    },
-	{
-      "key": "csp_花柳",
-      "name": "♾️┣花柳┫APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "http://nico.oiio.fun","ver": 2}
     },
 	{
       "key": "椰子",
@@ -210,46 +200,6 @@
 		"type":4,
 		"api":"https://catbox.n13.club/t9/lianyu.php"
 	},
-	{
-      "key": "雄鹰",
-      "name": "♾️┣雄鹰┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "XiongYing"}
-    },
-	{
-       "key": "云云",
-      "name": "♾️┣云云┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "YunYun"}
-    },
-	{
-      "key": "鲸鱼",
-      "name": "♾️┣鲸鱼┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "JingYu"}
-    },
-    {
-      "key": "花猪",
-      "name": "♾️┣花猪┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "XiaoZhu"}
-    },
-	{
-      "key": "奇奇",
-      "name": "♾️┣奇奇┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "QiQi"}
-    },
 	{
       "key": "奈飞",
       "name": "🎴奈飞☪秒播",
@@ -816,6 +766,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
