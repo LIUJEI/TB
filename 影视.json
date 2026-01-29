@@ -154,13 +154,6 @@
       "ext": {"host": "http://www.yezitv.top","ver": 2}
     },
 	{
-      "key": "csp_70",
-      "name": "♾️┣麒麟┫APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": {"host": "https://qh.70qh.top","ver": 2}
-    }, 
-	{
 	  "key": "csp_baih",
 	  "name": "♾️┣白虎┫APP",
 	  "type": 3,
@@ -173,13 +166,6 @@
 	  "type": 3,
       "api":"./XB/Appto.py",
 	  "ext": "http://118.89.203.120:8365/"
-    },
-	{
-      "key": "csp_PIxia",
-      "name": "♾️┣皮虾┫APP",
-      "type": 3,
-      "api":"./XB/Appto.py",
-      "ext": "http://38.55.237.41:8762"
     },
 	{
 		"key":"csp_jimi",
@@ -563,45 +549,50 @@
       "api": "csp_AppYsV2",
 	  "ext": "http://114.66.55.28:4816/api.php/app/"
     },
-    {
+	{
        "key": "csp_djuu",
-      "name": "💫┃车载┃大全",
+      "name": "💫┃车载┃音乐",
       "type": 4,
       "api":"https://catbox.n13.club/t9/djuu.php"
     },
 	{
-      "key":"csp_yinyue5",
-      "name":"💫┃音乐┃大全",
-      "type":4,
-	  "api":"https://catbox.n13.club/t9/aha.php"
+      "key": "csp_BiliMV",
+      "name": "💫┃哔哩┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "ext": {"json": "./XB/音乐.json","cookie": ""},
+      "style": {"type": "rect","ratio": 1.333}
     },
-    {
+	{
+      "key":"csp_yiting5",
+      "name":"🎸┃易听┃音乐",
+      "type": 3,
+      "api": "csp_MusicGuard",
+	  "jar": "https://oss4liview.moji.com/thd_file/2026/01/26/19a68532f9cc373fb51fb4e3e7283c7f.jpg",
+      "style": {"type": "rect","ratio": 1}
+    },
+	 {
+      "key": "csp_AiMusic",
+      "name": "🎸┃爱听┃音乐",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "AiMusic"}
+    },
+	{
       "key": "csp_Kugou",
       "name": "🎸┃酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
+      "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
     },
-    {
-      "key": "csp_BiliMV",
-      "name": "🎸┃哔哩┃音乐",
+	{
+      "key": "csp_mogou",
+      "name": "🎸┃莫狗┃音乐",
       "type": 3,
-      "api": "csp_Bili",
-      "ext": {
-        "json": "./XB/音乐.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
+      "api": "csp_AweSomeGuard",
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+      "ext": {"sp": "KuGou"}
     },
 	{
 	  "key": "csp_YALI",
@@ -759,6 +750,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
