@@ -302,9 +302,8 @@
         "name": "🎬短劇☪系列",
         "type":3,
 		"api":"csp_JuheShortDrama",
-		"searchable":1,"filterable":0,"switchable":0,
-		"ext":{
-		"host":{
+		"jar": "./JAR/spider.jar",
+		"ext":{"host":{
 		"甜圈":"https://mov.cenguigui.cn",
 		"锦鲤":"https://api.jinlidj.com",
 		"番茄":"https://reading.snssdk.com",
@@ -745,6 +744,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
