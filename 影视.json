@@ -231,13 +231,6 @@
       "ext": "https://film.symx.club",
       "jar": "./JAR/spider.jar"
     },
-    {
-      "key": "零度影视",
-      "name": "🪀零度🔹影视",
-      "type": 3,
-      "api": "csp_Lingdu",
-      "jar": "./JAR/spider.jar"
-    },
 	{
       "key": "csp_js_永乐",
       "name": "🪀永乐🔹影視",
@@ -283,14 +276,6 @@
       "ext": "./XB/人人.png"
     },
 	{
-      "key":"csp_XBPQ_耐看点播",
-      "name":"🪀耐看🔹点播",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
-      "ext": "./XB/耐看.json"
-    },
-	{
       "key": "hipy_js_fantys",
       "name": "🪀饭团🔹影院",
       "type": 3,
@@ -315,9 +300,19 @@
 	{
         "key": "hipy_js_星芽短剧",
         "name": "🎬短劇☪系列",
-        "type": 3,
-        "api": "./libs/drpy2.min.js",
-        "ext": "./XB/星芽.js"
+        "type":3,
+		"api":"csp_JuheShortDrama",
+		"searchable":1,"filterable":0,"switchable":0,
+		"ext":{
+		"host":{
+		"甜圈":"https://mov.cenguigui.cn",
+		"锦鲤":"https://api.jinlidj.com",
+		"番茄":"https://reading.snssdk.com",
+		"番茄2":"https://fqgo.52dns.cc",
+		"星芽":"https://app.whjzjx.cn",
+		"星芽登录":"https://u.shytkjgs.com",
+		"西饭":"https://xifan-api-cn.youlishipin.com"},
+		"commonConfig":"./XB/peizhi.json"}
     },
 	{
 	  "key":"csp-xingzhige",
@@ -750,6 +745,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
