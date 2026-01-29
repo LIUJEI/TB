@@ -37,22 +37,6 @@
       "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
     },
 	{
-      "key": "csp_雄鹰",
-      "name": "♾️┣雄鹰┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "XiongYing"}
-    },
-    {
-      "key": "csp_花猪",
-      "name": "♾️┣花猪┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "XiaoZhu"}
-    },
-	{
       "key": "csp_白马",
       "name": "♾️┣白马┫APP",
       "type": 3,
@@ -66,22 +50,6 @@
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-    },
-	{
-      "key": "csp_奇奇",
-      "name": "♾️┣奇奇┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "QiQi"}
-    },
-	{
-       "key": "csp_云云",
-      "name": "♾️┣云云┫App",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "YunYun"}
     },
 	{
       "key": "csp_优兔",
@@ -179,22 +147,6 @@
 		"type":4,
 		"api":"https://catbox.n13.club/t9/lianyu.php"
 	},
-	{
-      "key": "奈飞",
-      "name": "🎴奈飞☪秒播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "Yqs"}
-    },
-	{
-      "key": "csp_nangua",
-      "name": "🎴南瓜☪秒播",
-      "type": 3,
-      "api": "csp_NanGua",
-	  "jar": "./JAR/fx0711.jar",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
     {
       "key": "csp_js_荐片",
       "name": "🪀影視🔹荐片",
@@ -272,7 +224,7 @@
       "name": "🪀人人🔹影視",
       "type": 3,
       "api": "csp_XBPQ",
-	  "jar": "./JAR/MoHe.jar",
+	  "jar": "./JAR/spider.jar",
       "ext": "./XB/人人.png"
     },
 	{
@@ -281,7 +233,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XB/饭团.json",
-      "jar": "./JAR/MoHe.jar"
+      "jar": "./JAR/spider.jar"
     },
     {
       "key": "csp_xBPQ_柠檬",
@@ -289,7 +241,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XB/柠檬.json",
-      "jar": "./JAR/MoHe.jar"
+      "jar": "./JAR/spider.jar"
     },
 	{
         "key": "csp_剧和短剧",
@@ -300,9 +252,9 @@
 	{
         "key": "hipy_js_星芽短剧",
         "name": "🎬短劇☪系列",
-        "type":3,
-		"api":"csp_JuheShortDrama",
-		"jar": "./JAR/nan.jar"
+        "type": 3,
+        "api": "./libs/drpy2.min.js",
+        "ext": "./XB/星芽.js"
     },
 	{
 	  "key":"csp-xingzhige",
@@ -310,48 +262,6 @@
 	  "type":4,
 	  "api":"https://catbox.n13.club/t9/xingzhige.php"
 	},
-    {
-	   "name":"♨️豪堪®短剧",
-	   "key":"csp_豪堪短剧",
-	   "type":3,
-	   "api":"csp_HHkkAmns",
-	   "jar":"./JAR/嗷嗚.jar"
-    },
-    {
-	  "name":"♨️盒马®短剧",
-	  "key":"csp_盒马短剧",
-	  "type":3,
-	  "api":"csp_HemaAmns",
-	  "jar":"./JAR/嗷嗚.jar"
-	},
-    {
-	  "name":"♨️拜拜®短剧",
-	  "key":"csp_拜拜短剧",
-	  "type":3,
-	  "api":"csp_BddjAmns",
-	  "jar":"./JAR/嗷嗚.jar"
-	},
-    {
-	  "name":"♨️喵喵®短剧",
-	  "key":"csp_喵喵短剧",
-	  "type":3,
-	  "api":"csp_QmdjAmns",
-	  "jar":"./JAR/嗷嗚.jar"
-	},
-	{
-	  "name":"♨️岁岁®短剧",
-	  "key":"岁岁短剧",
-	  "type":3,
-	  "api":"csp_SpdjAmns",
-	  "jar":"./JAR/嗷嗚.jar"
-	},
-	{
-      "key": "csp_星星短剧",
-      "name": "♨️星星®短劇",
-      "type": 3,
-      "api":"csp_XydjAmns",
-	  "jar":"./JAR/嗷嗚.jar"
-    },
 	{
       "key": "甜圈短剧",
       "name": "♨️甜圈®短剧",
@@ -391,76 +301,76 @@
       "name": "♨️茄子®短劇",
       "type": 3,
       "api": "csp_XBPQ",
+	  "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "副标题": "琉芸✨-+right\">&&<",
         "线路标题": "panel-hd\">&&",
         "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
         "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
     {
       "key": "xbpq_djuw",
       "name": "♨️抖音®短剧",
       "type": 3,
       "api": "csp_XBPQ",
+	  "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
         "分类": "♨️抖音短剧$5"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
     {
       "key": "xbpq_dzdj",
       "name": "♨️蝶众®短剧",
       "type": 3,
       "api": "csp_XBPQ",
+	  "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "分类": "♨️蝶众短剧$6",
         "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
     {
       "key": "xbpq_lddj",
       "name": "♨️兰岛®短剧",
       "type": 3,
       "api": "csp_XBPQ",
+	  "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "分类": "♨️兰岛短剧$20",
         "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
     {
       "key": "xbpq_jzdj",
       "name": "♨️九洲®短剧",
       "type": 3,
       "api": "csp_XBPQ",
+	  "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "分类url": "https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "♨️九洲短剧$5",
         "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
     {
       "key": "xbpq_55dj",
       "name": "♨️五五®短剧",
       "type": 3,
       "api": "csp_XBPQ",
+	 "jar": "./JAR/spider.jar",
       "ext": {
         "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
         "分类url": "https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
         "分类": "♨️五五短剧$1",
         "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"
-      },
-      "jar": "./JAR/MoHe.jar"
+      }
     },
 	{
       "key": "dr_腾迅",
@@ -520,26 +430,6 @@
       "api": "csp_AppYsV2", 
       "ext": "http://chaoqianys.top:91/api.php/app/" 
     },
-    { 
-      "key": "五大平台", 
-      "name": "🐉┃全网┃官采", 
-      "type": 3, 
-	  "api": "csp_AppYsV2", 
-      "ext": "http://39.105.18.5:5565/api.php/app/" 
-	},
-	{
-      "key": "csp_土豆",
-      "name": "🐉┃土豆┃官方",
-      "type": 3,
-      "api": "csp_AppYsV2",
-	  "ext": "http://114.66.55.28:4816/api.php/app/"
-    },
-	{
-       "key": "csp_djuu",
-      "name": "💫┃车载┃音乐",
-      "type": 4,
-      "api":"https://catbox.n13.club/t9/djuu.php"
-    },
 	{
       "key": "csp_BiliMV",
       "name": "💫┃哔哩┃音乐",
@@ -549,35 +439,11 @@
       "style": {"type": "rect","ratio": 1.333}
     },
 	{
-      "key":"csp_yiting5",
-      "name":"🎸┃易听┃音乐",
-      "type": 3,
-      "api": "csp_MusicGuard",
-	  "jar": "https://oss4liview.moji.com/thd_file/2026/01/26/19a68532f9cc373fb51fb4e3e7283c7f.jpg",
-      "style": {"type": "rect","ratio": 1}
-    },
-	 {
-      "key": "csp_AiMusic",
-      "name": "🎸┃爱听┃音乐",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "AiMusic"}
-    },
-	{
       "key": "csp_Kugou",
-      "name": "🎸┃酷狗┃音乐",
+      "name": "💫┃┃酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
       "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
-    },
-	{
-      "key": "csp_mogou",
-      "name": "🎸┃莫狗┃音乐",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-      "ext": {"sp": "KuGou"}
     },
 	{
 	  "key": "csp_YALI",
@@ -735,6 +601,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
