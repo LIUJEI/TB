@@ -302,22 +302,7 @@
         "name": "🎬短劇☪系列",
         "type":3,
 		"api":"csp_JuheShortDrama",
-		"jar": "./JAR/nan.jar",
-		"ext":{
-		"platformList": [
-        "{ name: '甜圈短剧', id: '甜圈' }", "{ name: '七猫短剧', id: '七猫' }","{ name: '锦鲤短剧', id: '锦鲤' }",
-        "{ name: '星芽短剧', id: '星芽' }", "{ name: '西饭短剧', id: '西饭' }","{ name: '软鸭短剧', id: '软鸭' }",
-        "{ name: '围观短剧', id: '围观' }", "{ name: '番茄短剧', id: '番茄' }","{ name: '百度短剧', id: '百度' }"],
-		"host":{
-		"七猫":"https://api-store.qmplaylet.com",
-		"甜圈":"https://mov.cenguigui.cn",
-		"锦鲤":"https://api.jinlidj.com",
-		"番茄":"https://reading.snssdk.com",
-		"番茄2":"https://fqgo.52dns.cc",
-		"星芽":"https://app.whjzjx.cn",
-		"星芽登录":"https://u.shytkjgs.com",
-		"西饭":"https://xifan-api-cn.youlishipin.com"},
-		"commonConfig":"./XB/peizhi.json"}
+		"jar": "./JAR/nan.jar"
     },
 	{
 	  "key":"csp-xingzhige",
@@ -750,6 +735,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
