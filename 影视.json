@@ -257,12 +257,6 @@
         "ext": "./XB/星芽.js"
     },
 	{
-	  "key":"csp-xingzhige",
-	  "name":"♨️星之阁®短剧",
-	  "type":4,
-	  "api":"https://catbox.n13.club/t9/xingzhige.php"
-	},
-	{
       "key": "甜圈短剧",
       "name": "♨️甜圈®短剧",
       "type": 3,
@@ -289,12 +283,6 @@
       "type": 3,
       "api": "csp_XinggeDJ",
       "jar": "./JAR/spider.jar"
-    },
-	{
-      "key": "剧王短剧",
-      "name": "♨️剧王®短剧",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py"
     },
     {
       "key": "csp_茄子短剧",
@@ -425,7 +413,7 @@
     },
     { 
       "key": "csp_团夕",
-      "name": "团夕☪官采",
+      "name": "🐉┃团夕┃官采",
       "type": 3,
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
       "ext": {
@@ -605,6 +593,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
