@@ -424,11 +424,15 @@
       "categories": ["电影","剧集","短剧","综艺","动漫"]
     },
     { 
-      "key": "csp_超前", 
-      "name": "🐉┃超前┃官采", 
-      "type": 3, 
-      "api": "csp_AppYsV2", 
-      "ext": "http://chaoqianys.top:91/api.php/app/" 
+      "key": "csp_团夕",
+      "name": "团夕☪官采",
+      "type": 3,
+      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
+      "ext": {
+      "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
+      "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+      "apisignkey": "lvdoutv-1.0.0",
+      "ua": "okhttp/12.13"}
     },
 	{
       "key": "csp_BiliMV",
@@ -440,7 +444,7 @@
     },
 	{
       "key": "csp_Kugou",
-      "name": "💫┃┃酷狗┃音乐",
+      "name": "💫┃酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
       "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
@@ -601,6 +605,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
