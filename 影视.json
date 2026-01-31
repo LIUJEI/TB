@@ -44,20 +44,6 @@
     "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
 },
 {
-    "key": "csp_王子",
-    "name": "♾️┣王子┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-},
-{
-    "key": "csp_优兔",
-    "name": "♾️┣优兔┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
-},
-{
     "key": "csp_火狐",
     "name": "♾️┣火狐┫APP",
     "type": 3,
@@ -77,13 +63,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
-},
-{
-    "key": "csp_气球",
-    "name": "♾️┣气球┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://vv.229d.cn|8888888888888888"
 },
 {
     "key": "csp_yongy",
@@ -112,13 +91,6 @@
     "type": 3,
     "api": "./XB/fuz.js",
     "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
-},
-{
-    "key": "椰子",
-    "name": "♾️┣椰子┫APP",
-    "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": {"host": "http://www.yezitv.top","ver": 2}
 },
 {
 	"key": "csp_baih",
@@ -598,6 +570,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
