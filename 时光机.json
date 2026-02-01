@@ -25,28 +25,28 @@
 },
 {
   "key": "dr_腾迅",
-  "name": "🐉┃腾讯┃官方",
+  "name": "🐧┃腾讯┃官方",
   "type": 3,
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
   "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
 },
 {
   "key": "dr_芒果",
-  "name": "🐉┃芒果┃官方",
+  "name": "🥭┃芒果┃官方",
   "type": 3,
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
   "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
 },
 {
   "key": "dr_奇异",
-  "name": "🐉┃奇艺┃官方",
+  "name": "🥝┃奇艺┃官方",
   "type": 3,
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
   "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
 },
 {
   "key": "dr_优酷",
-  "name": "🐉┃优酷┃官方",
+  "name": "🧃┃优酷┃官方",
   "type": 3,
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
   "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/yKtv.js"
