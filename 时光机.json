@@ -48,6 +48,44 @@
   "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "金牌",
+    "name": "┃金牌┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+    "dataKey": "eecbio48dsq131ee",
+    "dataIv": "eecbio48dsq131ee",
+    "search": "searchList4",
+    "version": "305",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "小猪",
+    "name": "┃小猪┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt",
+    "dataKey": "j8sr6d93yp49db3p",
+    "dataIv": "j8sr6d93yp49db3p",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "鲸鱼",
+    "name": "┃鲸鱼┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json",
+    "dataKey": "AAdgrdghjfgsABC1",
+    "dataIv": "AAdgrdghjfgsABC1",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
   "key": "奇奇",
   "name": "┃奇奇┃App",
   "type": 3,
@@ -133,20 +171,6 @@
   "site": "https://snysw.xyz/mf4kzs327.txt",
   "dataKey": "1234567887654321",
   "dataIv": "1234567887654321"}
-},
-{
-  "key": "金牌",
-  "name": "┃金牌┃App",
-  "type": 3,
-  "api": "csp_AppQi",
-  "ext": {
-  "site": "https://dtqj.ggtvb.cc/dtjp.txt",
-  "dataKey": "eecbio48dsq131ee",
-  "dataIv": "eecbio48dsq131ee",
-  "search": "searchList4",
-  "version": "305",
-  "init": "initV122",
-  "ua": "okhttp/3.10.0"}
 },
 {
   "key": "csp_气球",
