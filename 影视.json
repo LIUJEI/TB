@@ -458,20 +458,20 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
-  "key": "csp_AiMusic",
-  "name": "🎸┃爱听┃音乐",
-  "type": 3,
-  "api": "csp_AweSomeGuard",
-  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-  "ext": {"sp": "AiMusic"}
+    "key": "csp_AiMusic",
+    "name": "🎸┃爱听┃音乐",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "AiMusic"}
 },
 {
-  "key": "csp_mogou",
-  "name": "🎸┃酷狗┃音乐",
-  "type": 3,
-  "api": "csp_AweSomeGuard",
-  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-  "ext": {"sp": "KuGou"}
+    "key": "csp_mogou",
+    "name": "🎸┃酷狗┃音乐",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "KuGou"}
 },
 {
 	"key": "csp_YALI",
@@ -502,11 +502,11 @@
     "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
 },
 {
-      "key": "方舟动漫",
-      "name": "♾️方舟🔹动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://www.cyfz.vip|e72cdfd629e8895d"
+    "key": "方舟动漫",
+    "name": "♾️方舟🔹动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://www.cyfz.vip|e72cdfd629e8895d"
 },
 {
     "key": "元咲动漫",
@@ -618,6 +618,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
