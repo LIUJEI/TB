@@ -37,6 +37,38 @@
     "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
 },
 {
+    "key": "csp_雄鹰",
+    "name": "♾️┣雄鹰┫APP",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "XiongYing"}
+},
+{
+    "key": "csp_花猪",
+    "name": "♾️┣花猪┫APP",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "XiaoZhu"}
+},
+{
+    "key": "csp_云云",
+    "name": "♾️┣云云┫APP",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "YunYun"}
+},
+{
+    "key": "csp_奇奇",
+    "name": "♾️┣奇奇┫APP",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "ext": {"sp": "QiQi"}
+},
+{
     "key": "csp_白马",
     "name": "♾️┣白马┫APP",
     "type": 3,
@@ -426,6 +458,22 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
+  "key": "csp_AiMusic",
+  "name": "🎸┃爱听┃音乐",
+  "type": 3,
+  "api": "csp_AweSomeGuard",
+  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+  "ext": {"sp": "AiMusic"}
+},
+{
+  "key": "csp_mogou",
+  "name": "🎸┃酷狗┃音乐",
+  "type": 3,
+  "api": "csp_AweSomeGuard",
+  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+  "ext": {"sp": "KuGou"}
+},
+{
 	"key": "csp_YALI",
 	"name": "♾️鸭梨🔹动漫",
 	"type": 3,
@@ -570,6 +618,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
