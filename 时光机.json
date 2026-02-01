@@ -1888,8 +1888,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA==",
-    "changeable": 1
+    "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA=="
 },
 {
     "key": "aiyingmy",
@@ -1943,8 +1942,7 @@
     "name": "人人｜影视",
     "type": 3,
     "api": "csp_RenRen",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "filterable": 0
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
 },
 {
     "key": "Lingdu摸鱼",
@@ -2110,7 +2108,7 @@
     "name": "看球｜体育",
     "type": 3,
     "api": "csp_Kanqiu",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "ext": "http://www.88kanqiu.one",
     "style": {"type": "list" }
 },
@@ -2119,7 +2117,7 @@
     "name": "听书｜有声",
     "type": 3,
     "api": "csp_TingBook",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "ext": "http://www.5weiting.com",
     "style": {"type": "list"}
 },
@@ -2128,7 +2126,7 @@
     "name": "文件｜浏览",
     "type": 3,
     "api": "csp_Local",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "style": {"type": "list"}
 }, 
 {
@@ -2136,7 +2134,7 @@
     "name": "摸鱼｜壁纸",
     "type": 3,
     "api": "csp_Wallpaper",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "style": {"type": "rect","ratio": 0.56}
 },
 
