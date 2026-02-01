@@ -24,30 +24,6 @@
   "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-  "key": "csp_雄鹰",
-  "name": "┃雄鹰┃App",
-  "type": 3,
-  "api": "csp_AweSomeGuard",
-  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-  "ext": {"sp": "XiongYing"}
-},
-{
-  "key": "csp_花猪",
-  "name": "┃花猪┃App",
-  "type": 3,
-  "api": "csp_AweSomeGuard",
-  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-  "ext": {"sp": "XiaoZhu"}
-},
-{
-  "key": "csp_云云",
-  "name": "┃云云┃App",
-  "type": 3,
-  "api": "csp_AweSomeGuard",
-  "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-  "ext": {"sp": "YunYun"}
-},
-{
   "key": "csp_爱盈",
   "name": "┃爱盈┃App",
   "type": 3,
@@ -126,16 +102,6 @@
   "dataIv": "abcdefghigklmn11"}
 },
 {
-  "key": "优兔",
-  "name": "┃优兔┃App",
-  "type": 3,
-  "api": "csp_AppQi",
-  "ext": {
-  "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-  "dataKey": "UrWKPnmQWJA8AQzd",
-  "dataIv": "UrWKPnmQWJA8AQzd"}
-},
-{
   "key": "缘梦",
   "name": "┃缘梦┃App",
   "type": 3,
@@ -176,19 +142,6 @@
   "site": "https://snysw.xyz/mf4kzs327.txt",
   "dataKey": "1234567887654321",
   "dataIv": "1234567887654321"}
-},
-{
-  "key": "爆炸",
-  "name": "┃爆炸┃App",
-  "type": 3,
-  "api": "csp_AppQi",
-  "ext": {
-  "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-  "dataKey": "37kj83zs1q16jk6t",
-  "dataIv": "37kj83zs1q16jk6t",
-  "search": "searchList4",
-  "init": "initV122",
-  "ua": "okhttp/3.10.0"}
 },
 {
   "key": "金牌",
@@ -1812,37 +1765,6 @@
     "fishjx": ["https://jx.xmflv.com/?url="]}
 },
 {
-    "key": "Rebo摸鱼",
-    "name": "热播｜APP",
-    "type": 3,
-    "api": "csp_AppRJ",
-    "ext": {"url": "http://v.rbotv.cn"}
-},
-{
-    "key": "看呗my",
-    "name": "看呗｜APP",
-    "type": 3,
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "api": "csp_AppGet",
-    "ext": "bB1iyOjtXWh234iOsqOpQ65mKOL2sRd+RcTIk0cmjrD8688Xw5ArmjN9zmaBcFgVgymXypm6lVMfsF9YOHbdKm0QT6K8/+z1B6YhKTatmFsNRMAw995p8MscOfu0wUGg"
-},
-{
-    "key": "jumengmy",
-    "name": "剧梦｜APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "N5u2FS3i/elUFAoSVYBznb2XBsH21Pu8ka/X8qXgAK2VPcUud/asZs4ML65ngDd3ob1Y/WEaAS/XqMkeQchxAs1tgVw2qnUZJoLNHj6pVZm+8OiyK5gYaZals2ovboy6",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
-},
-{
-    "key": "茉莉my",
-    "name": "茉莉｜APP",
-    "type": 3,
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "api": "csp_AppGet",
-    "ext": "pWLjYsLv1mpiSv+WqFNaIqp5t2Fo1rfLU1hwJwJ3KAGKWPMicT5CGiEJRsrqJm9/nvc1/bybKq1jaWaAf7G9gUJC37DHLmVmIm9/p/N1fBD+82t9o4+ohiIbelQv/KcjFIKtpyq6+YLDnlgrruYRKUgTa4rOFFgLDPhiYQ9OCWc="
-},
-{
     "key": "驿站my",
     "name": "驿站丨APP",
     "type": 3,
@@ -1859,60 +1781,12 @@
     "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
 },
 {
-    "key": "优兔my",
-    "name": "优兔｜APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "sCnv2gwYzALZxDcfyX62oa/GcFEmb/I/xXqDZHfxD21nygxbF0g0k2XZ3eHUgcbapE9SlSBNGML4tm9z8djfku+EgbK9ImWx26mt1XH7qoOLZOX6Rbfvov/kxcOpd6VZno3RJd7gpzk5gabcuJLOw30jtpjQjXU5ScVOQ0OmHoBoMc6kkivh0wIRj1VFxSUc"
-},
-{
-    "key": "顾我my",
-    "name": "顾我｜APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "sCnv2gwYzALZxDcfyX62oW++ox9Jh6h4QkB1i+EGK3ekvDmqeqBPh42sIHxvgm/x8TCuCXa4BugXe0CjqECTO2bXxziujdAIqU7bCxjnfJsDHt56Mmj4+UfAUNyt5g1uPbOlU+D6RuHWckW35AwdcZWKg+qVKE9fenD9/Z0uGMd69MX4bT72IgOBNmu7Bw0pfhOQQDriYziQ4KdOedqIV8xp8E3LJfZ/Jgkyl/phblY="
-},
-{
     "key": "花花my",
     "name": "花花｜APP",
     "type": 3,
     "api": "csp_AppQi",
     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "ext": "sCnv2gwYzALZxDcfyX62oZlInpl/IHzP9hKirDJh9mLRSjR0V0k/bVJvjkcyuNSgJCZmqMd/PHQd6Shj39JYDeGVFQrkZQ/HP/EAG4X2CeAMjyBNQJV73zHeeNI5QtyUv23a70I9XYkyk4O6ytG3P6SNrI2xpFw1sIDy0bF5n7KogHpiWFB4fFJUYAK3LhawYZ5FkczX9jWMKWVQMo9ZKOXo4pKMn58Zh5qBZMHulLudoq133WqDw3cDDW42dBey"
-},
-{
-    "key": "Jinpaijmmy",
-    "name": "金牌｜APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA=="
-},
-{
-    "key": "aiyingmy",
-    "name": "爱盈｜APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "sCnv2gwYzALZxDcfyX62oRPMT83Bt3Q5r5Q6ZwZ7Qq7ZfJZDdC8XcpJTArOjxs1hHGrH7JX/hlcGzED0RCFI/s5GJg5ZWPlTtK+GsArjWDyxNkvAnyr0ju34UuSCxQLD322RSid4K96h74Nx/SiPlH1VjrRyIHMEIfDj/wTAjZGrqJ89zsewId3PXJEpHlqc7ewAudH5J9EGzdit7AYOug=="
-},
-{
-    "key": "奇奇my",
-    "name": "奇奇｜APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "rfybymXQLYz2AOjxv9E+GjGZ4aPRDopgAoZMaekF8R7yxQRay6xZvf9BVHX7htbE+pur0CivAOMyHs4vWWCsCZTithbu5MFCnxlS1v8lFghyNlpnzsT0e4uUy+otOY9C3NRj8yu0AQuDfQ9W2RdL2oOwYn2UYvS7L+scnozvG+X7AqgnwRHIVB4Eg5JVdcNxFs99J0xXYg0JZferIMi5Xg=="
-},
-{
-    "key": "麒麟my",
-    "name": "麒麟｜APP",
-    "type": 3,
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "api": "csp_AppFox",
-    "ext": "uPkpfg9pQ6vPsaEfxxMLT0PGnn2AgQ4Z2NGLtKKM6Y/9kRwIO2KU4AC3GdvvEV+8"
 },
 {
     "key": "YunPanBa摸鱼",
@@ -2086,31 +1960,8 @@
     "name": "无损｜音乐",
     "type": 3,
     "api": "csp_Music24bit",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
-    "ext": {"categories": ["周杰伦","林俊杰","陈奕迅","邓紫棋","薛之谦"]}
-},
-{
-    "key": "TuXiaoBei摸鱼",
-    "name": "小兔｜少儿",
-    "type": 3,
-    "api": "csp_TuXiaoBei",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
-},
-{
-    "key": "BeiLeHu摸鱼",
-    "name": "小虎｜少儿",
-    "type": 3,
-    "api": "csp_BeiLeHu",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
-},
-{
-    "key": "Kanqiu摸鱼",
-    "name": "看球｜体育",
-    "type": 3,
-    "api": "csp_Kanqiu",
     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "http://www.88kanqiu.one",
-    "style": {"type": "list" }
+    "ext": {"categories": ["周杰伦","林俊杰","陈奕迅","邓紫棋","薛之谦"]}
 },
 {
     "key": "TingBook摸鱼",
