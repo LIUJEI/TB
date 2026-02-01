@@ -505,7 +505,7 @@
 },
 {
   "key":"豪堪短剧",
-  "name":"豪堪☪短剧",
+  "name":"┃豪堪┃短剧",
   "type":3,
   "api":"csp_HHkkAmns",
   "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
@@ -1061,7 +1061,7 @@
 },
 {
     "key": "豆ty",
-    "name": "新增自动安装，新公众号【太太太硬了】",
+    "name": "新公众号【太太太硬了】",
     "type": 3,
     "api": "csp_DouDouGuard",
     "jar":"https://oss4liview.moji.com/thd_file/2026/02/01/bc9aed283b58f733db7b65b272ab04ad.jpg"
