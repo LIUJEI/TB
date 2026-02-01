@@ -1747,23 +1747,6 @@
     "ext": {"url": "http://我不是.摸鱼儿.com/api/yyutx.php","token": "moyufucking"}
 },
 {
-    "key": "Kan360摸鱼",
-    "name": "倦枕｜星河",
-    "type": 3,
-    "api": "csp_Kan360",
-    "ext": {"filter": "https://open.wya6.com/d/down/2026/json/360.json",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "fishjx": ["https://jx.xmflv.com/?url="]}
-},
-{
-    "key": "驿站my",
-    "name": "驿站丨APP",
-    "type": 3,
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "api": "csp_AppGet",
-    "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
-},
-{
     "key": "bimoxinghe",
     "name": "笔墨｜APP",
     "type": 3,
@@ -1780,25 +1763,10 @@
     "ext": "sCnv2gwYzALZxDcfyX62oZlInpl/IHzP9hKirDJh9mLRSjR0V0k/bVJvjkcyuNSgJCZmqMd/PHQd6Shj39JYDeGVFQrkZQ/HP/EAG4X2CeAMjyBNQJV73zHeeNI5QtyUv23a70I9XYkyk4O6ytG3P6SNrI2xpFw1sIDy0bF5n7KogHpiWFB4fFJUYAK3LhawYZ5FkczX9jWMKWVQMo9ZKOXo4pKMn58Zh5qBZMHulLudoq133WqDw3cDDW42dBey"
 },
 {
-    "key": "YunPanBa摸鱼",
-    "name": "云吧｜4K",
-    "type": 3,
-    "api": "csp_YunPanBa",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "https://yunpan6.com/"
-},
-{
-    "key": "YsSo摸鱼",
-    "name": "奕搜｜4K",
-    "type": 3,
-    "api": "csp_YsSo",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "ext": "https://ysso.cc"
-},
-{
     "key": "Symx摸鱼",
     "name": "山有｜木兮",
     "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "api": "csp_Symx",
     "ext": "https://film.symx.club"
 },
@@ -1933,13 +1901,6 @@
      "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
 },
 {
-    "key": "TGSou摸鱼",
-    "name": "糖果｜搜索",
-    "type": 3,
-    "api": "csp_TGSou",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
-},
-{
     "key": "ChuXin摸鱼",
     "name": "初心｜音乐",
     "type": 3,
@@ -1963,14 +1924,6 @@
     "ext": "http://www.5weiting.com",
     "style": {"type": "list"}
 },
-{
-    "key": "Local摸鱼",
-    "name": "文件｜浏览",
-    "type": 3,
-    "api": "csp_Local",
-    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
-    "style": {"type": "list"}
-}, 
 {
     "key": "Wallpaper",
     "name": "摸鱼｜壁纸",
