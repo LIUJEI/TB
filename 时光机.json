@@ -1767,14 +1767,14 @@
 },
 {
     "key": "Douban摸鱼",
-    "name": "豆瓣｜摸鱼儿",
+    "name": "🐠豆瓣┃导航摸鱼儿",
     "type": 3,
     "api": "csp_Douban",
     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
 }, 
 {
     "key": "YGP摸鱼",
-    "name": "新片｜预告",
+    "name": "🐠新片┃预告",
     "type": 3,
     "api": "csp_YGP",
     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
@@ -1799,6 +1799,7 @@
     "name": "醉挽｜清风",
     "type": 3,
     "api": "csp_Zwqf",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "ext": {"url": "http://我不是.摸鱼儿.com/api/yyutx.php","token": "moyufucking"}
 },
 {
@@ -1807,428 +1808,338 @@
     "type": 3,
     "api": "csp_Kan360",
     "ext": {"filter": "https://open.wya6.com/d/down/2026/json/360.json",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
     "fishjx": ["https://jx.xmflv.com/?url="]}
 },
 {
-      "key": "Rebo摸鱼",
-      "name": "热播｜APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "看呗my",
-      "name": "看呗｜APP",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "bB1iyOjtXWh234iOsqOpQ65mKOL2sRd+RcTIk0cmjrD8688Xw5ArmjN9zmaBcFgVgymXypm6lVMfsF9YOHbdKm0QT6K8/+z1B6YhKTatmFsNRMAw995p8MscOfu0wUGg"
-    },
-    {
-      "key": "jumengmy",
-      "name": "剧梦｜APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "N5u2FS3i/elUFAoSVYBznb2XBsH21Pu8ka/X8qXgAK2VPcUud/asZs4ML65ngDd3ob1Y/WEaAS/XqMkeQchxAs1tgVw2qnUZJoLNHj6pVZm+8OiyK5gYaZals2ovboy6",
-      "changeable": 1
-    },
-    {
-      "key": "茉莉my",
-      "name": "茉莉｜APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "pWLjYsLv1mpiSv+WqFNaIqp5t2Fo1rfLU1hwJwJ3KAGKWPMicT5CGiEJRsrqJm9/nvc1/bybKq1jaWaAf7G9gUJC37DHLmVmIm9/p/N1fBD+82t9o4+ohiIbelQv/KcjFIKtpyq6+YLDnlgrruYRKUgTa4rOFFgLDPhiYQ9OCWc="
-    },
-    {
-      "key": "驿站my",
-      "name": "驿站丨APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
-    },
-    {
-      "key": "bimoxinghe",
-      "name": "笔墨｜APP",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYsV2",
-      "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
-    },
-    {
-      "key": "优兔my",
-      "name": "优兔｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "sCnv2gwYzALZxDcfyX62oa/GcFEmb/I/xXqDZHfxD21nygxbF0g0k2XZ3eHUgcbapE9SlSBNGML4tm9z8djfku+EgbK9ImWx26mt1XH7qoOLZOX6Rbfvov/kxcOpd6VZno3RJd7gpzk5gabcuJLOw30jtpjQjXU5ScVOQ0OmHoBoMc6kkivh0wIRj1VFxSUc"
-    },
-    {
-      "key": "顾我my",
-      "name": "顾我｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "sCnv2gwYzALZxDcfyX62oW++ox9Jh6h4QkB1i+EGK3ekvDmqeqBPh42sIHxvgm/x8TCuCXa4BugXe0CjqECTO2bXxziujdAIqU7bCxjnfJsDHt56Mmj4+UfAUNyt5g1uPbOlU+D6RuHWckW35AwdcZWKg+qVKE9fenD9/Z0uGMd69MX4bT72IgOBNmu7Bw0pfhOQQDriYziQ4KdOedqIV8xp8E3LJfZ/Jgkyl/phblY="
-    },
-    {
-      "key": "花花my",
-      "name": "花花｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "sCnv2gwYzALZxDcfyX62oZlInpl/IHzP9hKirDJh9mLRSjR0V0k/bVJvjkcyuNSgJCZmqMd/PHQd6Shj39JYDeGVFQrkZQ/HP/EAG4X2CeAMjyBNQJV73zHeeNI5QtyUv23a70I9XYkyk4O6ytG3P6SNrI2xpFw1sIDy0bF5n7KogHpiWFB4fFJUYAK3LhawYZ5FkczX9jWMKWVQMo9ZKOXo4pKMn58Zh5qBZMHulLudoq133WqDw3cDDW42dBey"
-    },
-    {
-      "key": "Jinpaijmmy",
-      "name": "金牌｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA==",
-      "changeable": 1
-    },
-    {
-      "key": "aiyingmy",
-      "name": "爱盈｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "sCnv2gwYzALZxDcfyX62oRPMT83Bt3Q5r5Q6ZwZ7Qq7ZfJZDdC8XcpJTArOjxs1hHGrH7JX/hlcGzED0RCFI/s5GJg5ZWPlTtK+GsArjWDyxNkvAnyr0ju34UuSCxQLD322RSid4K96h74Nx/SiPlH1VjrRyIHMEIfDj/wTAjZGrqJ89zsewId3PXJEpHlqc7ewAudH5J9EGzdit7AYOug=="
-    },
-    {
-      "key": "奇奇my",
-      "name": "奇奇｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfybymXQLYz2AOjxv9E+GjGZ4aPRDopgAoZMaekF8R7yxQRay6xZvf9BVHX7htbE+pur0CivAOMyHs4vWWCsCZTithbu5MFCnxlS1v8lFghyNlpnzsT0e4uUy+otOY9C3NRj8yu0AQuDfQ9W2RdL2oOwYn2UYvS7L+scnozvG+X7AqgnwRHIVB4Eg5JVdcNxFs99J0xXYg0JZferIMi5Xg=="
-    },
-    {
-      "key": "麒麟my",
-      "name": "麒麟｜APP",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_AppFox",
-      "ext": "uPkpfg9pQ6vPsaEfxxMLT0PGnn2AgQ4Z2NGLtKKM6Y/9kRwIO2KU4AC3GdvvEV+8"
-    },
+    "key": "Rebo摸鱼",
+    "name": "热播｜APP",
+    "type": 3,
+    "api": "csp_AppRJ",
+    "ext": {"url": "http://v.rbotv.cn"}
+},
+{
+    "key": "看呗my",
+    "name": "看呗｜APP",
+    "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "api": "csp_AppGet",
+    "ext": "bB1iyOjtXWh234iOsqOpQ65mKOL2sRd+RcTIk0cmjrD8688Xw5ArmjN9zmaBcFgVgymXypm6lVMfsF9YOHbdKm0QT6K8/+z1B6YhKTatmFsNRMAw995p8MscOfu0wUGg"
+},
+{
+    "key": "jumengmy",
+    "name": "剧梦｜APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "N5u2FS3i/elUFAoSVYBznb2XBsH21Pu8ka/X8qXgAK2VPcUud/asZs4ML65ngDd3ob1Y/WEaAS/XqMkeQchxAs1tgVw2qnUZJoLNHj6pVZm+8OiyK5gYaZals2ovboy6",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "茉莉my",
+    "name": "茉莉｜APP",
+    "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "api": "csp_AppGet",
+    "ext": "pWLjYsLv1mpiSv+WqFNaIqp5t2Fo1rfLU1hwJwJ3KAGKWPMicT5CGiEJRsrqJm9/nvc1/bybKq1jaWaAf7G9gUJC37DHLmVmIm9/p/N1fBD+82t9o4+ohiIbelQv/KcjFIKtpyq6+YLDnlgrruYRKUgTa4rOFFgLDPhiYQ9OCWc="
+},
+{
+    "key": "驿站my",
+    "name": "驿站丨APP",
+    "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "api": "csp_AppGet",
+    "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
+},
+{
+    "key": "bimoxinghe",
+    "name": "笔墨｜APP",
+    "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "api": "csp_AppYsV2",
+    "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
+},
+{
+    "key": "优兔my",
+    "name": "优兔｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "sCnv2gwYzALZxDcfyX62oa/GcFEmb/I/xXqDZHfxD21nygxbF0g0k2XZ3eHUgcbapE9SlSBNGML4tm9z8djfku+EgbK9ImWx26mt1XH7qoOLZOX6Rbfvov/kxcOpd6VZno3RJd7gpzk5gabcuJLOw30jtpjQjXU5ScVOQ0OmHoBoMc6kkivh0wIRj1VFxSUc"
+},
+{
+    "key": "顾我my",
+    "name": "顾我｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "sCnv2gwYzALZxDcfyX62oW++ox9Jh6h4QkB1i+EGK3ekvDmqeqBPh42sIHxvgm/x8TCuCXa4BugXe0CjqECTO2bXxziujdAIqU7bCxjnfJsDHt56Mmj4+UfAUNyt5g1uPbOlU+D6RuHWckW35AwdcZWKg+qVKE9fenD9/Z0uGMd69MX4bT72IgOBNmu7Bw0pfhOQQDriYziQ4KdOedqIV8xp8E3LJfZ/Jgkyl/phblY="
+},
+{
+    "key": "花花my",
+    "name": "花花｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "sCnv2gwYzALZxDcfyX62oZlInpl/IHzP9hKirDJh9mLRSjR0V0k/bVJvjkcyuNSgJCZmqMd/PHQd6Shj39JYDeGVFQrkZQ/HP/EAG4X2CeAMjyBNQJV73zHeeNI5QtyUv23a70I9XYkyk4O6ytG3P6SNrI2xpFw1sIDy0bF5n7KogHpiWFB4fFJUYAK3LhawYZ5FkczX9jWMKWVQMo9ZKOXo4pKMn58Zh5qBZMHulLudoq133WqDw3cDDW42dBey"
+},
+{
+    "key": "Jinpaijmmy",
+    "name": "金牌｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA==",
+    "changeable": 1
+},
+{
+    "key": "aiyingmy",
+    "name": "爱盈｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "sCnv2gwYzALZxDcfyX62oRPMT83Bt3Q5r5Q6ZwZ7Qq7ZfJZDdC8XcpJTArOjxs1hHGrH7JX/hlcGzED0RCFI/s5GJg5ZWPlTtK+GsArjWDyxNkvAnyr0ju34UuSCxQLD322RSid4K96h74Nx/SiPlH1VjrRyIHMEIfDj/wTAjZGrqJ89zsewId3PXJEpHlqc7ewAudH5J9EGzdit7AYOug=="
+},
+{
+    "key": "奇奇my",
+    "name": "奇奇｜APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "rfybymXQLYz2AOjxv9E+GjGZ4aPRDopgAoZMaekF8R7yxQRay6xZvf9BVHX7htbE+pur0CivAOMyHs4vWWCsCZTithbu5MFCnxlS1v8lFghyNlpnzsT0e4uUy+otOY9C3NRj8yu0AQuDfQ9W2RdL2oOwYn2UYvS7L+scnozvG+X7AqgnwRHIVB4Eg5JVdcNxFs99J0xXYg0JZferIMi5Xg=="
+},
+{
+    "key": "麒麟my",
+    "name": "麒麟｜APP",
+    "type": 3,
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "api": "csp_AppFox",
+    "ext": "uPkpfg9pQ6vPsaEfxxMLT0PGnn2AgQ4Z2NGLtKKM6Y/9kRwIO2KU4AC3GdvvEV+8"
+},
+{
+    "key": "YunPanBa摸鱼",
+    "name": "云吧｜4K",
+    "type": 3,
+    "api": "csp_YunPanBa",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "https://yunpan6.com/"
+},
+{
+    "key": "YsSo摸鱼",
+    "name": "奕搜｜4K",
+    "type": 3,
+    "api": "csp_YsSo",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "https://ysso.cc"
+},
+{
+    "key": "Symx摸鱼",
+    "name": "山有｜木兮",
+    "type": 3,
+    "api": "csp_Symx",
+    "ext": "https://film.symx.club"
+},
+{
+    "key": "RenRen摸鱼",
+    "name": "人人｜影视",
+    "type": 3,
+    "api": "csp_RenRen",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "filterable": 0
+},
+{
+    "key": "Lingdu摸鱼",
+    "name": "零度｜影视",
+    "type": 3,
+    "api": "csp_Lingdu",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "CZ摸鱼",
+    "name": "厂长｜影视",
+    "type": 3,
+    "api": "csp_CZ",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "https://www.czzymovie.com"
+},
+{
+    "key": "Guazi摸鱼",
+    "name": "瓜子｜影视",
+    "type": 3,
+    "api": "csp_Guazi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "Zxzj摸鱼",
+    "name": "在线｜影视",
+    "type": 3,
+    "api": "csp_Zxzj",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "https://www.zxzjhd.com"
+},
+{
+    "key": "Xpg摸鱼",
+    "name": "苹果｜影视",
+    "type": 3,
+    "api": "csp_Xpg",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "TvDy摸鱼",
+    "name": "天堂｜影视",
+    "type": 3,
+    "api": "csp_TvDy",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "MqTv摸鱼",
+    "name": "麻雀｜影视",
+    "type": 3,
+    "api": "csp_MqTv",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "https://www.mqtv.cc"
+},
+{
+    "key": "Ikanbot摸鱼",
+    "name": "爱看｜影视",
+    "type": 3,
+    "api": "csp_Ikanbot",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png",
+    "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+},
+{
+    "key": "ReBoYingShi摸鱼",
+    "name": "热播｜影视",
+    "type": 3,
+    "api": "csp_ReBoYingShi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "DianYingYunJi摸鱼",
+    "name": "云集｜影视",
+    "type": 3,
+    "api": "csp_DianYingYunJi",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "XiaoHongYS摸鱼",
+    "name": "小红｜影视",
+    "type": 3,
+    "api": "csp_XiaoHongYS",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "KnVod摸鱼",
+    "name": "柯南｜影视",
+    "type": 3,
+    "api": "csp_KnVod",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "BroVods摸鱼",
+    "name": "兄弟｜影视",
+    "type": 3,
+    "api": "csp_BroVods",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "Hema摸鱼",
+    "name": "河马｜短剧",
+    "type": 3,
+    "api": "csp_Hema",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "FishDuanju摸鱼",
+    "name": "超级｜短剧",
+    "type": 3,
+    "api": "csp_FishDuanju",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "HHkk摸鱼",
+    "name": "好看｜短剧",
+    "type": 3,
+    "api": "csp_HHkk",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "JLdj摸鱼",
+    "name": "金粒｜短剧",
+    "type": 3,
+    "api": "csp_JLdj",
+     "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "TGSou摸鱼",
+    "name": "糖果｜搜索",
+    "type": 3,
+    "api": "csp_TGSou",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "ChuXin摸鱼",
+    "name": "初心｜音乐",
+    "type": 3,
+    "api": "csp_ChuXin",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "Music24bit摸鱼",
+    "name": "无损｜音乐",
+    "type": 3,
+    "api": "csp_Music24bit",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "ext": {"categories": ["周杰伦","林俊杰","陈奕迅","邓紫棋","薛之谦"]}
+},
+{
+    "key": "TuXiaoBei摸鱼",
+    "name": "小兔｜少儿",
+    "type": 3,
+    "api": "csp_TuXiaoBei",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "BeiLeHu摸鱼",
+    "name": "小虎｜少儿",
+    "type": 3,
+    "api": "csp_BeiLeHu",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+},
+{
+    "key": "Kanqiu摸鱼",
+    "name": "看球｜体育",
+    "type": 3,
+    "api": "csp_Kanqiu",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "ext": "http://www.88kanqiu.one",
+    "style": {"type": "list" }
+},
+{
+    "key": "TingBook摸鱼",
+    "name": "听书｜有声",
+    "type": 3,
+    "api": "csp_TingBook",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "ext": "http://www.5weiting.com",
+    "style": {"type": "list"}
+},
+{
+    "key": "Local摸鱼",
+    "name": "文件｜浏览",
+    "type": 3,
+    "api": "csp_Local",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "style": {"type": "list"}
+}, 
+{
+    "key": "Wallpaper",
+    "name": "摸鱼｜壁纸",
+    "type": 3,
+    "api": "csp_Wallpaper",
+    "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260201/NXKg/fish.png"
+    "style": {"type": "rect","ratio": 0.56}
+},
 
-    {
-      "key": "YunPanBa摸鱼",
-      "name": "云吧｜4K",
-      "type": 3,
-      "api": "csp_YunPanBa",
-      "searchable": 1,
-      "ext": "https://yunpan6.com/"
-    },
-    {
-      "key": "YsSo摸鱼",
-      "name": "奕搜｜4K",
-      "type": 3,
-      "api": "csp_YsSo",
-      "searchable": 1,
-      "ext": "https://ysso.cc"
-    },
-    {
-      "key": "Symx摸鱼",
-      "name": "山有｜木兮",
-      "type": 3,
-      "api": "csp_Symx",
-      "ext": "https://film.symx.club"
-    },
-    {
-      "key": "RenRen摸鱼",
-      "name": "人人｜影视",
-      "type": 3,
-      "api": "csp_RenRen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Lingdu摸鱼",
-      "name": "零度｜影视",
-      "type": 3,
-      "api": "csp_Lingdu",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CZ摸鱼",
-      "name": "厂长｜影视",
-      "type": 3,
-      "api": "csp_CZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.czzymovie.com"
-    },
-    {
-      "key": "Jpys摸鱼",
-      "name": "金牌｜影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "Guazi摸鱼",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "api": "csp_Guazi",
-      "searchable": 1
-    },
-    {
-      "key": "Zxzj摸鱼",
-      "name": "在线｜影视",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "ext": "https://www.zxzjhd.com"
-    },
-    {
-      "key": "Xpg摸鱼",
-      "name": "苹果｜影视",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "TvDy摸鱼",
-      "name": "天堂｜影视",
-      "type": 3,
-      "api": "csp_TvDy",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "MqTv摸鱼",
-      "name": "麻雀｜影视",
-      "type": 3,
-      "api": "csp_MqTv",
-      "searchable": 1,
-      "ext": "https://www.mqtv.cc"
-    },
-    {
-      "key": "Ikanbot摸鱼",
-      "name": "爱看｜影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-    },
-    {
-      "key": "ReBoYingShi摸鱼",
-      "name": "热播｜影视",
-      "type": 3,
-      "api": "csp_ReBoYingShi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "DianYingYunJi摸鱼",
-      "name": "云集｜影视",
-      "type": 3,
-      "api": "csp_DianYingYunJi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    
-    {
-      "key": "XiaoHongYS摸鱼",
-      "name": "小红｜影视",
-      "type": 3,
-      "api": "csp_XiaoHongYS",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "KnVod摸鱼",
-      "name": "柯南｜影视",
-      "type": 3,
-      "api": "csp_KnVod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "BroVods摸鱼",
-      "name": "兄弟｜影视",
-      "type": 3,
-      "api": "csp_BroVods",
-      "searchable": 1
-    },
-    {
-      "key": "Hema摸鱼",
-      "name": "河马｜短剧",
-      "type": 3,
-      "api": "csp_Hema",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "FishDuanju摸鱼",
-      "name": "超级｜短剧",
-      "type": 3,
-      "api": "csp_FishDuanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "HHkk摸鱼",
-      "name": "好看｜短剧",
-      "type": 3,
-      "api": "csp_HHkk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "JLdj摸鱼",
-      "name": "金粒｜短剧",
-      "type": 3,
-      "api": "csp_JLdj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "TGSou摸鱼",
-      "name": "糖果｜搜索",
-      "type": 3,
-      "api": "csp_TGSou",
-      "searchable": 1
-    },
-    {
-      "key": "ChuXin摸鱼",
-      "name": "初心｜音乐",
-      "type": 3,
-      "api": "csp_ChuXin",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Music24bit摸鱼",
-      "name": "无损｜音乐",
-      "type": 3,
-      "api": "csp_Music24bit",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "categories": [
-          "周杰伦",
-          "林俊杰",
-          "陈奕迅",
-          "邓紫棋",
-          "薛之谦"
-        ]
-      }
-    },
-    {
-      "key": "TuXiaoBei摸鱼",
-      "name": "小兔｜少儿",
-      "type": 3,
-      "api": "csp_TuXiaoBei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "BeiLeHu摸鱼",
-      "name": "小虎｜少儿",
-      "type": 3,
-      "api": "csp_BeiLeHu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "Kanqiu摸鱼",
-      "name": "看球｜体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "filterable": 1,
-      "ext": "http://www.88kanqiu.one",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "TingBook摸鱼",
-      "name": "听书｜有声",
-      "type": 3,
-      "api": "csp_TingBook",
-      "searchable": 1,
-      "ext": "http://www.5weiting.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "Local摸鱼",
-      "name": "文件｜浏览",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    
-    {
-      "key": "Wallpaper",
-      "name": "摸鱼｜壁纸",
-      "type": 3,
-      "api": "csp_Wallpaper",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.56
-      }
-    },
-    {
-      "key": "push_agent摸鱼",
-      "name": "推送｜摸鱼",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "changeable": 0,
-      "timeout": 60
-    },
     
 {
   "key": "drpy_js_蜻蜓FM",
