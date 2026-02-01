@@ -2,6 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
   "spider": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9",
+   "spider": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
@@ -618,6 +619,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
