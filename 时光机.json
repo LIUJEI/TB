@@ -1590,30 +1590,6 @@
     "ext": ""
 },    
 {
-    "key": "天天qj",
-    "name": "天天┃巧技",
-    "type": 3,
-    "api": "csp_TTian",
-    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
-    "ext": "7lj763gg0939791h1l3888jig44gi291li"
-}, 
-{
-    "key": "csp_xlysqj",
-    "name": "修罗┃巧技",
-    "type": 3,
-    "api": "csp_Bdys01",
-    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
-    "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
-},
-{
-    "key": "剧评qj",
-    "name": "剧评┃App",
-    "type": 3,
-    "api": "csp_Jpys",
-    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
-    "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-},
-{
     "key": "巧技二qj",
     "name": "巧技┃仅搜索",
     "type": 3,
@@ -1630,8 +1606,24 @@
     "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
 },
 {
+    "key": "天天qj",
+    "name": "天天┃APP",
+    "type": 3,
+    "api": "csp_TTian",
+    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
+    "ext": "7lj763gg0939791h1l3888jig44gi291li"
+}, 
+{
+    "key": "剧评qj",
+    "name": "剧评┃APP",
+    "type": 3,
+    "api": "csp_Jpys",
+    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
+    "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+},
+{
     "key": "lanyingysqj",
-    "name": "橘子4K┃APP",
+    "name": "橘子┃APP",
     "type": 3,
     "api": "csp_Xdai",
     "jar":"http://cdn.qiaoji8.com/fix260108.jar",
@@ -1750,13 +1742,6 @@
     "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
 },
 {
-    "key": "360_spider",
-    "name": "360┃解析",
-    "api": "csp_SP360",
-    "type": 3,
-    "ext": ""
-},
-{
     "key": "ZXZJqj",
     "name": "在线┃直连",
     "api": "csp_Zxzj",
@@ -1765,15 +1750,16 @@
     "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473"
 },
 {
-    "key": "csp_Aueteqj",
-    "name": "Auete┃无搜索",
+    "key": "csp_xlysqj",
+    "name": "修罗┃APP",
     "type": 3,
-    "api": "csp_Auete",
-    "filterable": 1
+    "api": "csp_Bdys01",
+    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
+    "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
 },
 {
     "key": "push_agentqj",
-    "name": "推送",
+    "name": "推送┃巧技",
     "type": 3,
     "api": "csp_PushAgent",
     "jar":"http://cdn.qiaoji8.com/fix260108.jar",
