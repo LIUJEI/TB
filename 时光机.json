@@ -471,48 +471,7 @@
   "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
   "ext": "https://github.com/LIUJEI/TB/raw/refs/heads/master/XB/星芽.js"
 },
-{
-  "key":"豪堪短剧",
-  "name":"┃豪堪┃短剧",
-  "type":3,
-  "api":"csp_HHkkAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
-{
-  "key":"盒马短剧",
-  "name":"┃盒马┃短剧",
-  "type":3,
-  "api":"csp_HemaAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
-{
-  "key":"拜拜短剧",
-  "name":"┃拜拜┃短剧",
-  "type":3,
-  "api":"csp_BddjAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
-{
-  "key":"喵喵短剧",
-  "name":"┃喵喵┃短剧",
-  "type":3,
-  "api":"csp_QmdjAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
-{
-  "key":"星星短剧",
-  "name":"┃星星┃短剧",
-  "type":3,
-  "api":"csp_XydjAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
-{
-  "key":"岁岁短剧",
-  "name":"┃岁岁┃短剧",
-  "type":3,
-  "api":"csp_SpdjAmns",
-  "jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
-},
+
 {
   "key": "dr_芒果",
   "name": "🐉┃芒果┃官方",
