@@ -522,14 +522,14 @@
       "ext": "https://ios.hgyx.vip|062dec75d039980e",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
     },
-    {
-      "key": "兔子fm",
-      "name": "🐇┃兔子┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+{
+    "key": "白兔子fm",
+    "name": "🐇┃兔子┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
+},
     {
       "key": "永永fm",
       "name": "♾️┃永永┃APP",
@@ -538,14 +538,14 @@
       "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
     },
-    {
-      "key": "云云fm",
-      "name": "☁️┃云云┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo",
+{
+    "key": "csp_新剧fm",
+    "name": "☁️┃云云┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
+},
     {
       "key": "QD4Kfm",
       "name": "🐷┃猪猪┃影视",
