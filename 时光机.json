@@ -70,16 +70,7 @@
   "dataKey": "123456789abcdefg",
   "dataIv": "123456789abcdefg"}
 },
-{
-  "key": "芬奇",
-  "name": "┃芬奇┃App",
-  "type": 3,
-  "api": "csp_AppGet",
-  "ext": {
-  "site": "https://wsapi.dafenqi.mom/yuming.txt",
-  "dataKey": "bH5mI8iK0tK7aQ5x",
-  "dataIv": "bH5mI8iK0tK7aQ5x"}
-},
+
 {
   "key": "火狐",
   "name": "┃火狐┃App",
