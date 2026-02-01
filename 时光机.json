@@ -1844,14 +1844,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 1,
-      "changeable": 0
-    }
+  
 {
   "key": "drpy_js_蜻蜓FM",
   "name": "💫┃蜻蜓┃广播",
