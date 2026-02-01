@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-    "spider": "./JAR/sa.jar",
+    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260131/dLsf/01311227.png;md5;400e71269030aa75422ef608cf89a9ff",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -1061,7 +1061,7 @@
 },
 {
     "key": "豆ty",
-    "name": "新公众号【太太太硬了】",
+    "name": "公众号【太太硬了】",
     "type": 3,
     "api": "csp_DouDouGuard",
     "jar":"https://oss4liview.moji.com/thd_file/2026/02/01/bc9aed283b58f733db7b65b272ab04ad.jpg"
@@ -1382,7 +1382,215 @@
     "quickSearch": 0,
     "changeable": 0
 },
-    
+{
+    "key": "豆豆xm",
+    "name": "🌈豆豆┃小米",
+    "type": 3,
+    "api": "csp_Douban",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "searchable": 0
+},
+{
+    "key": "configxm",
+    "name": "🧰网盘┃cookie配置💯",
+    "type": 3,
+    "api": "csp_Config",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "searchable": 0
+},
+{
+    "key": "csp_Netfixtvxm",
+    "name": "💌至臻┃网盘4K💥",
+    "type": 3,
+    "api": "csp_Duopan",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": {
+    "site_urls": [
+    "https://mihdr.top",
+    "https://www.mihdr.top",
+    "https://www.miqk.cc",
+    "https://xiaomiai.site",
+    "https://xiaomi666.fun",
+    "https://www.zhizhenpan.fun"],
+    "url_key": "Netfixtv",
+    "token": "",
+    "ucCookie": "",
+    "quarkCookie": "",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
+},
+{
+    "key": "csp_Netfixtv2xm",
+    "name": "📟二小┃网盘4K💥",
+    "type": 3,
+    "api": "csp_Duopan",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": {
+    "site_urls": [
+    "https://www.erixaopan.fun/",
+    "https://www.wexwp.cc",
+    "https://wexwp.cc",
+    "https://zhizhen1.top",
+    "https://www.2xiaopan.fun/",
+    "https://2xiaopan.fun/"],
+    "url_key": "UC",
+    "token": "",
+    "ucCookie": "",
+    "quarkCookie": "",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
+},
+{
+    "key": "csp_Woggxm",
+    "name": "🧸玩偶┃网盘4K💥",
+    "type": 3,
+    "api": "csp_Wogg",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg+2RfEareoNuL/Pl5M72Qa7kLxIiSX9vw43FPihBY2n/maEHOEs7WGA2T/7NojmydALUIhhnc3jYOnh2KHHfokMo6IosAN/HGNN8Je7i0Q/rL7kSVIrNzcaH9uonFPYh5dshTaO26cuMfuRGObY7TG2etjrtIY7Cvmh9OYKVAdLzNlqAxC2m0hu+hlP/VBNWk8dJaPTEC2E8iY8E4aYgfNJPFWSDBaJoYgJ38mLekQccXn+3g/5EBt29+pMhYgbRUwxV7QArevAzfkWtcJIPf9oeOHI3qZ7a1T9Gj+k62YBcbD9e/u29Uic0IsCzJOE8xgr1gaWLs5qLUT82Rdf7Pu9gH0FPb0uQorMiBBDsaQJwll8wBCbEc1F8b9Ut/e9kyoJKNdcKaMXVfQod/XMFx6ST63piNdL/gPGecSjsKht1M3K9pa54mjEkWEx0jnxFVBx+GJt2INnNMSG1iWy574dzS9zWcED5SXgjUbXncKe4ghIUzgy1nBDoyCaTW/RlRzdYwJFCytDEeLOBI751TEKL6XcwySfB8kPdQyl1+ytAA=="
+},
+{
+    "key": "csp_Duopanxm",
+    "name": "🖍蜡笔┃网盘4K💥",
+    "type": 3,
+    "api": "csp_Duopan",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": {
+    "site_urls": [
+    "http://xiaocge.fun",
+    "http://feimo.fun",
+    "https://feimao666.fun",
+    "http://feimao888.fun",
+    "http://www.labi88.sbs",
+    "http://fmao.site",
+    "http://fmao.shop",
+    "http://xiaocgege.shop"],
+    "threadinfo": {"chunksize": 512,"threads": 16},
+    "url_key": "Duopan4"}
+},
+{
+    "key": "天天xm",
+    "name": "💯秒播┃影视💯",
+    "type": 3,
+    "api": "csp_AppRJ",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+},
+{
+    "key": "麻雀xm",
+    "name": "🐦麻雀┃1080P",
+    "type": 3,
+    "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+    "ext": "http://118.89.203.120:8365/"
+},
+{
+    "key": "csp_Musicxm",
+    "name": "🎵MUSIC┃听歌",
+    "type": 3,
+    "api": "csp_Music",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": ""
+},
+{
+    "key": "csp_Livingxm",
+    "name": "🎮聚合┃直播",
+    "type": 3,
+    "api": "csp_Living",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "https://lemonlive-api-1.deno.dev"
+}, 
+{
+    "key": "老丫xm",
+    "name": "🍞老雅┃1080P",
+    "type": 3,
+    "api": "https://13826.kstore.vip/fox.js",
+    "ext": {"host": "http://host1.sopython.top/host.json"}
+},
+{
+    "key": "爱营xm",
+    "name": "🎴爱影┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9ENpFk8PYiGW3Ok/qBCmdLsmWed+ubyWhFhJBO8G5jndGBe/2yWKwSfOfwltStIjfIonlvW29sV3oVB3bvbNqdRPbhqZd6KLYcnjTjAkFS8P+Gj/dwFwnqEsxLbt7tedYkDxXppaf6+OlFSFGjP4N4ap6a4HeFxzEA8gvRjZHjdm4QY7pMPO97onIDURjSzahvUKoWAyUcUl5phoWOQrudz2VcIdF/NHTC7yBAAUIKhhagMgCW9kIXeKXu2xYcEKIPKS1iMuEOmLfrzcG8yk9hz8="
+},
+{
+    "key": "顾我xm",
+    "name": "🎴顾我┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8="
+},
+{
+    "key": "仓鼠xm",
+    "name": "🐀仓鼠┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "pghUv+IPbIqGFEhny2nISo6q1U3I9nHoNa/iHpCGtvb/Z7AclrLHwfwwyHDOwlw+atwP39gPrsYXKDI2Mngr/+2oFaQiwYBOw20A/zpOef2PJhp0gISCLDyOOYtqku0RNCx0R7ClMxfgscA//pQaZEjeTx4K6ZolxVEj8KM1Vv6EI90iHnRKqIp1svmftZHfi/GL/C7LAEWfo0g8L8lEqe4nNXFecvk0JibeCb5FKCpck8aCsVSlrjVmbYCEHCTIXRYssqMokxKNEVvEqFB7p2DOoScmKCoVjSE0AWhBaykPGZXJG0SdnhBlNDNtBJD/"
+},
+{
+    "key": "云速xm",
+    "name": "🍼云云┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "pghUv+IPbIqGFEhny2nISqwnd+ZrLZS4oOovoDKrPwYhc6bnxBhXj1yUmpQGo2dda4yKJA0rzNerKhlHbvHl2NW8J2/czPb8KoXWysWftEuunGdjctZYVk9kaYo9OOTce8YVqdhI8ypdGZCEcUzz2pWMwXc39sUREXkM2amM4x0Gl/gkP1RjYRQL3DAR1p96sdLh6Es3IRBp6pTNo5dRq8O3FFYM5IsRns9nK3/E1xuw4B7dLtmmtV+DuxfedWwn4SvT2c9mBH5Z+0qwyZtR2C647k60KDtO8wb6sSYYFsjA/CmuM5PTIx03nY2J3EQEuiBIm29b7NB7zZEWmPR34U//7AYgoku20jOO0uigRZf5oPzxxQzu+7pc+aSufNUb"
+},
+{
+    "key": "魔方xm",
+    "name": "🥪魔方┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixA9uUmSyf8n3xJtB2ubjJgYDhEd8h65xeqKRf3iKR9uIvzwZqvJoAyTyNrVFvsjj6rcrxaUxJIDJDV+KiOB9j0MI9CVrh+0wQG3G8vH/qBglRDfzuIN1DlTTpdxYERAYZMCSEu+sgf5JR61CAzwsdc09W//YFaJbpDv8kHaw052cULBNQ/P1FyVDvk+GHOADm3OLhFSpDjSGPgKadu0GSlZGl+7EnLianWrSuY9H12iPoBA0zf6ulDwWqStOH2yTARHrda3y3m35sh0GGABp/ThOHszC2tl2naN0POZsXbyi7enFffI15opZinoBAA/LWiYkiEaH+cIZ/29C418TvMUpuM4GXXQsSbu43K56xSFdjTi66WemimTIKQ89FJIVuR9qDVI1iFyNmpS2kz8TwPJNsyrT8rAw3iXvLuwhNjOndlJruvPH+sewnXTdp9dqf6r4MAzLwL9f9EJ2C6F+Jqx"
+},
+{
+    "key": "JINPAIxm",
+    "name": "🍥金牌┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDB3xui1lDymx4fnoCgxm59NbdMM2FDEd1LoNOCZvedKAplW6Go0JtGfzXnn65Pg1kPIthOoYoQWgY/lKhQKzzcLQKb1ezm1qhhKR/lEhfm+EbojsfeaAOeOaSCVPPzSkVw2DmHMhYv+yWi9ExOHyfuXX1csfF6G/UWPw12lFNeElpZMAUAQG2LEcbRadEvVmNm3YDM07Dn4F8Fcvsnb08MRb3GO2sEZSdjqf85kk1tVNb5zdfho1F01S/Cvzp4Lz84cQdryYTNnZCggLd9vL5TzLkGb3USPOKaq2v4jzsIlGKXcyRYbIDf/vcihcS2/VvRXNBBU782kwniaIiq+4rEN3u8hlLic89wNWeBa60vQgYvjsfM7t1zsospH+7CcEEliFOlYdCrMcW2NGR9Gjj/"
+},
+{
+    "key": "橘子xm",
+    "name": "🍊橘子┃1080P",
+    "type": 3,
+    "api": "csp_AppGetV2",
+    "changeable": "1",
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "pghUv+IPbIqGFEhny2nISk+xygMDLIUeoyKFU8yxKlNVrgrcirdV3YINpNZnwDWWlJoI1+YwCT971kI1lcLM0tzIyHBz96Ly2iz/tFqjAerxg6klaKzTwi6jg5OOo6Mwvnbg/KZWUzU+J7aDaHc72Nucd9aASNNVEfOZ2/3HXtYs3eu8yJM7+mLSvr5mRz9+k4L/WI59yc+PqdX8OqL8HylGowei2F3008X+DCyhFqONooDf9IEFgJXOExW3L3Wb3a0nnnfyr0HqRDiEaoEW2qcVMVHR0CvPhnSp/eEmlvQQ94YDUCH/YVORQoZMD5LteQKiOzSjZbmRbCWxP3hc1A=="
+},
+{
+    "key": "csp_duanjuxm",
+    "name": "🔥短剧┃影视",
+    "type": 3,
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "api": "csp_DuanJu"
+},
+{
+    "key": "csp_MiSou",
+    "name": "🔍米搜┃盘搜",
+    "type": 3,
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "api": "csp_MiSou"
+},
+{
+    "key": "csp_TingBook",
+    "name": "📕有声┃听书",
+    "type": 3,
+    "jar":"https://img2.gelonghui.com/library/09c63-3288508f-cf34-4dbc-88d4-fbfd845b891a.txt",
+    "api": "csp_TingBook"
+},
+{
+    "key": "push_agent",
+    "name": "🛴推送┃小米",
+    "type": 3,
+    "api": "csp_Push",
+    "searchable": 1,
+    "quickSearch": 1,
+    "ext": ""
+},    
 
 {
   "key": "drpy_js_蜻蜓FM",
