@@ -546,20 +546,16 @@
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
 },
-    {
-      "key": "QD4Kfm",
-      "name": "🐷┃猪猪┃影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "https://13826.kstore.vip/AppV2.py",
-      "playerType": 2,
-      "ext": {
-        "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
+{
+    "key": "QD4Kfm",
+    "name": "🐷┃猪猪┃影视",
+    "type": 3,
+    "api": "https://13826.kstore.vip/AppV2.py",
+    "ext": {
+    "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
+    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+    "apisignkey": "lvdoutv-1.0.0"}
+},
     {
       "key": "csp_Jpysfm",
       "name": "🥇️┃金牌┃影视",
