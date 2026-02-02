@@ -556,6 +556,81 @@
     "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
     "apisignkey": "lvdoutv-1.0.0"}
 },
+{
+  "key": "csp_搜搜",
+  "name": "🐼┃搜搜┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host":"https://www.zjcvod.com","ver": 2}
+},
+{
+  "key": "csp_火花",
+  "name": "💮┃火花┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
+},
+{
+  "key": "csp_花柳",
+  "name": "🐼┃花柳┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "http://nico.oiio.fun","ver": 2}
+},
+{
+  "key": "椰子🥥",
+  "name": "🥥┃椰子┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "http://www.yezitv.top","ver": 2}
+},
+{
+  "key": "csp_70",
+  "name": "🐼┃麒麟┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "https://qh.70qh.top","ver": 2}
+}, 
+{
+  "key": "csp_baih",
+  "name": "🐼┃白虎┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "https://app2512.ystva.com","ver": 2}
+},
+{
+  "key": "csp_qinglo",
+  "name": "🐼┃粉象┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": {"host": "http://host1.sopython.top/host.json","ver": 2}
+},
+{
+  "key": "csp_mayi",
+  "name": "🕷┃蚂蚁┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": "http://118.89.203.120:8365/"
+},
+{
+  "key": "csp_PIxia",
+  "name": "🦞┃皮虾┃App",
+  "type": 3,
+  "api":"./XB/Appto.py",
+  "ext": "http://38.55.237.41:8762"
+},
+{
+  "key":"csp_jimi",
+  "name":"┃吉米┃App",
+  "type":4,
+  "api":"https://catbox.n13.club/t9/jimi.php"
+},
+{
+  "key":"csp_lianyu",
+  "name":"┃恋鱼┃App",
+  "type":4,
+  "api":"https://catbox.n13.club/t9/lianyu.php"
+},
     {
       "key": "csp_Jpysfm",
       "name": "🥇️┃金牌┃影视",
@@ -644,8 +719,7 @@
       "name": "🚑┃急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
+      "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
       "style": {
         "type": "rect",
         "ratio": 3.8
@@ -854,7 +928,75 @@
     "jar":"http://cdn.qiaoji8.com/fix260108.jar",
     "ext": "6666666666666666"
 },
-
+{
+    "key": "csp_剧和短剧",
+    "name": "🎬短劇☪系列",
+    "type": 3,
+    "api": "./XB/短合.js"
+},
+{
+    "key": "hipy_js_星芽短剧",
+    "name": "🎬短劇☪系列",
+    "type": 3,
+    "api": "./libs/drpy2.min.js",
+    "ext": "./XB/星芽.js"
+},
+{
+    "key":"豪堪短剧",
+    "name":"♨️豪堪®短剧",
+    "type":3,
+    "api":"csp_HHkkAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key":"盒马短剧",
+    "name":"♨️盒马®短剧",
+    "type":3,
+    "api":"csp_HemaAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key":"拜拜短剧",
+    "name":"♨️拜拜®短剧",
+    "type":3,
+    "api":"csp_BddjAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key":"喵喵短剧",
+    "name":"♨️喵喵®短剧",
+    "type":3,
+    "api":"csp_QmdjAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key":"星星短剧",
+    "name":"♨️星星®短剧",
+    "type":3,
+    "api":"csp_XydjAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key":"岁岁短剧",
+    "name":"♨️岁岁®短剧",
+    "type":3,
+    "api":"csp_SpdjAmns",
+    "jar": "./JAR/嗷嗚.jar"
+},
+{
+    "key": "甜圈短剧",
+    "name": "♨️甜圈®短剧",
+    "type": 3,
+    "api": "csp_TianquanDJ",
+    "jar": "./JAR/sa.jar"
+},
+{
+    "key": "csp_锦鲤短剧",
+    "name": "♨️锦鲤®短剧",
+    "type": 3,
+    "api": "csp_JinliDJ",
+    "jar": "./JAR/sa.jar"
+},
 {
   "key": "ConfigCenter",
   "name": "🇨🇳┣☪配✿置┫辅助",
