@@ -10,46 +10,46 @@
 
 "sites": [
 {
-  "key": "dr_哔哩视频",
-  "name": "🎬┣时光机┫首页",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
+    "key": "dr_哔哩视频",
+    "name": "🎬┣时光机┫首页",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/bili.js"
 },
 {
-  "key": "dr_搜狗",
-  "name": "🎬┣搜狗┫推荐",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
+    "key": "dr_搜狗",
+    "name": "🎬┣搜狗┫推荐",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/SGtv.js"
 },
 {
-  "key": "dr_腾迅",
-  "name": "🐧┃腾讯┃官方",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
+    "key": "dr_腾迅",
+    "name": "🐧┃腾讯┃官方",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/QQtv.js"
 },
 {
-  "key": "dr_芒果",
-  "name": "🥭┃芒果┃官方",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
+    "key": "dr_芒果",
+    "name": "🥭┃芒果┃官方",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/MGtv.js"
 },
 {
-  "key": "dr_奇异",
-  "name": "🥝┃奇艺┃官方",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
+    "key": "dr_奇异",
+    "name": "🥝┃奇艺┃官方",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AQItv.js"
 },
 {
-  "key": "dr_优酷",
-  "name": "🧃┃优酷┃官方",
-  "type": 3,
-  "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-  "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/yKtv.js"
+    "key": "dr_优酷",
+    "name": "🧃┃优酷┃官方",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/yKtv.js"
 },
 {
     "key": "豆瓣OK",
@@ -425,103 +425,103 @@
     "threadinfo": {
     "chunksize": 512,
     "threads": 16}}
-    },
-    {
-      "key": "潮流fm",
-      "name": "🏜┃潮流┃APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "http://v.rbotv.cn",
+},
+{
+    "key": "潮流fm",
+    "name": "🏜┃潮流┃APP",
+    "type": 3,
+    "api": "csp_AppRJ",
+    "ext": "http://v.rbotv.cn",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "肥猫fm",
-      "name": "🐼┃肥猫┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
+},
+{
+    "key": "肥猫fm",
+    "name": "🐼┃肥猫┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "干饭fm",
-      "name": "🍚┃干饭┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap",
+},
+{
+    "key": "干饭fm",
+    "name": "🍚┃干饭┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "光盘fm",
-      "name": "📀┃光盘┃APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
+},
+{
+    "key": "光盘fm",
+    "name": "📀┃光盘┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "行动fm",
-      "name": "😌┃行动┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://165.99.42.137:5432|1234567890987654",
+},
+{
+    "key": "行动fm",
+    "name": "😌┃行动┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://165.99.42.137:5432|1234567890987654",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "再来fm",
-      "name": "✌️┃再来┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://www.jumengwu.com|1f0a873caf2550a5",
+},
+{
+    "key": "再来fm",
+    "name": "✌️┃再来┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://www.jumengwu.com|1f0a873caf2550a5",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "一碗fm",
-      "name": "🥣┃一碗┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://dy.8ttv.cn|1111111111111111",
+},
+{
+    "key": "一碗fm",
+    "name": "🥣┃一碗┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://dy.8ttv.cn|1111111111111111",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "猫抓fm",
-      "name": "🐱┃猫抓┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
+},
+{
+    "key": "猫抓fm",
+    "name": "🐱┃猫抓┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "仓鼠fm",
-      "name": "🐹┃耗子┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
+},
+{
+    "key": "仓鼠fm",
+    "name": "🐹┃耗子┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "蔬菜fm",
-      "name": "🫛┃蔬菜┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+},
+{
+    "key": "蔬菜fm",
+    "name": "🫛┃蔬菜┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "黑猫fm",
-      "name": "🐼┃黑猫┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5",
+},
+{
+    "key": "黑猫fm",
+    "name": "🐼┃黑猫┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
-    {
-      "key": "优优fm",
-      "name": "💯┃优优┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://ios.hgyx.vip|062dec75d039980e",
+},
+{
+    "key": "优优fm",
+    "name": "💯┃优优┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://ios.hgyx.vip|062dec75d039980e",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
+},
 {
     "key": "csp_顾我fm",
     "name": "🐇┃兔子┃APP",
@@ -530,31 +530,29 @@
     "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json|kj37zs29q22jk96t|initV122|okhttp/3.10.0",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
 },
-    {
-      "key": "永永fm",
-      "name": "♾️┃永永┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-    },
 {
-    "key": "csp_鲸鱼fm",
-    "name": "☁️┃云云┃APP",
+    "key": "永永fm",
+    "name": "♾️┃永永┃APP",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json|AAdgrdghjfgsABC1|initV122|okhttp/3.10.0",
+    "api": "csp_AppGet",
+    "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+},
+{
+    "key": "csp_紫金fm",
+    "name": "☁️┃紫金┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://www.zjcvod.com|ab4e9a421675f14b",
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
 },
 {
     "key": "QD4Kfm",
     "name": "🐷┃猪猪┃影视",
     "type": 3,
-    "api": "https://13826.kstore.vip/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0"}
+    "api": "csp_AppQi",
+    "ext": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt|j8sr6d93yp49db3p|",
+    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
 },
 {
   "key": "csp_搜搜",
@@ -575,7 +573,7 @@
   "name": "🎄┃花柳┃App",
   "type": 3,
   "api": "./XB/fuz.js",
-  "ext": {"host": "http://nico.oiio.fun","ver": 2}
+  "ext": {"host": "http://www.yezitv.top/dtym.json","ver": 2}
 },
 {
   "key": "椰子🥥",
@@ -714,18 +712,7 @@
     "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
     },
     
-    {
-      "key": "csp_FirstAidfm",
-      "name": "🚑┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png",
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1"
-    },
+    
     {
       "key": "酷狗fm",
       "name": "🐾┃酷狗┃音乐",
