@@ -560,57 +560,50 @@
   "key": "csp_搜搜",
   "name": "🐼┃搜搜┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host":"https://www.zjcvod.com","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host":"https://www.zjcvod.com","ver": 2}
 },
 {
   "key": "csp_火花",
   "name": "💮┃火花┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host": "http://huohua.itcxo.cn","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
 },
 {
   "key": "csp_花柳",
   "name": "🎄┃花柳┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host": "http://nico.oiio.fun","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host": "http://nico.oiio.fun","ver": 2}
 },
 {
   "key": "椰子🥥",
   "name": "🥥┃椰子┃App",
   "type": 3,
   "api":"./XB/Appto.py",
-  "ext": {"host": "http://www.yezitv.top","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "ext": {"host": "http://www.yezitv.top","ver": 2}
 },
 {
   "key": "csp_70",
   "name": "🐼┃麒麟┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host": "https://qh.70qh.top","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host": "https://qh.70qh.top","ver": 2}
 }, 
 {
   "key": "csp_baih",
   "name": "🐼┃白虎┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host": "https://app2512.ystva.com","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
   "key": "csp_qinglo",
   "name": "🐘┃粉象┃App",
   "type": 3,
-  "api":"./XB/Appto.py",
-  "ext": {"host": "http://host1.sopython.top/host.json","ver": 2},
-    "jar":"https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+  "api": "./XB/fuz.js",
+  "ext": {"host": "http://host1.sopython.top/host.json","ver": 2}
 },
 {
   "key": "csp_mayi",
