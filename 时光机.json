@@ -534,9 +534,6 @@
       "api": "csp_AppFox",
       "ext": "uPkpfg9pQ6vPsaEfxxMLT0PGnn2AgQ4Z2NGLtKKM6Y/9kRwIO2KU4AC3GdvvEV+8"
     },
-    
-    
-    
     {
       "key": "Symx摸鱼",
       "name": "山有｜木兮",
@@ -612,7 +609,6 @@
       "api": "csp_DianYingYunJi",
       "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260203/z8hP/02030614.png"
     },
-    
     {
       "key": "XiaoHongYS摸鱼",
       "name": "小红｜影视",
@@ -662,7 +658,6 @@
       "api": "csp_JLdj",
       "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260203/z8hP/02030614.png"
     },
-    
     {
       "key": "ChuXin摸鱼",
       "name": "初心｜音乐",
@@ -708,17 +703,6 @@
       "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260203/z8hP/02030614.png"
     },
     {
-      "key": "Kanqiu摸鱼",
-      "name": "看球｜体育",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260203/z8hP/02030614.png",
-      "ext": "http://www.88kanqiu.one",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "TingBook摸鱼",
       "name": "听书｜有声",
       "type": 3,
@@ -728,8 +712,7 @@
       "style": {
         "type": "list"
       }
-    },
-    
+    },  
 {
     "key": "豆瓣fm",
     "name": "🐼┃豆瓣┃肥猫宝贝",
