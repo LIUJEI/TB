@@ -69,6 +69,20 @@
     "ext": {"sp": "QiQi"}
 },
 {
+    "key": "csp_优兔",
+    "name": "♾️┣优兔┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
+},
+{
+    "key": "金牌",
+    "name": "♾️┣金牌┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext":  "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|"
+},
+{
     "key": "csp_白马",
     "name": "♾️┣白马┫APP",
     "type": 3,
@@ -81,13 +95,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
-},
-{
-    "key": "csp_汤圆",
-    "name": "♾️┣汤圆┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://tangyuanapp.top|j519MYJAt3kk9XVA"
 },
 {
     "key": "csp_芬奇",
@@ -116,6 +123,13 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+},
+{
+    "key": "看呗",
+    "name": "♾️┣看呗┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://www.winter1.fun|abcdefghigklmn11"
 },
 {
     "key": "csp_火花",
@@ -618,6 +632,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
