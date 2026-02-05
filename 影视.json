@@ -553,6 +553,63 @@
     "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
 },
 {
+    "key": "csp_Duopan",
+    "name": "网盘┃蜡笔┃4K",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "site_urls": [
+    "http://xiaocgege.shop",
+    "https://feimao666.fun",
+    "http://feimao888.fun",
+    "https://feimo.fun",
+    "http://www.labi88.sbs",
+    "http://fmao.site",
+    "http://fmao.shop",
+    "http://xiaocge.fun"],
+    "threadinfo": {"chunksize": 512,"threads": 16},
+    "url_key": "Duopan2"}
+},
+{
+    "key": "csp_Netfixtv",
+    "name": "网盘┃️至臻┃4K",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "site_urls": [
+    "http://xiaomi666.fun",
+    "https://zhizhen1.top",
+    "https://mihdr.top",
+    "https://www.mihdr.top",
+    "http://www.miqk.cc",
+    "https://www.zhizhenpan.fun"],
+    "url_key": "Netfixtv2",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
+},
+{
+    "key": "csp_玩偶",
+    "name": "网盘┃️玩偶┃4K",
+    "type": 3,
+    "api": "csp_Wogg",
+	"jar": "./JAR/sa.jar",
+    "ext": {"site": [
+    "https://www.wogg.one",
+    "https://wogg.333232.xyz",
+    "https://woggpan.888484.xyz"]},
+    "timeout": 60
+},
+{
+    "key": "csp_FeiMaoUC",
+    "name": "网盘┃闪电┃优汐",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+	"site_urls": [
+    "https://shandian.blog/",
+    "https://sd.sduc.site"],
+    "url_key": "FeiMaoUC"}
+},
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
@@ -655,6 +712,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
