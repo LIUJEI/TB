@@ -169,7 +169,7 @@ async function detail(id) {
             const arrToStr = (arr, str) => { return (arr ?? []).map(it => (it.name || it.value)?.trim() || '').join('/') || str; };
             kyear = kvod.year?.trim() || '1000';
             karea = kvod.area?.trim() || '地区';
-            kcontent = kvod.description?.trim() || '简介';
+            kcontent = '【琉🔹芸❤广告勿信👉剧情】 '+kvod.description?.trim() || '简介';
             ktype = arrToStr(kvod.types, '类型');
             klang = arrToStr(kvod.languages, '语言');
             kdirector = arrToStr(kvod.directors, '导演');
@@ -203,7 +203,7 @@ async function detail(id) {
             vod_lang: klang,
             vod_director: kdirector,
             vod_actor: kactor,
-            vod_content: '【琉🔹芸❤广告勿信👉剧情】 '+kcontent,
+            vod_content: kcontent,
             vod_play_from: ktabs.join('$$$💕琉芸👉'),
             vod_play_url: kurls.join('$$$')
         };
