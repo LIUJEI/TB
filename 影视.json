@@ -45,14 +45,6 @@
     "ext": {"sp": "XiongYing"}
 },
 {
-    "key": "csp_花猪",
-    "name": "♾️┣花猪┫APP",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "XiaoZhu"}
-},
-{
     "key": "csp_云云",
     "name": "♾️┣云云┫APP",
     "type": 3,
@@ -67,6 +59,13 @@
     "api": "csp_AweSomeGuard",
     "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
     "ext": {"sp": "QiQi"}
+},
+{
+    "key": "csp_花猪",
+    "name": "♾️┣花猪┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt|j8sr6d93yp49db3p"
 },
 {
     "key": "csp_优兔",
@@ -656,6 +655,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
