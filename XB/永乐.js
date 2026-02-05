@@ -83,7 +83,7 @@ async function detail(id) {
             'vod_name': (html.match(/<h1>(.*?)<\/h1>/) || ["", ""])[1],
             'vod_pic': (html.match(/data-original="(.*?)"/) || ["", ""])[1],
             'vod_content': '【琉🔹芸❤广告勿信👉剧情】 '+(html.match(/introduction-content">.*?<p>(.*?)<\/p>/s) || ["", ""])[1].replace(/<.*?>/g, ""),
-            'vod_play_from': playFrom('💕琉芸👉$$$'),
+            'vod_play_from': playFrom,
             'vod_play_url': playUrl
         }]
     });
