@@ -203,7 +203,7 @@ async function detail(id) {
             vod_lang: klang,
             vod_director: kdirector,
             vod_actor: kactor,
-            vod_content: kcontent,
+            vod_content: '【琉🔹芸❤广告勿信👉剧情】 '+kcontent,
             vod_play_from: ktabs.join('$$$💕琉芸👉'),
             vod_play_url: kurls.join('$$$')
         };
