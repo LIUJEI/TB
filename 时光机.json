@@ -1095,6 +1095,22 @@
     "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 },
 {
+    "key": "nangua",
+    "name": "南瓜┃APP",
+    "type": 3,
+    "api": "csp_NanGua",
+    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
+    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+},
+{
+    "key": "橘皮1",
+    "name": "橘皮┃APP",
+    "type": 3,
+    "api": "csp_Jpys",
+    "jar":"http://cdn.qiaoji8.com/fix260108.jar",
+    "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+},
+{
     "key": "lanyingysqj",
     "name": "橘子┃APP",
     "type": 3,
