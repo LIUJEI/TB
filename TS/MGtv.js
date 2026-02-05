@@ -762,7 +762,7 @@ var rule = {
             VOD.vod_director = director;
             VOD.vod_remarks = _desc;
             VOD.vod_pic = _img;
-            VOD.vod_content = JJ;
+            VOD.vod_content = 【琉🔹芸❤广告勿信👉剧情】;
             if (!VOD.vod_name) {
                 VOD.vod_name = VOD.type_name;
             }
