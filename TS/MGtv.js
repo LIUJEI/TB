@@ -753,7 +753,7 @@ var rule = {
                 time = "已完结"
             }
             let _img = pd(html, ".video-img&&img&&src");
-            let JJ = pdfh(html, ".desc&&Text").split("简介：")[1];
+            let JJ = pdfh(html, ".desc&&Text").split("【琉🔹芸❤广告勿信👉剧情】：")[1];
             let _desc = time;
             VOD.vod_name = pdfh(html, ".vt-txt&&Text");
             VOD.type_name = pdfh(html, "p:eq(0)&&Text").substr(0, 6);
@@ -812,7 +812,7 @@ var rule = {
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "mgtv";
+        VOD.vod_play_from = "琉芸芒果";
         VOD.vod_play_url = d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#");
