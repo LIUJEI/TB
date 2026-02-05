@@ -68,7 +68,7 @@ async function detail(id) {
     let resp = await req(url, { headers: headers });
     let html = resp.content;
     
-    let playFrom = pdfa(html, ".module-tab-item").map(it => (it.match(/<span>(.*?)<\/span>/) || ["","线路"])[1]).join('$$$💕琉芸👉');
+    let playFrom = pdfa(html, ".module-tab-item").map(it => (it.match(/<span>(.*?)<\/span>/) || ["","线路"])[1]).join('$$$');
     let playUrl = pdfa(html, ".module-play-list-content").map(list => 
         pdfa(list, "a").map(a => {
             let n = (a.match(/<span>(.*?)<\/span>/) || ["","播放"])[1];
