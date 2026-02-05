@@ -132,7 +132,7 @@ class Spider(Spider):
                 'vod_area': i['vodArea'],
                 'vod_actor': i['vodActor'],
                 'vod_director': i['vodDirector'],
-                'vod_content': i['【琉🔹芸❤广告勿信👉剧情】vodContent'],
+                'vod_content': i['vodContent'],
                 'vod_play_from': '💕琉芸👉界影视',
                 'vod_play_url': '#'.join(urls),
 
