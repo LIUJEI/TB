@@ -23,18 +23,18 @@
     "ext": "http://v.rbotv.cn"
 },
 {
-    "key": "csp_顾我",
-    "name": "♾️┣顾我┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json|kj37zs29q22jk96t|initV122|okhttp/3.10.0"
-},
-{
     "key": "csp_爱盈",
     "name": "♾️┣爱盈┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
+},
+{
+    "key": "csp_顾我",
+    "name": "♾️┣顾我┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json|kj37zs29q22jk96t|initV122|okhttp/3.10.0"
 },
 {
     "key": "csp_雄鹰",
@@ -45,20 +45,19 @@
     "ext": {"sp": "XiongYing"}
 },
 {
-    "key": "csp_云云",
-    "name": "♾️┣云云┫APP",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "YunYun"}
-},
-{
     "key": "csp_奇奇",
     "name": "♾️┣奇奇┫APP",
     "type": 3,
     "api": "csp_AweSomeGuard",
     "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
     "ext": {"sp": "QiQi"}
+},
+{
+    "key": "csp_aiying",
+    "name": "♾️┣云云┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q16.txt|dj382hsyqp98kqn8|mineInfo|"
 },
 {
     "key": "csp_花猪",
@@ -75,25 +74,11 @@
     "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
 },
 {
-    "key": "金牌",
-    "name": "♾️┣金牌┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext":  "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee|searchList4|"
-},
-{
-    "key": "csp_白马",
-    "name": "♾️┣白马┫APP",
-    "type": 3,
+    "key": "csp_七壹",
+    "name": "♾️┣七壹┫APP",
+	"type": 3,
     "api": "csp_AppGet",
-    "ext":  "https://uutu.efjhl.cn|uXVVRRuaPnjEfsX5"
-},
-{
-    "key": "csp_火狐",
-    "name": "♾️┣火狐┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://122.114.171.79:568/huohushipin.txt|huohushipingetap"
+    "ext": "https://qiyiys.cc|45452893929B40D9|"
 },
 {
     "key": "csp_芬奇",
@@ -131,11 +116,18 @@
     "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
 },
 {
-    "key": "csp_火花",
-    "name": "♾️┣火花┫APP",
+    "key": "csp_白马",
+    "name": "♾️┣白马┫APP",
     "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": {"host": "http://huohua.itcxo.cn","ver": 2}
+    "api": "csp_AppGet",
+    "ext": "https://vv.229d.cn|8888888888888888"
+},
+{
+    "key": "csp_火狐",
+    "name": "♾️┣火狐┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://www.613mf4k12.top|1234567887654321"
 },
 {
 	"key": "csp_baih",
@@ -152,17 +144,49 @@
 	"ext": "http://118.89.203.120:8365/"
 },
 {
-	"key":"csp_jimi",
-	"name":"♾️┣吉米┫APP",
-	"type":4,
-	"api":"https://catbox.n13.club/t9/jimi.php"
-},
-{
 	"key":"csp_lianyu",
 	"name":"♾️┣恋鱼┫APP",
 	"type":4,
 	"api":"https://catbox.n13.club/t9/lianyu.php"
 },
+	{
+      "key": "韩圈",
+      "name": "韩圈｜APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+    },
+    {
+      "key": "奴娜",
+      "name": "奴娜丨APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.nntv.in/api.php/v1.vod"
+    },
+ {
+      "key": "搜搜",
+      "name": "搜搜｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.zjcvod.com"
+    },
+	{
+      "key": "咕噜",
+      "name": "咕噜｜APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+    },
 {
     "key": "csp_js_荐片",
     "name": "🪀影視🔹荐片",
@@ -712,6 +736,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
