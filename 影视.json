@@ -149,27 +149,20 @@
 	"type":4,
 	"api":"https://catbox.n13.club/t9/lianyu.php"
 },
-	{
-      "key": "韩圈",
-      "name": "韩圈｜APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
-    },
- {
-      "key": "搜搜",
-      "name": "搜搜｜APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": "https://www.zjcvod.com"
-    },
-	{
-      "key": "咕噜",
-      "name": "咕噜｜APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": "http://www.yingsw.top|guluyinghua_123|679543610991810f19698c187e5e106e"
-    },
+{
+    "key": "搜搜",
+    "name": "♾️┣搜搜┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "https://www.zjcvod.com"
+},
+{
+    "key": "咕噜",
+    "name": "♾️┣咕噜┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "http://www.yingsw.top"
+},
 {
     "key": "csp_js_荐片",
     "name": "🪀影視🔹荐片",
@@ -719,6 +712,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
