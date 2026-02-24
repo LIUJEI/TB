@@ -116,8 +116,8 @@
     "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
 },
 {
-    "key": "csp_白马",
-    "name": "♾️┣白马┫APP",
+    "key": "csp_气球",
+    "name": "♾️┣气球┫APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": "https://vv.229d.cn|8888888888888888"
@@ -134,7 +134,21 @@
 	"name": "♾️┣白虎┫APP",
 	"type": 3,
     "api": "./XB/fuz.js",
-	"ext": {"host": "https://app2512.ystva.com","ver": 2}
+	"ext": "https://app2512.ystva.com"
+},
+{
+    "key": "紫金草视频",
+    "name": "♾️┣紫金┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "https://www.zjcvod.com"
+},
+{
+    "key": "csp_yings",
+    "name": "♾️┣罂粟┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "http://www.yingsw.top"
 },
 {
     "key": "csp_mayi",
@@ -148,20 +162,6 @@
 	"name":"♾️┣恋鱼┫APP",
 	"type":4,
 	"api":"https://catbox.n13.club/t9/lianyu.php"
-},
-{
-    "key": "搜搜",
-    "name": "♾️┣搜搜┫APP",
-    "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": "https://www.zjcvod.com"
-},
-{
-    "key": "咕噜",
-    "name": "♾️┣咕噜┫APP",
-    "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": "http://www.yingsw.top"
 },
 {
     "key": "csp_js_荐片",
@@ -712,6 +712,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
