@@ -24,10 +24,10 @@
 },
 {
       "key": "橘猫",
-      "name": "橘猫｜APP",
+      "name": "♾️┣橘猫｜APP",
       "type": 3,
-      "api": "csp_AppNox",
-      "ext": "https://nox.jm4k.top|application|json/6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38|com.gnzhis.nru"
+      "api": "./XB/fuz.js",
+      "ext": "https://nox.jm4k.top"
     },
     {
       "key": "片喵",
@@ -831,6 +831,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
