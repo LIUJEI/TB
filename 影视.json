@@ -23,125 +23,6 @@
     "ext": "http://v.rbotv.cn"
 },
 {
-      "key": "橘猫",
-      "name": "♾️┣橘猫｜APP",
-      "type": 3,
-      "api": "./XB/fuz.js",
-      "ext": "https://nox.jm4k.top"
-    },
-    {
-      "key": "片喵",
-      "name": "片喵｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://svip.2video.cc||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-          "x-app-package": "com.ds.wlss",
-          "x-app-version-code": "56",
-          "x-app-version-name": "1.2.6"
-        }
-      }
-    },
-    {
-      "key": "火猫",
-      "name": "火猫｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://jp5.ggtvb.cc||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-          "x-app-package": "cc.xzsc.user",
-          "x-app-version-code": "12",
-          "x-app-version-name": "5.2"
-        }
-      }
-    },
-    {
-      "key": "幕悦",
-      "name": "幕悦｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://111.170.7.114:8989||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3",
-          "x-app-package": "com.muyuesg.app",
-          "x-app-version-code": "12",
-          "x-app-version-name": "0.1.2"
-        }
-      }
-    },
-    {
-      "key": "随看",
-      "name": "随看｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://skapp.tpmbt.cn||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "28:FA:41:C9:95:6D:9A:36:0A:FC:FC:22:12:78:80:10:B7:47:0B:8F:CE:AB:A9:49:85:22:B3:EA:57:35:C2:D1",
-          "x-app-package": "com.mfbrjy.aqb",
-          "x-app-version-code": "320",
-          "x-app-version-name": "3.2.0"
-        }
-      }
-    },
-    {
-      "key": "橘子",
-      "name": "橘子｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://nox.jm4k.top||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38",
-          "x-app-package": "com.gnzhis.nru",
-          "x-app-version-code": "2",
-          "x-app-version-name": "2.4.1"
-        }
-      }
-    },
-    {
-      "key": "星影",
-      "name": "星影｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://110.81.153.7:8081||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "65:10:73:C4:52:FE:2D:8B:88:76:C2:17:83:C1:D3:6B:E3:2D:E0:40:F4:49:05:92:02:AA:DF:C3:12:78:1C:0C",
-          "x-app-package": "com.asxkkc.jbz",
-          "x-app-version-code": "5",
-          "x-app-version-name": "1.3.9"
-        }
-      }
-    },
-    {
-      "key": "回响",
-      "name": "回响｜APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://110.42.37.69:8080||||",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
-          "x-app-package": "com.recall.app",
-          "x-app-version-code": "22",
-          "x-app-version-name": "2.2.0"
-        }
-      }
-    },
-{
     "key": "csp_爱盈",
     "name": "♾️┣爱盈┫APP",
     "type": 3,
@@ -311,14 +192,6 @@
     "jar": "./JAR/sa.jar"
 },
 {
-    "key": "木兮影视",
-    "name": "🪀木兮🔹影視",
-    "type": 3,
-    "api": "csp_Symx",
-    "ext": "https://film.symx.club",
-    "jar": "./JAR/sa.jar"
-},
-{
     "key": "csp_js_永乐",
     "name": "🪀永乐🔹影視",
     "type": 3,
@@ -401,6 +274,14 @@
     "api": "csp_XBPQ",
     "ext": "./XB/柠檬.json",
     "jar": "./JAR/sa.jar"
+},
+{
+    "key": "csp_Awe_移动",
+    "name": "🪀移动🔹影視",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "https://gitee.com/senno/tvbox/raw/master/jar/移冻.jar",
+    "ext": {"sp": "Panta"}
 },
 {
     "key": "csp_剧和短剧",
@@ -831,6 +712,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
