@@ -164,32 +164,19 @@
 	"api":"https://catbox.n13.club/t9/lianyu.php"
 },
 {
-    "key": "csp_js_荐片",
-    "name": "🪀影視🔹荐片",
-    "type": 3,
-    "api": "./XB/荐片0.js",
-    "ext": {"host": "https://api.ztcgi.com"}
-},
-{
-    "key": "csp_麻雀",
-    "name": "🪀麻雀🔹秒播",
-    "type": 3,
-    "api": "./XB/麻雀.js"
-},
-{
     "key": "农民影视",
     "name": "🪀农民🔹影視",
     "type": 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "1905",
     "name": "🪀1905🔹影視",
     "type": 3,
     "api": "csp_Web1905",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "csp_js_永乐",
@@ -228,6 +215,12 @@
     "api": "./XB/飞快.py"
 },
 {
+    "key": "csp_麻雀",
+    "name": "🪀麻雀🔹秒播",
+    "type": 3,
+    "api": "./XB/麻雀.js"
+},
+{
     "key": "爱看机器1人",
     "name": "🪀爱看🔹影視",
     "type": 3,
@@ -256,7 +249,7 @@
     "name": "🪀人人🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": "./XB/人人.png"
 },
 {
@@ -265,7 +258,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./XB/饭团.json",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "csp_xBPQ_柠檬",
@@ -273,7 +266,14 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./XB/柠檬.json",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
+},
+{
+    "key": "csp_js_荐片",
+    "name": "🪀影視🔹荐片",
+    "type": 3,
+    "api": "./XB/荐片0.js",
+    "ext": {"host": "https://api.ztcgi.com"}
 },
 {
     "key": "csp_Awe_移动",
@@ -343,21 +343,21 @@
     "name": "♨️甜圈®短剧",
     "type": 3,
     "api": "csp_TianquanDJ",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "csp_锦鲤短剧",
     "name": "♨️锦鲤®短剧",
     "type": 3,
     "api": "csp_JinliDJ",
-    "jar": "./JAR/sa.jar"
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "csp_茄子短剧",
     "name": "♨️茄子®短劇",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "副标题": "琉芸✨-+right\">&&<",
     "线路标题": "panel-hd\">&&",
@@ -369,7 +369,7 @@
     "name": "♨️抖音®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
     "分类": "♨️抖音短剧$5"}
@@ -379,7 +379,7 @@
     "name": "♨️蝶众®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类": "♨️蝶众短剧$6",
     "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
@@ -389,7 +389,7 @@
     "name": "♨️兰岛®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类": "♨️兰岛短剧$20",
     "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
@@ -399,7 +399,7 @@
     "name": "♨️九洲®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {
     "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类url": "https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -411,7 +411,7 @@
     "name": "♨️五五®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类url": "https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
     "分类": "♨️五五短剧$1",
@@ -463,7 +463,7 @@
     "key": "csp_闪影",
     "name": "🐉┃闪影┃官采",
     "type": 3,
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "api": "csp_AppYs",
     "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
     "categories": ["电影","剧集","短剧","综艺","动漫"]
@@ -591,7 +591,7 @@
     "name": "网盘┃️玩偶┃4K",
     "type": 3,
     "api": "csp_Wogg",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {"site": [
     "https://www.wogg.one",
     "https://wogg.333232.xyz",
@@ -614,7 +614,7 @@
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -623,7 +623,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-	"jar": "./JAR/sa.jar",
+	"jar": "./JAR/Sxiao.jar",
     "ext": "./XB/single.json"
 }],
 "parses": [
@@ -712,6 +712,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
