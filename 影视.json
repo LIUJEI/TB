@@ -195,7 +195,7 @@
 },
 {
     "key": "零度",
-    "name": "♾️┣零度｜APP",
+    "name": "♾️┣零度┫APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
@@ -203,7 +203,7 @@
 },
 {
     "key": "粉象",
-    "name": "♾️┣粉象｜APP",
+    "name": "♾️┣粉象┫APP",
     "type": 3,
     "api": "csp_AppNox",
     "ext": {
@@ -840,6 +840,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
