@@ -124,7 +124,7 @@ async function detail(id) {
     return JSON.stringify({ list: [{ vod_id: id, vod_name: '加载失败', vod_play_url: '' }] });
   }
 
-  vod.vod_play_from = '💕琉芸👉金牌影院';
+  vod.vod_play_from = '金牌影院';
   if (vod.episodelist?.length) {
     const name = vod.episodelist.length > 1 ? vod.episodelist[0].name : vod.vod_name;
     vod.vod_play_url = vod.episodelist.map(ep => `${name}$${id}@@${ep.nid}`).join('#');
