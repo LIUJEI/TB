@@ -504,14 +504,6 @@
     "jar": "./JAR/Sxiao.jar"
 },
 {
-    "key": "碎片短剧",
-    "name": "♨️碎片®短剧",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "SuiPian"}
-},
-{
     "key": "csp_茄子短剧",
     "name": "♨️茄子®短劇",
     "type": 3,
@@ -647,27 +639,27 @@
     "style": {"type": "rect","ratio": 1.333}
 },
 {
-    "key": "csp_Kugou",
-    "name": "💫┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_Kugou",
-    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
-},
-{
-    "key": "csp_AiMusic",
-    "name": "🎸┃爱听┃音乐",
+    "key": "csp_易听",
+    "name": "🎸┃易听┃音乐",
     "type": 3,
     "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "AiMusic"}
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
+    "ext": {"sp": "ShiJiMusic"}
 },
 {
     "key": "csp_mogou",
     "name": "🎸┃酷狗┃音乐",
     "type": 3,
     "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
+    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
     "ext": {"sp": "KuGou"}
+},
+{
+    "key": "csp_Kugou",
+    "name": "💫┃酷狗┃音乐",
+    "type": 3,
+    "api": "csp_Kugou",
+    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
 	"key": "csp_YALI",
@@ -871,6 +863,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
