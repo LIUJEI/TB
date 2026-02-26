@@ -207,11 +207,7 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-	"url": "http://64.64.252.93:8080",
-	"header": {
-	"x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
-	"x-app-package": "com.fenxiang.make"}}
+    "ext": {"url": "http://64.64.252.93:8080"}
 },
 {
     "key": "橘猫",
@@ -219,39 +215,31 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-	"url": "https://nox.jm4k.top",
-	"header": {"x-app-package": "com.gnzhis.nru"}}
+    "ext": {"url": "https://nox.jm4k.top"}
 },
 {
     "key": "片喵",
-    "name": "♾️┣片喵｜APP",
+    "name": "♾️┣片喵┫APP",
     "type": 3,
     "api": "csp_AppNox",
     "jar": "./JAR/Sxiao.jar",
-    "ext": {
-	"url": "https://svip.2video.cc",
-	"header": {"x-app-package": "com.ds.wlss"}}
+    "ext": {"url": "https://svip.2video.cc"}
 },
 {
     "key": "火猫",
-    "name": "♾️┣火猫｜APP",
+    "name": "♾️┣火猫┫APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "url": "https://jp5.ggtvb.cc",
-    "header": {"x-app-package": "cc.xzsc.user"}}
+    "ext": {"url": "https://jp5.ggtvb.cc"}
 },
 {
     "key": "幕悦",
-    "name": "♾️┣幕悦｜APP",
+    "name": "♾️┣幕悦┫APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "url": "http://111.170.7.114:8989",
-    "header": {"x-app-package": "com.muyuesg.app"}}
+    "ext": {"url": "http://111.170.7.114:8989"}
 },
 {
     "key": "随看",
@@ -259,9 +247,7 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-	"url": "https://skapp.tpmbt.cn",
-    "header": {"x-app-package": "com.mfbrjy.aqb"}}
+    "ext": {"url": "https://skapp.tpmbt.cn"}
 },
 {
     "key": "星影",
@@ -269,9 +255,7 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "url": "http://110.81.153.7:8081",
-    "header": {"x-app-package": "com.asxkkc.jbz"}}
+    "ext": {"url": "http://110.81.153.7:8081"}
 },
 {
     "key": "回响",
@@ -279,9 +263,7 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "url": "http://110.42.37.69:8080",
-    "header": {"x-app-package": "com.recall.app"}}
+    "ext": {"url": "http://110.42.37.69:8080"}
 },
 {
     "key": "农民影视",
@@ -840,6 +822,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
