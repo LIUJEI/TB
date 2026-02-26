@@ -74,13 +74,6 @@
     "ext": {"sp": "QiQi"}
 },
 {
-    "key": "鲸鱼",
-    "name": "♾️┣鲸鱼┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json|AAdgrdghjfgsABC1"
-},
-{
     "key": "茉莉",
     "name": "♾️┣茉莉┫APP",
     "type": 3,
@@ -822,6 +815,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
