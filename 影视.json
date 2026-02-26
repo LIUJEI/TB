@@ -201,26 +201,17 @@
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
 	"url": "http://ld.ldysapp.cn",
-    "header": {
-   
-    "x-app-package": "com.mjyx.jhxq"
-   
-                }
-            }
+	"header": {"x-app-package": "com.mjyx.jhxq"}}
 },
 {
     "key": "粉象",
     "name": "♾️┣粉象｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
-    "url": "http://64.64.252.93:8080",
-    "header": {
-   
-   
-    "x-app-package": "com.fenxiang.make"
-	}}
+	"jar": "./JAR/Sxiao.jar",
+	"url": "http://64.64.252.93:8080",
+	"header": {"x-app-package": "com.fenxiang.make"}}
 },
 {
     "key": "橘猫",
@@ -229,43 +220,28 @@
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
-    "url": "https://nox.jm4k.top",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38",
-    "x-app-package": "com.gnzhis.nru",
-    "x-app-version-code": "2",
-    "x-app-version-name": "2.4.1"}}
+	"url": "https://nox.jm4k.top",
+	"header": {"x-app-package": "com.gnzhis.nru"}}
 },
 {
     "key": "片喵",
-    "name": "片喵｜APP",
+    "name": "♾️┣片喵｜APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
-    "url": "https://svip.2video.cc",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-    "x-app-package": "com.ds.wlss",
-    "x-app-version-code": "56",
-    "x-app-version-name": "1.2.6"}}
+	"url": "https://svip.2video.cc",
+	"header": {"x-app-package": "com.ds.wlss"}}
 },
 {
     "key": "火猫",
-    "name": "火猫｜APP",
+    "name": "♾️┣火猫｜APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
     "url": "https://jp5.ggtvb.cc",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-    "x-app-package": "cc.xzsc.user",
-    "x-app-version-code": "12",
-    "x-app-version-name": "5.2"}}
+    "header": {"x-app-package": "cc.xzsc.user"}}
 },
 {
     "key": "幕悦",
@@ -884,6 +860,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
