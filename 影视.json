@@ -74,13 +74,6 @@
     "ext": {"sp": "QiQi"}
 },
 {
-    "key": "茉莉",
-    "name": "♾️┣茉莉┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
-},
-{
     "key": "csp_芬奇",
     "name": "♾️┣芬奇┫APP",
     "type": 3,
@@ -95,39 +88,11 @@
     "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
 },
 {
-    "key": "csp_缘梦",
-    "name": "♾️┣缘梦┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://165.99.42.137:5432|1234567890987654"
-},
-{
     "key": "csp_新剧",
     "name": "♾️┣新剧┫APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
-},
-{
-    "key": "王子",
-    "name": "♾️┣王子┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-},
-{
-    "key": "csp_气球",
-    "name": "♾️┣气球┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://vv.229d.cn|8888888888888888"
-},
-{
-    "key": "csp_七壹",
-    "name": "♾️┣七壹┫APP",
-	"type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://qiyiys.cc|45452893929B40D9"
 },
 {
     "key": "魔方",
@@ -137,32 +102,11 @@
     "ext": "http://www.613mf4k12.top|1234567887654321"
 },
 {
-    "key": "瑞奇",
-    "name": "♾️┣瑞奇┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
-},
-{
 	"key": "csp_baih",
 	"name": "♾️┣白虎┫APP",
 	"type": 3,
     "api": "./XB/fuz.js",
 	"ext": "https://app2512.ystva.com"
-},
-{
-    "key": "紫金草视频",
-    "name": "♾️┣紫金┫APP",
-    "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": "https://www.zjcvod.com"
-},
-{
-    "key": "csp_yings",
-    "name": "♾️┣罂粟┫APP",
-    "type": 3,
-    "api": "./XB/fuz.js",
-    "ext": "http://www.yingsw.top"
 },
 {
     "key": "csp_mayi",
@@ -847,6 +791,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
