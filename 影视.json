@@ -95,11 +95,11 @@
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
 },
 {
-    "key": "魔方",
-    "name": "♾️┣魔方┫APP",
+    "key": "csp_miaokan",
+    "name": "♾️┣秒看┫APP",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "http://www.613mf4k12.top|1234567887654321"
+    "ext": "./BPQ/miaokan.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa|"
 },
 {
 	"key": "csp_baih",
@@ -791,6 +791,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
