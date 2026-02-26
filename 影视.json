@@ -418,12 +418,16 @@
     "jar": "./JAR/Sxiao.jar"
 },
 {
-    "key": "月光影视",
-    "name": "🪀月光🔹影視",
-    "type": 3,
-	"api": "csp_XBPQ",
-    "ext": "./XB/月光.json",
-    "jar": "./JAR/Sxiao.jar"
+    "key":"dyxz",
+	"name":"🪀玫瑰小镇",
+	"type":3,
+	"api":"csp_XBPQ",
+	"jar": "./JAR/Sxiao.jar",
+	"ext":{"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+	"主页url":"http://www.du88.cc",
+	"分类":"电影&电视剧&综艺&动漫&福利&伦理",
+	"分类值":"1&2&4&3&5&6",
+	"分类url":"http://www.du88.cc/list/{cateId}_{catePg}.html"}
 },
 {
     "key": "csp_js_荐片",
@@ -866,6 +870,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
