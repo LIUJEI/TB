@@ -195,16 +195,11 @@
 },
 {
     "key": "零度",
-    "name": "零度｜APP",
+    "name": "♾️┣零度｜APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "url": "http://ld.ldysapp.cn",
-    "header": {
-   
-   
-    "x-app-package": "com.mjyx.jhxq"}}
+    "ext": {"url": "http://ld.ldysapp.cn",}
 },
 {
     "key": "粉象",
@@ -883,6 +878,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
