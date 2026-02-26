@@ -318,9 +318,13 @@
     "key": "农民影视",
     "name": "🪀农民🔹影視",
     "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200",
-    "jar": "./JAR/Sxiao.jar"
+    "api": "csp_XBPQ",
+    "jar": "./JAR/Sxiao.jar",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+	"副标题": "琉芸专属",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "https://vip.wwgz.cn:5200/;;!H"}
 },
 {
     "key": "1905",
@@ -330,16 +334,16 @@
     "jar": "./JAR/Sxiao.jar"
 },
 {
-    "key": "csp_js_永乐",
-    "name": "🪀永乐🔹影視",
-    "type": 3,
-    "api": "./XB/永乐.js"
-},
-{
     "key": "csp_js_金牌123",
     "name": "🪀金牌🔹影視",
     "type": 3,
     "api": "./XB/金牌.js"
+},
+{
+    "key": "csp_js_永乐",
+    "name": "🪀永乐🔹影視",
+    "type": 3,
+    "api": "./XB/永乐.js"
 },
 {
     "key": "csp_js_鬼片",
@@ -378,12 +382,6 @@
     "api": "./XB/爱看.js"
 },
 {
-    "key": "月光影视",
-    "name": "🪀月光🔹影視",
-    "type": 3,
-    "api": "./XB/月光.js"
-},
-{
     "key": "星辰影院",
     "name": "🪀星辰🔹影視",
     "type": 3,
@@ -417,6 +415,14 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./XB/柠檬.json",
+    "jar": "./JAR/Sxiao.jar"
+},
+{
+    "key": "月光影视",
+    "name": "🪀月光🔹影視",
+    "type": 3,
+	"api": "csp_XBPQ",
+    "ext": "./XB/月光.js",
     "jar": "./JAR/Sxiao.jar"
 },
 {
@@ -620,15 +626,12 @@
     "categories": ["电影","剧集","短剧","综艺","动漫"]
 },
 { 
-    "key": "csp_团夕",
-    "name": "🐉┃团夕┃官采",
+    "key": "csp_星河",
+    "name": "🐉┃星河┃官采",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/AppV2.py",
-    "ext": {
-    "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-    "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-    "apisignkey": "lvdoutv-1.0.0",
-    "ua": "okhttp/12.13"}
+    "api": "csp_AppYsV2",
+    "ext": "http://99cms.jj99.icu:8199/api.php/app/",
+    "categories": ["电影","剧集","短剧","综艺","动漫"]
 },
 {
     "key": "csp_BiliMV",
@@ -863,6 +866,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
