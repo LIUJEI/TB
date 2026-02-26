@@ -27,7 +27,7 @@
     "name": "♾️┣云云┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q16.txt|dj382hsyqp98kqn8|mineInfo"
+    "ext": "./BPQ/q16.txt|dj382hsyqp98kqn8|mineInfo"
 },
 {
     "key": "csp_花猪",
@@ -791,6 +791,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
