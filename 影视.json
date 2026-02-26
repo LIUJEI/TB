@@ -201,7 +201,7 @@
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
 	"url": "http://ld.ldysapp.cn",
-	"header": {"x-app-package": "com.mjyx.jhxq"}}
+	"header": {"x-app-package": ""}}
 },
 {
     "key": "粉象",
@@ -218,8 +218,8 @@
     "name": "♾️┣橘猫｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
 	"url": "https://nox.jm4k.top",
 	"header": {"x-app-package": "com.gnzhis.nru"}}
 },
@@ -228,8 +228,8 @@
     "name": "♾️┣片喵｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
 	"url": "https://svip.2video.cc",
 	"header": {"x-app-package": "com.ds.wlss"}}
 },
@@ -238,70 +238,50 @@
     "name": "♾️┣火猫｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
     "url": "https://jp5.ggtvb.cc",
     "header": {"x-app-package": "cc.xzsc.user"}}
 },
 {
     "key": "幕悦",
-    "name": "幕悦｜APP",
+    "name": "♾️┣幕悦｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
     "url": "http://111.170.7.114:8989",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3",
-    "x-app-package": "com.muyuesg.app",
-    "x-app-version-code": "12",
-    "x-app-version-name": "0.1.2"}}
+    "header": {"x-app-package": "com.muyuesg.app"}}
 },
 {
     "key": "随看",
-    "name": "随看｜APP",
+    "name": "♾️┣随看｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
 	"url": "https://skapp.tpmbt.cn",
-    "header": {
-	"content-type": "application/json",
-    "x-app-signature": "28:FA:41:C9:95:6D:9A:36:0A:FC:FC:22:12:78:80:10:B7:47:0B:8F:CE:AB:A9:49:85:22:B3:EA:57:35:C2:D1",
-    "x-app-package": "com.mfbrjy.aqb",
-    "x-app-version-code": "320",
-    "x-app-version-name": "3.2.0"}}
+    "header": {"x-app-package": "com.mfbrjy.aqb"}}
 },
 {
     "key": "星影",
-    "name": "星影｜APP",
+    "name": "♾️┣星影｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
     "url": "http://110.81.153.7:8081",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "65:10:73:C4:52:FE:2D:8B:88:76:C2:17:83:C1:D3:6B:E3:2D:E0:40:F4:49:05:92:02:AA:DF:C3:12:78:1C:0C",
-    "x-app-package": "com.asxkkc.jbz",
-    "x-app-version-code": "5",
-    "x-app-version-name": "1.3.9"}}
+    "header": {"x-app-package": "com.asxkkc.jbz"}}
 },
 {
     "key": "回响",
-    "name": "回响｜APP",
+    "name": "♾️┣回响｜APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
     "ext": {
+	"jar": "./JAR/Sxiao.jar",
     "url": "http://110.42.37.69:8080",
-    "header": {
-    "content-type": "application/json",
-    "x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
-    "x-app-package": "com.recall.app",
-    "x-app-version-code": "22",
-    "x-app-version-name": "2.2.0"}}
+    "header": {"x-app-package": "com.recall.app"}}
 },
 {
     "key": "农民影视",
@@ -860,6 +840,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
