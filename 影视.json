@@ -407,29 +407,6 @@
     "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
 },
 {
-    "key": "Symx",
-    "name": "山有｜木兮",
-    "type": 3,
-    "api": "csp_Symx",
-	"jar": "./JAR/my.png",
-    "ext": "https://film.symx.club"
-},
-{
-    "key": "fishhxq",
-    "name": "韩小圈｜影视",
-    "type": 3,
-    "api": "csp_FishHxq",
-	"jar": "./JAR/my.png",
-    "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
-},
-{
-    "key": "CupFox",
-    "name": "茶杯狐｜影视",
-    "type": 3,
-    "api": "csp_CupFox",
-    "jar": "./JAR/my.png"
-},
-{
     "key": "csp_js_荐片",
     "name": "🪀影視🔹荐片",
     "type": 3,
@@ -870,6 +847,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
