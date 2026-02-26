@@ -203,7 +203,7 @@
     "url": "http://ld.ldysapp.cn",
     "header": {
    
-    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+   
     "x-app-package": "com.mjyx.jhxq"}}
 },
 {
@@ -883,6 +883,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
