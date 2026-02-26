@@ -202,7 +202,7 @@
     "ext": {
 	"url": "http://ld.ldysapp.cn",
     "header": {
-    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+   
     "x-app-package": "com.mjyx.jhxq"
    
                 }
@@ -218,13 +218,13 @@
     "url": "http://64.64.252.93:8080",
     "header": {
    
-    "x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
+   
     "x-app-package": "com.fenxiang.make"
 	}}
 },
 {
     "key": "橘猫",
-    "name": "橘猫｜APP",
+    "name": "♾️┣橘猫｜APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
@@ -884,6 +884,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
