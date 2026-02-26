@@ -198,6 +198,7 @@
     "name": "♾️┣零度｜APP",
     "type": 3,
     "api": "csp_AppNox",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {
 	"url": "http://ld.ldysapp.cn",
     "header": {
@@ -209,18 +210,17 @@
 },
 {
     "key": "粉象",
-    "name": "粉象｜APP",
+    "name": "♾️┣粉象｜APP",
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
     "ext": {
     "url": "http://64.64.252.93:8080",
     "header": {
-    "content-type": "application/json",
+   
     "x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
-    "x-app-package": "com.fenxiang.make",
-    "x-app-version-code": "1",
-    "x-app-version-name": "1.0.0"}}
+    "x-app-package": "com.fenxiang.make"
+	}}
 },
 {
     "key": "橘猫",
@@ -884,6 +884,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
