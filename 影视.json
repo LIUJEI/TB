@@ -199,9 +199,7 @@
     "type": 3,
     "api": "csp_AppNox",
 	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-	"url": "http://ld.ldysapp.cn",
-	"header": {"x-app-package": ""}}
+    "ext": {"url": "http://ld.ldysapp.cn"}
 },
 {
     "key": "粉象",
@@ -211,7 +209,9 @@
     "ext": {
 	"jar": "./JAR/Sxiao.jar",
 	"url": "http://64.64.252.93:8080",
-	"header": {"x-app-package": "com.fenxiang.make"}}
+	"header": {
+	"x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
+	"x-app-package": "com.fenxiang.make"}}
 },
 {
     "key": "橘猫",
@@ -840,6 +840,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
