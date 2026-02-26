@@ -27,7 +27,7 @@
     "name": "♾️┣云云┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "./BPQ/q16.txt|dj382hsyqp98kqn8|mineInfo"
+    "ext": "https://d.kstore.dev/download/12194/HB/q16.txt|dj382hsyqp98kqn8|mineInfo"
 },
 {
     "key": "csp_花猪",
@@ -99,7 +99,7 @@
     "name": "♾️┣秒看┫APP",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "./BPQ/miaokan.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa|"
+    "ext": "https://d.kstore.dev/download/12194/HB/miaokan.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa|"
 },
 {
 	"key": "csp_baih",
@@ -791,6 +791,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
