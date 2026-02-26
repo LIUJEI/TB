@@ -403,7 +403,7 @@
     "name": "🪀知秋🔹影視",
     "type": 3,
     "api": "csp_MYzhiqiu",
-    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "jar": "./JAR/my.png",
     "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
 },
 {
@@ -847,6 +847,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
