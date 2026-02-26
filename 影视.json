@@ -81,13 +81,6 @@
     "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
 },
 {
-    "key": "csp_爱盈",
-    "name": "♾️┣爱盈┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61"
-},
-{
     "key": "csp_芬奇",
     "name": "♾️┣芬奇┫APP",
     "type": 3,
@@ -149,14 +142,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
-},
-{
-    "key": "csp_韩圈",
-    "name": "♾️┣韩圈┫APP",
-    "type": 3,
-    "api": "csp_Hxq",
-	"jar": "./JAR/Sxiao.jar",
-    "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
 },
 {
 	"key": "csp_baih",
@@ -318,13 +303,9 @@
     "key": "农民影视",
     "name": "🪀农民🔹影視",
     "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./JAR/Sxiao.jar",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-	"副标题": "琉芸专属",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类url": "https://vip.wwgz.cn:5200/;;!H"}
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200",
+    "jar": "./JAR/Sxiao.jar"
 },
 {
     "key": "1905",
@@ -418,16 +399,12 @@
     "jar": "./JAR/Sxiao.jar"
 },
 {
-    "key":"dyxz",
-	"name":"🪀玫瑰小镇",
-	"type":3,
-	"api":"csp_XBPQ",
-	"jar": "./JAR/Sxiao.jar",
-	"ext":{"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-	"主页url":"http://www.du88.cc",
-	"分类":"电影&电视剧&综艺&动漫&福利&伦理",
-	"分类值":"1&2&4&3&5&6",
-	"分类url":"http://www.du88.cc/list/{cateId}_{catePg}.html"}
+    "key": "hb知秋",
+    "name": "🪀知秋🔹影視",
+    "type": 3,
+    "api": "csp_MYzhiqiu",
+    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
 },
 {
     "key": "csp_js_荐片",
@@ -870,6 +847,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
