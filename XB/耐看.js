@@ -454,7 +454,7 @@ async function detail(id) {
             vod_actor: '',
             vod_director: '',
             vod_content: getText($('#height_limit')),
-            vod_play_from: '💕琉芸👉',
+            vod_play_from: '',
             vod_play_url: ''
         };
 
@@ -769,5 +769,4 @@ export function __jsEvalReturn() {
         homeVod: homeVod,
         category: category
     };
-
 }
