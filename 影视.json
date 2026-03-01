@@ -23,16 +23,39 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "xsa秒看",
-    "name": "♾️┣秒秒┫App",
+	"key": "csp_baih",
+	"name": "♾️┣白白┫APP",
+	"type": 3,
+    "api": "./XB/fuz.js",
+	"ext": "https://app2512.ystva.com"
+},
+{
+    "key": "csp_mayi",
+    "name": "♾️┣蚂蚁┫APP",
+	"type": 3,
+    "api":"./XB/Appto.py",
+	"ext": "http://118.89.203.120:8365/"
+},
+{
+    "key": "咕噜",
+    "name": "♾️┣咕噜┫APP",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppFox",
     "ext": {
-    "site": "https://gitee.com/M60m/60/raw/master/lib/miao%E7%9C%8B.txt",
-    "dataKey": "c60d88b2eep53za8",
-    "dataIv": "c60d88b2eep53za8",
-    "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-    "ua": "okhttp/3.14.9"}
+    "host": "http://www.yingsw.top",
+    "key": "guluyinghua_123",
+    "sign": "679543610991810f19698c187e5e106e"}
+},
+{
+    "key": "稀饭fm",
+    "name": "♾️┣稀饭┫App",
+    "type": 3,
+    "api": "csp_Getapp",
+    "ext": {
+    "host": "https://app.xifanys.com",
+    "datakey": "HM6Ly9yeS4ya3dvL",
+    "dataiv": "HM6Ly9yeS4ya3dvL",
+    "version": "119"}
 },
 {
     "key": "xsa假段友get",
@@ -795,6 +818,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
