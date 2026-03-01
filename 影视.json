@@ -23,18 +23,25 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-	"key": "csp_baih",
-	"name": "♾️┣白白┫APP",
-	"type": 3,
-    "api": "./XB/fuz.js",
-	"ext": "https://app2512.ystva.com"
+    "key": "csp_老鹰",
+    "name": "♾️┣雄鹰┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+    "dataKey": "zxPtEUDGVllIUhDB",
+    "dataIv": "zxPtEUDGVllIUhDB",
+    "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_紫金草",
-    "name": "♾️┣紫金┫APP",
-	"type": 3,
-    "api": "./XB/fuz.js",
-	"ext": "https://www.zjcvod.com"
+    "key": "优兔",
+    "name": "♾️┣优兔┫App",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+    "dataKey": "UrWKPnmQWJA8AQzd",
+    "dataIv": "UrWKPnmQWJA8AQzd"}
 },
 {
     "key": "csp_奇奇",
@@ -46,17 +53,6 @@
     "dataKey": "123456789abcdefg",
     "dataIv": "123456789abcdefg",
     "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_老鹰",
-    "name": "♾️┣雄鹰┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
-    "dataKey": "zxPtEUDGVllIUhDB",
-    "dataIv": "zxPtEUDGVllIUhDB",
     "ua": "okhttp/3.10.0"}
 },
 {
@@ -72,16 +68,6 @@
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },  
-{
-    "key": "优兔",
-    "name": "♾️┣优兔┫App",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-    "dataKey": "UrWKPnmQWJA8AQzd",
-    "dataIv": "UrWKPnmQWJA8AQzd"}
-},
 {
     "key": "橘子",
     "name": "♾️┣橘子┫APP",
@@ -221,105 +207,108 @@
     "key":"华数",
     "name":"🌴华数🔹影视",
     "type":3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py",
+    "类型": "影视"
 },
 {
     "key": "csp_XBPQ_人人影视",
     "name": "🪀人人🔹影視",
     "type": 3,
-    "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py"
+    "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py",
+    "类型": "影视"
 },
 {
     "key": "hipy_js_fantys",
     "name": "🪀饭团🔹影院",
     "type":3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/%E9%A5%AD%E5%9B%A2.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/%E9%A5%AD%E5%9B%A2.py",
+    "类型": "影视"
 },
 {
     "key": "农民影视",
     "name": "🪀农民🔹影視",
     "type": 3,
     "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
+    "ext": "https://vip.wwgz.cn:5200",
+    "类型": "影视"
 },
 {
     "key": "csp_js_金牌123",
     "name": "🪀金牌🔹影視",
     "type": 3,
-    "api": "./XB/金牌.js"
+    "api": "./XB/金牌.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_永乐",
     "name": "🪀永乐🔹影視",
     "type": 3,
-    "api": "./XB/永乐.js"
+    "api": "./XB/永乐.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_鬼片",
     "name": "🪀鬼片🔹影視",
     "type": 3,
-    "api": "./XB/鬼片.js"
+    "api": "./XB/鬼片.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_apple",
     "name": "🪀苹果🔹影視",
     "type": 3,
-    "api": "./XB/苹果.js"
+    "api": "./XB/苹果.js",
+    "类型": "影视"
 },
 {
     "key": "py_jieyingshi",
     "name": "🪀界牌🔹影視",
     "type": 3,
-    "api": "./XB/界牌.py"
+    "api": "./XB/界牌.py",
+    "类型": "影视"
 },
 {
     "key": "py_fk",
     "name": "🪀飞快🔹影視",
     "type": 3,
-    "api": "./XB/飞快.py"
+    "api": "./XB/飞快.py",
+    "类型": "影视"
 },
 {
     "key": "csp_麻雀",
     "name": "🪀麻雀🔹秒播",
     "type": 3,
-    "api": "./XB/麻雀.js"
-},
-{
-    "key": "爱看机器1人",
-    "name": "🪀爱看🔹影視",
-    "type": 3,
-    "api": "./XB/爱看.js"
+    "api": "./XB/麻雀.js",
+    "类型": "影视"
 },
 {
     "key": "星辰影院",
     "name": "🪀星辰🔹影視",
     "type": 3,
-    "api": "./XB/星辰.js"
+    "api": "./XB/星辰.js",
+    "类型": "影视"
 },
 {
     "key": "耐看",
     "name": "🪀耐看🔹影視",
     "type": 3,
-    "api": "./XB/耐看.js"
+    "api": "./XB/耐看.js",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_柠檬",
     "name": "🪀柠檬🔹影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "./XB/柠檬.json"
+    "ext": "./XB/柠檬.json",
+    "类型": "影视"
 },
 {
     "key": "茶杯狐",
     "name": "🪀茶狐🔹影視",
     "type": 3,
-    "api": "./XB/茶狐.js"
-},
-{
-    "key": "广广",
-    "name": "🪀广广🔹影視",
-    "type": 3,
-    "api": "http://年年幸福.icu/tgyg/lib/apiv1023广广.py"
+    "api": "./XB/茶狐.js",
+    "类型": "影视"
 },
 {
     "key": "hb知秋",
@@ -761,6 +750,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
