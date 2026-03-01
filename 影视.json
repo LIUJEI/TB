@@ -221,7 +221,7 @@
     "key":"华数",
     "name":"🌴华数🔹影视",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py"
 },
 {
     "key": "csp_XBPQ_人人影视",
@@ -233,7 +233,7 @@
     "key": "hipy_js_fantys",
     "name": "🪀饭团🔹影院",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/TS/raw/main/XB/饭团.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/饭团.py"
 },
 {
     "key": "农民影视",
@@ -310,6 +310,18 @@
     "ext": "./XB/柠檬.json"
 },
 {
+    "key": "茶杯狐",
+    "name": "🪀茶狐🔹影視",
+    "type": 3,
+    "api": "./XB/茶狐.js"
+},
+{
+    "key": "广广",
+    "name": "🪀广广🔹影視",
+    "type": 3,
+    "api": "http://年年幸福.icu/tgyg/lib/apiv1023广广.py"
+},
+{
     "key": "hb知秋",
     "name": "🪀知秋🔹影視",
     "type": 3,
@@ -331,18 +343,6 @@
     "api": "csp_AweSomeGuard",
     "jar": "https://gitee.com/senno/tvbox/raw/master/jar/移冻.jar",
     "ext": {"sp": "Panta"}
-},
-{
-    "key": "茶杯狐",
-    "name": "🪀茶狐🔹影視",
-    "type": 3,
-    "api": "./XB/茶狐.js"
-},
-{
-    "key": "广广",
-    "name": "🪀广广🔹影視",
-    "type": 3,
-    "api": "http://年年幸福.icu/tgyg/lib/apiv1023广广.py"
 },
 {
     "key": "文才影视",
@@ -482,8 +482,7 @@
     "name": "♨️九洲®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
-    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
     "分类url": "https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
     "分类": "♨️九洲短剧$5",
     "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}
@@ -602,15 +601,15 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
-	"key": "csp_YALI",
-	"name": "♾️鸭梨🔹动漫",
-	"type": 3,
-	"api": "csp_AppQi",
-	"ext":{
-    "url": "https://taobao.yalifun.com/xindm.json",
-	"dataKey": "88858c3b8560e348",
-	"dataIv": "88858c3b8560e348",
-	"okhttp/3.14.9"
+	"key": "漫国动漫",
+    "name": "♾️漫国🔹动漫",
+    "type": 3,
+    "api": "csp_AppSy",
+    "ext": {
+    "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+    "siteKey": "rectangleadsadxa",
+    "listKey": "aassddwwxxllsx1x",
+    "parsesKey": "aassddwwxxllsx1x"}
 },
 {
 	"key": "丫丫动漫", 
@@ -674,8 +673,7 @@
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
-    "indexs": 0,
-    "ext": "./XB/single.json"
+    "indexs": 0
 }],
 "parses": [
 {
@@ -763,6 +761,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
