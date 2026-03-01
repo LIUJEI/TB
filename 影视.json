@@ -205,7 +205,7 @@
 },
 {
     "key":"华数",
-    "name":"🌴华数🔹影视",
+    "name":"🪀华数🔹影视",
     "type":3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py",
     "类型": "影视"
@@ -315,33 +315,23 @@
     "name": "🪀影視🔹荐片",
     "type": 3,
     "api": "./XB/荐片0.js",
-    "ext": {"host": "https://api.ztcgi.com"}
-},
-{
-    "key": "文才影视",
-    "name": "🪀文才🔹快看",
-    "type": 3,
-    "api": "https://7337.kstore.vip/py/文才影视.py",
-    "ext": {"site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}
-},
-{
-    "key": "孜然",
-    "name": "🪀孜然快看",
-    "type": 3,
-    "api": "https://pan.szfx.top/down.php/350cc95f60378351a85a5a954a42fd57.js"
+    "ext": {"host": "https://api.ztcgi.com"},
+    "类型": "影视"
 },
 {
     "key": "csp_剧和短剧",
     "name": "🎬短劇☪系列",
     "type": 3,
-    "api": "./XB/短合.js"
+    "api": "./XB/短合.js",
+    "类型": "短剧"
 },
 {
     "key": "hipy_js_星芽短剧",
     "name": "🎬短劇☪系列",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./XB/星芽.js"
+    "ext": "./XB/星芽.js",
+    "类型": "短剧"
 },
 {
     "key": "甜圈短剧",
@@ -368,7 +358,8 @@
     "key": "裤佬七星短剧",
     "name": "♨️七星®短剧",
     "type": 3,
-    "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py"
+    "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+    "类型": "短剧"
 },
 {
     "key": "csp_茄子短剧",
@@ -676,6 +667,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
