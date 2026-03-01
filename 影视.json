@@ -311,27 +311,11 @@
     "类型": "影视"
 },
 {
-    "key": "hb知秋",
-    "name": "🪀知秋🔹影視",
-    "type": 3,
-    "api": "csp_MYzhiqiu",
-    "jar": "./JAR/my.png",
-    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-},
-{
     "key": "csp_js_荐片",
     "name": "🪀影視🔹荐片",
     "type": 3,
     "api": "./XB/荐片0.js",
     "ext": {"host": "https://api.ztcgi.com"}
-},
-{
-    "key": "csp_Awe_移动",
-    "name": "🪀移动🔹影視",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "https://gitee.com/senno/tvbox/raw/master/jar/移冻.jar",
-    "ext": {"sp": "Panta"}
 },
 {
     "key": "文才影视",
@@ -358,48 +342,6 @@
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./XB/星芽.js"
-},
-{
-    "key":"豪堪短剧",
-    "name":"♨️豪堪®短剧",
-    "type":3,
-    "api":"csp_HHkkAmns",
-    "jar": "./JAR/嗷嗚.jar"
-},
-{
-    "key":"盒马短剧",
-    "name":"♨️盒马®短剧",
-    "type":3,
-    "api":"csp_HemaAmns",
-    "jar": "./JAR/嗷嗚.jar"
-},
-{
-    "key":"拜拜短剧",
-    "name":"♨️拜拜®短剧",
-    "type":3,
-    "api":"csp_BddjAmns",
-    "jar": "./JAR/嗷嗚.jar"
-},
-{
-    "key":"喵喵短剧",
-    "name":"♨️喵喵®短剧",
-    "type":3,
-    "api":"csp_QmdjAmns",
-    "jar": "./JAR/嗷嗚.jar"
-},
-{
-    "key":"星星短剧",
-    "name":"♨️星星®短剧",
-    "type":3,
-    "api":"csp_XydjAmns",
-    "jar": "./JAR/嗷嗚.jar"
-},
-{
-    "key":"岁岁短剧",
-    "name":"♨️岁岁®短剧",
-    "type":3,
-    "api":"csp_SpdjAmns",
-    "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key": "甜圈短剧",
@@ -565,22 +507,6 @@
     "api": "csp_Bili",
     "ext": {"json": "./XB/音乐.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
-},
-{
-    "key": "csp_易听",
-    "name": "🎸┃易听┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
-    "ext": {"sp": "ShiJiMusic"}
-},
-{
-    "key": "csp_mogou",
-    "name": "🎸┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
-    "ext": {"sp": "KuGou"}
 },
 {
     "key": "csp_Kugou",
@@ -750,6 +676,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
