@@ -227,13 +227,13 @@
     "key": "csp_XBPQ_人人影视",
     "name": "🪀人人🔹影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/edit/main/XB/人人.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/%E4%BA%BA%E4%BA%BA.py"
 },
 {
     "key": "hipy_js_fantys",
     "name": "🪀饭团🔹影院",
     "type":3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/饭团.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/%E9%A5%AD%E5%9B%A2.py"
 },
 {
     "key": "农民影视",
@@ -761,6 +761,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
