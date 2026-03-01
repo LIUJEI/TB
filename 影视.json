@@ -20,108 +20,112 @@
     "name": "🎬┣热门┫影視",
     "type": 3,
     "api": "csp_AppRJ",
-    "ext": "http://v.rbotv.cn"
+    "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_aiying",
-    "name": "♾️┣云云┫APP",
+    "key": "xsa秒看",
+    "name": "♾️┣秒秒┫App",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://d.kstore.dev/download/12194/HB/q16.txt|dj382hsyqp98kqn8|mineInfo"
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://gitee.com/M60m/60/raw/master/lib/miao%E7%9C%8B.txt",
+    "dataKey": "c60d88b2eep53za8",
+    "dataIv": "c60d88b2eep53za8",
+    "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+    "ua": "okhttp/3.14.9"}
 },
 {
-    "key": "csp_花猪",
-    "name": "♾️┣花猪┫APP",
+    "key": "xsa假段友get",
+    "name": "♾️┣段段┫App",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt|j8sr6d93yp49db3p"
-},
-{
-    "key": "csp_优兔",
-    "name": "♾️┣优兔┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd"
-},
-{
-    "key": "csp_顾我",
-    "name": "♾️┣顾我┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json|kj37zs29q22jk96t"
-},
-{
-    "key": "csp_橘子",
-    "name": "♾️┣橘子┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|305"
-},
-{
-    "key": "csp_雄鹰",
-    "name": "♾️┣雄鹰┫APP",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "XiongYing"}
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://shangjihuoke.com",
+    "dataKey": "8E2DC386FD452D05",
+    "dataIv": "8E2DC386FD452D05"}
 },
 {
     "key": "csp_奇奇",
-    "name": "♾️┣奇奇┫APP",
+    "name": "♾️┣奇奇┫App",
     "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "QiQi"}
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "http://110.42.67.221:8009",
+    "dataKey": "123456789abcdefg",
+    "dataIv": "123456789abcdefg",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_芬奇",
+    "key": "csp_老鹰",
+    "name": "♾️┣雄鹰┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+    "dataKey": "zxPtEUDGVllIUhDB",
+    "dataIv": "zxPtEUDGVllIUhDB",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "小猪",
+    "name": "♾️┣小猪┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
+    "dataKey": "lp3d4t53y9t5db8y",
+    "dataIv": "lp3d4t53y9t5db8y",
+    "search": "searchList9",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},  
+{
+    "key": "芬奇",
     "name": "♾️┣芬奇┫APP",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x"
+    "ext": {
+    "site": "https://wsapi.dafenqi.mom/yuming.txt",
+    "dataKey": "bH5mI8iK0tK7aQ5x",
+    "dataIv": "bH5mI8iK0tK7aQ5x"}
 },
 {
-    "key": "csp_yongy",
-    "name": "♾️┣永夜┫APP",
+    "key": "优兔",
+    "name": "♾️┣优兔┫App",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa"
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+    "dataKey": "UrWKPnmQWJA8AQzd",
+    "dataIv": "UrWKPnmQWJA8AQzd"}
 },
 {
-    "key": "csp_新剧",
-    "name": "♾️┣新剧┫APP",
+    "key": "橘子",
+    "name": "♾️┣橘子┫APP",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
-},
-{
-    "key": "csp_miaokan",
-    "name": "♾️┣秒看┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://d.kstore.dev/download/12194/HB/miaokan.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa|"
-},
-{
-	"key": "csp_baih",
-	"name": "♾️┣白虎┫APP",
-	"type": 3,
-    "api": "./XB/fuz.js",
-	"ext": "https://app2512.ystva.com"
-},
-{
-    "key": "csp_mayi",
-    "name": "♾️┣蚂蚁┫APP",
-	"type": 3,
-    "api":"./XB/Appto.py",
-	"ext": "http://118.89.203.120:8365/"
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
+    "dataKey": "jasaFBcdV3zrUDf2",
+    "dataIv": "jasaFBcdV3zrUDf2",
+    "version": "305",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "零度",
     "name": "♾️┣零度┫APP",
     "type": 3,
     "api": "csp_AppNox",
-	"jar": "./JAR/Sxiao.jar",
-    "ext": {"url": "http://ld.ldysapp.cn"}
+    "ext": {
+    "url": "http://ld.ldysapp.cn",
+    "header": {
+    "content-type": "application/json",
+    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+    "x-app-package": "com.mjyx.jhxq",
+    "x-app-version-code": "36",
+    "x-app-version-name": "2.2.6"}}
 },
 {
     "key": "幕悦",
@@ -791,6 +795,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
