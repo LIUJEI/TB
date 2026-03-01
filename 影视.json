@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-   "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Sxiao.jar;md5;153f5b4b9a8ad6115afc4de1bdc3569c",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
@@ -35,16 +35,6 @@
 	"type": 3,
     "api":"./XB/Appto.py",
 	"ext": "http://118.89.203.120:8365/"
-},
-{
-    "key": "咕噜",
-    "name": "♾️┣咕噜┫APP",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {
-    "host": "http://www.yingsw.top",
-    "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"}
 },
 {
     "key": "稀饭fm",
@@ -818,6 +808,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
