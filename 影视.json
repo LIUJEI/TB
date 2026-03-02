@@ -142,6 +142,32 @@
     "x-app-version-name": "5.2"}}
 },
 {
+    "key": "zhiqiu",
+    "name": "听风｜知秋",
+    "type": 3,
+    "api": "csp_zhiqiu",
+    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+},
+{
+    "key": "Zwqf",
+    "name": "醉挽｜清风",
+    "type": 3,
+    "api": "csp_Zwqf",
+    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "ext": {
+    "url": "https://fishapi.wya6.com/fish/zui/moyu.php",
+    "token": "moyu996"}
+},
+{
+    "key": "Symx",
+    "name": "山有｜木兮",
+    "type": 3,
+	"jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "api": "csp_Symx",
+    "ext": "https://film.symx.club"
+},
+{
     "key":"华数",
     "name":"🪀华数🔹影视",
     "type":3,
@@ -605,6 +631,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
