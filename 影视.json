@@ -165,6 +165,20 @@
     "x-app-version-name": "5.2"}}
 },
 {
+    "key": "回响",
+    "name": "🪀回响🔹秒播",
+    "type": 3,
+    "api": "csp_AppNox",
+    "ext": {
+    "url": "http://110.42.37.69:8080",
+    "header": {
+    "content-type": "application/json",
+    "x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
+    "x-app-package": "com.recall.app",
+    "x-app-version-code": "22",
+    "x-app-version-name": "2.2.0"}}
+},
+{
     "key": "zhiqiu",
     "name": "🪀听风🔹知秋",
     "type": 3,
@@ -684,6 +698,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
