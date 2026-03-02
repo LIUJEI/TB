@@ -168,6 +168,16 @@
     "ext": "https://film.symx.club"
 },
 {
+      "key": "MOC腾讯",
+      "name": "腾迅💯墨尘4K",
+      "type": 4,
+      "api": "http://box.52xiaobai.cn/video/tengxun?token=ca33ff3f40e73f22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+{
     "key":"华数",
     "name":"🪀华数🔹影视",
     "type":3,
@@ -631,6 +641,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
