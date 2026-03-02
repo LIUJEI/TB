@@ -143,7 +143,7 @@
 },
 {
     "key": "zhiqiu",
-    "name": "🪀听风｜知秋",
+    "name": "🪀听风🔹知秋",
     "type": 3,
     "api": "csp_MYzhiqiu",
     "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
@@ -583,6 +583,11 @@
     "url":"https://jx.m3u8.tv/jiexi/?url="
 },
 {
+    "name": "☪芒果❂",
+    "type": 1,
+    "url": "http://mg.itufm.top/mg.php?url="
+},
+{
 	"name":"❂腾讯芸㊎",
 	"type":0,
 	"url":"https://jx.2s0.cn/player/?url="
@@ -635,6 +640,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
