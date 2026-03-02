@@ -195,6 +195,13 @@
     "类型": "影视"
 },
 {
+    "key": "独播库",
+    "name": "🪀独播🔹秒播",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/独播.js",
+    "类型": "影视"
+},
+{
     "key":"华数",
     "name":"🪀华数🔹影视",
     "type":3,
@@ -498,6 +505,20 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
+    "key": "爱听音乐",
+    "name": "💫┃爱听┃音乐",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱听音乐.py",
+    "类型": "音乐"
+},
+{
+    "key": "枫叶音乐",
+    "name": "💫┃枫叶┃音乐",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶音乐.py",
+    "类型": "音乐"
+},
+{
 	"key": "漫国动漫",
     "name": "♾️漫国🔹动漫",
     "type": 3,
@@ -608,7 +629,8 @@
 {
     "name": "☪芒果❂",
     "type": 1,
-    "url": "http://mg.itufm.top/mg.php?url="
+    "url": "http://mg.itufm.top/mg.php?url=",
+    "header": {"User-Agent": "okhttp/4.9.1"}}
 },
 {
 	"name":"❂腾讯芸㊎",
@@ -663,6 +685,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
