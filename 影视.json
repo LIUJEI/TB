@@ -212,7 +212,7 @@
     "key": "独播库",
     "name": "🪀独播🔹秒播",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/独播.js",
+    "api": "./XB/独播.js",
     "类型": "影视"
 },
 {
@@ -519,17 +519,17 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
-    "key": "世纪音乐",
-    "name": "💫┃世纪┃音乐",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/世纪音乐.py",
-    "类型": "音乐"
-},
-{
     "key": "枫叶音乐",
     "name": "💫┃枫叶┃音乐",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶音乐.py",
+    "api": "./XB/枫叶音乐.py",
+    "类型": "音乐"
+},
+{
+    "key": "世纪音乐",
+    "name": "💫┃世纪┃音乐",
+    "type": 3,
+    "api": "./XB/世纪音乐.py",
     "类型": "音乐"
 },
 {
@@ -698,6 +698,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
