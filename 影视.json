@@ -23,12 +23,12 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_老鹰",
+    "key": "csp_猫头鹰",
     "name": "♾️┣雄鹰┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.txt",
     "dataKey": "zxPtEUDGVllIUhDB",
     "dataIv": "zxPtEUDGVllIUhDB",
     "ua": "okhttp/3.10.0"}
@@ -39,7 +39,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.txt",
     "dataKey": "UrWKPnmQWJA8AQzd",
     "dataIv": "UrWKPnmQWJA8AQzd"}
 },
@@ -49,20 +49,20 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/aoteman.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.txt",
     "dataKey": "lp3d4t53y9t5db8y",
     "dataIv": "lp3d4t53y9t5db8y",
     "search": "searchList9",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
-},  
+},
 {
     "key": "橘子",
     "name": "♾️┣橘子┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.txt",
     "dataKey": "jasaFBcdV3zrUDf2",
     "dataIv": "jasaFBcdV3zrUDf2",
     "version": "305",
@@ -70,12 +70,12 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "爱盈",
-    "name": "♾️┣爱盈┫App",
+    "key": "奇吉",
+    "name": "♾️┣奇吉┫App",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇吉.txt",
     "dataKey": "sjvlwnhk6h9znl61",
     "dataIv": "sjvlwnhk6h9znl61",
     "version": "305",
@@ -94,6 +94,19 @@
     "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "顾我",
+    "name": "♾️┣顾我┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "http://117.50.204.35:520",
+    "dataKey": "ca94b06ca3c7d80e",
+    "dataIv": "ca94b06ca3c7d80e",
+    "search": "gftvvvvklod",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "小羊",
     "name": "♾️┣小羊┫App",
     "type": 3,
@@ -102,6 +115,16 @@
     "site": "https://xy4k.com/url.txt",
     "dataKey": "7SDWjknU34zqFbVr",
     "dataIv": "7SDWjknU34zqFbVr"}
+},
+{
+    "key": "七壹",
+    "name": "♾️┣七壹┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://qiyiys.cc",
+    "dataKey": "45452893929B40D9",
+    "dataIv": "45452893929B40D9"}
 },
 {
     "key": "xsa假段友get",
@@ -640,6 +663,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
