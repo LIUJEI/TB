@@ -99,7 +99,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "url": "http://117.50.204.35:520",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/guwo.txt",
     "dataKey": "ca94b06ca3c7d80e",
     "dataIv": "ca94b06ca3c7d80e",
     "search": "gftvvvvklod",
@@ -663,6 +663,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
