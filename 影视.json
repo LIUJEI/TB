@@ -505,10 +505,10 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
-    "key": "爱听音乐",
-    "name": "💫┃爱听┃音乐",
+    "key": "世纪音乐",
+    "name": "💫┃世纪┃音乐",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱听音乐.py",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/世纪音乐.py",
     "类型": "音乐"
 },
 {
@@ -684,6 +684,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
