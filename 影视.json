@@ -248,7 +248,8 @@
     "key": "csp_XBPQ_人人影视",
     "name": "🪀人人🔹影視",
     "type": 3,
-    "api": "./XB/人人.py",
+	"api": "csp_XBPQ",
+    "ext": "./XB/人人.py",
     "类型": "影视"
 },
 {
@@ -758,6 +759,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
