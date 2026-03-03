@@ -23,8 +23,20 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_猫头鹰",
+    "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+    "dataKey": "ca94b06ca359d80e",
+	"dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_猫头鹰",
+    "name": "♾️┣蓝鹰┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -125,6 +137,16 @@
     "url": "https://qiyiys.cc",
     "dataKey": "45452893929B40D9",
     "dataIv": "45452893929B40D9"}
+},
+{
+    "key": "csp_数字",
+    "name": "♾️┣永夜┫App",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://app1-0-0.87333.cc",
+    "dataKey": "VwsHxkCViDXEExWa",
+    "dataIv": "VwsHxkCViDXEExWa"}
 },
 {
     "key": "xsa假段友get",
@@ -371,6 +393,20 @@
     "name": "♨️星阁®短剧",
     "type": 3,
     "api": "csp_XinggeDJ",
+    "类型": "短剧"
+},
+{
+    "key": "碎片短剧",
+    "name": "♨️碎片®短剧",
+    "type": 3,
+    "api": "csp_SuipianDJ",
+    "类型": "短剧"
+},
+{
+    "key": "星芽短剧",
+    "name": "♨️星芽®短剧",
+    "type": 3,
+    "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
     "类型": "短剧"
 },
 {
@@ -722,6 +758,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
