@@ -256,7 +256,8 @@
     "key": "hipy_js_fantys",
     "name": "🪀饭团🔹影院",
     "type":3,
-    "api": "./XB/饭团.py",
+	"api": "csp_XBPQ",
+    "ext": "./XB/饭团.py",
     "类型": "影视"
 },
 {
@@ -759,6 +760,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
