@@ -522,7 +522,7 @@
     "key": "枫叶音乐",
     "name": "💫┃枫叶┃音乐",
     "type": 3,
-    "api": "./XB/枫叶音乐.py",
+    "api": "./XB/枫叶音乐.py",   
     "类型": "音乐"
 },
 {
@@ -530,6 +530,7 @@
     "name": "💫┃世纪┃音乐",
     "type": 3,
     "api": "./XB/世纪音乐.py",
+	"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/ok.jar",
     "类型": "音乐"
 },
 {
@@ -722,6 +723,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
