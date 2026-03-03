@@ -257,7 +257,7 @@
     "name": "🪀饭团🔹影院",
     "type":3,
 	"api": "csp_XBPQ",
-    "ext": "./XB/饭团.py",
+    "ext": "./XB/饭团.json",
     "类型": "影视"
 },
 {
@@ -760,6 +760,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
