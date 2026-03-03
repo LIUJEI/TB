@@ -46,7 +46,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "优兔",
+    "key": "csp_优兔",
     "name": "♾️┣优兔┫App",
     "type": 3,
     "api": "csp_AppQi",
@@ -56,8 +56,8 @@
     "dataIv": "UrWKPnmQWJA8AQzd"}
 },
 {
-    "key": "小猪",
-    "name": "♾️┣小猪┫APP",
+    "key": "csp_花小猪",
+    "name": "♾️┣花猪┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -69,7 +69,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "橘子",
+    "key": "csp_橘子",
     "name": "♾️┣橘子┫APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -82,7 +82,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "奇吉",
+    "key": "csp_奇吉",
     "name": "♾️┣奇吉┫App",
     "type": 3,
     "api": "csp_AppQi",
@@ -94,7 +94,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "顾我",
+    "key": "csp_顾我",
     "name": "♾️┣顾我┫APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -112,19 +112,19 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "url": "http://110.42.67.221:8009",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png",
     "dataKey": "123456789abcdefg",
     "dataIv": "123456789abcdefg",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "小羊",
-    "name": "♾️┣小羊┫App",
+    "key": "csp_橘皮",
+    "name": "♾️┣橘皮┫App",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "site": "https://xy4k.com/url.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘皮.png",
     "dataKey": "7SDWjknU34zqFbVr",
     "dataIv": "7SDWjknU34zqFbVr"}
 },
@@ -760,6 +760,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
