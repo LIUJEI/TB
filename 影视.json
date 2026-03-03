@@ -82,12 +82,12 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_奇吉",
-    "name": "♾️┣奇吉┫App",
+    "key": "csp_爱盈",
+    "name": "♾️┣爱盈┫App",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇吉.png",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱盈.png",
     "dataKey": "sjvlwnhk6h9znl61",
     "dataIv": "sjvlwnhk6h9znl61",
     "version": "305",
@@ -129,7 +129,17 @@
     "dataIv": "7SDWjknU34zqFbVr"}
 },
 {
-    "key": "七壹",
+    "key": "csp_永夜",
+    "name": "♾️┣永夜┫App",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site":"https://gitee.com/lyun_1_0/TS/raw/main/XB/永夜.png",
+    "dataKey": "VwsHxkCViDXEExWa",
+    "dataIv": "VwsHxkCViDXEExWa"}
+},
+{
+    "key": "csp_七壹",
     "name": "♾️┣七壹┫APP",
     "type": 3,
     "api": "csp_AppGet",
@@ -139,17 +149,7 @@
     "dataIv": "45452893929B40D9"}
 },
 {
-    "key": "csp_数字",
-    "name": "♾️┣永夜┫App",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://app1-0-0.87333.cc",
-    "dataKey": "VwsHxkCViDXEExWa",
-    "dataIv": "VwsHxkCViDXEExWa"}
-},
-{
-    "key": "xsa假段友get",
+    "key": "csp_假段友",
     "name": "♾️┣段段┫App",
     "type": 3,
     "api": "csp_AppGet",
@@ -760,6 +760,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
