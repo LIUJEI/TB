@@ -28,7 +28,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
     "dataKey": "ca94b06ca359d80e",
 	"dataIv": "ca94b06ca359d80e",
     "init": "initV120",
@@ -40,7 +40,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png",
     "dataKey": "zxPtEUDGVllIUhDB",
     "dataIv": "zxPtEUDGVllIUhDB",
     "ua": "okhttp/3.10.0"}
@@ -51,7 +51,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png",
     "dataKey": "UrWKPnmQWJA8AQzd",
     "dataIv": "UrWKPnmQWJA8AQzd"}
 },
@@ -61,7 +61,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.png",
     "dataKey": "lp3d4t53y9t5db8y",
     "dataIv": "lp3d4t53y9t5db8y",
     "search": "searchList9",
@@ -74,7 +74,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.png",
     "dataKey": "jasaFBcdV3zrUDf2",
     "dataIv": "jasaFBcdV3zrUDf2",
     "version": "305",
@@ -87,10 +87,23 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇吉.txt",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇吉.png",
     "dataKey": "sjvlwnhk6h9znl61",
     "dataIv": "sjvlwnhk6h9znl61",
     "version": "305",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "顾我",
+    "name": "♾️┣顾我┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/顾我.png",
+    "dataKey": "ca94b06ca3c7d80e",
+    "dataIv": "ca94b06ca3c7d80e",
+    "search": "gftvvvvklod",
+    "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
 {
@@ -102,19 +115,6 @@
     "url": "http://110.42.67.221:8009",
     "dataKey": "123456789abcdefg",
     "dataIv": "123456789abcdefg",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "顾我",
-    "name": "♾️┣顾我┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/guwo.txt",
-    "dataKey": "ca94b06ca3c7d80e",
-    "dataIv": "ca94b06ca3c7d80e",
-    "search": "gftvvvvklod",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
@@ -760,6 +760,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
