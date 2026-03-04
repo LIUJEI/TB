@@ -410,7 +410,7 @@ class Spider(Spider):
         return detail.json()
 
     def build_content(self, data):
-        return '介绍剧情📢' + data.get('data', {}).get('newsAbstract', '')
+        return '【琉🔹芸❤广告勿信👉剧情】📢' + data.get('data', {}).get('newsAbstract', '')
 
     def extract_detail_field(self, data, field_name):
         return data.get('data', {}).get(field_name, '')
@@ -427,7 +427,7 @@ class Spider(Spider):
         return bofang[:-1]
 
     def build_video_data(self, did, director, actor, remarks, year, area, content, bofang):
-        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "华数专线", "vod_play_url": bofang}
+        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "华数TV", "vod_play_url": bofang}
 
     def build_result(self, videos):
         result = {}
@@ -534,3 +534,4 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
+
