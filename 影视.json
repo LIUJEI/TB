@@ -539,11 +539,12 @@
     "类型": "音乐"
 },
 {
-    "key": "ChuXin",
-    "name": "初心｜音乐",
+    "key": "酷狗音乐",
+    "name": "💫┃酷狗┃音乐",
     "type": 3,
-    "api": "csp_ChuXin",
-    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png"
+    "api": "csp_AweSomeGuard",
+    "jar": "./JAR/ok.jar",
+    "ext": {"sp": "KuGou"}
 },
 {
 	"key": "漫国动漫",
@@ -735,6 +736,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
