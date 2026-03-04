@@ -350,7 +350,7 @@ async function category(tid, pg, filter, extend) {
                 'vod_id': vod_id,
                 'vod_name': vod_name,
                 'vod_pic': vod_pic,
-                'vod_remarks': vod_remarks
+                'vod_remarks':'▶️' + vod_remarks
             };
         });
         
@@ -769,4 +769,5 @@ export function __jsEvalReturn() {
         homeVod: homeVod,
         category: category
     };
+
 }
