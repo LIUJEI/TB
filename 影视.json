@@ -539,11 +539,11 @@
     "类型": "音乐"
 },
 {
-    "key": "世纪音乐",
-    "name": "💫┃世纪┃音乐",
+    "key": "ChuXin",
+    "name": "初心｜音乐",
     "type": 3,
-    "api": "./XB/世纪音乐.py",
-    "类型": "音乐"
+    "api": "csp_ChuXin",
+    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png"
 },
 {
 	"key": "漫国动漫",
@@ -735,6 +735,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
