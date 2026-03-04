@@ -308,7 +308,7 @@ class Spider(Spider):
         name = self.extract_middle_text(code, "s1='", "'", 0)
         Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
-        content = '😸🎉剧情介绍📢' + self.extract_middle_text(res,'剧情介绍:','">', 0)
+        content = '【琉🔹芸❤广告勿信👉剧情】' + self.extract_middle_text(res,'剧情介绍:','">', 0)
 
         director = self.extract_middle_text(res, '导演：', '</li>',1,'target=".*?">(.*?)</a>')
 
