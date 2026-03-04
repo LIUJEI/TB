@@ -182,7 +182,7 @@ async function detail(ids) {
             vod_director: cutStr(intros, '导演：', '</div>', '导演'),
             vod_actor: cutStr(intros, '演员：', '</div>', '主演'),
             vod_content: cutStr(intros, 'detailsTxt">', '</div>', kname),
-            vod_play_from: ktabs.join('$$$'),
+            vod_play_from: ktabs.join('$$$💕琉芸👉'),
             vod_play_url: kurls.join('$$$')
         };
         return JSON.stringify({list: [VOD]});
@@ -411,4 +411,5 @@ export function __jsEvalReturn() {
         play,
         proxy: null
     };
+
 }
