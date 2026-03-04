@@ -517,19 +517,39 @@
     "categories": ["电影","剧集","短剧","综艺","动漫"]
 },
 {
-    "key": "csp_BiliMV",
-    "name": "💫┃哔哩┃音乐",
+    "key": "酷狗音乐",
+    "name": "💫┃酷狗┃音乐",
     "type": 3,
-    "api": "csp_Bili",
-    "ext": {"json": "./XB/音乐.json","cookie": ""},
-    "style": {"type": "rect","ratio": 1.333}
+    "api": "csp_AweSomeGuard",
+    "jar": "./JAR/ok.jar",
+    "ext": {"sp": "KuGou"},   
+    "类型": "音乐"
 },
 {
     "key": "csp_Kugou",
     "name": "💫┃酷狗┃音乐",
     "type": 3,
     "api": "csp_Kugou",
-    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
+    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},   
+    "类型": "音乐"
+},
+{
+    "key": "爱听音乐",
+    "name": "💫┃爱听┃音乐",
+    "type": 3,
+    "api": "csp_AweSomeGuard",
+    "jar": "./JAR/ok.jar",
+    "ext": {"sp": "AiMusic"},   
+    "类型": "音乐"
+},	
+{
+    "key": "csp_BiliMV",
+    "name": "💫┃哔哩┃音乐",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "./XB/音乐.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333},   
+    "类型": "音乐"
 },
 {
     "key": "枫叶音乐",
@@ -539,12 +559,11 @@
     "类型": "音乐"
 },
 {
-    "key": "酷狗音乐",
-    "name": "💫┃酷狗┃音乐",
+    "key": "EmbyJS",
+    "name": "💫┃聚合┃Emby",
     "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "./JAR/ok.jar",
-    "ext": {"sp": "KuGou"}
+    "api": "./XB/Emby.js",   
+    "类型": "聚合"
 },
 {
 	"key": "漫国动漫",
@@ -736,6 +755,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
