@@ -536,7 +536,7 @@ async function detail(id) {
             playUrl.push(episodes.join('#'));
         });
         
-        vod.vod_play_from = playFrom.join('$$$');
+        vod.vod_play_from = playFrom.join('$$$💕琉芸👉');
         vod.vod_play_url = playUrl.join('$$$');
 
         return JSON.stringify({ list: [vod] });
@@ -771,3 +771,4 @@ export function __jsEvalReturn() {
     };
 
 }
+
