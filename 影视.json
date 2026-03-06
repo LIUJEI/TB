@@ -213,6 +213,20 @@
     "类型": "影视"
 },
 {
+    "key": "三秋影视",
+    "name": "🪀三秋🔹影視",
+    "type": 3,
+    "api": "csp_App3Q",
+    "类型": "影视"
+},
+{
+    "key": "坚果影视",
+    "name": "🪀坚果🔹影視",
+    "type": 3,
+    "api": "csp_AppJg",
+    "类型": "影视"
+},
+{
     "key": "独播库",
     "name": "🪀独播🔹秒播",
     "type": 3,
@@ -755,6 +769,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
