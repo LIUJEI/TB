@@ -70,7 +70,7 @@
 },
 {
     "key": "csp_橘子",
-    "name": "♾️┣小洋┫APP",
+    "name": "♾️┣橘子┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -120,7 +120,7 @@
 },
 {
     "key": "csp_橘皮",
-    "name": "♾️┣橘皮┫App",
+    "name": "♾️┣小洋┫App",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -769,6 +769,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
