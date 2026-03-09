@@ -57,7 +57,7 @@ headers = {
 class Spider(Spider):
 
     def getName(self):
-        return "集多🌠"
+        return "🌠"
 
     def init(self, extend):
         pass
@@ -80,7 +80,7 @@ class Spider(Spider):
             for vod in data['data']['categories']:
                 category_info = {
                     "type_id": vod['id'],
-                    "type_name": f"集多🌠{vod['name']}"
+                    "type_name": f"🌠{vod['name']}"
                                 }
                 categories.append(category_info)
             return categories
@@ -109,7 +109,7 @@ class Spider(Spider):
                     "vod_id": f"{vod['albumId']}@{vod['total']}",
                     "vod_name": vod['title'],
                     "vod_pic": vod['coverUrl'],
-                    "vod_remarks": f"集多▶️共{vod.get('total', '暂无备注')}集"
+                    "vod_remarks": f"▶️共{vod.get('total', '暂无备注')}集"
                              }
                 video_list.append(video_info)
             return video_list
@@ -225,4 +225,5 @@ class Spider(Spider):
             return self.proxyMedia(params)
         elif params['type'] == "ts":
             return self.proxyTs(params)
+
         return None
