@@ -246,7 +246,7 @@ class Spider(Spider):
                 "vod_id": id,
                 "vod_name": name,
                 "vod_pic": pic,
-                "vod_remarks": '集多▶️' + remark
+                "vod_remarks": '▶️' + remark
                     }
             videos.append(video)
 
@@ -292,7 +292,7 @@ class Spider(Spider):
                 "vod_id": id,
                 "vod_name": name,
                 "vod_pic": pic,
-                "vod_remarks": '集多▶️' + remark
+                "vod_remarks": '▶️' + remark
                     }
             videos.append(video)
 
@@ -326,7 +326,7 @@ class Spider(Spider):
         Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
         blurb = detail.get('data', {}).get('intro') or "未知"
-        content = '😸集多为您介绍剧情📢' + blurb
+        content = '【琉🔹芸❤广告勿信👉剧情】📢' + blurb
 
         jisu = detail['data']['total_episode_num'] or "未知"
         jisu = jisu + '全集'
@@ -351,7 +351,7 @@ class Spider(Spider):
 
             bofang = bofang[:-1]
 
-            xianlu = '集多七猫专线'
+            xianlu = '七猫专线'
 
         videos.append({
             "vod_id": did,
@@ -408,7 +408,7 @@ class Spider(Spider):
                 "vod_id": id,
                 "vod_name": name,
                 "vod_pic": pic,
-                "vod_remarks": '集多▶️' + remark
+                "vod_remarks": '▶️' + remark
                     }
             videos.append(video)
 
@@ -429,4 +429,5 @@ class Spider(Spider):
             return self.proxyMedia(params)
         elif params['type'] == "ts":
             return self.proxyTs(params)
+
         return None
