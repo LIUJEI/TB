@@ -417,70 +417,70 @@
     "name": "♨️剧王┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/lib/剧王.json",
+    "ext": "./BPQ/剧王.json",
     "类型": "短剧"
 },
 {
     "key": "py_七星短剧",
     "name": "♨️七星®短剧",
     "type": 3,
-    "api": "./XB/七星.py",
+    "api": "./BPQ/七星.py",
     "类型": "短剧"
 },
 {
 	"key": "py_星芽短剧",
     "name": "♨️星芽®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/星芽.py",
+    "api": "./BPQ/星芽.py",
     "类型": "短剧"
 },
 {
 	"key": "py_七猫短剧",
     "name": "♨️七猫®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/七猫.py",
+    "api": "./BPQ/七猫.py",
     "类型": "短剧"
 },
 {
 	"key": "py_短剧网站",
     "name": "♨️网站®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/网站.py",
+    "api": "./BPQ/网站.py",
     "类型": "短剧"
 },
 {
 	"key": "py_花生短剧",
     "name": "♨️花生®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/花生.py",
+    "api": "./BPQ/花生.py",
     "类型": "短剧"
 },
 {
 	"key": "py_喜福短剧",
     "name": "♨️喜福®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/喜福.py",
+    "api": "./BPQ/喜福.py",
     "类型": "短剧"
 },
 {
 	"key": "py_碎片短剧",
     "name": "♨️碎片®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/碎片.py",
+    "api": "./BPQ/碎片.py",
     "类型": "短剧"
 },
 {
 	"key": "py_热播短剧",
     "name": "♨️热播®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/热播.py",
+    "api": "./BPQ/热播.py",
     "类型": "短剧"
 },
 {
 	"key": "py_PPT短剧",
     "name": "♨️PPT®短剧",
 	"type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/PTT短剧.py",
+    "api": "./BPQ/PTT短剧.py",
     "类型": "短剧"
 },
 {
@@ -540,6 +540,15 @@
     "分类url": "https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
     "分类": "♨️五五短剧$1",
     "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
+},
+{
+    "key": "cj_牛牛短剧",
+    "name": "♨️牛牛®短剧",
+    "type": 1,
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
+    "categories": ["有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"],
+    "more": {"sourceTag": "[订阅]"},
+    "类型": "短剧"
 },
 {
     "key": "dr_腾迅",
@@ -852,6 +861,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
