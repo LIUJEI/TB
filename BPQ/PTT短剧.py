@@ -117,15 +117,15 @@ class Spider(Spider):
 
     def homeContent(self, filter):
         result = {}
-        result = {"class": [{"type_id": "67", "type_name": "集多🌠爽剧"},
-                            {"type_id": "68", "type_name": "集多🌠言情"},
-                            {"type_id": "70", "type_name": "集多🌠穿越"},
-                            {"type_id": "71", "type_name": "集多🌠悬疑"},
-                            {"type_id": "73", "type_name": "集多🌠古装"},
-                            {"type_id": "80", "type_name": "集多🌠都市"},
-                            {"type_id": "84", "type_name": "集多🌠甜宠"},
-                            {"type_id": "85", "type_name": "集多🌠恋爱"},
-                            {"type_id": "74", "type_name": "集多🌠其他"}],
+        result = {"class": [{"type_id": "67", "type_name": "爽剧"},
+                            {"type_id": "68", "type_name": "言情"},
+                            {"type_id": "70", "type_name": "穿越"},
+                            {"type_id": "71", "type_name": "悬疑"},
+                            {"type_id": "73", "type_name": "古装"},
+                            {"type_id": "80", "type_name": "都市"},
+                            {"type_id": "84", "type_name": "甜宠"},
+                            {"type_id": "85", "type_name": "恋爱"},
+                            {"type_id": "74", "type_name": "其他"}],
 
                   "list": [],
                   "filters": {"67": [{"key": "年代",
@@ -264,7 +264,7 @@ class Spider(Spider):
                         "vod_id": id,
                         "vod_name": name,
                         "vod_pic": pic,
-                        "vod_remarks": '集多▶️' + remark
+                        "vod_remarks": '▶️' + remark
                              }
                     videos.append(video)
 
@@ -323,7 +323,7 @@ class Spider(Spider):
                         "vod_id": id,
                         "vod_name": name,
                         "vod_pic": pic,
-                        "vod_remarks": '集多▶️' + remark
+                        "vod_remarks": '▶️' + remark
                             }
                     videos.append(video)
 
@@ -356,7 +356,7 @@ class Spider(Spider):
         name = self.extract_middle_text(code, "s1='", "'", 0)
         Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
-        content = '集多🎉为您介绍剧情📢' + self.extract_middle_text(res,'劇情介紹</h3>','</p>', 0)
+        content = '【琉🔹芸❤广告勿信👉剧情】📢' + self.extract_middle_text(res,'劇情介紹</h3>','</p>', 0)
 
         content = content.replace('<p>', '').replace(' ', '')
 
@@ -388,7 +388,7 @@ class Spider(Spider):
             "vod_year": year,
             "vod_area": area,
             "vod_content": content,
-            "vod_play_from": "请观看",
+            "vod_play_from": "PTT在线",
             "vod_play_url": bofang
                      })
 
@@ -460,7 +460,7 @@ class Spider(Spider):
                     "vod_id": id,
                     "vod_name": name,
                     "vod_pic": pic,
-                    "vod_remarks": '集多▶️' + remark
+                    "vod_remarks": '▶️' + remark
                         }
                 videos.append(video)
 
@@ -481,4 +481,5 @@ class Spider(Spider):
             return self.proxyMedia(params)
         elif params['type'] == "ts":
             return self.proxyTs(params)
+
         return None
