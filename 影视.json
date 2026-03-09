@@ -309,6 +309,13 @@
     "类型": "影视"
 },
 {
+    "key": "土豆浏览器",
+    "name": "🪀土豆🔹影视",
+    "type": 3,
+    "api": "./XB/土豆.py",
+    "类型": "影视"
+},
+{
     "key":"华数",
     "name":"🪀华数🔹影视",
     "type":3,
@@ -322,6 +329,13 @@
     "api": "./XB/荐片0.js",
     "ext": {"host": "https://api.ztcgi.com"},
     "类型": "影视"
+},
+{
+    "key": "枫林影院",
+    "name": "🪀枫林🔹影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": "./XB/枫林.json"
 },
 {
     "key": "csp_剧和短剧",
@@ -892,6 +906,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
