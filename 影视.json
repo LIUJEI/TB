@@ -24,7 +24,7 @@
 },
 {
     "key": "csp_雄鹰",
-    "name": "♾️┣雄鹰┫APP",
+    "name": "♾️┣雄鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -36,7 +36,7 @@
 },
 {
     "key": "csp_猫头鹰",
-    "name": "♾️┣蓝鹰┫APP",
+    "name": "♾️┣蓝鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -47,7 +47,7 @@
 },
 {
     "key": "csp_优兔",
-    "name": "♾️┣优兔┫App",
+    "name": "♾️┣优兔┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -57,7 +57,7 @@
 },
 {
     "key": "csp_花小猪",
-    "name": "♾️┣花猪┫APP",
+    "name": "♾️┣花猪┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -70,7 +70,7 @@
 },
 {
     "key": "csp_橘子",
-    "name": "♾️┣橘子┫APP",
+    "name": "♾️┣橘子┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -83,7 +83,7 @@
 },
 {
     "key": "csp_爱盈",
-    "name": "♾️┣爱盈┫App",
+    "name": "♾️┣爱盈┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -95,7 +95,7 @@
 },
 {
     "key": "csp_顾我",
-    "name": "♾️┣顾我┫APP",
+    "name": "♾️┣顾我┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -108,7 +108,7 @@
 },
 {
     "key": "csp_奇奇",
-    "name": "♾️┣奇奇┫App",
+    "name": "♾️┣奇奇┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -120,7 +120,7 @@
 },
 {
     "key": "csp_橘皮",
-    "name": "♾️┣小洋┫App",
+    "name": "♾️┣小洋┫秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -130,7 +130,7 @@
 },
 {
     "key": "csp_茉莉",
-    "name": "♾️┣茉莉┫App",
+    "name": "♾️┣茉莉┫秒播",
     "type": 3,
     "searchable": 1,
     "api": "csp_AppGet",
@@ -141,7 +141,7 @@
 },
 {
     "key": "csp_永夜",
-    "name": "♾️┣永夜┫App",
+    "name": "♾️┣永夜┫秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -150,37 +150,31 @@
     "dataIv": "VwsHxkCViDXEExWa"}
 },
 {
-    "key": "csp_新剧",
-    "name": "♾️┣新剧┫App",
+    "key": "追忆",
+    "name": "♾️┣追忆┫秒播",
     "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
+    "timeout": 15,
+    "api": "csp_AppNox",
+	"jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
+    "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
 },
 {
-    "key": "王子",
-    "name": "♾️┣王子┫App",
+    "key": "csp_XBPQ",
+    "name": "♾️┣米口┫秒播",
     "type": 3,
-    "searchable": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"}
+    "api": "csp_XBPQ",
+    "timeout": 12,
+    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
 },
 {
-    "key": "csp_假段友",
-    "name": "♾️┣段段┫App",
+    "key": "csp_XBPQ2",
+    "name": "♾️┣独家┫秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://shangjihuoke.com",
-    "dataKey": "8E2DC386FD452D05",
-    "dataIv": "8E2DC386FD452D05"}
+    "api": "csp_XBPQ",
+    "timeout": 12,
+    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
+    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
 },
 {
     "key": "zhiqiu",
@@ -847,6 +841,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
