@@ -100,7 +100,7 @@ class Spider(Spider):
             for vod in data['data']:
                 result["class"].append({
                     "type_id": vod['id'], 
-                    "type_name": "集多🌠" + vod['text_val']
+                    "type_name": "🌠" + vod['text_val']
                 })
                 
         except Exception:
@@ -134,7 +134,7 @@ class Spider(Spider):
                     "vod_id": f"{vod['itemId']}@{vod['videoCode']}@{vod.get('content','未知')}@{vod.get('tags','未知')}",
                     "vod_name": vod['title'],
                     "vod_pic": f"{self.res_api}{vod['imageKey']}/{vod['imageName']}",
-                    "vod_remarks": '集多▶️' + vod.get('tags','未知')
+                    "vod_remarks": '▶️' + vod.get('tags','未知')
                 })
                 
         except Exception:
@@ -184,7 +184,7 @@ class Spider(Spider):
             
             videos.append({
                 "vod_id": did,
-                "vod_content": '集多为您介绍剧情📢📢' + content,
+                "vod_content": '【琉🔹芸❤广告勿信👉剧情】📢' + content,
                 "type_name": tags,
                 "vod_remarks": f"全{len(episodes_data)}集",
                 "vod_play_from": '碎片专线',
@@ -227,7 +227,7 @@ class Spider(Spider):
                     "vod_id": f"{vod['itemId']}@{vod['videoCode']}@{vod.get('content','未知')}@{vod.get('tags','未知')}",
                     "vod_name": vod['title'],
                     "vod_pic": f"{self.res_api}{vod['imageKey']}/{vod['imageName']}",
-                    "vod_remarks": '集多▶️' + vod.get('tags','未知')
+                    "vod_remarks": '▶️' + vod.get('tags','未知')
                 })
                 
         except Exception:
@@ -243,3 +243,4 @@ class Spider(Spider):
 
     def searchContent(self, key, quick, pg="1"):
         return self.searchContentPage(key, quick, pg)
+
