@@ -737,7 +737,9 @@
 {
     "name": "☪虾米❂",
     "type": 0,
-    "url": "https://jx.xmflv.com/?url="
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {
+    "header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}
 },
 {
     "name":"☪拉野❂",
@@ -755,18 +757,12 @@
     "url": "https://www.playm3u8.cn/jiexi.php?url="
 },
 {
-    "name": "☪蓝光❂",
+    "name": "☪蓝光㊎",
     "type": 0,
     "url":"https://jx.m3u8.tv/jiexi/?url="
 },
 {
-	"name":"❂芸解析㊎",
-	"type":0,
-	"url":"https://jx.2s0.cn/player/?url="
-}, 
-{
     "name": "❂芸解析㊍",
-    "type": 0,
     "url": "https://www.8090g.cn/jiexi/?url="
 }, 
 {
@@ -783,6 +779,61 @@
 	"name":"❂芸解析㊏",
 	"type":0,
 	"url":"https://yparse.ik9.cc/index.php?url="
+},
+{
+	"name": "❂全能❂专用",
+	"type": 0,
+	"url": "https://jx.xmflv.com/?url=",
+	"ext": {
+	"flag": [
+		"bilibili1",
+		"qiyi",
+		"imgo",
+		"爱奇艺",
+		"奇艺",
+		"qq",
+		"qq 预告及花絮",
+		"腾讯",
+		"youku",
+		"优酷",
+		"pptv",
+		"PPTV",
+		"letv",
+		"乐视",
+		"leshi",
+		"mgtv",
+		"芒果",
+		"sohu",
+		"xigua",
+		"fun",
+		"风行"],
+	"header": {"User-Agent": "okhttp/4.1.0"}}
+},
+{
+	"name": "❂极速❂专用",
+	"type": 0,
+	"url": "https://jx.2s0.cn/player/?url=",
+	"ext": {
+	"flag": [
+		"qq",
+		"腾讯",
+		"qiyi",
+		"爱奇艺",
+		"奇艺",
+		"youku",
+		"优酷",
+		"mgtv",
+		"芒果",
+		"letv",
+		"乐视",
+		"pptv",
+		"PPTV",
+		"sohu",
+		"bilibili",
+		"哔哩哔哩",
+		"哔哩"],
+	"ext": {
+	"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}
 },
 {
     "name": "🥭芒果❂专用",
@@ -841,6 +892,7 @@
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
+
 
 
 
