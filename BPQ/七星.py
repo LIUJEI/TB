@@ -184,7 +184,7 @@ class Spider(Spider):
                     "vod_id": id,
                     "vod_name": name,
                     "vod_pic": pic,
-                    "vod_remarks": remark
+                    "vod_remarks":'▶️' + remark
                         }
                 videos.append(video)
 
@@ -340,4 +340,5 @@ class Spider(Spider):
             return self.proxyMedia(params)
         elif params['type'] == "ts":
             return self.proxyTs(params)
+
         return None
