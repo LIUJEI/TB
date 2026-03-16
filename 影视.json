@@ -110,8 +110,11 @@
     "api": "csp_AppGet",
     "ext": {
     "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png",
-    "dataKey": "7SDWjknU34zqFbVr",
-    "dataIv": "7SDWjknU34zqFbVr"}
+    "dataKey": "eecbio48dsq13kkk",
+    "dataIv": "eecbio48dsq13kkk",
+    "search": "searchList4",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_XBPQ",
