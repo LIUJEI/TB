@@ -1,9 +1,9 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Sxiao.jar;md5;153f5b4b9a8ad6115afc4de1bdc3569c",
+  "spider": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "http://hello.xn--z7x900a.com/fm.gif",
+  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   
 //数据接口====================================网站===============================================
   
@@ -46,6 +46,17 @@
     "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "csp_星河",
+    "name": "♾️┣星河┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png",
+    "dataKey": "kj37zs29q22jk96t",
+    "dataIv": "kj37zs29q22jk96t",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "csp_优兔",
     "name": "♾️┣优兔┫秒播",
     "type": 3,
@@ -53,7 +64,8 @@
     "ext": {
     "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png",
     "dataKey": "UrWKPnmQWJA8AQzd",
-    "dataIv": "UrWKPnmQWJA8AQzd"}
+    "dataIv": "UrWKPnmQWJA8AQzd",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_花小猪",
@@ -114,6 +126,17 @@
     "dataIv": "eecbio48dsq13kkk",
     "search": "searchList4",
     "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_小羊",
+    "name": "♾️┣小羊┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "https://qjappcms410.xy4k.com",
+    "dataKey": "mC6kG4mI1uM8tS4o",
+    "dataIv": "mC6kG4mI1uM8tS4o",
     "ua": "okhttp/3.10.0"}
 },
 {
