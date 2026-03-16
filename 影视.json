@@ -107,7 +107,7 @@
     "key": "csp_琼林",
     "name": "♾️┣琼林┫秒播",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": {
     "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png",
     "dataKey": "eecbio48dsq13kkk",
