@@ -69,41 +69,26 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_橘子",
-    "name": "♾️┣橘子┫秒播",
+    "key": "csp_爱影",
+    "name": "♾️┣爱影┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.png",
-    "dataKey": "jasaFBcdV3zrUDf2",
-    "dataIv": "jasaFBcdV3zrUDf2",
-    "version": "305",
-    "init": "initV122",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱影.png",
+    "dataKey": "fff32466kkfff616",
+    "dataIv": "fff32466kkfff616",
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_爱盈",
-    "name": "♾️┣爱盈┫秒播",
+    "key": "csp_曦臣",
+    "name": "♾️┣曦臣┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱盈.png",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/曦臣.png",
     "dataKey": "sjvlwnhk6h9znl61",
     "dataIv": "sjvlwnhk6h9znl61",
     "version": "305",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_顾我",
-    "name": "♾️┣顾我┫秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/顾我.png",
-    "dataKey": "ca94b06ca3c7d80e",
-    "dataIv": "ca94b06ca3c7d80e",
-    "search": "gftvvvvklod",
-    "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
 {
@@ -119,48 +104,18 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_橘皮",
-    "name": "♾️┣小洋┫秒播",
+    "key": "csp_琼林",
+    "name": "♾️┣琼林┫秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘皮.png",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png",
     "dataKey": "7SDWjknU34zqFbVr",
     "dataIv": "7SDWjknU34zqFbVr"}
 },
 {
-    "key": "csp_茉莉",
-    "name": "♾️┣茉莉┫秒播",
-    "type": 3,
-    "searchable": 1,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/茉莉.png",
-    "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"}
-},
-{
-    "key": "csp_永夜",
-    "name": "♾️┣永夜┫秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site":"https://gitee.com/lyun_1_0/TS/raw/main/XB/永夜.png",
-    "dataKey": "VwsHxkCViDXEExWa",
-    "dataIv": "VwsHxkCViDXEExWa"}
-},
-{
-    "key": "追忆",
-    "name": "♾️┣追忆┫秒播",
-    "type": 3,
-    "timeout": 15,
-    "api": "csp_AppNox",
-	"jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
-    "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
-},
-{
     "key": "csp_XBPQ",
-    "name": "♾️┣米口┫秒播",
+    "name": "♾️┣米团┫秒播",
     "type": 3,
     "api": "csp_XBPQ",
     "timeout": 12,
