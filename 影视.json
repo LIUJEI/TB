@@ -135,50 +135,6 @@
     "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
 },
 {
-    "key": "zhiqiu",
-    "name": "🪀听风🔹知秋",
-    "type": 3,
-    "api": "csp_MYzhiqiu",
-    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
-    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-    "类型": "影视"
-},
-{
-    "key": "Zwqf",
-    "name": "🪀至臻🔹清风",
-    "type": 4,
-	"api": "http://sspa8.top:8100/php/清风.php",
-    "类型": "影视"
-},
-{
-    "key": "番喜",
-    "name": "🪀番喜🔹视频",
-    "type": 3,
-    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
-    "ext": "http://118.89.203.120:8365/"
-},
-{
-    "key": "皮皮",
-    "name": "🪀皮虾🔹视频",
-    "type": 3,
-    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
-    "ext": "http://38.55.237.41:8762"
-},
-{
-    "key": "坚果影视",
-    "name": "🪀坚果🔹影視",
-    "type": 3,
-    "api": "csp_AppJg",
-    "类型": "影视"
-},
-{
-    "key": "独播库",
-    "name": "🪀独播🔹秒播",
-    "type": 3,
-    "api": "./XB/独播.js",
-    "类型": "影视"
-},
-{
     "key": "csp_XBPQ_人人影视",
     "name": "🪀人人🔹影視",
     "type": 3,
@@ -192,14 +148,6 @@
     "type":3,
 	"api": "csp_XBPQ",
     "ext": "./XB/饭团.json",
-    "类型": "影视"
-},
-{
-    "key": "农民影视",
-    "name": "🪀农民🔹影視",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200",
     "类型": "影视"
 },
 {
@@ -281,6 +229,36 @@
     "类型": "影视"
 },
 {
+    "key": "枫林影视",
+    "name": "🪀枫林🔹影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./XB/枫林.json",
+    "类型": "影视"
+},
+{
+    "key": "独播库",
+    "name": "🪀独播🔹影視",
+    "type": 3,
+    "api": "./XB/独播.js",
+    "类型": "影视"
+},
+{
+    "key": "农民影视",
+    "name": "🪀农民🔹影視",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200",
+    "类型": "影视"
+},
+{
+    "key": "坚果影视",
+    "name": "🪀坚果🔹影視",
+    "type": 3,
+    "api": "csp_AppJg",
+    "类型": "影视"
+},
+{
     "key": "csp_js_荐片",
     "name": "🪀影視🔹荐片",
     "type": 3,
@@ -289,12 +267,34 @@
     "类型": "影视"
 },
 {
-    "key": "枫林影院",
-    "name": "🪀枫林🔹影视",
+    "key": "zhiqiu",
+    "name": "🪀听风🔹知秋",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XB/枫林.json",
+    "api": "csp_MYzhiqiu",
+    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
+    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
     "类型": "影视"
+},
+{
+    "key": "Zwqf",
+    "name": "🪀至臻🔹清风",
+    "type": 4,
+	"api": "http://sspa8.top:8100/php/清风.php",
+    "类型": "影视"
+},
+{
+    "key": "番喜",
+    "name": "🪀番喜🔹视频",
+    "type": 3,
+    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
+    "ext": "http://118.89.203.120:8365/"
+},
+{
+    "key": "皮皮",
+    "name": "🪀皮虾🔹视频",
+    "type": 3,
+    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
+    "ext": "http://38.55.237.41:8762"
 },
 {
     "key": "csp_剧和短剧",
