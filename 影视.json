@@ -16,11 +16,11 @@
     "searchable": 0
 },
 {
-	"key":"弹幕",
-	"name":"🅿弹幕┃刷新自动启动",
-	"type":3,
-	"api":"csp_GoConfigAmnsr",
-	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
+	"key": "aowu弹幕",
+    "name": "嗷呜🐺弹幕搜索自启",
+    "type": 3,
+    "jar": "https://gitee.com/M60m/60/raw/master/lib/aow--dm.png",
+    "api": "csp_GoConfigAmns"
 },
 {
     "key": "csp_reboys",
