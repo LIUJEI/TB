@@ -182,7 +182,20 @@
     "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
 },
 {
-    "key": "csp_XBPQ_人人影视",
+    "key": "csp_js_月光影视",
+    "name": "🪀月光🔹影視",
+    "type": 3,
+    "api": "./XB/月光.js"
+},
+{
+    "key": "csp_XBPQ_旺旺影视",
+    "name": "🪀旺旺🔹影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./XB/旺旺.json"
+},
+{
+    "key": "csp_py_人人影视",
     "name": "🪀人人🔹影視",
     "type": 3,
 	"api": "csp_XBPQ",
@@ -190,7 +203,7 @@
     "类型": "影视"
 },
 {
-    "key": "hipy_js_fantys",
+    "key": "csp_XBPQ_fantys",
     "name": "🪀饭团🔹影院",
     "type":3,
 	"api": "csp_XBPQ",
