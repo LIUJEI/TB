@@ -2,7 +2,6 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
   "spider": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-"spider": "http://rihou.cc:88/jar/vox.jar;md5;8a5846e1fcc781e2a86ff2db1e3542cc",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   
