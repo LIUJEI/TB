@@ -343,36 +343,18 @@
     "类型": "影视"
 },
 {
-	    "key": "恰瓜子",
-	    "name": "🪀恰恰｜影视",
-	    "type": 3,
-	    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-	    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
+	"key": "恰瓜子",
+	"name": "🪀恰恰☪瓜子",
+	"type": 3,
+	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
 },
 {
-	    "key": "恰娃子",
-	    "name": "🪀娃娃｜影视",
-	    "type": 3,
-	    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-	    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
-},
-{
-			"key": "红果短剧",
-			"name": "🪀红果｜短剧",
-			"type": 3,
-			"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-			"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/红果.js"
-},
-{
-            "key": "软软短剧",
-            "name": "🪀软软｜短剧",
-            "type": 3,
-            "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/软鸭.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
+	"key": "恰娃子",
+	"name": "🪀娃娃☪瓜子",
+	"type": 3,
+	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
 },
 {
     "key": "csp_剧和短剧",
