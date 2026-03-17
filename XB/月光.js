@@ -143,8 +143,8 @@ async function detail(ids) {
             vod_lang: '语言',
             vod_director: cutStr(intros, '导演：', '</p>', '导演'),
             vod_actor: cutStr(intros, '主演：', '</p>', '主演'),
-            vod_content: cutStr(intros, 'detail-content£>', '</span>', '简介'),
-            vod_play_from: ktabs.join('$$$'),
+            vod_content:'【琉🔹芸❤广告勿信👉剧情】 '+ cutStr(intros, 'detail-content£>', '</span>', '简介'),
+            vod_play_from: ktabs.join('$$$💕琉芸👉'),
             vod_play_url: kurls.join('$$$')
         };
         return JSON.stringify({list: [VOD]});
