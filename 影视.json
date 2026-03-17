@@ -23,35 +23,7 @@
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
 },
-{
-    "key": "csp_Jianpian",
-    "name": "♾️┣荐片┫秒播",
-    "type": 3,
-    "api": "csp_Jianpian",
-    "ext": {
-    "filters": "./XYQ/荐片.json",
-    "imgUrl": "https://img.jgsfnl.com",
-    "sites": "https://api.ztcgi.com"}
-},
 
-{
-    "key": "csp_雄鹰",
-    "name": "♾️┣雄鹰┫秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
-    "dataKey": "ca94b06ca359d80e"}
-},
-{
-    "key": "csp_猫头鹰",
-    "name": "♾️┣蓝鹰┫秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png",
-    "dataKey": "zxPtEUDGVllIUhDB"}
-},
 {
     "key": "csp_xinghe",
     "name": "♾️┣星河┫秒播",
