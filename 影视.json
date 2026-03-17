@@ -44,19 +44,7 @@
     "vName": "5.0",
     "pkg": "cc.xzsc.user"}
 },
-{
-    "key": "恋鱼",
-    "name": "🐟恋鱼┃APP",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": {"host": "http://103.117.137.33:2443"}
-},
-{
-    "key": "TVB云播",
-    "name": "☁️TVB┃APP",
-    "type": 3,
-    "api": "csp_Appfox",
-    "ext": "http://app.hktvyb.cc"},
+
 {
     "key": "小羊4K",
     "name": "🐑小羊┃4K",
