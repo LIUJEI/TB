@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-  "spider": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Sxiao.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   
