@@ -610,15 +610,6 @@
     "categories": ["电影","剧集","短剧","综艺","动漫"]
 },
 {
-    "key": "酷狗音乐",
-    "name": "💫┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "./JAR/ok.jar",
-    "ext": {"sp": "KuGou"},   
-    "类型": "音乐"
-},
-{
     "key": "csp_Kugou",
     "name": "💫┃酷狗┃音乐",
     "type": 3,
@@ -626,15 +617,6 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},   
     "类型": "音乐"
 },
-{
-    "key": "爱听音乐",
-    "name": "💫┃爱听┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "./JAR/ok.jar",
-    "ext": {"sp": "AiMusic"},   
-    "类型": "音乐"
-},	
 {
     "key": "csp_BiliMV",
     "name": "💫┃哔哩┃音乐",
@@ -652,13 +634,12 @@
     "类型": "音乐"
 },
 {
-    "key": "EmbyJS",
-    "name": "💫┃聚合┃Emby",
+    "key": "网易云音乐",
+    "name": "💫┃网易┃音乐",
     "type": 3,
-    "api": "./XB/Emby.js",   
-    "类型": "聚合"
+    "api": "./XB/网易云.py",   
+    "类型": "音乐"
 },
-
 {
 	"key": "漫国动漫",
     "name": "♾️漫国🔹动漫",
