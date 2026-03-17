@@ -33,45 +33,7 @@
     "imgUrl": "https://img.jgsfnl.com",
     "sites": "https://api.ztcgi.com"}
 },
-{
-    "key": "AppNox_金牌",
-    "name": "🥇金牌ⁿᵒˣ┃APP",
-    "type": 3,
-    "api": "csp_AppNox",
-    "ext": {
-    "host": "https://jp5.ggtvb.cc",
-    "vCode": "11",
-    "vName": "5.0",
-    "pkg": "cc.xzsc.user"}
-},
 
-{
-    "key": "小羊4K",
-    "name": "🐑小羊┃4K",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "host": "https://qjappcms410.xy4k.com",
-    "datakey": "mC6kG4mI1uM8tS4o"}
-},
-{
-    "key": "花小猪影视",
-    "name": "🐷花猪｜App",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
-    "datakey": "k5t2fp3h9d25hn9y"}
-},
-{
-    "key": "mifun",
-    "name": "🐸mifun｜APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
-    "datakey": "GETMIFUNGEIMIFUN"}
-},
 {
     "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫秒播",
