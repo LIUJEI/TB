@@ -23,7 +23,16 @@
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
 },
-
+{
+    "key": "csp_Jianpian",
+    "name": "♾️┣荐片┫秒播",
+    "type": 3,
+    "api": "csp_Jianpian",
+    "ext": {
+    "filters": "./XYQ/荐片.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
+},
 {
     "key": "csp_xinghe",
     "name": "♾️┣星河┫秒播",
