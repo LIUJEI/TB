@@ -27,7 +27,7 @@
     "key": "csp_雄鹰1",
     "name": "♾️┣雄鹰┫秒播",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "csp_AppGet",
     "ext": {
     "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
     "dataKey": "ca94b06ca359d80e",
