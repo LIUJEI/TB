@@ -16,6 +16,13 @@
     "searchable": 0
 },
 {
+	"key":"弹幕",
+	"name":"🅿弹幕┃刷新自动启动",
+	"type":3,
+	"api":"csp_GoConfigAmnsr",
+	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
+},
+{
     "key": "csp_reboys",
     "name": "🎬┣热门┫影視",
     "type": 3,
@@ -430,6 +437,37 @@
 	"type": 3,
     "api": "./BPQ/七猫.py",
     "类型": "短剧"
+},
+{
+	"name":"♨️豪堪®短剧",
+	"key":"豪堪短剧",
+	"type":3,
+	"api":"csp_HHkkAmns",
+	"genre":"shortdrama",
+	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
+},
+{
+	"name":"♨️盒马®短剧",
+	"key":"盒马短剧",
+	"type":3,
+	"api":"csp_HemaAmns",
+	"genre":"shortdrama",
+	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
+{
+	"name":"♨️拜拜®短剧",
+	"key":"拜拜短剧",
+	"type":3,
+	"api":"csp_BddjAmns",
+	"genre":"shortdrama",
+	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
+},
+{
+	"name":"♨️星星®短剧",
+	"key":"星星短剧",
+	"type":3,
+	"api":"csp_XydjAmns",
+	"genre":"shortdrama",
+	"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"
 },
 {
     "key": "csp_茄子短剧",
