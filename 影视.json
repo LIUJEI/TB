@@ -318,14 +318,23 @@
     "类型": "影视"
 },
 {
-    "key": "墨c-drpyS_人人影视[优]",
-    "name": "🪀人人🔹测试",
+    "key": "九灵移动",
+    "name": "🪀九灵🔹移动",
+    "type": 3,
+    "jar": "https://17264.kstore.space/yunY.jar",
+    "api": "csp_YDjisu"
+},
+{
+    "key": "drpyS_人人影视",
+    "name": "🪀人人🔹影院",
     "type": 4,
     "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
+    "title": "人人影视[优]",
+    "author": "EylinSir",
     "类型": "影视"
 },
 {
-    "key": "MOChen-drpyS_泥视频[优]",
+    "key": "drpyS_泥视频",
     "name": "🪀泥泥🔹视频",
     "type": 4,
     "api": "http://115.191.55.109:9097/api/泥视频[优]?pwd=50721480be241243",
