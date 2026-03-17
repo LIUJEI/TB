@@ -24,6 +24,82 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
+    "key": "csp_Jianpian",
+    "name": "♾️┣荐片┫秒播",
+    "type": 3,
+    "api": "csp_Jianpian",
+    "ext": {
+    "filters": "./XYQ/荐片.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
+},
+{
+      "key": "AppNox_金牌",
+      "name": "🥇金牌ⁿᵒˣ┃APP",
+      "type": 3,
+      "api": "csp_AppNox",
+      "ext": {
+        "host": "https://jp5.ggtvb.cc",
+        "vCode": "11",
+        "vName": "5.0",
+        "pkg": "cc.xzsc.user"
+      }
+    },
+    {
+      "key": "恋鱼",
+      "name": "🐟恋鱼┃APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_Appfox",
+      "ext": {
+        "host": "http://103.117.137.33:2443",
+        "ver": 2
+      }
+    },
+    {
+      "key": "TVB云播",
+      "name": "☁️TVB┃APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_Appfox",
+      "ext": "http://app.hktvyb.cc"
+    },
+    {
+      "key": "小羊4K",
+      "name": "🐑小羊┃4K",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://qjappcms410.xy4k.com",
+        "datakey": "mC6kG4mI1uM8tS4o",
+        "api": 2
+      }
+    },
+    {
+      "key": "花小猪影视",
+      "name": "🐷花猪｜App",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
+        "datakey": "k5t2fp3h9d25hn9y",
+        "ua": "okhttp/3.10.0",
+        "api": "2"
+      }
+    },
+    {
+      "key": "mifun",
+      "name": "🐸mifun｜APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
+        "datakey": "GETMIFUNGEIMIFUN"
+      }
+    },
+{
     "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫秒播",
     "type": 3,
