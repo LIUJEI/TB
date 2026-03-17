@@ -144,6 +144,7 @@
     "name": "♾️┣河马┫秒播",
     "type": 3,
     "api": "csp_Hmys",
+	"jar": "./JAR/vox.jar",
     "ext": {
     "host": "https://dy.stxbed.com",
     "app_id": "jiuxiao",
@@ -156,6 +157,7 @@
     "name": "♾️┣荐片┫秒播",
     "type": 3,
     "api": "csp_Jianpian",
+	"jar": "./JAR/vox.jar",
     "ext": {
     "filters": "./XYQ/荐片.json",
     "imgUrl": "https://img.jgsfnl.com",
