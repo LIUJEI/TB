@@ -24,15 +24,16 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_雄鹰1",
-    "name": "♾️┣雄鹰┫",
+    "key": "csp_雄鹰",
+    "name": "♾️┣雄鹰┫秒播",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": {
-    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
     "dataKey": "ca94b06ca359d80e",
-        "api": 2
-      }
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_猫头鹰",
@@ -40,10 +41,10 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png",
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png",
     "dataKey": "zxPtEUDGVllIUhDB",
-        "api": 2
-      }
+    "dataIv": "zxPtEUDGVllIUhDB",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_xinghe",
@@ -141,7 +142,7 @@
 },
 {
     "key": "九宵视频",
-    "name": "🦊九宵┃APP",
+    "name": "♾️┣河马┫秒播",
     "type": 3,
     "api": "csp_Hmys",
     "ext": {
