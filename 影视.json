@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-  "spider": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+  //"spider": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
 "spider": "http://rihou.cc:88/jar/vox.jar;md5;8a5846e1fcc781e2a86ff2db1e3542cc",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
@@ -91,8 +91,7 @@
       "key": "mifun",
       "name": "🐸mifun｜APP",
       "type": 3,
-      "searchable": 1,
-      "changeable": 1,
+    
       "api": "csp_AppGet",
       "ext": {
         "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
@@ -105,11 +104,8 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
-    "dataKey": "ca94b06ca359d80e",
-	"dataIv": "ca94b06ca359d80e",
-    "init": "initV120",
-    "ua": "okhttp/3.10.0"}
+    "host" "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
+    "dataKey": "ca94b06ca359d80e"}
 },
 {
     "key": "csp_猫头鹰",
