@@ -289,14 +289,6 @@
     "类型": "影视"
 },
 {
-    "key": "枫林影视",
-    "name": "🪀枫林🔹影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XB/枫林.json",
-    "类型": "影视"
-},
-{
     "key": "独播库",
     "name": "🪀独播🔹影視",
     "type": 3,
@@ -319,23 +311,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_js_荐片",
-    "name": "🪀影視🔹荐片",
-    "type": 3,
-    "api": "./XB/荐片0.js",
-    "ext": {"host": "https://api.ztcgi.com"},
-    "类型": "影视"
-},
-{
-    "key": "zhiqiu",
-    "name": "🪀听风🔹知秋",
-    "type": 3,
-    "api": "csp_MYzhiqiu",
-    "jar": "https://gitee.com/M60m/abandoned/raw/master/blrHB.png",
-    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-    "类型": "影视"
-},
-{
     "key": "Zwqf",
     "name": "🪀至臻🔹清风",
     "type": 4,
@@ -343,18 +318,25 @@
     "类型": "影视"
 },
 {
-    "key": "番喜",
-    "name": "🪀番喜🔹视频",
-    "type": 3,
-    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
-    "ext": "http://118.89.203.120:8365/"
+      "key": "墨c-drpyS_人人影视[优]",
+      "name": "人人💯测试4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
+      "类型": "影视"
 },
 {
-    "key": "皮皮",
-    "name": "🪀皮虾🔹视频",
-    "type": 3,
-    "api": "https://gitee.com/M60m/60/raw/master/lib/App林中xw.py",
-    "ext": "http://38.55.237.41:8762"
+      "key": "MOChen-drpyS_泥视频[优]",
+      "name": "泥泥✅有4K",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/泥视频[优]?pwd=50721480be241243",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "泥视频[优]",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
 },
 {
     "key": "csp_剧和短剧",
@@ -497,6 +479,13 @@
     "类型": "短剧"
 },
 {
+    "key": "cj_旺旺采集",
+    "name": "♨️旺旺®短剧",
+    "type": 1,
+    "api": "https://api.wwzy.tv/api.php/provide/vod/",
+    "类型": "短剧"
+},
+{
     "key": "csp_茄子短剧",
     "name": "♨️茄子®短劇",
     "type": 3,
@@ -554,15 +543,7 @@
     "分类": "♨️五五短剧$1",
     "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
 },
-{
-    "key": "cj_牛牛短剧",
-    "name": "♨️牛牛®短剧",
-    "type": 1,
-    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
-    "categories": ["有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市"],
-    "more": {"sourceTag": "[订阅]"},
-    "类型": "短剧"
-},
+
 {
     "key": "dr_腾迅",
     "name": "🐉┃腾讯┃官方",
