@@ -24,14 +24,26 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_Jianpian",
-    "name": "♾️┣荐片┫秒播",
+    "key": "csp_雄鹰1",
+    "name": "♾️┣雄鹰┫秒播",
     "type": 3,
-    "api": "csp_Jianpian",
+    "api": "csp_AppQi",
     "ext": {
-    "filters": "./XYQ/荐片.json",
-    "imgUrl": "https://img.jgsfnl.com",
-    "sites": "https://api.ztcgi.com"}
+    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png",
+    "dataKey": "ca94b06ca359d80e",
+        "api": 2
+      }
+},
+{
+    "key": "csp_猫头鹰",
+    "name": "♾️┣蓝鹰┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "host": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png",
+    "dataKey": "zxPtEUDGVllIUhDB",
+        "api": 2
+      }
 },
 {
     "key": "csp_xinghe",
@@ -126,6 +138,28 @@
     "dataKey": "mC6kG4mI1uM8tS4o",
     "dataIv": "mC6kG4mI1uM8tS4o",
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "九宵视频",
+    "name": "🦊九宵┃APP",
+    "type": 3,
+    "api": "csp_Hmys",
+    "ext": {
+    "host": "https://dy.stxbed.com",
+    "app_id": "jiuxiao",
+    "deviceid": "45d8c03dd76e10e1",
+    "versionCode": "10000",
+    "UMENG_CHANNEL": "share"}
+},
+{
+    "key": "csp_Jianpian",
+    "name": "♾️┣荐片┫秒播",
+    "type": 3,
+    "api": "csp_Jianpian",
+    "ext": {
+    "filters": "./XYQ/荐片.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
 },
 {
     "key": "csp_XBPQ",
