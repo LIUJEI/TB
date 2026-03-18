@@ -59,13 +59,6 @@
     "ext":  "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png|kj37zs29q22jk96t|okhttp/3.10.0"
 },
 {
-    "key": "csp_橘子",
-    "name": "♾️┣橘子┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|305"
-},
-{
     "key": "csp_爱影",
     "name": "♾️┣爱影┫秒播",
     "type": 3,
@@ -94,12 +87,13 @@
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4|initV122"
 },
 {
-    "key": "仓鼠",
-    "name": "仓鼠｜APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
-},
+      "key": "仓鼠APP",
+      "name": "🐭仓鼠｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
+    },
 {
     "key": "csp_小羊",
     "name": "♾️┣小羊┫秒播",
