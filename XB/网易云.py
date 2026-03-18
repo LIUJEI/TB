@@ -140,8 +140,8 @@ class Spider(Spider):
 
         videos.append({
             "vod_id": fenge[0],
-            "vod_content": f"琉🔹芸❤广告勿信👉剧情 {fenge1[0]} {fenge[1]}",
-            "vod_play_from": "网易云专线",
+            "vod_content": f"琉🔹芸❤广告勿信👉剧情📢 {fenge1[0]} {fenge[1]}",
+            "vod_play_from": "琉芸👉网易云",
             "vod_play_url": f"{fenge1[1]}${fenge[0]}"
                      })
 
