@@ -344,14 +344,14 @@
 },
 {
 	"key": "恰瓜子",
-	"name": "🪀恰恰☪瓜子",
+	"name": "🪀恰恰🔹瓜子",
 	"type": 3,
 	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
 },
 {
 	"key": "恰娃子",
-	"name": "🪀娃娃☪瓜子",
+	"name": "🪀娃娃🔹瓜子",
 	"type": 3,
 	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
