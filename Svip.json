@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-   "spider": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/88eef0fc9229baac/PandaQ260225.png;md5;43439ab24ef55a81150ca64aa9383da2",
+  "spider": "./JAR/FM.png",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
@@ -93,13 +93,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
-},
-{
-    "key": "csp_miaokan",
-    "name": "♾️┣秒看┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://d.kstore.dev/download/12194/HB/miaokan.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa|"
 },
 {
 	"key": "csp_baih",
@@ -567,22 +560,6 @@
     "style": {"type": "rect","ratio": 1.333}
 },
 {
-    "key": "csp_易听",
-    "name": "🎸┃易听┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
-    "ext": {"sp": "ShiJiMusic"}
-},
-{
-    "key": "csp_mogou",
-    "name": "🎸┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg",
-    "ext": {"sp": "KuGou"}
-},
-{
     "key": "csp_Kugou",
     "name": "💫┃酷狗┃音乐",
     "type": 3,
@@ -631,63 +608,7 @@
     "api": "csp_AppGet",
     "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
 },
-{
-    "key": "csp_Duopan",
-    "name": "网盘┃蜡笔┃4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "site_urls": [
-    "http://xiaocgege.shop",
-    "https://feimao666.fun",
-    "http://feimao888.fun",
-    "https://feimo.fun",
-    "http://www.labi88.sbs",
-    "http://fmao.site",
-    "http://fmao.shop",
-    "http://xiaocge.fun"],
-    "threadinfo": {"chunksize": 512,"threads": 16},
-    "url_key": "Duopan2"}
-},
-{
-    "key": "csp_Netfixtv",
-    "name": "网盘┃️至臻┃4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "site_urls": [
-    "http://xiaomi666.fun",
-    "https://zhizhen1.top",
-    "https://mihdr.top",
-    "https://www.mihdr.top",
-    "http://www.miqk.cc",
-    "https://www.zhizhenpan.fun"],
-    "url_key": "Netfixtv2",
-    "threadinfo": {"chunksize": 512,"threads": 16}}
-},
-{
-    "key": "csp_玩偶",
-    "name": "网盘┃️玩偶┃4K",
-    "type": 3,
-    "api": "csp_Wogg",
-	"jar": "./JAR/Sxiao.jar",
-    "ext": {"site": [
-    "https://www.wogg.one",
-    "https://wogg.333232.xyz",
-    "https://woggpan.888484.xyz"]},
-    "timeout": 60
-},
-{
-    "key": "csp_FeiMaoUC",
-    "name": "网盘┃闪电┃优汐",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-	"site_urls": [
-    "https://shandian.blog/",
-    "https://sd.sduc.site"],
-    "url_key": "FeiMaoUC"}
-},
+
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
