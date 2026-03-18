@@ -58,22 +58,6 @@
     "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|305"
 },
 {
-    "key": "csp_雄鹰",
-    "name": "♾️┣雄鹰┫APP",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "XiongYing"}
-},
-{
-    "key": "csp_奇奇",
-    "name": "♾️┣奇奇┫APP",
-    "type": 3,
-    "api": "csp_AweSomeGuard",
-    "jar": "http://oss4liview.moji.com/thd_file/2026/01/23/aabe9ebea7695ee766e0bf503b218dcc.jpg",
-    "ext": {"sp": "QiQi"}
-},
-{
     "key": "csp_芬奇",
     "name": "♾️┣芬奇┫APP",
     "type": 3,
