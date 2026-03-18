@@ -69,7 +69,7 @@ const detail = async id => {
     let vod_name = (html.match(/<h1>(.*?)<\/h1>/)?.[1] || "").split('/')[0].trim().replace(/.*《([^》]+)】?.*/, "$1");
     const m = s => (html.match(s) || ["", ""])[1].trim();
     const vod_pic = m(/<img[^>]+src="([^"]+)"[^>]*class="lazy"/);
-    const vod_content = (html.match(/<p class="jianjie-p"[^>]*>([\s\S]*?)<\/p>/)?.[1] || "").replace(/<.*?>/g, "【琉🔹芸❤广告勿信👉剧情】").trim() || "暂无简介";
+    const vod_content = (html.match(/<p class="jianjie-p"[^>]*>([\s\S]*?)<\/p>/)?.[1] || "").replace(/<.*?>/g, "【琉🔹芸❤广告勿信👉剧情】📢").trim() || "暂无简介";
 
     return JSON.stringify({
         list: [{
