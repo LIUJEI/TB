@@ -94,11 +94,50 @@
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4|initV122"
 },
 {
+    "key": "仓鼠",
+    "name": "仓鼠｜APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
+},
+{
     "key": "csp_小羊",
     "name": "♾️┣小羊┫秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|okhttp/3.10.0"
+},
+{
+    "key": "爱影视",
+    "name": "🏞️爱影｜1080P",
+    "type": 3,
+    "timeout": 15,
+    "api": "csp_AppGet",
+    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122"
+},
+{
+      "key": "橘子Get",
+      "name": "🍊橘子｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
+    },
+    {
+      "key": "顾我",
+      "name": "🖼️顾我｜1080P",
+      "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+     
+      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
+    },
+{
+    "key": "段友",
+    "name": "🎪段友｜1080P",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
 },
 {
     "key": "csp_yongy",
