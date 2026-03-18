@@ -22,24 +22,7 @@
     "api": "csp_AppRJ",
     "ext": "http://v.rbotv.cn"
 },
-{
-    "key": "九宵视频",
-    "name": "♾️┣河马┫秒播",
-    "type": 3,
-    "api": "csp_Hmys",
-    "ext": "https://dy.stxbed.com|jiuxiao|45d8c03dd76e10e1|10000|share"
-},
-{
-    "key": "csp_Jianpian",
-    "name": "♾️┣荐片┫秒播",
-    "type": 3,
-    "api": "csp_Jianpian",
-	"jar": "./JAR/vox.jar",
-    "ext": {
-    "filters": "./XYQ/荐片.json",
-    "imgUrl": "https://img.jgsfnl.com",
-    "sites": "https://api.ztcgi.com"}
-},
+
 {
     "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫秒播",
