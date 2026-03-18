@@ -120,7 +120,7 @@ async function detail(id) {
         'vod_area': data.area,
         'vod_actor': data.actor,
         'vod_director': data.director,
-        'vod_content': '【琉🔹芸❤广告勿信👉剧情】',
+        'vod_content': '【琉🔹芸❤广告勿信👉剧情】📢',
         'vod_play_from': shows.join('$$$💕琉芸👉'),
         'vod_play_url': playUrls.join('$$$'),
         'type_name': ''
