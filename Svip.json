@@ -44,11 +44,18 @@
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd"
 },
 {
-    "key": "csp_顾我",
-    "name": "♾️┣顾我┫APP",
+    "key": "csp_猫头鹰",
+    "name": "♾️┣蓝鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json|kj37zs29q22jk96t"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png|zxPtEUDGVllIUhDB|okhttp/3.10.0"
+},
+{
+    "key": "csp_xinghe",
+    "name": "♾️┣星河┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext":  "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png|kj37zs29q22jk96t|okhttp/3.10.0"
 },
 {
     "key": "csp_橘子",
