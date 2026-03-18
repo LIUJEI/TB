@@ -22,7 +22,27 @@
     "api": "csp_AppRJ",
     "ext": "http://v.rbotv.cn"
 },
-
+{
+	"key": "csp_baih",
+	"name": "♾️┣芬香┫APP",
+	"type": 3,
+    "api": "./XB/fuz.js",
+	"ext": "https://app2512.ystva.com"
+},
+{
+    "key": "恋鱼",
+    "name": "♾️┣恋鱼┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext":  "http://103.117.137.33:2443"
+},
+{
+    "key": "云播",
+    "name": "♾️┣云播┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "http://app.hktvyb.cc"
+},
 {
     "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫秒播",
@@ -79,7 +99,6 @@
     "api": "csp_AppQi",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4|initV122"
 },
-
 {
     "key": "csp_小羊",
     "name": "♾️┣小羊┫秒播",
@@ -95,23 +114,13 @@
     "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122"
 },
 {
-      "key": "橘子Get",
-      "name": "🍊橘子｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppQi",
-      "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
-    },
-    {
-      "key": "顾我",
-      "name": "🖼️顾我｜1080P",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_AppQi",
-     
-      "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
-    },
-
+    "key": "橘子Get",
+    "name": "♾️┣橘子┫秒播",
+    "type": 3,
+    "timeout": 15,
+    "api": "csp_AppQi",
+    "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
+},
 {
     "key": "csp_yongy",
     "name": "♾️┣永夜┫APP",
@@ -126,20 +135,8 @@
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
 },
-{
-	"key": "csp_baih",
-	"name": "♾️┣白虎┫APP",
-	"type": 3,
-    "api": "./XB/fuz.js",
-	"ext": "https://app2512.ystva.com"
-},
-{
-    "key": "csp_mayi",
-    "name": "♾️┣蚂蚁┫APP",
-	"type": 3,
-    "api":"./XB/Appto.py",
-	"ext": "http://118.89.203.120:8365/"
-},
+
+
 {
     "key": "csp_js_金牌123",
     "name": "🪀金牌🔹影視",
