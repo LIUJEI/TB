@@ -101,8 +101,7 @@
     "name": "♾️┣奇奇┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png|123456789abcdefg|initV122"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png|123456789abcdefg|initV122"
 },
 {
     "key": "csp_琼林",
