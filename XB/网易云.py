@@ -136,7 +136,7 @@ class Spider(Spider):
 
         fenge = did.split("@")
 
-        fenge1 = fenge[2].split("👉")
+        fenge1 = fenge[2].split("📢")
 
         videos.append({
             "vod_id": fenge[0],
