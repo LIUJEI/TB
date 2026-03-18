@@ -245,7 +245,7 @@ class Spider(Spider):
     def create_video_detail_item(self, did):
         return {
             "vod_id": did,
-            "vod_play_from": '音乐专线',
+            "vod_play_from": '琉芸👉枫叶音乐',
             "vod_play_url": did
                }
 
