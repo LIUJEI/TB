@@ -103,8 +103,10 @@
     "api": "csp_AppQi",
     "ext": {
     "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱影.png",
-    "dataKey": "fff32466kkfff616",
-    "dataIv": "fff32466kkfff616",
+    "dataKey": "ada211sdfsff3261",
+    "dataIv": "ada211sdfsff3261",
+    "init": "initV122",
+    "search": "mineInfo",
     "ua": "okhttp/3.10.0"}
 },
 {
