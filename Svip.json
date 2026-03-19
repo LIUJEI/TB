@@ -137,54 +137,52 @@
 },
 {
     "key": "csp_AppJg",
-    "name": "🪀坚果🔹影視",
+    "name": "🪀┃坚果┃影視",
     "type": 3,
     "api": "csp_AppJg"
 },
 {
     "key": "3Q",
-    "name": "🪀s三秋🔹影視",
+    "name": "🪀┃三秋┃影視",
     "type": 3,
     "api": "csp_App3Q"
 },
 {
     "key": "csp_js_月光影视",
-    "name": "🪀月光🔹影視",
+    "name": "🪀┃月光┃影視",
     "type": 3,
     "api": "./XB/月光.js"
 },
 {
     "key": "csp_js_金牌123",
-    "name": "🪀金牌🔹影視",
+    "name": "🪀┃金牌┃影視",
     "type": 3,
     "api": "./XB/金牌.js"
 },
 {
     "key": "csp_js_apple",
-    "name": "🪀苹果🔹影視",
+    "name": "🪀┃苹果┃影視",
     "type": 3,
     "api": "./XB/苹果.js"
 },
 {
     "key": "csp_麻雀",
-    "name": "🪀麻雀🔹秒播",
+    "name": "🪀┃麻雀┃秒播",
     "type": 3,
     "api": "./XB/麻雀.js"
 },
 {
     "key": "星辰影院",
-    "name": "🪀星辰🔹影視",
+    "name": "🪀┃星辰┃影視",
     "type": 3,
     "api": "./XB/星辰.js"
 },
 {
     "key": "耐看",
-    "name": "🪀耐看🔹影視",
+    "name": "🪀┃耐看┃影視",
     "type": 3,
     "api": "./XB/耐看.js"
 },
-
-
 {
     "key": "dr_腾迅",
     "name": "🐉┃腾讯┃官方",
@@ -229,58 +227,100 @@
 },
 {
     "key": "csp_剧和短剧",
-    "name": "🎬短劇☪系列",
+    "name": "♨️┃短劇┃系列",
     "type": 3,
     "api": "./XB/短合.js"
 },
 {
     "key": "hipy_js_星芽短剧",
-    "name": "🎬短劇☪系列",
+    "name": "♨️┃短劇┃星芽",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./XB/星芽.js"
 },
 {
     "key":"豪堪短剧",
-    "name":"♨️豪堪®短剧",
+    "name":"♨️┃豪堪┃短剧",
     "type":3,
     "api":"csp_HHkkAmns",
     "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key":"盒马短剧",
-    "name":"♨️盒马®短剧",
+    "name":"♨️┃盒马┃短剧",
     "type":3,
     "api":"csp_HemaAmns",
     "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key":"拜拜短剧",
-    "name":"♨️拜拜®短剧",
+    "name":"♨️┃拜拜┃短剧",
     "type":3,
     "api":"csp_BddjAmns",
     "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key":"喵喵短剧",
-    "name":"♨️喵喵®短剧",
+    "name":"♨️┃喵喵┃短剧",
     "type":3,
     "api":"csp_QmdjAmns",
     "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key":"星星短剧",
-    "name":"♨️星星®短剧",
+    "name":"♨️┃星星┃短剧",
     "type":3,
     "api":"csp_XydjAmns",
     "jar": "./JAR/嗷嗚.jar"
 },
 {
     "key":"岁岁短剧",
-    "name":"♨️岁岁®短剧",
+    "name":"♨️┃岁岁┃短剧",
     "type":3,
     "api":"csp_SpdjAmns",
     "jar": "./JAR/嗷嗚.jar"
+},
+{
+	"key": "csp_YALI",
+	"name": "♾️┃鸭梨┃动漫",
+	"type": 3,
+	"api": "csp_AppQi",
+	"ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
+},
+{
+	"key": "丫丫动漫", 
+	"name": "♾️┃丫丫┃动漫", 
+	"type": 3, 
+	"api": "csp_AppGet", 
+	"ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
+},
+{
+	"key": "曼波动漫", 
+	"name": "♾️┃曼波┃动漫", 
+	"type": 3, 
+	"api": "csp_AppGet", 
+	"ext": "https://app.omofun1.top|66dc309cbeeca454"
+},
+{
+    "key": "咕咕动漫",
+    "name": "♾️┃咕咕┃动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
+},
+{
+    "key": "方舟动漫",
+    "name": "♾️┃方舟┃动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://www.cyfz.vip|e72cdfd629e8895d"
+},
+{
+    "key": "元咲动漫",
+    "name": "♾️┃元咲┃动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
 },
 {
     "key": "csp_BiliMV",
@@ -296,48 +336,6 @@
     "type": 3,
     "api": "csp_Kugou",
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
-},
-{
-	"key": "csp_YALI",
-	"name": "♾️鸭梨🔹动漫",
-	"type": 3,
-	"api": "csp_AppQi",
-	"ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
-},
-{
-	"key": "丫丫动漫", 
-	"name": "♾️丫丫🔹动漫", 
-	"type": 3, 
-	"api": "csp_AppGet", 
-	"ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
-},
-{
-	"key": "曼波动漫", 
-	"name": "♾️曼波🔹动漫", 
-	"type": 3, 
-	"api": "csp_AppGet", 
-	"ext": "https://app.omofun1.top|66dc309cbeeca454"
-},
-{
-    "key": "咕咕动漫",
-    "name": "♾️咕咕🔹动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD"
-},
-{
-    "key": "方舟动漫",
-    "name": "♾️方舟🔹动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://www.cyfz.vip|e72cdfd629e8895d"
-},
-{
-    "key": "元咲动漫",
-    "name": "♾️元咲🔹动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
 },
 {
     "key": "csp_Duopan",
