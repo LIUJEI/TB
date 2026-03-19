@@ -481,16 +481,14 @@
 }],
 "parses": [
 {
-    "name": "☪冰豆❂",
-    "type": 0,
-	"url": "https://bd.jx.cn/?url=",
-	"ext": {
-	"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-},
-{
     "name": "☪虾米❂",
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
+},
+{
+    "name": "☪冰豆❂",
+    "type": 0,
+	"url": "https://bd.jx.cn/?url="
 },
 {
     "name":"☪拉野❂",
@@ -508,29 +506,23 @@
     "url": "https://www.playm3u8.cn/jiexi.php?url="
 },
 {
-    "name": "☪爱奇艺❂",
+    "name": "☪蓝光㊎",
     "type": 0,
     "url":"https://jx.m3u8.tv/jiexi/?url="
 },
 {
-	"name":"❂腾讯芸㊎",
-	"type":0,
-	"url":"https://jx.2s0.cn/player/?url="
-}, 
-{
-    "name": "❂芸解析㊍",
-    "type": 0,
+    "name": "❂8090㊍",
     "url": "https://www.8090g.cn/jiexi/?url="
 }, 
 {
-	"name": "❂芸解析㊌",
+	"name": "❂华勇㊌",
 	"type": 0,
-	"url": "https://www.playm3u8.cn/jiexi.php?url="
+	"url": "https://huayong.net/vip4/?url="
 }, 
 {
 	"name":"❂芸解析㊋",
-	"url":"https://jx.hls.one/?url=",
-	"type":0
+	"type": 0,
+    "url": "https://jx.yparse.com/index.php?url="
 }, 
 {
 	"name":"❂芸解析㊏",
@@ -538,11 +530,24 @@
 	"url":"https://yparse.ik9.cc/index.php?url="
 },
 {
+    "name": "❂通用❂线路",
+    "type": 1,
+    "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
+},
+{
+    "name": "❂腾讯❂专线",
+    "type": 1,
+    "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
+},
+{
+    "name": "🥭芒果❂专用",
+    "type": 1,
+    "url": "http://mg.itufm.top/mg.php?url="
+},
+{
     "name": "🏁琉芸★内部嗅探★",
-    "type":1,
-	"url":"https://zy.qiaoji8.com/xiafan.php?url=",
-	"ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],
-	"header":{"User-Agent":"okhttp/4.9.1"}}
+    "type": 0,
+	"url": "https://jx.2s0.cn/player/?url="
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
