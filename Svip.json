@@ -97,14 +97,14 @@
     "name": "♾️┣琼林┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4"
+    "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4"
 },
 {
     "key": "爱影视",
     "name": "♾️┣爱影┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱影.png|ada211sdfsff3261"
+    "ext": "http://111.170.7.206:26818|ada211sdfsff3261"
 },
 {
     "key": "橘子Get",
@@ -112,14 +112,14 @@
     "type": 3,
     "timeout": 15,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.png|jasaFBcdV3zrUDf2"
+    "ext": "https://juzi.pwwhu.cn|jasaFBcdV3zrUDf2"
 },
 {
     "key": "茉莉",
     "name": "♾️┣茉莉┫秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/茉莉.png|88689667dce61725"
+    "ext": "http://103.236.72.188:2656|88689667dce61725"
 },
 {
     "key": "csp_小羊",
@@ -189,7 +189,7 @@
     "name": "♾️┣驿站┫秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/驿站.png|dyyztvapiappyyds"
 },
 {
     "key": "九宵视频",
