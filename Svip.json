@@ -199,6 +199,30 @@
     "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8|"
 },
 {
+    "key": "九宵视频",
+    "name": "♾️┣河马┫秒播",
+    "type": 3,
+    "api": "csp_Hmys",
+	"jar": "./JAR/vox.jar",
+    "ext": {
+    "host": "https://dy.stxbed.com",
+    "app_id": "jiuxiao",
+    "deviceid": "45d8c03dd76e10e1",
+    "versionCode": "10000",
+    "UMENG_CHANNEL": "share"}
+},
+{
+    "key": "csp_Jianpian",
+    "name": "♾️┣荐片┫秒播",
+    "type": 3,
+    "api": "csp_Jianpian",
+	"jar": "./JAR/vox.jar",
+    "ext": {
+    "filters": "./XYQ/荐片.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
+},
+{
     "key": "csp_AppJg",
     "name": "🪀┃坚果┃影視",
     "type": 3,
