@@ -86,8 +86,8 @@
     "ext": "http://110.42.67.221:8009|123456789abcdefg"
 },
 {
-    "key": "csp_琼林",
-    "name": "♾️┣琼林┫APP",
+    "key": "csp_金牌",
+    "name": "♾️┣金牌┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4"
@@ -174,15 +174,15 @@
     "key": "爱影视",
     "name": "♾️┣爱影┫APP",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://111.170.7.206:26818|ada211sdfsff3261|mineInfo||"
+    "api": "csp_AppQi",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱影.png|ada211sdfsff3261|initV122|mineInfo"
 },
 {
     "key": "csp_曦臣",
     "name": "♾️┣曦臣┫APP",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://111.170.7.184:3263/|sjvlwnhk6h9znl61|searchList4||"
+    "api": "csp_AppQi",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/曦臣.png|sjvlwnhk6h9znl61|305"
 },
 {
     "key": "驿站",
