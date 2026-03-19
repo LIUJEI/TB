@@ -207,7 +207,7 @@
     "name": "🖼️顾我｜1080P",
     "type": 3,
     "timeout": 15,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
 },
 {
