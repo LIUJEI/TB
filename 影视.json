@@ -145,6 +145,29 @@
     "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "csp_茉莉",
+    "name": "♾️┣茉莉┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/茉莉.png",
+    "dataKey": "88689667dce61725",
+    "dataIv": "88689667dce61725"}
+},
+{
+    "key": "csp_橘子",
+    "name": "♾️┣橘子┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.png",
+    "dataKey": "jasaFBcdV3zrUDf2",
+    "dataIv": "jasaFBcdV3zrUDf2",
+    "version": "305",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "csp_小羊",
     "name": "♾️┣小羊┫秒播",
     "type": 3,
