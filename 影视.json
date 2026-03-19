@@ -727,26 +727,7 @@
     "ext": "./XB/single.json"
 }],
 "parses": [
- {
-      "name": "尘墨专线",
-      "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/zong/zong.php?url="
-    },
-    {
-      "name": "腾讯专线",
-      "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
-    },
-    {
-      "name": "芒果专线",
-      "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/mg4k/mg4k.php?url="
-    },
-    {
-      "name": "通用线路",
-      "type": 1,
-      "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
-    },
+
 {
     "name": "☪冰豆❂",
     "type": 0,
