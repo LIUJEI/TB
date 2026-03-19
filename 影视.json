@@ -170,6 +170,26 @@
     "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "csp_云朵",
+    "name": "♾️┣云朵┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://yd4kcms.yd4k.top",
+    "dataKey": "Tpmm9FD99lJ8Dexa",
+    "dataIv": "Tpmm9FD99lJ8Dexa"}
+},
+{
+    "key": "csp_不错",
+    "name": "♾️┣不错┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://zbc4kmcs.zbc4k.app",
+    "dataKey": "vE4kR7cF6jS6jH7a",
+    "dataIv": "vE4kR7cF6jS6jH7a"}
+},	
+{
     "key": "csp_小羊",
     "name": "♾️┣小羊┫秒播",
     "type": 3,
