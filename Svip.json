@@ -44,6 +44,13 @@
     "ext": "http://app.hktvyb.cc"
 },
 {
+    "key": "火猫",
+    "name": "♾️┣火猫┫APP",
+    "type": 3,
+    "api": "./XB/fuz.js",
+    "ext": "http://103.23.148.70:14987"
+},
+{
     "key": "csp_雄鹰",
     "name": "♾️┣雄鹰┫APP",
     "type": 3,
@@ -107,6 +114,20 @@
     "api": "csp_AppGet",
     "ext": "http://103.236.72.188:2656|88689667dce61725"
 },
+{
+    "key": "csp_云朵",
+    "name": "♾️┣云朵┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa"
+},
+{
+    "key": "csp_不错",
+    "name": "♾️┣不错┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a"
+},	
 {
     "key": "csp_小羊",
     "name": "♾️┣小羊┫APP",
