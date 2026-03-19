@@ -728,130 +728,100 @@
 }],
 "parses": [
 {
-    "name": "☪虾米❂",
+    "name": "☪虾米㊎",
     "type": 0,
     "url": "https://jx.xmflv.com/?url="
 },
 {
-    "name": "☪冰豆❂",
+    "name": "☪冰豆㊍",
     "type": 0,
 	"url": "https://bd.jx.cn/?url="
 },
 {
-    "name":"☪拉野❂",
+    "name":"☪拉野㊌",
     "type":0,
     "url":"http://www.ckplayer.vip/jiexi/?url="
 },
 {
-    "name": "☪淘片❂",
+    "name": "☪淘片㊋",
     "type": 0,
     "url": "https://jx.yparse.com/index.php?url="
 },
 {
-    "name": "☪盘古❂",
+    "name": "☪盘古㊏",
     "type": 0,
     "url": "https://www.playm3u8.cn/jiexi.php?url="
 },
 {
-    "name": "☪蓝光㊎",
-    "type": 0,
-    "url":"https://jx.m3u8.tv/jiexi/?url="
-},
-{
-    "name": "❂8090㊍",
+    "name": "☪8090❂",
     "url": "https://www.8090g.cn/jiexi/?url="
 }, 
 {
-	"name": "❂华勇㊌",
+	"name": "☪华勇❂",
 	"type": 0,
 	"url": "https://huayong.net/vip4/?url="
 }, 
 {
-	"name":"❂芸解析㊋",
+	"name":"❂芸解析①",
 	"type": 0,
     "url": "https://jx.yparse.com/index.php?url="
 }, 
 {
-	"name":"❂芸解析㊏",
+	"name":"❂芸解析②",
 	"type":0,
 	"url":"https://yparse.ik9.cc/index.php?url="
 },
 {
-    "name": "❂通用❂线路",
-    "type": 1,
-    "url": "https://fanghu.52xiaobai.cn/1080/1080.php?url="
+    "name": "❂芸解析③",
+    "type": 0,
+    "url": "http://www.ckplayer.vip/jiexi/?url="
 },
 {
-    "name": "❂腾讯❂专线",
-    "type": 1,
-    "url": "https://fanghu.52xiaobai.cn/qq4k/qq4k.php?url="
+    "name": "❂芸解析④",
+    "type": 0,
+    "url": "https://cdn.zyc888.top/?url="
+},
+{
+    "name": "❂芸解析⑤",
+    "type": 0,
+    "url":"https://jx.m3u8.tv/jiexi/?url="
+},
+{
+    "name": "🐧爱优❂腾果",
+    "type": 0,
+    "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
 },
 {
     "name": "🥭芒果❂专用",
     "type": 1,
-    "url": "http://mg.itufm.top/mg.php?url="
+    "url": "http://mg.itufm.top/mg.php?url=",
+    "ext": {
+    "flag": [
+        "qq",
+        "腾讯",
+        "qiyi",
+        "爱奇艺",
+        "奇艺",
+        "youku",
+        "优酷",
+        "sohu",
+        "搜狐",
+        "letv",
+        "乐视",
+        "mgtv",
+        "芒果",
+        "tnmb",
+        "seven",
+        "bilibili",
+        "1905",
+        "QD4K",
+        "iyf",
+        "duanju",
+        "gzcj",
+        "GTV",
+        "GZYS"],
+    "header": {"User-Agent": "okhttp/4.9.1"}}
 },
-{
-      "name": "网盘_解析不稳定",
-      "type": 1,
-      "url": "http://1.94.244.214:8889/geturl?url="
-    },
-    {
-      "name": "测",
-      "type": "1",
-      "url": "http://jiexi.fc8001.top/KKsCCErdNWGAwllj.php?url="
-    },
-    {
-      "name": "爱优腾果解析1",
-      "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=12e&mz=1&url="
-    },
-    {
-      "name": "爱优腾果解析2",
-      "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=12e&mz=2&url="
-    },
-    {
-      "name": "爱优腾果解析3",
-      "type": 1,
-      "url": "https://by1.nxog.eu.org/jx.php?ou=12e&mz=3&url="
-    },
-    {
-      "name": "爱优腾果解析4",
-      "type": 1,
-      "url": "https://mfjx.iwsyy.xyz/?url="
-    },
-    {
-      "name": "线路1",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "线路2",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "线路3",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    
-    {
-      "name": "线路5",
-      "type": 0,
-      "url": "https://cdn.zyc888.top/?url="
-    },
-    {
-      "name": "线路6",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url="
-    },
-    {
-      "name": "线路7",
-      "type": 0,
-      "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
-    },
 {
     "name": "🏁琉芸★内部嗅探★",
     "type": 0,
