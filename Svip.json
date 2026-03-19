@@ -48,49 +48,49 @@
     "name": "♾️┣雄鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png|ca94b06ca359d80e"
+    "ext": "http://122.228.193.2:9988|ca94b06ca359d80e"
 },
 {
     "key": "csp_花猪",
     "name": "♾️┣花猪┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.png|lp3d4t53y9t5db8y|searchList9"
+    "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9"
 },
 {
     "key": "csp_优兔",
     "name": "♾️┣优兔┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd"
+    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd"
 },
 {
     "key": "csp_猫头鹰",
     "name": "♾️┣蓝鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png|zxPtEUDGVllIUhDB"
+    "ext": "http://103.217.190.91:9999|zxPtEUDGVllIUhDB"
 },
 {
     "key": "csp_xinghe",
     "name": "♾️┣星河┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext":  "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png|kj37zs29q22jk96t"
+    "ext":  "http://160.202.254.245:1226|kj37zs29q22jk96t"
 },
 {
     "key": "csp_曦臣",
     "name": "♾️┣曦臣┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/曦臣.png|sjvlwnhk6h9znl61"
+    "ext": "http://111.170.7.184:3263/|sjvlwnhk6h9znl61"
 },
 {
     "key": "csp_奇奇",
     "name": "♾️┣奇奇┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png|123456789abcdefg"
+    "ext": "http://110.42.67.221:8009|123456789abcdefg"
 },
 {
     "key": "csp_琼林",
@@ -195,8 +195,14 @@
     "key": "九宵视频",
     "name": "♾️┣河马┫秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://dy.stxbed.com|jiuxiao|45d8c03dd76e10e1|0000|share"
+    "api": "csp_Hmys",
+	"jar": "./JAR/vox.jar",
+    "ext": {
+    "host": "https://dy.stxbed.com",
+    "app_id": "jiuxiao",
+    "deviceid": "45d8c03dd76e10e1",
+    "versionCode": "10000",
+    "UMENG_CHANNEL": "share"}
 },
 {
     "key": "csp_Jianpian",
