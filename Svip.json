@@ -341,7 +341,7 @@
 },
 {
     "key": "csp_Duopan",
-    "name": "🖍︎┃蜡笔┃影视",
+    "name": "🖍︎┃网盘┃蜡笔4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -359,7 +359,7 @@
 },
 {
     "key": "csp_Netfixtv",
-    "name": "💌┃️至臻┃影视",
+    "name": "💌┃️网盘┃至臻4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -375,7 +375,7 @@
 },
 {
     "key": "csp_FeiMaoUC",
-    "name": "⚡┃闪电┃优汐",
+    "name": "⚡┃网盘┃闪电4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -384,10 +384,10 @@
 },
 {
     "key": "csp_Wogg",
-    "name": "🧁🧀玩偶4K｜网盘",
+    "name": "👽┃网盘┃玩偶4K",
     "type": 3,
     "api": "csp_Wogg",
-    //"jar": "./JAR/Sxiao.jar",
+    "jar": "./JAR/Sxiao.jar",
     "ext": {
     "site": [
     "https://wogg.xxooo.cf",
