@@ -79,13 +79,6 @@
     "ext":  "http://160.202.254.245:1226|kj37zs29q22jk96t"
 },
 {
-    "key": "csp_曦臣",
-    "name": "♾️┣曦臣┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://111.170.7.184:3263/|sjvlwnhk6h9znl61|searchList4"
-},
-{
     "key": "csp_奇奇",
     "name": "♾️┣奇奇┫APP",
     "type": 3,
@@ -98,13 +91,6 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4"
-},
-{
-    "key": "爱影视",
-    "name": "♾️┣爱影┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://111.170.7.206:26818|ada211sdfsff3261|mineInfo"
 },
 {
     "key": "橘子Get",
@@ -183,6 +169,20 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+},
+{
+    "key": "爱影视",
+    "name": "♾️┣爱影┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://111.170.7.206:26818|ada211sdfsff3261|mineInfo||"
+},
+{
+    "key": "csp_曦臣",
+    "name": "♾️┣曦臣┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://111.170.7.184:3263/|sjvlwnhk6h9znl61|searchList4||"
 },
 {
     "key": "驿站",
