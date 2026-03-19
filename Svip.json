@@ -230,6 +230,18 @@
     "sites": "https://api.ztcgi.com"}
 },
 {
+    "key": "yingtan",
+    "name": "🪀┃影探┃4K",
+    "type": 4,
+    "api": "https://catbox.n13.club/18/影探影视.php"
+},
+{
+    "key": "影探",
+    "name": "🪀┃影探┃2K",
+    "type": 3,
+    "api": "https://tvv.tw/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/yingtan.py"
+},
+{
     "key": "csp_AppJg",
     "name": "🪀┃坚果┃影視",
     "type": 3,
@@ -508,6 +520,11 @@
     "ext": "./XB/single.json"
 }],
 "parses": [
+{
+    "name": "☪虚空❂私域",
+    "type": 1,
+    "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
+},
 {
     "name": "🐧爱优❂腾果",
     "type": 0,
