@@ -129,20 +129,6 @@
     "ext": "http://huohu.yihn.cc|huohushipingetap"
 },
 {
-    "key": "段友",
-    "name": "♾️┣段友┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
-},
-{
-    "key": "灵虎",
-    "name": "♾️┣灵虎┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025"
-},
-{
     "key": "七壹",
     "name": "♾️┣七壹┫APP",
     "type": 3,
@@ -175,14 +161,14 @@
     "name": "♾️┣爱影┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|initV122|mineInfo|okhttp/3.10.0"
+    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo|okhttp/3.10.0"
 },
 {
     "key": "csp_曦臣",
     "name": "♾️┣曦臣┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|305|okhttp/3.10.0"
+    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|okhttp/3.10.0"
 },
 {
     "key": "驿站",
