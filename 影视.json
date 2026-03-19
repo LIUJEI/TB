@@ -733,24 +733,26 @@
     "url": "https://jx.xmflv.com/?url="
 },
 {
-    "name": "☪冰豆㊍",
-    "type": 0,
-	"url": "https://bd.jx.cn/?url="
-},
-{
-    "name":"☪拉野㊌",
+    "name":"☪拉野㊍",
     "type":0,
     "url":"http://www.ckplayer.vip/jiexi/?url="
 },
 {
-    "name": "☪淘片㊋",
+    "name": "☪淘片㊌",
     "type": 0,
     "url": "https://jx.yparse.com/index.php?url="
 },
 {
-    "name": "☪盘古㊏",
+    "name": "☪盘古㊋",
     "type": 0,
     "url": "https://www.playm3u8.cn/jiexi.php?url="
+},
+{
+    "name": "☪冰豆㊏",
+    "type": 0,
+	"url": "https://bd.jx.cn/?url=",
+	"ext": {
+	"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
 },
 {
     "name": "☪8090❂",
