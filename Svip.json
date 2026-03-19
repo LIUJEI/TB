@@ -178,6 +178,13 @@
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
 },
 {
+    "key": "段友",
+    "name": "♾️┣段友┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+},
+{
     "key": "爱影视",
     "name": "♾️┣爱影┫APP",
     "type": 3,
