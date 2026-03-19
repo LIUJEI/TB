@@ -48,14 +48,14 @@
     "name": "♾️┣雄鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png|ca94b06ca359d80e|initV120"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/雄鹰.png|ca94b06ca359d80e"
 },
 {
     "key": "csp_花猪",
     "name": "♾️┣花猪┫APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.png|lp3d4t53y9t5db8y|searchList9|initV122"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/花小猪.png|lp3d4t53y9t5db8y|searchList9"
 },
 {
     "key": "csp_优兔",
@@ -69,49 +69,42 @@
     "name": "♾️┣蓝鹰┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png|zxPtEUDGVllIUhDB|okhttp/3.10.0"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/猫头鹰.png|zxPtEUDGVllIUhDB"
 },
 {
     "key": "csp_xinghe",
     "name": "♾️┣星河┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext":  "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png|kj37zs29q22jk96t|okhttp/3.10.0"
+    "ext":  "https://gitee.com/lyun_1_0/TS/raw/main/XB/星河.png|kj37zs29q22jk96t"
 },
 {
     "key": "csp_曦臣",
     "name": "♾️┣曦臣┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/曦臣.png|sjvlwnhk6h9znl61|305"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/曦臣.png|sjvlwnhk6h9znl61"
 },
 {
     "key": "csp_奇奇",
     "name": "♾️┣奇奇┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png|123456789abcdefg|initV122"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/奇奇.png|123456789abcdefg"
 },
 {
     "key": "csp_琼林",
     "name": "♾️┣琼林┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4|initV122"
-},
-{
-    "key": "csp_小羊",
-    "name": "♾️┣小羊┫秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|okhttp/3.10.0"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琼林.png|eecbio48dsq13kkk|searchList4"
 },
 {
     "key": "爱影视",
     "name": "♾️┣爱影┫秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/爱影.png|ada211sdfsff3261"
 },
 {
     "key": "橘子Get",
@@ -119,8 +112,64 @@
     "type": 3,
     "timeout": 15,
     "api": "csp_AppQi",
-    "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘子.png|jasaFBcdV3zrUDf2"
 },
+{
+    "key": "茉莉",
+    "name": "♾️┣茉莉┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/茉莉.png|88689667dce61725"
+},
+{
+    "key": "csp_小羊",
+    "name": "♾️┣小羊┫秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
+},
+{
+    "key": "星空",
+    "name": "♾️┣星空┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk"
+},
+{
+    "key": "火狐",
+    "name": "♾️┣火狐┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://huohu.yihn.cc|huohushipingetap"
+},
+{
+    "key": "段友",
+    "name": "♾️┣段友┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+},
+{
+    "key": "灵虎",
+    "name": "♾️┣灵虎┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025"
+},
+{
+    "key": "七壹",
+    "name": "♾️┣七壹┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://qiyiys.cc|45452893929B40D9"
+},
+{
+    "key": "瑞奇",
+    "name": "♾️┣瑞奇┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
+},	
 {
     "key": "csp_yongy",
     "name": "♾️┣永夜┫APP",
@@ -134,6 +183,20 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d"
+},
+{
+    "key": "驿站",
+    "name": "♾️┣驿站┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+},
+{
+    "key": "秒看",
+    "name": "♾️┣秒看┫秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8|4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
 },
 {
     "key": "csp_AppJg",
