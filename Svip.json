@@ -192,24 +192,11 @@
     "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
 },
 {
-    "key": "秒看",
-    "name": "♾️┣秒看┫秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8|"
-},
-{
     "key": "九宵视频",
     "name": "♾️┣河马┫秒播",
     "type": 3,
     "api": "csp_Hmys",
-	"jar": "./JAR/vox.jar",
-    "ext": {
-    "host": "https://dy.stxbed.com",
-    "app_id": "jiuxiao",
-    "deviceid": "45d8c03dd76e10e1",
-    "versionCode": "10000",
-    "UMENG_CHANNEL": "share"}
+    "ext": "https://dy.stxbed.com|jiuxiao|45d8c03dd76e10e1|0000|share"
 },
 {
     "key": "csp_Jianpian",
