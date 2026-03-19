@@ -794,37 +794,6 @@
     "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
 },
 {
-    "name": "🥭芒果❂专用",
-    "type": 1,
-    "url": "http://mg.itufm.top/mg.php?url=",
-    "ext": {
-    "flag": [
-        "qq",
-        "腾讯",
-        "qiyi",
-        "爱奇艺",
-        "奇艺",
-        "youku",
-        "优酷",
-        "sohu",
-        "搜狐",
-        "letv",
-        "乐视",
-        "mgtv",
-        "芒果",
-        "tnmb",
-        "seven",
-        "bilibili",
-        "1905",
-        "QD4K",
-        "iyf",
-        "duanju",
-        "gzcj",
-        "GTV",
-        "GZYS"],
-    "header": {"User-Agent": "okhttp/4.9.1"}}
-},
-{
     "name": "🏁琉芸★内部嗅探★",
     "type": 0,
 	"url": "https://jx.2s0.cn/player/?url="
