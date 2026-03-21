@@ -267,7 +267,8 @@
     "type": 3,
     "api": "csp_zhiqiu",
     "jar": "./JAR/my.php",
-    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
+    "类型": "影视"
 },
 {
     "key": "Zwqf",
@@ -277,34 +278,55 @@
     "类型": "影视"
 },
 {
+    "key": "聚搜影",
+    "name": "🪀┃聚搜┃影视",
+    "type": 3,
+    "style": {"type": "rect","ratio": 1.485},
+    "api": "https://8877.kstore.space/jar/AppToV5.py",
+    "ext": "http://43.248.117.123:4680",
+    "类型": "影视"
+},
+{
+    "key": "裤佬哇哇影视",
+    "name": "🪀┃哇哇┃影视",
+    "type": 4,
+    "api": "https://catbox.n13.club/t9/哇哇影视.php",
+    "类型": "影视"
+},
+{
     "key": "影探",
     "name": "🪀┃臻彩┃影探",
     "type": 3,
-    "api": "./XB/影探.py"
+    "api": "./XB/影探.py",
+    "类型": "影视"
 },
 {
     "key": "csp_AppJg",
     "name": "🪀┃坚果┃影視",
     "type": 3,
-    "api": "csp_AppJg"
+    "api": "csp_AppJg",
+    "类型": "影视"
 },
 {
     "key": "csp_js_月光影视",
     "name": "🪀┃月光┃影視",
     "type": 3,
-    "api": "./XB/月光.js"
+    "api": "./XB/月光.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_金牌123",
     "name": "🪀┃金牌┃影視",
     "type": 3,
-    "api": "./XB/金牌.js"
+    "api": "./XB/金牌.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_apple",
     "name": "🪀┃苹果┃影視",
     "type": 3,
-    "api": "./XB/苹果.js"
+    "api": "./XB/苹果.js",
+    "类型": "影视"
 },
 {
     "key": "csp_麻雀",
@@ -316,20 +338,23 @@
     "key": "星辰影院",
     "name": "🪀┃星辰┃影視",
     "type": 3,
-    "api": "./XB/星辰.js"
+    "api": "./XB/星辰.js",
+    "类型": "影视"
 },
 {
     "key": "耐看",
     "name": "🪀┃耐看┃影視",
     "type": 3,
-    "api": "./XB/耐看.js"
+    "api": "./XB/耐看.js",
+    "类型": "影视"
 },
 {
     "key": "csp_XBPQ_旺旺影视",
     "name": "🪀┃旺旺┃影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "./XB/旺旺.json"
+    "ext": "./XB/旺旺.json",
+    "类型": "影视"
 },
 {
     "key": "csp_py_人人影视",
@@ -659,6 +684,14 @@
     "jar": "https://11405.kstore.space/xiaye/nm/nm.jar",
     "changeable": 1
 },
+{
+    "key": "裤佬初心音乐",
+    "name": "💫┃初心┃音乐",
+    "type": 3,
+    "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260302/NYja/fish03022240.png;md5;6ebf14d156a8eb54d05b1b5c2b3b02be",
+    "api": "csp_ChuXin",
+    "filterable": 0
+},	
 {
     "key": "csp_Duopan",
     "name": "🖍︎┃网盘┃蜡笔4K",
