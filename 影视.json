@@ -421,7 +421,7 @@
     "name": "🅱️┃戏曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -429,7 +429,7 @@
     "name": "🅱️┃相声┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -437,7 +437,7 @@
     "name": "🅱️┃小品┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -445,7 +445,7 @@
     "name": "🅱️┃听书┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json"},
+    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -453,7 +453,7 @@
     "name":"🅱️┃课教┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -461,7 +461,7 @@
     "name": "🅱️┃幼儿┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -469,7 +469,7 @@
     "name": "🅱️┃小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -477,7 +477,7 @@
     "name": "🅱️┃初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -485,7 +485,7 @@
     "name": "🅱️┃高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
