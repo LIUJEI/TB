@@ -79,91 +79,104 @@
     "name": "🐉┃腾讯┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/QQtv.js"
+    "ext": "./TS/QQtv.js",
+    "类型": "官解"
 },
 {
     "key": "dr_芒果",
     "name": "🐉┃芒果┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/MGtv.js"
+    "ext": "./TS/MGtv.js",
+    "类型": "官解"
 },
 {
     "key": "dr_奇异",
     "name": "🐉┃奇艺┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/AQItv.js"
+    "ext": "./TS/AQItv.js",
+    "类型": "官解"
 },
 {
     "key": "dr_优酷",
     "name": "🐉┃优酷┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/yKtv.js"
+    "ext": "./TS/yKtv.js",
+    "类型": "官解"
 },
 {
     "key": "dr_搜狗",
     "name": "🐉┃搜狗┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/SGtv.js"
+    "ext": "./TS/SGtv.js",
+    "类型": "官解"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🐉┃哔哩┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/bili.js"
+    "ext": "./TS/bili.js",
+    "类型": "官解"
 },
 {
     "key": "csp_雄鹰",
     "name": "┃雄鹰┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://122.228.193.2:9988|ca94b06ca359d80e"
+    "ext": "http://122.228.193.2:9988|ca94b06ca359d80e",
+    "类型": "APP"
 },
 {
     "key": "csp_花猪",
     "name": "┃花猪┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9"
+    "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9",
+    "类型": "APP"
 },
 {
     "key": "csp_优兔",
     "name": "┃优兔┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd",
+    "类型": "APP"
 },
 {
     "key": "csp_猫头鹰",
-    "name": "┃蓝鹰┃",
+    "name": "┃蓝鹰┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://103.217.190.91:9999|zxPtEUDGVllIUhDB"
+    "ext": "http://103.217.190.91:9999|zxPtEUDGVllIUhDB",
+    "类型": "APP"
 },
 {
     "key": "csp_xinghe",
     "name": "┃星河┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext":  "http://160.202.254.245:1226|kj37zs29q22jk96t"
+    "ext":  "http://160.202.254.245:1226|kj37zs29q22jk96t",
+    "类型": "APP"
 },
 {
     "key": "csp_奇奇",
     "name": "┃奇奇┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://110.42.67.221:8009|123456789abcdefg"
+    "ext": "http://110.42.67.221:8009|123456789abcdefg",
+    "类型": "APP"
 },
 {
     "key": "csp_金牌",
     "name": "┃金牌┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4"
+    "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4",
+    "类型": "APP"
 },
 {
     "key": "橘子Get",
@@ -171,34 +184,40 @@
     "type": 3,
     "timeout": 15,
     "api": "csp_AppQi",
-    "ext": "https://juzi.pwwhu.cn|jasaFBcdV3zrUDf2"
+    "ext": "https://juzi.pwwhu.cn|jasaFBcdV3zrUDf2",
+    "类型": "APP"
 },
 {
     "key": "爱影视",
     "name": "┃爱影┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo|"
+    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo",
+    "类型": "APP"
 },
 {
     "key": "csp_曦臣",
     "name": "┃曦臣┃APP",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|"
+    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|",
+    "类型": "APP"
 },
 {
     "key": "影探",
     "name": "┃臻彩┃影探",
     "type": 3,
-    "api": "./XB/影探.py"
+    "api": "./XB/影探.py",
+    "类型": "影视"
 },
 {
     "key": "csp_XBPQ_旺旺影视",
     "name": "┃旺旺┃影視",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "./XB/旺旺.json"
+    "ext": "./XB/旺旺.json",
+	"jar": "./JAR/Sxiao.jar",
+    "类型": "影视"
 },
 {
     "key": "csp_XBPQ_fantys",
@@ -206,6 +225,7 @@
     "type":3,
 	"api": "csp_XBPQ",
     "ext": "./XB/饭团.json",
+	"jar": "./JAR/Sxiao.jar",
     "类型": "影视"
 },
 {
@@ -214,6 +234,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./XB/柠檬.json",
+	"jar": "./JAR/Sxiao.jar",
     "类型": "影视"
 },
 {
@@ -222,43 +243,50 @@
     "type": 3,
 	"api": "csp_XBPQ",
     "ext": "./XB/人人.py",
+	"jar": "./JAR/Sxiao.jar",
     "类型": "影视"
 },
 {
     "key": "csp_js_月光影视",
     "name": "┃月光┃影視",
     "type": 3,
-    "api": "./XB/月光.js"
+    "api": "./XB/月光.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_金牌123",
     "name": "┃金牌┃影視",
     "type": 3,
-    "api": "./XB/金牌.js"
+    "api": "./XB/金牌.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_apple",
     "name": "┃苹果┃影視",
     "type": 3,
-    "api": "./XB/苹果.js"
+    "api": "./XB/苹果.js",
+    "类型": "影视"
 },
 {
     "key": "csp_麻雀",
     "name": "┃麻雀┃秒播",
     "type": 3,
-    "api": "./XB/麻雀.js"
+    "api": "./XB/麻雀.js",
+    "类型": "影视"
 },
 {
     "key": "星辰影院",
     "name": "┃星辰┃影視",
     "type": 3,
-    "api": "./XB/星辰.js"
+    "api": "./XB/星辰.js",
+    "类型": "影视"
 },
 {
     "key": "耐看",
     "name": "┃耐看┃影視",
     "type": 3,
-    "api": "./XB/耐看.js"
+    "api": "./XB/耐看.js",
+    "类型": "影视"
 },
 {
     "key": "csp_js_永乐",
