@@ -42,7 +42,7 @@
     "key": "dr_腾迅",
     "name": "┃腾讯┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/QQtv.js",
     "类型": "官解"
 },
@@ -50,7 +50,7 @@
     "key": "dr_芒果",
     "name": "┃芒果┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/MGtv.js",
     "类型": "官解"
 },
@@ -58,7 +58,7 @@
     "key": "dr_奇异",
     "name": "┃奇艺┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/AQItv.js",
     "类型": "官解"
 },
@@ -66,7 +66,7 @@
     "key": "dr_优酷",
     "name": "┃优酷┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/yKtv.js",
     "类型": "官解"
 },
@@ -74,7 +74,7 @@
     "key": "dr_搜狗",
     "name": "┃搜狗┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/SGtv.js",
     "类型": "官解"
 },
@@ -82,7 +82,7 @@
     "key": "dr_哔哩视频",
     "name": "┃哔哩┃官方",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
+    "api": "./libs/drpy3.min.js",
     "ext": "./TS/bili.js",
     "类型": "官解"
 },
@@ -271,6 +271,23 @@
     "name": "┃界牌┃影視",
     "type": 3,
     "api": "./XB/界牌.py",
+    "类型": "影视"
+},
+{
+    "key": "drpyS_爱壹帆",
+    "name": "壹帆视频",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/爱壹帆?pwd=50721480be241243",
+    "title": "爱壹帆",
+    "类型": "影视"
+},
+{
+    "key": "drpyS_泥视频[优]",
+    "name": "泥泥视频",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/泥视频[优]?pwd=50721480be241243",
+    "title": "泥视频",
+    "author": "eylinsir",
     "类型": "影视"
 },
 {
