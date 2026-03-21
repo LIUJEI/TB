@@ -22,6 +22,42 @@
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
 },
+	{
+      "key": "ttys",
+      "name": "关注网站：52xiaobai.cn",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://49.232.165.72:1234/js/qq.js"
+    },
+    {
+      "key": "mmmm",
+      "name": "不定时下放线路更新",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
+      "ext": "http://49.232.165.72:1234/js/mg.js"
+    },
+    {
+      "key": "hipy_js_优酷[官]",
+      "name": "优酷线路",
+      "type": 3,
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/优酷[官].js"
+    },
+    {
+      "key": "chenmo",
+      "name": "尘墨综合线路",
+      "type": 1,
+      "api": "https://movies.52xiaobai.cn/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
     "key": "dylive",
     "name": "┃抖音┃直播",
@@ -407,7 +443,7 @@
     "name": "🅱️┃戏曲┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -415,7 +451,7 @@
     "name": "🅱️┃相声┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -423,7 +459,7 @@
     "name": "🅱️┃小品┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
