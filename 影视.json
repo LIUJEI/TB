@@ -23,6 +23,22 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
+    "key": "dylive",
+    "name": "┃抖音┃直播",
+    "type": 4,
+    "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "kglive",
+    "name": "┃酷狗┃直播",
+    "type": 4,
+    "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
     "key": "dr_腾迅",
     "name": "🐉┃腾讯┃官方",
     "type": 3,
@@ -63,22 +79,6 @@
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/bili.js"
-},
-{
-    "key": "dylive",
-    "name": "┃抖音┃直播",
-    "type": 4,
-    "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "kglive",
-    "name": "┃酷狗┃直播",
-    "type": 4,
-    "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
-    "searchable": 1,
-    "changeable": 1
 },
 {
     "key": "csp_雄鹰",
@@ -190,7 +190,7 @@
 },
 {
     "key": "csp_js_月光影视",
-    "name": "🪀┃月光┃影視",
+    "name": "┃月光┃影視",
     "type": 3,
     "api": "./XB/月光.js"
 },
@@ -431,7 +431,7 @@
     "name": "🅱️┃听书┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json",},
+    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json"},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -439,7 +439,7 @@
     "name":"🅱️┃课教┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json",},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json"},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -447,7 +447,7 @@
     "name": "🅱️┃幼儿┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json","cookie": ""},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json"},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -455,7 +455,7 @@
     "name": "🅱️┃小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json","cookie": ""},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json"},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
