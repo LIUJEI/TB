@@ -138,7 +138,7 @@
 },
 {
     "key": "dr_奇异",
-    "name": "┃奇艺┃官方",
+    "name": "┃奇藝┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/AQItv.js",
@@ -146,7 +146,7 @@
 },
 {
     "key": "dr_优酷",
-    "name": "┃优酷┃官方",
+    "name": "┃優酷┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/yKtv.js",
@@ -162,7 +162,7 @@
 },
 {
     "key": "dr_哔哩视频",
-    "name": "┃哔哩┃官方",
+    "name": "┃嗶哩┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/bili.js",
@@ -186,7 +186,7 @@
 },
 {
     "key": "csp_XBPQ_fantys",
-    "name": "┃饭团┃影院",
+    "name": "┃飯糰┃影院",
     "type":3,
 	"api": "csp_XBPQ",
     "ext": "./XB/饭团.json",
@@ -195,7 +195,7 @@
 },
 {
     "key": "csp_xBPQ_柠檬",
-    "name": "┃柠檬┃影視",
+    "name": "┃檸檬┃影視",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./XB/柠檬.json",
@@ -227,14 +227,14 @@
 },
 {
     "key": "csp_js_apple",
-    "name": "┃苹果┃影視",
+    "name": "┃蘋果┃影視",
     "type": 3,
     "api": "./XB/苹果.js",
     "类型": "影视"
 },
 {
     "key": "独播库",
-    "name": "┃独播┃影視",
+    "name": "┃獨播┃影視",
     "type": 3,
     "api": "./XB/独播.js",
     "类型": "影视"
@@ -305,7 +305,7 @@
 },
 {
     "key": "包子短剧",
-    "name": "┃包子┃短剧",
+    "name": "┃短劇┃包子",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./BPQ/包子.json",
@@ -314,7 +314,7 @@
 },
 {
     "key": "憨塔短剧",
-    "name": "┃憨塔┃短剧",
+    "name": "┃短劇┃憨塔",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./BPQ/憨塔.json",
@@ -323,7 +323,7 @@
 },
 {
     "key": "喵喵短剧",
-    "name": "┃喵喵┃短剧",
+    "name": "┃短劇┃喵喵",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./BPQ/喵喵.json",
@@ -332,7 +332,7 @@
 },
 {
     "key": "剧王短剧",
-    "name": "┃剧王┃短剧",
+    "name": "┃短劇┃剧王",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./BPQ/剧王.json",
@@ -341,14 +341,14 @@
 },
 {
 	"key": "py_七猫短剧",
-    "name": "┃七猫┃短剧",
+    "name": "┃短劇┃七猫",
 	"type": 3,
     "api": "./BPQ/七猫.py",
     "类型": "短剧"
 },
 {
 	"key": "py_短剧网站",
-    "name": "┃网站┃短剧",
+    "name": "┃短劇┃网站",
 	"type": 3,
     "api": "./BPQ/网站.py",
     "类型": "短剧"
