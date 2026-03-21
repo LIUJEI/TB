@@ -135,11 +135,12 @@
     "类型": "APP"
 },
 {
-    "key": "csp_金牌",
-    "name": "┃金牌┃APP",
+    "key": "csp_仓鼠",
+    "name": "┃仓鼠┃APP",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|searchList4",
+    "timeout": 15,
+    "api": "csp_AppGet",
+    "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
     "类型": "APP"
 },
 {
