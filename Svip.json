@@ -278,6 +278,124 @@
     "api": "./XB/耐看.js"
 },
 {
+    "key": "csp_XBPQ_旺旺影视",
+    "name": "🪀旺旺🔹影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./XB/旺旺.json"
+},
+{
+    "key": "csp_py_人人影视",
+    "name": "🪀人人🔹影視",
+    "type": 3,
+	"api": "csp_XBPQ",
+    "ext": "./XB/人人.py",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_fantys",
+    "name": "🪀饭团🔹影院",
+    "type":3,
+	"api": "csp_XBPQ",
+    "ext": "./XB/饭团.json",
+    "类型": "影视"
+},
+{
+    "key": "csp_js_永乐",
+    "name": "🪀永乐🔹影視",
+    "type": 3,
+    "api": "./XB/永乐.js",
+    "类型": "影视"
+},
+{
+    "key": "csp_js_鬼片",
+    "name": "🪀鬼片🔹影視",
+    "type": 3,
+    "api": "./XB/鬼片.js",
+    "类型": "影视"
+},
+{
+    "key": "py_fk",
+    "name": "🪀飞快🔹影視",
+    "type": 3,
+    "api": "./XB/飞快.py",
+    "类型": "影视"
+},
+{
+    "key": "csp_xBPQ_柠檬",
+    "name": "🪀柠檬🔹影視",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "./XB/柠檬.json",
+    "类型": "影视"
+},
+{
+    "key": "py_jieyingshi",
+    "name": "🪀界牌🔹影視",
+    "type": 3,
+    "api": "./XB/界牌.py",
+    "类型": "影视"
+},
+{
+    "key": "土豆浏览器",
+    "name": "🪀土豆🔹影视",
+    "type": 3,
+    "api": "./XB/土豆.py",
+    "类型": "影视"
+},
+{
+    "key":"华数",
+    "name":"🪀华数🔹影视",
+    "type":3,
+    "api": "./XB/华数.py",
+    "类型": "影视"
+},
+{
+    "key": "独播库",
+    "name": "🪀独播🔹影視",
+    "type": 3,
+    "api": "./XB/独播.js",
+    "类型": "影视"
+},
+{
+    "key": "农民影视",
+    "name": "🪀农民🔹影視",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200",
+    "类型": "影视"
+},
+{
+    "key": "Zwqf",
+    "name": "🪀至臻🔹清风",
+    "type": 4,
+	"api": "http://sspa8.top:8100/php/清风.php",
+    "类型": "影视"
+},
+{
+    "key": "drpyS_泥视频",
+    "name": "🪀泥泥🔹视频",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/泥视频[优]?pwd=50721480be241243",
+    "title": "泥视频[优]",
+    "author": "eylinsir",
+    "类型": "影视"
+},
+{
+	"key": "恰瓜子",
+	"name": "🪀恰恰🔹瓜子",
+	"type": 3,
+	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
+},
+{
+	"key": "恰娃子",
+	"name": "🪀娃娃🔹瓜子",
+	"type": 3,
+	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
+},
+{
     "key": "dr_腾迅",
     "name": "🐉┃腾讯┃官方",
     "type": 3,
