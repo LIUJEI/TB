@@ -65,11 +65,25 @@
     "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9"
 },
 {
+    "key": "csp_曦臣",
+    "name": "♾️┣曦臣┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|okhttp/3.10.0"
+},
+{
     "key": "csp_优兔",
     "name": "♾️┣优兔┫APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd"
+},
+{
+    "key": "爱影视",
+    "name": "♾️┣爱影┫APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo|okhttp/3.10.0"
 },
 {
     "key": "csp_猫头鹰",
@@ -185,25 +199,25 @@
     "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
 },
 {
-    "key": "爱影视",
-    "name": "♾️┣爱影┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo|okhttp/3.10.0"
-},
-{
-    "key": "csp_曦臣",
-    "name": "♾️┣曦臣┫APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|okhttp/3.10.0"
-},
-{
-    "key": "驿站",
+    "key": "csp_驿站",
     "name": "♾️┣驿站┫APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/驿站.png|dyyztvapiappyyds"
+},
+{
+    "key": "csp_HG影视",
+    "name": "♾️┣全网┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://ios.hgyx.vip|062dec75d039980e"
+},
+{
+    "key": "csp_瑞奇",
+    "name": "♾️┣瑞奇┫APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
 },
 {
     "key": "九宵视频",
@@ -246,6 +260,21 @@
     "timeout": 12,
     "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
     "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
+},
+{
+     "key": "zhiqiu",
+    "name": "🪀听风🔹知秋",
+    "type": 3,
+    "api": "csp_zhiqiu",
+    "jar": "./JAR/my.php",
+    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+},
+{
+    "key": "Zwqf",
+    "name": "🪀至臻🔹清风",
+    "type": 4,
+	"api": "http://sspa8.top:8100/php/清风.php",
+    "类型": "影视"
 },
 {
     "key": "影探",
@@ -384,20 +413,74 @@
     "类型": "影视"
 },
 {
-    "key": "Zwqf",
-    "name": "🪀至臻🔹清风",
+    "key": "drpyS_人人影视[优]",
+    "name": "🪀人人🔹影视",
     "type": 4,
-	"api": "http://sspa8.top:8100/php/清风.php",
+    "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
+    "title": "人人影视[优]",
+    "author": "EylinSir",
     "类型": "影视"
 },
 {
-    "key": "drpyS_泥视频",
-    "name": "🪀泥泥🔹视频",
+    "key": "drpyS_剧海影视[优]",
+    "name": "剧海影视",
     "type": 4,
-    "api": "http://115.191.55.109:9097/api/泥视频[优]?pwd=50721480be241243",
-    "title": "泥视频[优]",
-    "author": "eylinsir",
+    "api": "http://115.191.55.109:9097/api/剧海影视[优]?pwd=50721480be241243",
+    "title": "剧海影视[优]",
+    "author": "EylinSir",
     "类型": "影视"
+},
+{
+    "key": "drpyS_追新影视[优]",
+    "name": "追新影视",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/追新影视[优]?pwd=50721480be241243",
+    "title": "追新影视[优]",
+    "author": "EylinSir",
+    "类型": "影视"
+},
+{
+    "key": "drpyS_爱壹帆",
+    "name": "爱壹帆",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/爱壹帆?pwd=50721480be241243",
+    "title": "爱壹帆",
+    "类型": "影视"
+},
+{
+    "key": "drpyS_短剧视频库",
+    "name": "短剧视频库",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/短剧视频库?pwd=50721480be241243",
+    "title": "短剧视频库",
+    "author": "251208_DS",
+    "类型": "影视"
+},
+{
+    "key": "php_哇哇影视 ᵈᶻ",
+    "name": "哇哇影视",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/哇哇影视 ᵈᶻ?do=php&pwd=50721480be241243",
+    "title": "哇哇影视 ᵈᶻ",
+    "lang": "php"
+},
+{
+    "key": "drpyS_飞牛影视",
+    "name": "飞牛影视",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/飞牛影视?pwd=50721480be241243",
+    "title": "飞牛影视",
+    "author": "EylinSir",
+    "类型": "影视",
+    "lang": "ds"
+},
+{
+    "key": "php_坚果视频 ᵈᶻ",
+    "name": "坚果视频",
+    "type": 4,
+    "api": "http://115.191.55.109:9097/api/坚果视频 ᵈᶻ?do=php&pwd=50721480be241243",
+    "title": "坚果视频 ᵈᶻ",
+    "lang": "php"
 },
 {
 	"key": "恰瓜子",
