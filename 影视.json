@@ -22,42 +22,6 @@
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
 },
-	{
-      "key": "ttys",
-      "name": "关注网站：52xiaobai.cn",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-      "ext": "http://49.232.165.72:1234/js/qq.js"
-    },
-    {
-      "key": "mmmm",
-      "name": "不定时下放线路更新",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-      "ext": "http://49.232.165.72:1234/js/mg.js"
-    },
-    {
-      "key": "hipy_js_优酷[官]",
-      "name": "优酷线路",
-      "type": 3,
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/lib1/优酷[官].js"
-    },
-    {
-      "key": "chenmo",
-      "name": "尘墨综合线路",
-      "type": 1,
-      "api": "https://movies.52xiaobai.cn/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {
     "key": "dylive",
     "name": "┃抖音┃直播",
@@ -76,7 +40,7 @@
 },
 {
     "key": "dr_腾迅",
-    "name": "🐉┃腾讯┃官方",
+    "name": "┃腾讯┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/QQtv.js",
@@ -84,7 +48,7 @@
 },
 {
     "key": "dr_芒果",
-    "name": "🐉┃芒果┃官方",
+    "name": "┃芒果┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/MGtv.js",
@@ -92,7 +56,7 @@
 },
 {
     "key": "dr_奇异",
-    "name": "🐉┃奇艺┃官方",
+    "name": "┃奇艺┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/AQItv.js",
@@ -100,7 +64,7 @@
 },
 {
     "key": "dr_优酷",
-    "name": "🐉┃优酷┃官方",
+    "name": "┃优酷┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/yKtv.js",
@@ -108,7 +72,7 @@
 },
 {
     "key": "dr_搜狗",
-    "name": "🐉┃搜狗┃官方",
+    "name": "┃搜狗┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/SGtv.js",
@@ -116,7 +80,7 @@
 },
 {
     "key": "dr_哔哩视频",
-    "name": "🐉┃哔哩┃官方",
+    "name": "┃哔哩┃官方",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./TS/bili.js",
@@ -268,6 +232,13 @@
     "类型": "影视"
 },
 {
+    "key": "独播库",
+    "name": "┃独播┃影視",
+    "type": 3,
+    "api": "./XB/独播.js",
+    "类型": "影视"
+},
+{
     "key": "csp_麻雀",
     "name": "┃麻雀┃秒播",
     "type": 3,
@@ -296,31 +267,10 @@
     "类型": "影视"
 },
 {
-    "key": "csp_js_鬼片",
-    "name": "┃鬼片┃影視",
-    "type": 3,
-    "api": "./XB/鬼片.js",
-    "类型": "影视"
-},
-{
-    "key": "py_fk",
-    "name": "┃飞快┃影視",
-    "type": 3,
-    "api": "./XB/飞快.py",
-    "类型": "影视"
-},
-{
     "key": "py_jieyingshi",
     "name": "┃界牌┃影視",
     "type": 3,
     "api": "./XB/界牌.py",
-    "类型": "影视"
-},
-{
-    "key": "独播库",
-    "name": "┃独播┃影視",
-    "type": 3,
-    "api": "./XB/独播.js",
     "类型": "影视"
 },
 {
@@ -464,7 +414,7 @@
     "type": 3,
     "api": "csp_Bili",
     "style": {"type": "rect","ratio": 1.333},
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"}
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json","cookie": ""}
 },
 {
     "key": "csp_哔哩戏曲",
@@ -495,7 +445,7 @@
     "name": "🅱️┃听书┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json"},
+    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -503,7 +453,7 @@
     "name":"🅱️┃课教┃合集",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -511,7 +461,7 @@
     "name": "🅱️┃幼儿┃哔哩",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -519,7 +469,7 @@
     "name": "🅱️┃小学┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -527,7 +477,7 @@
     "name": "🅱️┃初中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -535,7 +485,7 @@
     "name": "🅱️┃高中┃课堂",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -544,7 +494,7 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/科学.json"},
+    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/科学.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -552,7 +502,7 @@
     "name":"🌏┃地理┃小灯塔",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/地理.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/地理.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -560,7 +510,7 @@
     "name":"🌏┃百科┃小灯塔",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/百科.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/百科.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
@@ -568,7 +518,7 @@
     "name":"🌏┃国学┃小灯塔",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/国学.json"},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/国学.json","cookie": ""},
     "style": {"type": "rect","ratio": 1.333}
 },
 {
