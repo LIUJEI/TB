@@ -88,7 +88,7 @@
 },
 {
     "key": "csp_雄鹰",
-    "name": "┃雄鹰┃APP",
+    "name": "┃雄鹰┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://122.228.193.2:9988|ca94b06ca359d80e",
@@ -96,7 +96,7 @@
 },
 {
     "key": "csp_花猪",
-    "name": "┃花猪┃APP",
+    "name": "┃花猪┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9",
@@ -104,7 +104,7 @@
 },
 {
     "key": "csp_优兔",
-    "name": "┃优兔┃APP",
+    "name": "┃优兔┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/乖乖兔.png|UrWKPnmQWJA8AQzd",
@@ -112,7 +112,7 @@
 },
 {
     "key": "csp_猫头鹰",
-    "name": "┃蓝鹰┃APP",
+    "name": "┃蓝鹰┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://103.217.190.91:9999|zxPtEUDGVllIUhDB",
@@ -120,7 +120,7 @@
 },
 {
     "key": "csp_xinghe",
-    "name": "┃星河┃APP",
+    "name": "┃星河┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext":  "http://160.202.254.245:1226|kj37zs29q22jk96t",
@@ -128,7 +128,7 @@
 },
 {
     "key": "csp_奇奇",
-    "name": "┃奇奇┃APP",
+    "name": "┃奇奇┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://110.42.67.221:8009|123456789abcdefg",
@@ -136,16 +136,16 @@
 },
 {
     "key": "csp_仓鼠",
-    "name": "┃仓鼠┃APP",
+    "name": "┃仓鼠┃秒播",
     "type": 3,
     "timeout": 15,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
     "类型": "APP"
 },
 {
     "key": "橘子Get",
-    "name": "┃橘子┃APP",
+    "name": "┃橘子┃秒播",
     "type": 3,
     "timeout": 15,
     "api": "csp_AppQi",
@@ -154,7 +154,7 @@
 },
 {
     "key": "爱影视",
-    "name": "┃爱影┃APP",
+    "name": "┃爱影┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo",
@@ -162,7 +162,7 @@
 },
 {
     "key": "csp_曦臣",
-    "name": "┃曦臣┃APP",
+    "name": "┃曦臣┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|",
