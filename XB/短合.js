@@ -22,18 +22,19 @@ const aggConfig = {
     软鸭: { host: 'https://api.xingzhige.com', url1: '/API/playlet', search: '/API/playlet' },
     七猫: { host: 'https://api-store.qmplaylet.com', url1: '/api/v1/playlet/index', url2: 'https://api-read.qmplaylet.com/player/api/v1/playlet/info', search: '/api/v1/playlet/search' },
     围观: { host: 'https://api.drama.9ddm.com', url1: '/drama/home/shortVideoTags', url2: '/drama/home/shortVideoDetail', search: '/drama/home/search' },
+    牛牛: {'host': 'https://new.tianjinzhitongdaohe.com','url1': '/api/v1/app/screen/screenMovie','url2': '/api/v1/app/play/movieDetails','search': '/api/v1/app/search/searchMovie'},
     甜圈: { host: 'https://mov.cenguigui.cn', url1: '/duanju/api.php?classname', url2: '/duanju/api.php?book_id', search: '/duanju/api.php?name' }
   },
   platformList: [
-    { name: '七猫短剧', id: '七猫' }, { name: '锦鲤短剧', id: '锦鲤' },{ name: '番茄短剧', id: '番茄' },
-    { name: '星芽短剧', id: '星芽' }, { name: '西饭短剧', id: '西饭' },{ name: '软鸭短剧', id: '软鸭' },
-    { name: '围观短剧', id: '围观' }, { name: '甜圈短剧', id: '甜圈' },{ name: '百度短剧', id: '百度' }
+    { name: '七猫短剧', id: '七猫' },{ name: '星芽短剧', id: '星芽' },{ name: '西饭短剧', id: '西饭' }, 
+    { name: '软鸭短剧', id: '软鸭' },{ name: '牛牛短剧', id: '牛牛' },{ name: '番茄短剧', id: '番茄' },
+    { name: '围观短剧', id: '围观' },{ name: '甜圈短剧', id: '甜圈' },{ name: '锦鲤短剧', id: '锦鲤' }
   ],
   search: { limit: 30, timeout: 6000 }
 };
 
 const ruleFilterDef = {
-  百度: { area: '逆袭' },
+  牛牛: { area: '逆袭' },
   锦鲤: { area: '' },
   番茄: { area: 'videoseries_hot' },
   星芽: { area: '1' },
