@@ -110,24 +110,6 @@
     "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|"
 },
 {
-    "key": "csp_XBPQ",
-    "name": "♾️┣米团┫秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "timeout": 12,
-    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-},
-{
-    "key": "csp_XBPQ2",
-    "name": "♾️┣独家┫秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "timeout": 12,
-    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
-},
-{
     "key": "影探",
     "name": "🪀┃臻彩┃影探",
     "type": 3,
@@ -272,7 +254,7 @@
 },
 {
     "key": "hipy_js_星芽短剧",
-    "name": "🎬短劇☪系列",
+    "name": "🎬短劇☪星芽",
     "type": 3,
     "api": "./libs/drpy2.min.js",
     "ext": "./XB/星芽.js",
@@ -432,7 +414,7 @@
     "type": 3,
     "api": "csp_Bili",
     "style": {"type": "rect","ratio": 1.333},
-    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json"}
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json","cookie": ""}
 },
 {
     "key": "csp_哔哩戏曲",
