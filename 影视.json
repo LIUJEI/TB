@@ -351,7 +351,8 @@
     "name": "♨️免费®短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/lib/不付费.json",
+    "ext": "./BPQ/不付费.json",
+	"jar": "./JAR/Sxiao.jar",
     "类型": "短剧"
 },
 {
