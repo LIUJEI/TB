@@ -651,6 +651,15 @@
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
 },
 {
+    "key": "mgyy",
+    "name": "💫┃咪咕┃音乐",
+    "type": 1,
+    "api": "https://xy.183933.xyz/php/miguyy.php/provide/vod",
+    "playUrl": "json:https://183933.xyz/xiaye.php?url=",
+    "searchable": 1,
+    "changeable": 1
+},
+{
     "key": "csp_Duopan",
     "name": "🖍︎┃网盘┃蜡笔4K",
     "type": 3,
