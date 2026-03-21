@@ -656,7 +656,7 @@
     "type": 1,
     "api": "https://xy.183933.xyz/php/miguyy.php/provide/vod",
     "playUrl": "json:https://183933.xyz/xiaye.php?url=",
-    "searchable": 1,
+    "jar": "https://11405.kstore.space/xiaye/nm/nm.jar",
     "changeable": 1
 },
 {
