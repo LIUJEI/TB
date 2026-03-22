@@ -155,13 +155,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_js_金牌123",
-    "name": "┃金牌┃影視",
-    "type": 3,
-    "api": "./XB/金牌.js",
-    "类型": "影视"
-},
-{
     "key": "csp_js_apple",
     "name": "┃蘋果┃影視",
     "type": 3,
@@ -187,13 +180,6 @@
     "name": "┃耐看┃影視",
     "type": 3,
     "api": "./XB/耐看.js",
-    "类型": "影视"
-},
-{
-    "key": "影探",
-    "name": "┃臻彩┃影探",
-    "type": 3,
-    "api": "./XB/影探.py",
     "类型": "影视"
 },
 {
@@ -318,7 +304,7 @@
 },
 {
     "key": "免费短剧",
-    "name": "♨️免费®短剧",
+    "name": "┃免费┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "./BPQ/不付费.json",
@@ -368,10 +354,11 @@
     "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
 },
 {
-    "key": "枫叶音乐",
-    "name": "💫┃枫叶┃音乐",
+    "key": "csp_Kugou",
+    "name": "💫┃酷狗┃音乐",
     "type": 3,
-    "api": "./XB/枫叶.py",   
+    "api": "csp_Kugou",
+    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},   
     "类型": "音乐"
 },
 {
