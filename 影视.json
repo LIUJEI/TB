@@ -23,18 +23,18 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "dylive",
-    "name": "┃抖音┃直播",
-    "type": 4,
-    "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
-    "searchable": 1,
-    "changeable": 1
-},
-{
     "key": "kglive",
     "name": "┃酷狗┃直播",
     "type": 4,
     "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "dylive",
+    "name": "┃抖音┃直播",
+    "type": 4,
+    "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
     "searchable": 1,
     "changeable": 1
 },
@@ -121,61 +121,6 @@
     "类型": "APP"
 },
 {
-    "key": "dr_腾迅",
-    "name": "┃騰訊┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/QQtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_芒果",
-    "name": "┃芒果┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/MGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_奇异",
-    "name": "┃奇藝┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/AQItv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_优酷",
-    "name": "┃優酷┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/yKtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_搜狗",
-    "name": "┃搜狗┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/SGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_哔哩视频",
-    "name": "┃嗶哩┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/bili.js",
-    "类型": "官解"
-},
-{
-    "key": "影探",
-    "name": "┃臻彩┃影探",
-    "type": 3,
-    "api": "./XB/影探.py",
-    "类型": "影视"
-},
-{
     "key": "csp_XBPQ_旺旺影视",
     "name": "┃旺旺┃影視",
     "type": 3,
@@ -245,6 +190,13 @@
     "类型": "影视"
 },
 {
+    "key": "影探",
+    "name": "┃臻彩┃影探",
+    "type": 3,
+    "api": "./XB/影探.py",
+    "类型": "影视"
+},
+{
 	"key": "恰瓜子",
 	"name": "┃恰恰┃瓜子",
 	"type": 3,
@@ -257,6 +209,54 @@
 	"type": 3,
 	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
+},
+{
+    "key": "dr_腾迅",
+    "name": "┃騰訊┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/QQtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_芒果",
+    "name": "┃芒果┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/MGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_奇异",
+    "name": "┃奇藝┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/AQItv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_优酷",
+    "name": "┃優酷┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/yKtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_搜狗",
+    "name": "┃搜狗┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/SGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "┃嗶哩┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/bili.js",
+    "类型": "官解"
 },
 {
     "key": "csp_剧和短剧",
