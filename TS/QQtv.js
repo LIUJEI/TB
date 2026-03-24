@@ -1,5 +1,5 @@
 var rule = {
-    title: '腾云驾雾[官]',
+    title: '腾讯QQ',
     host: 'https://v.%71%71.com',
     homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=cartoon&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     detailUrl: 'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
@@ -16,8 +16,8 @@ var rule = {
     timeout: 5000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude: '会员|游戏|全部',
-    class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
-    class_url: 'choice&tv&movie&variety&cartoon&child&doco',
+    class_name: '电视剧4K&电影4K&综艺4K&动漫4K&少儿4K&纪录片4K',
+    class_url: 'tv&movie&variety&cartoon&child&doco',
      //class_name: '精选&电影&电视剧&综艺&动漫&少儿&纪录片',
      //class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
@@ -147,7 +147,7 @@ var rule = {
         let zp = d.filter(function(it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "琉芸✨腾讯" : "琉芸✨QQ$$$QQ 预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸专属👉QQ" : "琉芸专属👉腾讯$$$QQ 预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function(it) {
