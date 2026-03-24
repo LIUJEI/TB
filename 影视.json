@@ -39,7 +39,7 @@
     "changeable": 1
 },
 {
-    "key": "csp_雄鹰",
+    "key": "csp_xongying",
     "name": "┃雄鷹┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -47,7 +47,7 @@
     "类型": "APP"
 },
 {
-    "key": "csp_花猪",
+    "key": "csp_花小猪",
     "name": "┃花豬┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -71,7 +71,7 @@
     "类型": "APP"
 },
 {
-    "key": "csp_齊齊",
+    "key": "csp_qiqi",
     "name": "┃齊齊┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -79,7 +79,7 @@
     "类型": "APP"
 },
 {
-    "key": "csp_仓鼠",
+    "key": "csp_cangsu",
     "name": "┃倉鼠┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -95,7 +95,7 @@
     "类型": "APP"
 },
 {
-    "key": "csp_曦臣",
+    "key": "csp_aiying",
     "name": "┃曦臣┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -111,12 +111,11 @@
     "类型": "APP"
 },
 {
-    "key": "橘子Get",
-    "name": "┃橘子┃秒播",
+    "key": "csp_yunduo",
+    "name": "┃雲朵┃秒播",
     "type": 3,
-    "timeout": 15,
-    "api": "csp_AppQi",
-    "ext": "https://juzi.pwwhu.cn|jasaFBcdV3zrUDf2",
+    "api": "csp_AppGet",
+    "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa",
     "类型": "APP"
 },
 {
