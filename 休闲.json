@@ -26,21 +26,6 @@
       "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/182.jar"
     },
     {
-      "key": "csp_sssp",
-      "name": "撸铁🥥傻傻",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://d.kstore.dev/download/12194/Lib/傻傻视频.json"
-    },
-    {
-      "key": "滴滴资源",
-      "name": "撸铁🥥滴滴",
-      "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "js_madou",
       "name": "撸铁🥥麻豆",
       "type": 3,
@@ -130,6 +115,22 @@
       }
     },
     {
+      "key": "csp_香蕉视频",
+      "name": "撸铁🥥香蕉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.1av.shop/vodtype/25.html",
+        "播放数组": "mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "直接播放": "1",
+        "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
+        "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
+      }
+    },
+    {
       "key": "小姨子",
       "name": "撸铁🥥小姨子",
       "type": 3,
@@ -145,7 +146,7 @@
     },
     {
       "key": "少妇醉酒",
-      "name": "撸铁🥥少女",
+      "name": "撸铁🥥少妇人",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -168,22 +169,6 @@
         "播放列表": "&&分割({})",
         "播放标题": "\"from\":\"&&\"",
         "播放链接": "\"url\":\"&&\"[工具:解unicode]"
-      }
-    },
-    {
-      "key": "csp_香蕉视频",
-      "name": "撸铁🥥香蕉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.1av.shop/vodtype/25.html",
-        "播放数组": "mod play-list&&</ul",
-        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
-        "链接": "href=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "直接播放": "1",
-        "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
-        "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
       }
     },
     {
@@ -414,6 +399,14 @@
       "recordable": 0
     },
     {
+      "key": "滴滴资源",
+      "name": "撸铁🥥滴滴",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "api.11bat.com",
       "name": "撸铁🥥11bat",
       "type": 0,
@@ -428,15 +421,6 @@
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
       }
-    },
-    {
-      "key": "采集E(白嫖)",
-      "name": "撸铁🥥白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "采集G(美少女)",
@@ -461,42 +445,6 @@
       "api": "https://www.gdlsp.com/api/xml.php ",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "pgxdy.com0(黄AV)",
-      "name": "撸铁🥥葡萄",
-      "type": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1
-    },
-    {
-      "key": "番外",
-      "name": "撸铁🥥番外",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "群交淫乱",
-        "偷拍自拍",
-        "制服丝袜",
-        "无码专区",
-        "卡通动漫",
-        "中文字幕",
-        "欧美性爱",
-        "巨乳美乳",
-        "国产裸聊",
-        "国产自拍",
-        "国产盗摄",
-        "伦理三级",
-        "女同性恋",
-        "少女萝莉",
-        "人妖系列",
-        "虚拟VR"
-      ]
     },
     {
       "key": "采集B(玉兔)资源",
@@ -551,41 +499,28 @@
       ]
     },
     {
-      "key": "采集C(色猫)资源",
+      "key": "采集C(番外)资源",
       "name": "撸铁🥦橘猫资源",
       "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+      "api": "http://fhapi9.com/api.php/provide/vod/",
       "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "categories": [
-        "国产自拍",
-        "日本无码",
-        "日本有码",
+        "群交淫乱",
+        "偷拍自拍",
+        "制服丝袜",
+        "无码专区",
+        "卡通动漫",
         "中文字幕",
-        "欧美精品",
-        "成人动漫",
-        "日本素人",
-        "高清名优",
-        "三级伦理",
-        "网红主播",
-        "映画传媒",
-        "人妻熟女",
-        "口爆颜射",
-        "萝莉少女",
-        "SM调教",
-        "美乳巨乳",
-        "短视频",
-        "制服诱惑",
-        "女同性爱",
-        "AI换脸",
-        "多人群交",
-        "翹臀美尻",
-        "丝袜美腿",
-        "精选独家",
-        "貧乳小奶",
-        "探花系列"
+        "欧美性爱",
+        "巨乳美乳",
+        "国产裸聊",
+        "国产自拍",
+        "国产盗摄",
+        "伦理三级",
+        "女同性恋",
+        "少女萝莉",
+        "人妖系列",
+        "虚拟VR"
       ]
     },
     {
@@ -772,7 +707,6 @@
     }
   ],
   "lives": [
-   
     {
       "name": "📺咪咕",
       "type": 0,
