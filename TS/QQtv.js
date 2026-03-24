@@ -4,68 +4,62 @@ var rule = {
     homeUrl: '/x/bu/pagesheet/list?_all=1&append=1&channel=cartoon&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     detailUrl: 'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
     searchUrl: '/x/search/?q=**&stag=fypage',
+    searchUrl: 'https://pbaccess.video.%71%71.com/trpc.videosearch.smartboxServer.HttpRountRecall/Smartbox?query=**&appID=3172&appKey=lGhFIPeD3HsO9xEp&pageNum=(fypage-1)&pageSize=10',
     searchable: 2,
     filterable: 1,
     multi: 1,
     url: '/x/bu/pagesheet/list?_all=1&append=1&channel=fyclass&listpage=1&offset=((fypage-1)*21)&pagesize=21&iarea=-1',
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
-    filter: 'H4sIAAAAAAAAA+1Y3U8aWRT/X+ZZEwYEtI9207Rp0r40+9CNDxM7G8laaZCamsYEinyoDYp1sa1I/aJSK4ita3Eo9J+Ze2fmv9g7yOWc22u3xJX0RZ7gd+ee7/M7h3mujE+EQ+O6cuOP58pf+qxyQ5kOR6LKgDKlPWaoQrOrxFhmv2e0yafnj025cCFmJSouzH4E/crcQBen+VoHH/Z1cVJq2kfzHFeVuTH35FxhaFbXIqCRnJ2YjV1JI0mWnUS5I2FQ7Ur2erxDHbT9FeE+wH0Y9wLuxbgKuCDfA7gH4epIF2dfET4M+DDGg4AHMR4APIBxP+B+N2JjA0p0pi+ZCo5cnCnXHpSpP3Ut+jSig07ruEGKSz3nysoc00SSywaVy3v2LochI/TFoZXPdWBIoJNokvqLDgz5JtVTYnA/wU2SL5CF/Q4M0TW/bpFSmnsPKivvzdYWL1MQktqg69xACBXdTNi1Je4OlIaz+YHkmhxH7mdrpFrkOPJoc5W+LnEcXLJeZsFIFXyy9nPkrIFSxPGPRboY43gQ6Z1Hzw9fN98lm+9xeCb0S5kyOvvkfzTf4pHVPJD7ZvGYfFuXmk/oG9XDPqguExV7O4bOAurFTdu+B9kR2989+1FNsyMVEUF8hcby+MyDzC9ba8I9FOLMa9NYwPogwwJdtO9BVTDHRTtRpbKG/M5OkCmwR/sMcVw2RZY/YZlwZsfi1kIa34NysEvfIJsIrtZI82/xltsfqFiuG7vnxp7RIiE9OtuX1naDdM23l0rLuBaJhsNTv5JxtYiuoWwVauSl0XO2SCrJbkjrDl0v0cKhvO4c7lutrNTpJHlqNjj5DV3hOMBLAeJozMNQYCK1IetSq86bD5LRjHlpng8VlIGVonWYkwMSX2KjQVrGnMoamPKDLQfVqDh5gjjcpF6Xtyi6tU02uhMAyS+8Mw0DbUv8+WzZWknJW5rI7CiSjWWSrP93Pt0hd00OlyOHidDko/78GUJbAqaG7+brtP4M6Yvtk8zH3pmh9JlUeNugnlz7ArC3T0Tkw51xERGJFfqTAnVa87T6T8+WeAZ95FNccnxoMAAwWBIcHAEY7FY9DDUbJbO+KK+zybJg1TmjtCvmUXg83J+CEWk5FI1ooUkdxyltkFdxmj/rOU6jozelIJGNpru1FmpAQ+D37dH7PE4qsvPe7btyftuE5ezknPgriXTvPPidy/H7ELlmd6yTHeEO0wPqH/52C2DoHzvZsqtHdvqAZE5lBiYrGbNZoAWDFnmPBS6uQv/VzT1mjDV/KsWPjV5n9113mwZ8r2V+fSuVIJsQNJ+WjRZmAX5/YBpLUiLYrIVJBvxon+yw2SEPGpYDmLX4dUDzgG5npEyKbwPQnrGepDAP2/09NvcvaIIuCAgUAAA=',
     headers: {
         'User-Agent': 'PC_UA'
     },
     timeout: 5000,
-  
+    // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude: '会员|游戏|全部',
-    // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
-    // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-    class_name: '电影&电视剧&综艺&动漫&少儿&纪录片',
-    class_url: 'movie&tv&variety&cartoon&child&doco',
+    class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
+    class_url: 'choice&tv&movie&variety&cartoon&child&doco',
+     //class_name: '精选&电影&电视剧&综艺&动漫&少儿&纪录片',
+     //class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
+    // play_parse:true,
+    // 手动调用解析请求json的url,此lazy不方便
     play_parse: true,
     lazy: $js.toString(() => {
-  let d = [];
-    const blockedField = 'https://123.yp22.cn/d/le/53SqFaimyxG6LrduZ';
-  try {
-    // 发起请求并获取响应，添加请求头
-    let headers = {
-      'User-Agent': 'okhttp/4.12.0'
-      
-    };
-    let responseText = request("http://120.46.190.255/小白白.php?url=" + input, { headers: headers });
-    console.log("响应文本:", responseText); // 查看原始响应内容
-//备用http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=
-    // 解析 JSON 数据
-    let response = JSON.parse(responseText);
-
-    // 查找以 'url' 开头的字段
-    let urlField = Object.keys(response).find(key => key.startsWith('url'));
-
-    // 提取找到的字段值
-    let urlValue = urlField ? response[urlField] : null;
-
-    console.log("提取的随机字段值:", urlValue); // 查看提取的值
-        if (response.url.includes(blockedField)) {
-        throw new Error('该链接已被屏蔽');
-    };
-    if (urlValue) {
-      // 处理 urlValue，或将其用于 input
-      input = {
-        url: urlValue,
-        parse: 0,
-        header: rule.headers
-      };
-    } else {
-      // 处理没有找到字段的情况
-      console.error("没有找到以 'url' 开头的字段");
-    }
-  } catch (error) {
-    console.error("处理请求或数据时发生错误：", error);
-  }
-
-  setResult(d);
-}),
-
-    //lazy:'js:input="http:\\/\\/43.248.100.147:6068\\/KEY\\/XGJ\\/root\\/key\\/60.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+        try {
+            let api = "" + input.split("?")[0];
+            console.log(api);
+            let response = fetch(api, {
+                method: 'get',
+                headers: {
+                    'User-Agent': 'okhttp/3.14.9',
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            });
+            let bata = JSON.parse(response);
+            if (bata.url.includes("qq")) {
+                input = {
+                    parse: 0,
+                    url: bata.url,
+                    jx: 0,
+                    danmaku: "http://103.45.162.207:25252/hbdm.php?key=7894561232&id=" + input.split("?")[0]
+                };
+            } else {
+                input = {
+                    parse: 0,
+                    url: input.split("?")[0],
+                    jx: 1,
+                    danmaku: "http://103.45.162.207:25252/hbdm.php?key=7894561232&id=" + input.split("?")[0]
+                };
+            }
+        } catch {
+            input = {
+                parse: 0,
+                url: input.split("?")[0],
+                jx: 1,
+                danmaku: "http://103.45.162.207:25252/hbdm.php?key=7894561232&id=" + input.split("?")[0]
+            };
+        }
+    }),
     推荐: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     一级: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     二级: $js.toString(() => {
@@ -90,7 +84,7 @@ var rule = {
                 type_name: json.typ.join(","),
                 vod_actor: json.nam.join(","),
                 vod_year: json.c.year,
-                vod_content: json.c.description,
+                vod_content:'【琉🔹芸❤广告勿信👉剧情】 '+ json.c.description,
                 vod_remarks: json.rec,
                 vod_pic: urljoin2(input, json.c.pic)
             }
@@ -153,7 +147,7 @@ var rule = {
         let zp = d.filter(function(it) {
             return !(it.type && it.type !== "正片")
         });
-        VOD.vod_play_from = yg.length < 1 ? "微信公众号玉玉应用笔记" : "微信公众号玉玉应用笔记T$$$预告及花絮";
+        VOD.vod_play_from = yg.length < 1 ? "琉芸✨腾讯" : "琉芸✨QQ$$$QQ 预告及花絮";
         VOD.vod_play_url = yg.length < 1 ? d.map(function(it) {
             return it.title + "$" + it.url
         }).join("#") : [zp, yg].map(function(it) {
@@ -196,4 +190,24 @@ var rule = {
         });
         setResult(d);
     }),
+    搜索: $js.toString(() => {
+        let d = [];
+        let html = request(input);
+        let json = JSON.parse(html);
+        if (json.data.smartboxItemList.length > 0) {
+            let cid = json.data.smartboxItemList[0].basicDoc.id;
+            let url = 'https://node.video.qq.com/x/api/float_vinfo2?cid=' + cid;
+            let html1 = request(url);
+            let data = JSON.parse(html1);
+
+            d.push({
+                title: data.c.title,
+                img: data.c.pic,
+                url: url,
+                content: data.c.description,
+                desc: data.rec
+            });
+        }
+        setResult(d);
+    })
 }
