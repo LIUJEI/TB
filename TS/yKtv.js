@@ -2111,8 +2111,8 @@ var rule = {
         'Referer': 'https://www.youku.com',
     },
     timeout: 5000,
-    class_name: '电视剧4K&电影4K&综艺4K&动漫4K&少儿4K&纪录片&音乐',
-    class_url: '电视剧4K&电影4K&综艺4K&动漫4K&少儿4K&纪录片&音乐',
+    class_name: '电视剧&电影&综艺&动漫&少儿&纪录片&音乐',
+    class_url: '电视剧&电影&综艺&动漫&少儿&纪录片&音乐',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
@@ -2257,7 +2257,7 @@ var rule = {
             }
         }
         if (!/优酷/.test(name)) {
-            VOD.vod_content = "非自家播放源,暂无视频简介及海报";
+            VOD.vod_content = "【琉🔹芸❤广告勿信👉剧情】";
             VOD.vod_remarks = name
         }
 
