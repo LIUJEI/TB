@@ -2257,7 +2257,7 @@ var rule = {
             }
         }
         if (!/优酷/.test(name)) {
-            VOD.vod_content = "非自家播放源,暂无视频简介及海报";
+            VOD.vod_content = "【琉🔹芸❤广告勿信👉剧情】";
             VOD.vod_remarks = name
         }
 
@@ -2275,7 +2275,7 @@ var rule = {
                     title: it.title,
                     url: play_url + adhead(url)
                 })
-            } else if (name !== "优酷") {
+            } else if (name !== "琉芸专属👉优酷") {
                 d.push({
                     title: it.displayName ? it.displayName : it.title,
                     url: play_url + adhead(it.url)
