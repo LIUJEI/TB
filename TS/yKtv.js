@@ -1,5 +1,5 @@
 var rule = {
-    title: '优酷[官]',
+    title: '优酷视频',
     host: 'https://www.%79%6f%75%6b%75.com',
     homeUrl: '',
     searchUrl: 'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
@@ -2112,7 +2112,7 @@ var rule = {
     },
     timeout: 5000,
     class_name: '电视剧4k&电影4K&综艺4K&动漫4K&少儿4K&纪录片4K&音乐4K',
-    class_url: '电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
+    class_url:  '电视剧4k&电影4k&综艺4k&动漫4k&少儿4k&纪录片4k&音乐4k',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
