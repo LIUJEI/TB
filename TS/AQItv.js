@@ -1,5 +1,5 @@
 var rule = {
-    title:'爱奇艺',
+    title:'爱奇艺iQIYI',
     host:'https://www.iqiyi.com',
     homeUrl:'',
     detailUrl:'https://pcw-api.iqiyi.com/video/video/videoinfowithuser/fyid?agent_type=1&authcookie=&subkey=fyid&subscribe=1',
