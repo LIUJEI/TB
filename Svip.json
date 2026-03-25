@@ -219,48 +219,7 @@
     "api": "csp_AppGet",
     "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
 },
-{
-    "key": "九宵视频",
-    "name": "♾️┣河马┫秒播",
-    "type": 3,
-    "api": "csp_Hmys",
-	"jar": "./JAR/vox.jar",
-    "ext": {
-    "host": "https://dy.stxbed.com",
-    "app_id": "jiuxiao",
-    "deviceid": "45d8c03dd76e10e1",
-    "versionCode": "10000",
-    "UMENG_CHANNEL": "share"}
-},
-{
-    "key": "csp_Jianpian",
-    "name": "♾️┣荐片┫秒播",
-    "type": 3,
-    "api": "csp_Jianpian",
-	"jar": "./JAR/vox.jar",
-    "ext": {
-    "filters": "./XYQ/荐片.json",
-    "imgUrl": "https://img.jgsfnl.com",
-    "sites": "https://api.ztcgi.com"}
-},
-{
-    "key": "csp_XBPQ",
-    "name": "♾️┣米团┫秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "timeout": 12,
-    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-},
-{
-    "key": "csp_XBPQ2",
-    "name": "♾️┣独家┫秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "timeout": 12,
-    "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
-    "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
-},
+
 {
      "key": "zhiqiu",
     "name": "🪀┃听风┃知秋",
@@ -789,11 +748,7 @@
     "ext": "./XB/single.json"
 }],
 "parses": [
-{
-    "name": "☪虚空❂私域",
-    "type": 1,
-    "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
-},
+
 {
     "name": "☪虾米㊎",
     "type": 0,
