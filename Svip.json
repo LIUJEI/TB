@@ -219,16 +219,6 @@
     "api": "csp_AppGet",
     "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
 },
-
-{
-     "key": "zhiqiu",
-    "name": "🪀┃听风┃知秋",
-    "type": 3,
-    "api": "csp_zhiqiu",
-    "jar": "./JAR/my.php",
-    "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-    "类型": "影视"
-},
 {
     "key": "Zwqf",
     "name": "🪀┃至臻┃清风",
@@ -475,16 +465,6 @@
         "host": "http://www.yingsw.top",
         "key": "guluyinghua_123",
         "sign": "679543610991810f19698c187e5e106e"
-      }
-},
-{
-      "key": "QIST-新闪雷",
-      "name": "🪀闪雷🔹视频",
-      "type": 3,
-      "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-      "ext": "./TS闪雷.js",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       }
 },
 {
