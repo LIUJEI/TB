@@ -466,8 +466,20 @@
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
 },
 {
+      "key": "咕噜vox映画",
+      "name": "🪀咕噜🔹映画",
+      "type": 3,
+      "jar": "./JAR/Sxiao.jar",
+      "api": "https://17264.kstore.space/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+},
+{
       "key": "QIST-新闪雷",
-      "name": "🪀闪雷🔹蓝光",
+      "name": "🪀闪雷🔹视频",
       "type": 3,
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
       "ext": "./TS闪雷.js",
