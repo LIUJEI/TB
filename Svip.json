@@ -467,10 +467,10 @@
 },
 {
       "key": "QIST-新闪雷",
-      "name": "闪雷🌀蓝光",
+      "name": "🪀闪雷🔹蓝光",
       "type": 3,
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/js/新闪雷.js",
+      "ext": "./TS闪雷.js",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"
       }
