@@ -220,26 +220,22 @@
     "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
 },
 {
+      "key": "咕噜vox映画",
+      "name": "🪀┃咕噜┃映画",
+      "type": 3,
+      "jar": "./JAR/Sxiao.jar",
+      "api": "https://17264.kstore.space/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+},
+{
     "key": "Zwqf",
     "name": "🪀┃至臻┃清风",
     "type": 4,
 	"api": "http://sspa8.top:8100/php/清风.php",
-    "类型": "影视"
-},
-{
-    "key": "聚搜影",
-    "name": "🪀┃聚搜┃影视",
-    "type": 3,
-    "style": {"type": "rect","ratio": 1.485},
-    "api": "https://8877.kstore.space/jar/AppToV5.py",
-    "ext": "http://43.248.117.123:4680",
-    "类型": "影视"
-},
-{
-    "key": "影探",
-    "name": "🪀┃臻彩┃影探",
-    "type": 3,
-    "api": "./XB/影探.py",
     "类型": "影视"
 },
 {
@@ -454,18 +450,6 @@
 	"type": 3,
 	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
 	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
-},
-{
-      "key": "咕噜vox映画",
-      "name": "🪀咕噜🔹映画",
-      "type": 3,
-      "jar": "./JAR/Sxiao.jar",
-      "api": "https://17264.kstore.space/Appfox.min.js",
-      "ext": {
-        "host": "http://www.yingsw.top",
-        "key": "guluyinghua_123",
-        "sign": "679543610991810f19698c187e5e106e"
-      }
 },
 {
     "key": "dr_腾迅",
