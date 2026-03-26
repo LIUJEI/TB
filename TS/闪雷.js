@@ -1,7 +1,7 @@
 var rule = {
     title: '新闪雷',
     编码: 'gb2312',
-    host: 'http://114.100.48.52:18008/www/index.asp',
+    host: 'http://114.100.48.52:18008',
     ip: '114.100.48.52',
     filterable: 0,
     url: '/jdl/List.asp?ClassId=fyclass&searchword=&page=fypage',
