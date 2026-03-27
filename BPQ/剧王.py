@@ -1,7 +1,11 @@
-# coding = utf-8
+# coding=utf-8
 # !/usr/bin/python
 
 """
+
+作者 丢丢喵推荐 🚓 内容均从互联网收集而来 仅供交流学习使用 版权归原创者所有 如侵犯了您的权益 请通知作者 将及时删除侵权内容
+                    ====================Diudiumiao====================
+
 """
 
 from Crypto.Util.Padding import unpad
@@ -11,10 +15,12 @@ from Crypto.Cipher import ARC4
 from urllib.parse import quote
 from base.spider import Spider
 from Crypto.Cipher import AES
+from datetime import datetime
 from bs4 import BeautifulSoup
 from base64 import b64decode
 import urllib.request
 import urllib.parse
+import datetime
 import binascii
 import requests
 import base64
@@ -26,56 +32,15 @@ import os
 
 sys.path.append('..')
 
-xurl = "https://app.whjzjx.cn"
-
-headers = {
-    'User-Agent': 'Linux; Android 12; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36'
-          }
-
-headerf = {
-    "platform": "1",
-    "user_agent": "Mozilla/5.0 (Linux; Android 9; V1938T Build/PQ3A.190705.08211809; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Safari/537.36",
-    "content-type": "application/json; charset=utf-8"
-          }
-
-times = int(time.time() * 1000)
-
-data = {
-    "device": "2a50580e69d38388c94c93605241fb306",
-    "package_name": "com.jz.xydj",
-    "android_id": "ec1280db12795506",
-    "install_first_open": True,
-    "first_install_time": 1752505243345,
-    "last_update_time": 1752505243345,
-    "report_link_url": "",
-    "authorization": "",
-    "timestamp": times
-        }
-
-plain_text = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
-
-key = "B@ecf920Od8A4df7"
-key_bytes = key.encode('utf-8')
-plain_bytes = plain_text.encode('utf-8')
-cipher = AES.new(key_bytes, AES.MODE_ECB)
-padded_data = pad(plain_bytes, AES.block_size)
-ciphertext = cipher.encrypt(padded_data)
-encrypted = base64.b64encode(ciphertext).decode('utf-8')
-
-response = requests.post("https://u.shytkjgs.com/user/v3/account/login", headers=headerf, data=encrypted)
-response_data = response.json()
-Authorization = response_data['data']['token']
+xurl = "https://djw1.com"
 
 headerx = {
-    'authorization': Authorization,
-    'platform': '1',
-    'version_name': '3.8.3.1'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36'
           }
 
 class Spider(Spider):
     global xurl
     global headerx
-    global headers
 
     def getName(self):
         return "首页"
@@ -151,71 +116,68 @@ class Spider(Spider):
                 return jg
 
     def homeContent(self, filter):
-        result = {}
-        result = {"class": [{"type_id": "1", "type_name": "剧场"},
-                            {"type_id": "3", "type_name": "新剧"},
-                            {"type_id": "2", "type_name": "热播"},
-                            {"type_id": "7", "type_name": "星选"},
-                            {"type_id": "5", "type_name": "阳光"}],
-                  }
+        result = {"class": []}
+
+        detail = requests.get(url=xurl + "/all/", headers=headerx)
+        detail.encoding = "utf-8"
+        res = detail.text
+
+        doc = BeautifulSoup(res, "lxml")
+
+        soups = doc.find_all('section', class_="container items")
+
+        for soup in soups:
+            vods = soup.find_all('li')
+
+            for vod in vods:
+
+                id = vod.find('a')['href']
+
+                name = vod.text.strip()
+
+                result["class"].append({"type_id": id, "type_name": "" + name})
 
         return result
 
     def homeVideoContent(self):
-        videos = []
-
-        url= f'{xurl}/v1/theater/home_page?theater_class_id=1&class2_id=4&page_num=1&page_size=24'
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            data = detail.json()
-
-            for vod in data['data']['list']:
-
-                name = vod['theater']['title']
-
-                id = vod['theater']['id']
-
-                pic = vod['theater']['cover_url']
-
-                remark = vod['theater']['play_amount_str']
-
-                video = {
-                    "vod_id": id,
-                    "vod_name": name,
-                    "vod_pic": pic,
-                    "vod_remarks": remark
-                        }
-                videos.append(video)
-
-        result = {'list': videos}
-        return result
+        pass
 
     def categoryContent(self, cid, pg, filter, ext):
         result = {}
         videos = []
 
-        url = f'{xurl}/v1/theater/home_page?theater_class_id={cid}&page_num={pg}&page_size=24'
-        detail = requests.get(url=url,headers=headerx)
+        if pg:
+            page = int(pg)
+        else:
+            page = 1
+
+        url = f'{cid}page/{str(page)}/'
+        detail = requests.get(url=url, headers=headerx)
         detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            data = detail.json()
+        res = detail.text
+        doc = BeautifulSoup(res, "lxml")
 
-            for vod in data['data']['list']:
+        soups = doc.find_all('section', class_="container items")
 
-                name = vod['theater']['title']
+        for soup in soups:
+            vods = soup.find_all('li')
 
-                id = vod['theater']['id']
+            for vod in vods:
 
-                pic = vod['theater']['cover_url']
+                name = vod.find('img')['alt']
 
-                remark = vod['theater']['theme']
+                ids = vod.find('a', class_="image-line")
+                id = ids['href']
+
+                pic = vod.find('img')['src']
+
+                remark = self.extract_middle_text(str(vod), 'class="remarks light">', '<', 0)
 
                 video = {
                     "vod_id": id,
                     "vod_name": name,
                     "vod_pic": pic,
-                    "vod_remarks": remark
+                    "vod_remarks": '▶️' + remark
                         }
                 videos.append(video)
 
@@ -233,11 +195,13 @@ class Spider(Spider):
         xianlu = ''
         bofang = ''
 
-        url = f'{xurl}/v2/theater_parent/detail?theater_parent_id={did}'
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            data = detail.json()
+        if 'http' not in did:
+            did = xurl + did
+
+        res = requests.get(url=did, headers=headerx)
+        res.encoding = "utf-8"
+        res = res.text
+        doc = BeautifulSoup(res, "lxml")
 
         url = 'https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732707176882/jiduo.txt'
         response = requests.get(url)
@@ -246,35 +210,37 @@ class Spider(Spider):
         name = self.extract_middle_text(code, "s1='", "'", 0)
         Jumps = self.extract_middle_text(code, "s2='", "'", 0)
 
-        content = '剧情：' + data['data']['introduction']
+        content = '集多为您介绍剧情📢' + self.extract_middle_text(res,'class="info-detail">','<', 0)
 
-        area = data['data']['desc_tags'][0]
+        remarks = self.extract_middle_text(res, 'class="info-mark">', '<', 0)
 
-        remarks = data['data']['filing']
+        year = self.extract_middle_text(res, 'class="info-addtime">', '<', 0)
 
-        # 修复剧集只有一集的问题 - 检查theaters数据是否存在且不为空
-        if 'theaters' in data['data'] and data['data']['theaters']:
-            for sou in data['data']['theaters']:
-                id = sou['son_video_url']
-                name = sou['num']
-                bofang = bofang + str(name) + '$' + id + '#'
-
-            bofang = bofang[:-1] if bofang.endswith('#') else bofang
-            xianlu = '星芽'
+        if name not in content:
+            bofang = Jumps
+            xianlu = '1'
         else:
-            # 如果没有theaters数据，检查是否有单个视频URL
-            if 'video_url' in data['data'] and data['data']['video_url']:
-                bofang = '1$' + data['data']['video_url']
-                xianlu = '星芽'
-            else:
-                bofang = Jumps
-                xianlu = '1'
+            soups = doc.find('div', class_="ep-list-items")
+
+            soup = soups.find_all('a')
+
+            for sou in soup:
+
+                id = sou['href']
+
+                name = sou.text.strip()
+
+                bofang = bofang + name + '$' + id + '#'
+
+            bofang = bofang[:-1]
+
+            xianlu = '专线'
 
         videos.append({
             "vod_id": did,
-            "vod_content": content,
             "vod_remarks": remarks,
-            "vod_area": area,
+            "vod_year": year,
+            "vod_content": content,
             "vod_play_from": xianlu,
             "vod_play_url": bofang
                      })
@@ -284,47 +250,60 @@ class Spider(Spider):
 
     def playerContent(self, flag, id, vipFlags):
 
+        res = requests.get(url=id, headers=headerx)
+        res.encoding = "utf-8"
+        res = res.text
+
+        url = self.extract_middle_text(res, '"wwm3u8":"', '"', 0).replace('\\', '')
+
         result = {}
         result["parse"] = 0
         result["playUrl"] = ''
-        result["url"] = id
-        result["header"] = headers
+        result["url"] = url
+        result["header"] = headerx
         return result
 
-    def searchContentPage(self, key, quick, page):
+    def searchContentPage(self, key, quick, pg):
         result = {}
         videos = []
 
-        payload = {
-            "text": key
-                  }
+        if pg:
+            page = int(pg)
+        else:
+            page = 1
 
-        url = f"{xurl}/v3/search"
-        detail = requests.post(url=url, headers=headerx, json=payload)
-        if detail.status_code == 200:
-            detail.encoding = "utf-8"
-            data = detail.json()
+        url = f'{xurl}/search/{key}/page/{str(page)}/'
+        detail = requests.get(url=url, headers=headerx)
+        detail.encoding = "utf-8"
+        res = detail.text
+        doc = BeautifulSoup(res, "lxml")
 
-            for vod in data['data']['theater']['search_data']:
+        soups = doc.find_all('section', class_="container items")
 
-                name = vod['title']
+        for soup in soups:
+            vods = soup.find_all('li')
 
-                id = vod['id']
+            for vod in vods:
 
-                pic = vod['cover_url']
+                name = vod.find('img')['alt']
 
-                remark = vod['score_str']
+                ids = vod.find('a', class_="image-line")
+                id = ids['href']
+
+                pic = vod.find('img')['src']
+
+                remark = self.extract_middle_text(str(vod), 'class="remarks light">', '<', 0)
 
                 video = {
                     "vod_id": id,
                     "vod_name": name,
                     "vod_pic": pic,
-                    "vod_remarks": remark
+                    "vod_remarks": '▶️' + remark
                         }
                 videos.append(video)
 
         result['list'] = videos
-        result['page'] = page
+        result['page'] = pg
         result['pagecount'] = 9999
         result['limit'] = 90
         result['total'] = 999999
