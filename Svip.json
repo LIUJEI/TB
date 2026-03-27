@@ -494,17 +494,74 @@
     "ext": "./TS/bili.js"
 },
 {
-    "key": "csp_剧和短剧",
+    "key": "csp_js_剧和短剧",
     "name": "♨️┃短劇┃系列",
     "type": 3,
     "api": "./XB/短合.js"
 },
 {
-    "key": "hipy_js_星芽短剧",
-    "name": "♨️┃短劇┃星芽",
+    "key": "csp_js_红果",
+    "name": "♨️┃红果┃短剧",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./XB/星芽.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/红果.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+    "key":"py_喜福短剧",
+    "name":"♨️┃短劇┃喜福",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/喜福.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+    "key":"py_河马短剧",
+    "name":"♨️┃短劇┃河马",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/河马.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+    "key":"py_星芽短剧",
+    "name":"♨️┃短劇┃星芽",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/星芽.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+    "key":"py_剧王短剧",
+    "name":"♨️┃短劇┃剧王",
+    "type":3,
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/剧王.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+	"key": "py_五五短剧",
+    "name": "♨️┃短劇┃五五",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/五五.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+	"key": "py_七猫短剧",
+    "name": "♨️┃短劇┃七猫",
+	"type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/七猫.py",
+	"style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+	"key":"py_盒马短剧",
+	"name":"♨️┃盒马┃短剧",
+	"type": 3,
+	"api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/盒马.py",
+	"style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
 },
 {
     "key":"豪堪短剧",
@@ -593,57 +650,10 @@
 	"jar": "./JAR/Sxiao.jar",
     "类型": "短剧"
 },
-{
-    "key":"py_喜福短剧",
-    "name":"┃短劇┃喜福",
-    "type":3,
-    "api":"./BPQ/喜福.py",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
-    "key":"py_河马短剧",
-    "name":"┃短劇┃河马",
-    "type":3,
-    "api":"./BPQ/河马.py",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
-    "key":"py_星芽短剧",
-    "name":"┃短劇┃星芽",
-    "type":3,
-    "api":"./BPQ/星芽.py",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
-    "key":"py_剧王短剧",
-    "name":"┃短劇┃剧王",
-    "type":3,
-    "api":"./BPQ/剧王.py",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
-	"key": "py_五五短剧",
-    "name": "┃短劇┃五五",
-    "type": 3,
-    "api": "./BPQ/五五.py",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
-	"key": "py_七猫短剧",
-    "name": "┃短劇┃七猫",
-	"type": 3,
-    "api": "./BPQ/七猫.py",
-	"style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
+
 {
     "key": "cj_牛牛短剧",
-    "name": "┃短劇┃牛牛",
+    "name": "♨️┃短劇┃牛牛",
     "type": 1,
     "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
     "categories": [
