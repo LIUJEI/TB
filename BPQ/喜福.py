@@ -80,7 +80,7 @@ class Spider(Spider):
             for vod in data['data']['categories']:
                 category_info = {
                     "type_id": vod['id'],
-                    "type_name": f"🌠{vod['name']}"
+                    "type_name": f"{vod['name']}"
                                 }
                 categories.append(category_info)
             return categories
