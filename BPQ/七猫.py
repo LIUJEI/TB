@@ -215,7 +215,7 @@ class Spider(Spider):
 
                 id = vod['tag_id']
 
-                result["class"].append({"type_id": id, "type_name": "🌠" + name})
+                result["class"].append({"type_id": id, "type_name": "❤" + name})
 
         return result
 
