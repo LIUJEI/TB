@@ -303,14 +303,6 @@
     "类型": "短剧"
 },
 {
-	"key": "py_七猫短剧",
-    "name": "┃短劇┃七猫",
-	"type": 3,
-    "api": "./BPQ/七猫.py",
-	"style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
     "key":"py_喜福短剧",
     "name":"┃短劇┃喜福",
     "type":3,
@@ -320,7 +312,7 @@
 },
 {
     "key":"py_河马短剧",
-    "name":"┃短劇┃河马短剧",
+    "name":"┃短劇┃河马",
     "type":3,
     "api":"./BPQ/河马.py",
     "style":{"type":"rect","ratio":1.33},
@@ -328,7 +320,7 @@
 },
 {
     "key":"py_星芽短剧",
-    "name":"┃短劇┃星芽短剧",
+    "name":"┃短劇┃星芽",
     "type":3,
     "api":"./BPQ/星芽.py",
     "style":{"type":"rect","ratio":1.33},
@@ -336,12 +328,44 @@
 },
 {
     "key":"py_剧王短剧",
-    "name":"┃短劇┃剧王短剧",
+    "name":"┃短劇┃剧王",
     "type":3,
     "api":"./BPQ/剧王.py",
     "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
 },
+{
+	"key": "py_五五短剧",
+    "name": "┃短劇┃五五",
+    "type": 3,
+    "api": "./BPQ/五五.py",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+	"key": "py_七猫短剧",
+    "name": "┃短劇┃七猫",
+	"type": 3,
+    "api": "./BPQ/七猫.py",
+	"style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},
+{
+    "key": "cj_牛牛短剧",
+    "name": "┃短劇┃牛牛",
+    "type": 1,
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
+    "categories": [
+    "有声动漫",
+    "女频恋爱",
+    "反转爽剧",
+    "古装仙侠",
+    "年代穿越",
+    "脑洞悬疑",
+    "现代都市"],
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},	
 {
 	"key": "csp_YALI",
 	"name": "♾️┃鸭梨┃动漫",
