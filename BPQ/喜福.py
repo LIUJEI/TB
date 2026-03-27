@@ -225,5 +225,4 @@ class Spider(Spider):
             return self.proxyMedia(params)
         elif params['type'] == "ts":
             return self.proxyTs(params)
-
         return None
