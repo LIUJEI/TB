@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "./JAR/MoHe.jar",
+  "spider": "./JAR/spider.png",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -28,7 +28,7 @@
     "name":"┣☪琉✿芸┫魔盒┃",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "http://dd.ma/CFlLnSbJ",
+   
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
     "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
     "请求头": "手机",
@@ -119,7 +119,7 @@
     "name": "正版🍁APP影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "http://dd.ma/CFlLnSbJ",
+ 
     "ext": {
     "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
     "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -130,7 +130,7 @@
     "name":"正版🍁耐看点播",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "http://dd.ma/CFlLnSbJ",
+   
     "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
     "数组":"public-list-exp\"&&</div></",
     "副标题":"琉芸✨-+>&&</div>",
@@ -144,7 +144,7 @@
       "name": "正版🍁奇优影视",
       "type": 3,
       "api":"csp_XBPQ",
-      "jar": "http://dd.ma/CFlLnSbJ",
+     
       "ext":{"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
       "请求头":"User-Agent$MOBILE_UA","防走丢":"http://www.qiyoudy1.com/",
       "副标题":"琉芸✨-+text-right\">&&</span>",
