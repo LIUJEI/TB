@@ -345,6 +345,13 @@
     "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
+    "key":"csp_魔盒",
+    "name":"┣☪琉✿芸┫旺旺",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.png"
+},
+{
     "key":"csp_影業",
     "name":"正版🍁劉氏影業",
     "type": 3,
