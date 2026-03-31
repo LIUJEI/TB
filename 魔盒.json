@@ -28,13 +28,7 @@
     "name":"┣☪琉✿芸┫魔盒┃",
     "type": 3,
     "api": "csp_XBPQ",
-   
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+detail-sketch\"&&</span>",
-    "副标题": "琉芸✨-+pic-text text-right\"&&/span>",
-    "请求头": "手机",
-    "播放数组": "stui-content__playlist clearfix\"&&</ul>",
-    "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
-    "分类": "电视剧$2#电影$1#动漫$4#综艺$3"}
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.png"
 },
 {
     "key":"csp_影業",
