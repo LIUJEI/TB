@@ -44,7 +44,6 @@
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/咕咚.png"
 }, 
-
 {
     "key": "Aries白羊影院",
     "name": "正版🍁白羊影院",
@@ -113,7 +112,6 @@
     "name": "正版🍁APP影院",
     "type": 3,
     "api": "csp_XBPQ",
- 
     "ext": {
     "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
     "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
@@ -143,7 +141,6 @@
       "分类url":"http://www.taoju3.com/list/{cateId}_{catePg}.html?order={by}",
       "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","排序":"按时间$time#按人气$hit"}
 },
-
 {
     "key": "csp_biubiu_不卡影院2",
     "name": "正版🍁不卡影院",
@@ -164,7 +161,6 @@
     "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
     "过滤词": "/hls/#php"}
 }, 
-
 {
     "key": "胖虎影视",
     "name": "正版🍁胖虎影视",
@@ -212,7 +208,6 @@
     "分类": "唐人街$0#电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53",
     "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20||空||空||空||空"}
 },
-
 {
     "key": "csp_biubiu_酷云影院",
     "name": "正版🍁酷云影院",
@@ -239,7 +234,6 @@
     "api":"csp_XBPQ",
     "ext":{
     "请求头":"User-Agent$MOBILE_UA",
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
     "副标题": "琉芸✨专属+red-fg\">&&<",
     "编码":"UTF-8",
     "分类url":"https://www.kanxiw.com/tags/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -321,7 +315,6 @@
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-	"jar": "./JAR/spider.jar",
     "searchable": 0,
     "changeable": 0,
     "indexs": 0,
@@ -333,7 +326,6 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-	"jar": "./JAR/spider.jar",
     "ext": "./XB/single.json"
 }],
 
