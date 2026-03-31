@@ -345,6 +345,85 @@
     "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
+    "key":"csp_影業",
+    "name":"正版🍁劉氏影業",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB.png"
+},
+{
+    "key": "csp_咕咚电影网",
+    "name": "正版🍁咕咚电影",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/咕咚.png"
+}, 
+
+{
+    "key": "Aries白羊影院",
+    "name": "正版🍁白羊影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/白羊.png"
+},
+{
+    "key": "shiju影视",
+    "name": "正版🍁视觉影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/新视觉.png"
+},
+{
+    "key": "Aries-全民影院",
+    "name": "正版🍁全民影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/全民.png"
+},
+{
+    "key": "Aries大象",
+    "name": "正版🍁大象影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/大象.png"
+},
+{
+    "key": "csp_XBPQ_韩片",
+    "name": "正版🍁韩片剧场",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png"
+}, 
+{
+    "key": "天狗追剧",
+    "name": "正版🍁天狗追剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.png"
+},
+{
+    "key": "MTYY",
+    "name": "正版🍁麥田影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/麥田.png"
+},
+
+{
+    "key": "ling",
+    "name": "正版🍁飞快影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/飞快.png"
+},
+{
+    "key": "好影快看",
+    "name": "正版🍁好影快看",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/快看.png"
+},
+{
     "key": "Zwqf",
     "name": "🪀至臻🔹清风",
     "type": 4,
