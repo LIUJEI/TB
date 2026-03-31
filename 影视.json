@@ -40,10 +40,10 @@
 },
 {
     "key": "csp_xongying",
-    "name": "┃雄鷹┃秒播",
+    "name": "┃顾我┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://122.228.193.2:9988|ca94b06ca359d80e",
+    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
     "类型": "APP"
 },
 {
@@ -51,7 +51,7 @@
     "name": "┃花豬┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:9420|lp3d4t53y9t5db8y|searchList9",
+    "ext": "http://211.154.22.153:1369|h5w3d6g1j9s2h3f6",
     "类型": "APP"
 },
 {
