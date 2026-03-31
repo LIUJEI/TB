@@ -205,16 +205,6 @@
     "dataIv": "vE4kR7cF6jS6jH7a"}
 },
 {
-    "key": "火锅",
-    "name": "♾️┣火锅｜APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://ios.hgyx.vip",
-    "dataKey": "062dec75d039980e",
-    "dataIv": "062dec75d039980e"}
-},
-{
     "key": "云朵",
     "name": "♾️┣云朵｜APP",
     "type": 3,
@@ -234,16 +224,6 @@
     "dataKey": "ca94b06ca3c7d80e",
     "dataIv": "ca94b06ca3c7d80e",
     "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "星空",
-    "name": "♾️┣星空｜APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://xkos1.xkgzs.xyz",
-    "dataKey": "77jkcdvdodfcdkjk",
-    "dataIv": "77jkcdvdodfcdkjk"}
 },
 {
     "key": "火狐",
@@ -286,26 +266,6 @@
     "url": "https://app.95112475.xyz",
     "dataKey": "5a9w6x58dsq6z3a6",
     "dataIv": "5a9w6x58dsq6z3a6"}
-},
-{
-    "key": "csp_白鸽",
-    "name": "♾️┣白鸽┃App",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://cy.baige.asia",
-    "dataKey": "599D0FE5178642FD",
-    "dataIv": "599D0FE5178642FD"}
-},
-{
-    "key": "csp_瑞奇",
-    "name": "♾️┣瑞奇┃App",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://rqxk.gdata.fun",
-    "dataKey": "yangruiqiYsapp00",
-    "dataIv": "yangruiqiYsapp00"}
 },
 {
     "key": "csp_数字",
@@ -399,13 +359,6 @@
     "api": "https://8877.kstore.space/jar/AppToV5.py",
     "ext": "http://43.248.117.123:4680",
     "类型": "影视"
-},
-{
-    "key": "农民影视",
-    "name": "🪀农民🔹影視",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
 },
 {
     "key": "csp_js_金牌123",
