@@ -287,30 +287,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_XBPQ_旺旺影视",
-    "name": "🪀┃旺旺┃影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XB/旺旺.json",
-    "类型": "影视"
-},
-{
-    "key": "csp_py_人人影视",
-    "name": "🪀┃人人┃影視",
-    "type": 3,
-	"api": "csp_XBPQ",
-    "ext": "./XB/人人.py",
-    "类型": "影视"
-},
-{
-    "key": "csp_XBPQ_fantys",
-    "name": "🪀┃饭团┃影院",
-    "type":3,
-	"api": "csp_XBPQ",
-    "ext": "./XB/饭团.json",
-    "类型": "影视"
-},
-{
     "key": "csp_js_永乐",
     "name": "🪀┃永乐┃影視",
     "type": 3,
@@ -374,68 +350,6 @@
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200",
     "类型": "影视"
-},
-{
-    "key": "drpyS_人人影视[优]",
-    "name": "🪀┃人人┃影院",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
-    "title": "人人影视[优]",
-    "author": "EylinSir",
-    "类型": "影视"
-},
-{
-    "key": "drpyS_剧海影视[优]",
-    "name": "🪀┃剧海┃影视",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/剧海影视[优]?pwd=50721480be241243",
-    "title": "剧海影视[优]",
-    "author": "EylinSir",
-    "类型": "影视"
-},
-{
-    "key": "drpyS_追新影视[优]",
-    "name": "🪀┃追新┃影视",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/追新影视[优]?pwd=50721480be241243",
-    "title": "追新影视[优]",
-    "author": "EylinSir",
-    "类型": "影视"
-},
-{
-    "key": "drpyS_爱壹帆",
-    "name": "🪀┃爱影┃壹帆",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/爱壹帆?pwd=50721480be241243",
-    "title": "爱壹帆",
-    "类型": "影视"
-},
-{
-    "key": "drpyS_短剧视频库",
-    "name": "🪀┃短剧┃视频",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/短剧视频库?pwd=50721480be241243",
-    "title": "短剧视频库",
-    "author": "251208_DS",
-    "类型": "影视"
-},
-{
-    "key": "drpyS_飞牛影视",
-    "name": "🪀┃飞牛┃影视",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/飞牛影视?pwd=50721480be241243",
-    "title": "飞牛┃影视",
-    "author": "EylinSir",
-    "类型": "影视",
-    "lang": "ds"
-},
-{
-    "key": "php_坚果视频 ᵈᶻ",
-    "name": "🪀┃坚果┃视频",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/坚果视频 ᵈᶻ?do=php&pwd=50721480be241243",
-    "title": "坚果视频 ᵈᶻ",
-    "lang": "php"
 },
 {
 	"key": "恰瓜子",
@@ -606,52 +520,6 @@
     "jar": "./JAR/嗷嗚.jar"
 },
 {
-    "key": "包子短剧",
-    "name": "♨️┃短劇┃包子",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./BPQ/包子.json",
-	"jar": "./JAR/Sxiao.jar",
-	"类型": "短剧"
-},
-{
-    "key": "憨塔短剧",
-    "name": "♨️┃短劇┃憨塔",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./BPQ/憨塔.json",
-	"jar": "./JAR/Sxiao.jar",
-    "类型": "短剧"
-},
-{
-    "key": "喵喵短剧",
-    "name": "♨️┃短劇┃喵喵",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./BPQ/喵喵.json",
-	"jar": "./JAR/Sxiao.jar",
-    "类型": "短剧"
-},
-{
-    "key": "剧王短剧",
-    "name": "♨️┃短劇┃剧王",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./BPQ/剧王.json",
-	"jar": "./JAR/Sxiao.jar",
-    "类型": "短剧"
-},
-{
-    "key": "免费短剧",
-    "name": "♨️┃免费┃短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./BPQ/不付费.json",
-	"jar": "./JAR/Sxiao.jar",
-    "类型": "短剧"
-},
-
-{
     "key": "cj_牛牛短剧",
     "name": "♨️┃短劇┃牛牛",
     "type": 1,
@@ -723,6 +591,119 @@
     "type": 3,
     "api": "csp_Kugou",
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]}
+},
+{
+    "key": "csp_BiliMV",
+    "name": "🅱️┃哔哩┃音乐",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {"type": "rect","ratio": 1.333},
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/歌曲.json","cookie": ""}
+},
+{
+    "key": "csp_哔哩戏曲",
+    "name": "🅱️┃戏曲┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/戏曲.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_哔哩相声",
+    "name": "🅱️┃相声┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/相声.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_哔哩小品",
+    "name": "🅱️┃小品┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小品.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_哔哩听书",
+    "name": "🅱️┃听书┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://d.kstore.dev/download/12194/Lib/听书.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key":"csp_Bili课程",
+    "name":"🅱️┃课教┃合集",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/课程.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_Bili幼儿",
+    "name": "🅱️┃幼儿┃哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/幼儿.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.597}
+},
+{
+    "key": "csp_Bili小学课堂",
+    "name": "🅱️┃小学┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/小学.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_Bili初中课堂",
+    "name": "🅱️┃初中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/初中.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key":  "csp_Bili高中课堂",
+    "name": "🅱️┃高中┃课堂",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/高中.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "小灯塔科学",
+    "name":"🌏┃科学┃小灯塔",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {
+    "json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/科学.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_Bili小灯塔地理",
+    "name":"🌏┃地理┃小灯塔",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/地理.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_Bili小灯塔百科",
+    "name":"🌏┃百科┃小灯塔",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/百科.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
+},
+{
+    "key": "csp_Bili小灯塔国学",
+    "name":"🌏┃国学┃小灯塔",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/国学.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
 },
 {
     "key": "csp_Duopan",
