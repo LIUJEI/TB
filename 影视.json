@@ -39,30 +39,6 @@
     "changeable": 1
 },
 {
-    "key": "csp_xongying",
-    "name": "🆘┃顾我┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
-    "类型": "APP"
-},
-{
-    "key": "csp_花小猪",
-    "name": "🆘┃花豬┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:1369|h5w3d6g1j9s2h3f6",
-    "类型": "APP"
-},
-{
-    "key": "csp_优兔",
-    "name": "🆘┃優菟┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
-    "类型": "APP"
-},
-{
     "key": "csp_猫头鹰",
     "name": "🆘┃藍鷹┃秒播",
     "type": 3,
@@ -76,6 +52,14 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://110.42.67.221:8009|123456789abcdefg",
+    "类型": "APP"
+},
+{
+    "key": "csp_muqi",
+    "name": "🆘┃暮旗┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|kj37zs29q22jk96t|okhttp/3.10.0",
     "类型": "APP"
 },
 {
@@ -116,6 +100,22 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa",
+    "类型": "APP"
+},
+{
+    "key": "csp_花小猪",
+    "name": "🆘┃花豬┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://211.154.22.153:1369|h5w3d6g1j9s2h3f6",
+    "类型": "APP"
+},
+{
+    "key": "csp_优兔",
+    "name": "🆘┃優菟┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
     "类型": "APP"
 },
 {
