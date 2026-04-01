@@ -122,6 +122,62 @@
     "ext": "https://gitee.com/lyun_1_0/tb/edit/master/BPQ/饭团.png"
 },
 {
+    "key": "csp_BPQ_包子",
+    "name": "🍁┃短劇┃包子",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/包子.png",
+	"类型": "短剧"
+},
+{
+    "key": "csp_BPQ_憨塔",
+    "name": "🍁┃短劇┃憨塔",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/憨塔.png",
+    "类型": "短剧"
+},
+{
+    "key": "csp_BPQ_喵喵",
+    "name": "🍁┃短劇┃喵喵",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/喵喵.png",
+    "类型": "短剧"
+},
+{
+    "key": "csp_BPQ_剧王",
+    "name": "🍁┃短劇┃剧王",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧王.png",
+    "类型": "短剧"
+},
+{
+    "key": "csp_BPQ_免费",
+    "name": "🍁┃免费┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/不付费.png",
+    "类型": "短剧"
+},
+{
+    "key": "cj_牛牛短剧",
+    "name": "🍁┃短劇┃牛牛",
+    "type": 1,
+    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
+    "categories": [
+    "有声动漫",
+    "女频恋爱",
+    "反转爽剧",
+    "古装仙侠",
+    "年代穿越",
+    "脑洞悬疑",
+    "现代都市"],
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "短剧"
+},	
+{
     "key": "柠檬影视",
     "name": "🍁┃柠檬┃影院",
     "type": 3,
