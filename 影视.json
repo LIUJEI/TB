@@ -39,6 +39,14 @@
     "changeable": 1
 },
 {
+    "key": "csp_muqi",
+    "name": "🆘┃暮旗┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|kj37zs29q22jk96t|",
+    "类型": "APP"
+},
+{
     "key": "csp_猫头鹰",
     "name": "🆘┃藍鷹┃秒播",
     "type": 3,
@@ -52,14 +60,6 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://110.42.67.221:8009|123456789abcdefg",
-    "类型": "APP"
-},
-{
-    "key": "csp_muqi",
-    "name": "🆘┃暮旗┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|kj37zs29q22jk96t|",
     "类型": "APP"
 },
 {
