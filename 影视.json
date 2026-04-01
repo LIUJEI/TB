@@ -446,8 +446,16 @@
     "name": "🖍︎┃网盘┃盘它4K",
     "type": 3,
     "api": "csp_PanWebShareCloudPT",
-	
     "style": {"type": "list"}
+},
+{
+    "key": "csp_FeiMaoUC",
+    "name": "⚡┃网盘┃闪电4K",
+    "type": 3,
+    "api": "csp_Duopan",
+    "ext": {
+    "url_key": "FeiMaoUC",
+    "site_urls": ["https://shandian.blog/","https://sd.sduc.site"]}
 },
 {
     "key": "csp_Duopan",
@@ -482,15 +490,6 @@
     "https://www.zhizhenpan.fun"],
     "url_key": "Netfixtv2",
     "threadinfo": {"chunksize": 512,"threads": 16}}
-},
-{
-    "key": "csp_FeiMaoUC",
-    "name": "⚡┃网盘┃闪电4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "url_key": "FeiMaoUC",
-    "site_urls": ["https://shandian.blog/","https://sd.sduc.site"]}
 },
 {
     "key": "ConfigCenter",
