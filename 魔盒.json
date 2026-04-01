@@ -119,13 +119,6 @@
     "分类": "电影$1#连续剧$2#动漫$4#综艺$3"}
 },
 {
-    "key":"csp_XBPQ_耐看点播",
-    "name":"正版🍁耐看点播",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext": "./XB/%E8%80%90%E7%9C%8B.json"
-},
-{
       "key": "csp_xBPQ_奇优",
       "name": "正版🍁奇优影视",
       "type": 3,
@@ -152,6 +145,15 @@
     "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
     "过滤词": "/hls/#php"}
 }, 
+{
+    "key": "龛影影视",
+    "name": "正版🍁看影蓝光",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "分类url": "https://www.kanying.me/menu/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+    "分类": "看影全部$0#电影$1#剧集$2#动漫$4#综艺$3#伦理剧$14"}
+},
 {
     "key": "胖虎影视",
     "name": "正版🍁胖虎影视",
@@ -186,30 +188,8 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "副标题": "琉芸专属+>&&<",
     "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
     "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"}
-},  
-{
-    "key": "龛影影视",
-    "name": "正版🍁看影蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题": "琉芸专属+>&&<",
-    "分类url": "https://www.kanying.me/menu/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-    "分类": "看影全部$0#电影$1#剧集$2#动漫$4#综艺$3#伦理剧$14"}
-},
-{
-    "key": "华人影视",
-    "name": "正版🍁华人蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题": "琉芸专属+>&&<",
-    "简介": "琉🔹芸❤广告勿信👉剧情 ：+<div class=\"col-pd text-collapse content&&</div>",
-    "分类url": "https://www.wangfei.la/vod-show-/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类": "电影$3#电视剧$1#动漫$2#综艺$4#剧情$21"}
 },  
 {
     "key": "csp_唐人",
@@ -217,31 +197,8 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "副标题": "琉芸专属+>&&<",
     "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "唐人街$0#电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53",
-    "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20||空||空||空||空"}
-},
-{
-    "key":"csp_河马",
-    "name":"正版🍁河马影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext":{
-    "副标题": "琉芸✨-+pic-text text-right\"&&</span>",
-    "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-    "分类":"河马全部$0#电影&电视剧&动漫&综艺",
-    "分类值": "1&2&3&4"}
-},
-{
-    "key": "四个圈",
-    "name": "正版🍁四圈影視",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "副标题": "琉芸专属+>&&<",
-    "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
-    "分类": "四圈全部$0#电视剧$2#电影$1#动漫$4#综艺$3"}
+    "分类": "唐人街$0#电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}
 },
 {
     "key": "csp_biubiu_酷云影院",
@@ -249,7 +206,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "副标题": "琉芸专属+>&&<",
     "分类url": "https://kuyun123.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#动漫$4#综艺$30#伦理$20"}
 },
@@ -259,7 +215,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "副标题": "琉芸专属+>&&<",
     "线路标题": "💕琉芸👉+src=*>&&<[替换:线路1>>💕琉芸👉1#线路2>>💕琉芸👉2#线路3>>💕琉芸👉3#线路4>>💕琉芸👉4#线路5>>💕琉芸👉5#线路6>>💕琉芸👉6]",
     "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影&电视剧&综艺&动漫&伦理",
@@ -272,13 +227,10 @@
     "api":"csp_XBPQ",
     "ext":{
     "请求头":"User-Agent$MOBILE_UA",
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
-    "副标题": "琉芸✨专属+red-fg\">&&<",
     "编码":"UTF-8",
     "分类url":"https://www.kanxiw.com/tags/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
     "分类":"看戏网$0#电影$1#电视剧$2#综艺$3#动漫$4",
-    "线路数组":"hl-tabs-btnhl-slide-swiper&&&&<",
-    "简介":"┣琉芸┫广告勿信👉剧情"}
+    "线路数组":"hl-tabs-btnhl-slide-swiper&&&&<"}
 },
 {
     "key":"永乐视频",
@@ -286,60 +238,20 @@
     "type":3,
     "api":"csp_XBPQ",
     "ext":{
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
-    "副标题": "琉芸✨专属+red-fg\">&&<",
-    "请求头":"User-Agent$MOBILE_UA",
-    "编码":"UTF-8",
-    "分类url":"https://tv.59v.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
-    "分类":"永乐剧场$13#电影$1#电视剧$2#综艺$3#动漫$4#科幻片$9#",
-    "剧情值":"*",
-    "地区值":"*",
-    "年份":"2000-2025",
-    "年份值":"*",
-    "字母":"A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-    "字母值":"*",
-    "排序":"时间&人气&评分",
-    "排序值":"time&hits&score"}
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "永乐视频$13#电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
 },
 { 
     "key": "csp_539影视", 
     "name": "正版🍁539影视", 
     "type":3,
     "api":"csp_XBPQ",
-    "ext": {
-    "简介":"琉🔹芸❤广告勿信👉剧情 ：+detail-content\" style=*>&&",
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
-    "副标题": "琉芸专属+red-fg\">&&<",
+    "ext": {"简介":"琉🔹芸❤广告勿信👉剧情 ：+detail-content\" style=*>&&",
     "分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类":"全部$0#短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}
 }, 
-{
-    "key": "番茄",
-    "name": "正版🍁番茄影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "手机",
-    "主页url": "https://www.yirenmeng.com",
-    "标题": "title=\"&&\"",
-    "副标题": "琉芸✨-+class=\"module-info-item\">&&</div>",
-    "简介": "琉🔹芸❤广告勿信👉剧情 ：+fed-matp-v\">&&</div",
-    "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-    "线路标题": "💕琉芸👉+<span>&&</small>[替换:</span><small>>>(共]+集)",
-    "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
-    "跳转解析": "默认$https://jx.shipinbofang.net:55666/player/jiexi.php?code=5566jiexi&if=1&url=",
-    "分类url": "https://www.yirenmeng.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/[https://www.yirenmeng.com/vodtype/{cateId}/];;rc",
-    "分类":"番茄全部$番茄#电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#4K$4kdianying"} 
-},
-{
-    "key": "星空影视",
-    "name": "正版🍁星空蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://www.xingkong123.com/xktype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-    "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$20"}
-},
 {
     "key": "🐈‍⬛喜多影视",
     "name": "正版🍁喜多影视",
@@ -350,27 +262,6 @@
     "分类url": "https://piaoxue.co/vodshow/{cateId}--{by}-{class}--{letter}---{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
-{
-    "key": "sm影视",
-    "name": "正版🍁神马蓝光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "播放组数": "module-blocklist&&</div>",
-    "分类url": "https://www.jskji.com/sh/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理$41"}
-},
-{
-    "key": "xbpq_高清剧场",
-    "name": "正版🍁高清影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "分类url": "https://www.ikanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
-    "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
-    "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
-    "过滤词": "/hls/#php"}
-},
 { 
     "key": "csp_茄子短剧", 
     "name": "正版📻茄子短剧", 
@@ -378,7 +269,6 @@
     "api":"csp_XBPQ", 
     "ext": {
     "简介":"琉🔹芸❤广告勿信👉剧情 ：+&&",
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
     "副标题": "琉芸✨专属+red-fg\">&&<",
     "线路标题":"panel-hd\">&&",
     "分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
@@ -392,7 +282,6 @@
     "ext": {
     "简介":"琉🔹芸❤广告勿信👉剧情 :+：&&",
     "副标题": "琉芸✨专属+red-fg\">&&<",
-    "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
     "线路标题":"iconfont hl-icon-shipin\">&&",
     "分类url":"https://duanjuhk.com/vodshow/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类":"精选$jingxuanduanju#都市$dushi#穿越$chuanyue#古装$gudai"}
@@ -402,7 +291,6 @@
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-	"jar": "./JAR/spider.jar",
     "searchable": 0,
     "changeable": 0,
     "indexs": 0,
@@ -414,7 +302,6 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-	"jar": "./JAR/spider.jar",
     "ext": "./XB/single.json"
 }],
 
