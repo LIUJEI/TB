@@ -177,7 +177,66 @@
     "现代都市"],
     "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
-},	
+},
+{
+    "key": "xbpq_djuw",
+    "name": "🍁┃抖音┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
+    "分类": "♨️抖音短剧$5"}
+},
+{
+    "key": "xbpq_dzdj",
+    "name": "🍁┃蝶众┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "分类": "♨️蝶众短剧$6",
+    "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
+},
+{
+    "key": "xbpq_lddj",
+    "name": "🍁┃兰岛┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "分类": "♨️兰岛短剧$20",
+    "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
+},
+{
+    "key": "xbpq_jzdj",
+    "name": "🍁┃九洲┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "分类url": "https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+    "分类": "♨️九洲短剧$5",
+    "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}
+},
+{
+    "key": "xbpq_55dj",
+    "name": "🍁┃五五┃短剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "分类url": "https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+    "分类": "♨️五五短剧$1",
+    "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
+},
+{
+    "key": "csp_茄子短剧",
+    "name": "🍁┃茄子┃短劇",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "副标题": "琉芸✨-+right\">&&<",
+    "线路标题": "panel-hd\">&&",
+    "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
+    "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
+},
 {
     "key": "csp_xBPQ_柠檬影视",
     "name": "🍁┃柠檬┃影院",
