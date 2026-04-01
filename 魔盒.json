@@ -183,8 +183,7 @@
     "name": "🍁┃柠檬┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
-    "副标题": "琉芸专属+>&&<",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "http://www.aweiks.com/show/{cateId}-{area}-------{catePg}---{year}.html",
     "分类": "柠檬剧场$13#电影$1#电视剧$2#综艺$3#动漫$4"}
 },
