@@ -610,7 +610,7 @@
     "api": "csp_Market",
     "indexs": 0,
 	"jar": "./JAR/Sxiao.jar",
-    "ext": "./XB/single.json"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
 }],
 "parses": [
 {
