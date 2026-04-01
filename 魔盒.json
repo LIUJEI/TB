@@ -112,14 +112,30 @@
     "name": "🍁┃奇优┃影视",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/%E5%A5%87%E4%BC%98.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇优.png"
+},
+{
+    "key": "csp_xBPQ_饭团",
+    "name": "🍁┃饭团┃影院",
+    "type": 3,
+    "api":"csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/BPQ/饭团.png"
+},
+{
+    "key": "柠檬影视",
+    "name": "🍁┃柠檬┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "副标题": "琉芸专属+>&&<",
+    "分类url": "http://www.aweiks.com/show/{cateId}-{area}-------{catePg}---{year}.html",
+    "分类": "柠檬剧场$13#电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
     "key": "app影视",
     "name": "🍁┃APP┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "http://dd.ma/CFlLnSbJ",
     "ext": {
     "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+stui-content__desc col-pd clearfix\">&&</div>",
     "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
