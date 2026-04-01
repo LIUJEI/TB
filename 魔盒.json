@@ -420,15 +420,16 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "秒看",
-    "name": "♾️┃秒看┃APP",
+    "key": "蓝鹰",
+    "name": "♾️┃蓝鹰┃APP",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": {
-    "site": "https://mk1080.top/get.txt",
-    "dataKey": "c60d88b2eep53za8",
-    "dataIv": "c60d88b2eep53za8",
-    "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"}
+    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+    "dataKey": "ca94b06ca359d80e",
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
 },     
 {
     "key": "七壹",
@@ -492,6 +493,30 @@
     "url": "https://shangjihuoke.com",
     "dataKey": "8E2DC386FD452D05",
     "dataIv": "8E2DC386FD452D05"}
+},
+{
+    "key": "星空",
+    "name": "♾️┃星空┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://xk7.xkgzs.xyz",
+    "dataKey": "107jkcdncofcdkjk",
+    "dataIv": "107jkcdncofcdkjk"}
+},
+{
+    "key": "csp_70",
+    "name": "♾️┃麒麟┃App",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "https://qh.70qh.top","ver": 2}
+}, 
+{
+    "key": "csp_baih",
+    "name": "♾️┃駱駝┃App",
+    "type": 3,
+    "api": "csp_AppFox",
+    "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
     "key": "ConfigCenter",
