@@ -305,15 +305,15 @@
     "线路数组":"hl-tabs-btnhl-slide-swiper&&&&<"}
 },
 {
-    "key":"csp_xBPQ_永乐视频",
-    "name":"🍁┃永乐┃影视",
+    "key":"csp_xBPQ_小鎮",
+    "name":"🍁┃玫瑰┃小鎮",
     "type":3,
     "api":"csp_XBPQ",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "永乐视频$13#电影$1#电视剧$2#综艺$3#动漫$4",
-    "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
+    "线路数组": "<a data-toggle=\"tab\"&&/a>",
+    "线路标题": ">&&<",
+    "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
 },
 { 
     "key": "csp_539影视", 
