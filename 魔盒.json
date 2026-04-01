@@ -202,7 +202,7 @@
     "name": "🍁┃不卡┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://www.sobods.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#连续剧$2#动漫$4#综艺$3#伦理$20"}
 },
@@ -211,7 +211,7 @@
     "name": "🍁┃爱看┃高清",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://www.ikanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
     "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
@@ -222,7 +222,7 @@
     "name": "🍁┃看影┃蓝光",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://www.kanying.me/menu/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
     "分类": "看影全部$0#电影$1#剧集$2#动漫$4#综艺$3#伦理剧$14"}
 },
@@ -231,7 +231,7 @@
     "name": "🍁┃胖虎┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://www.mgtv.fun/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"}
 },
@@ -259,7 +259,7 @@
     "name": "🍁┃追剧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
     "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"}
 },  
@@ -277,7 +277,7 @@
     "name": "🍁┃酷云┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "分类url": "https://kuyun123.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#剧集$2#动漫$4#综艺$30#伦理$20"}
 },
@@ -286,7 +286,7 @@
     "name":"🍁┃木瓜┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "线路标题": "💕琉芸👉+src=*>&&<[替换:线路1>>💕琉芸👉1#线路2>>💕琉芸👉2#线路3>>💕琉芸👉3#线路4>>💕琉芸👉4#线路5>>💕琉芸👉5#线路6>>💕琉芸👉6]",
     "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影&电视剧&综艺&动漫&伦理",
@@ -297,7 +297,7 @@
     "name":"🍁┃看戏┃网剧",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "请求头":"User-Agent$MOBILE_UA",
     "编码":"UTF-8",
     "分类url":"https://www.kanxiw.com/tags/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -309,7 +309,7 @@
     "name":"🍁┃永乐┃影视",
     "type":3,
     "api":"csp_XBPQ",
-    "ext":{
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "分类": "永乐视频$13#电影$1#电视剧$2#综艺$3#动漫$4",
@@ -329,7 +329,7 @@
     "name": "🍁┃喜多┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
     "请求头": "User-Agent$MOBILE_UA",
     "分类url": "https://piaoxue.co/vodshow/{cateId}--{by}-{class}--{letter}---{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
