@@ -234,7 +234,7 @@
 },
 {
     "key": "dr_腾迅",
-    "name": "┃騰訊┃官方",
+    "name": "🐉┃騰訊┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/QQtv.js",
@@ -242,7 +242,7 @@
 },
 {
     "key": "dr_芒果",
-    "name": "┃芒果┃官方",
+    "name": "🐉┃芒果┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/MGtv.js",
@@ -250,7 +250,7 @@
 },
 {
     "key": "dr_奇异",
-    "name": "┃奇藝┃官方",
+    "name": "🐉┃奇藝┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/AQItv.js",
@@ -258,7 +258,7 @@
 },
 {
     "key": "dr_优酷",
-    "name": "┃優酷┃官方",
+    "name": "🐉┃優酷┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/yKtv.js",
@@ -266,7 +266,7 @@
 },
 {
     "key": "dr_搜狗",
-    "name": "┃搜狗┃官方",
+    "name": "🐉┃搜狗┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/SGtv.js",
@@ -274,7 +274,7 @@
 },
 {
     "key": "dr_哔哩视频",
-    "name": "┃嗶哩┃官方",
+    "name": "🐉┃嗶哩┃官方",
     "type": 3,
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/bili.js",
@@ -352,7 +352,7 @@
 },
 {
     "key": "cj_牛牛短剧",
-    "name": "┃短劇┃牛牛",
+    "name": "♨️┃短劇┃牛牛",
     "type": 1,
     "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
     "categories": [
@@ -417,13 +417,13 @@
     "类型": "音乐"
 },
 {
-    "key": "网易云音乐",
-    "name": "💫┃网易┃音乐",
+    "key": "csp_BiliMV",
+    "name": "💫┃哔哩┃音乐",
     "type": 3,
-    "api": "./XB/网易云.py",   
-    "类型": "音乐"
+    "api": "csp_Bili",
+    "ext": {"json": "./XB/音乐.json","cookie": ""},
+    "style": {"type": "rect","ratio": 1.333}
 },
-
 {
     "key": "csp_Duopan",
     "name": "🖍︎┃网盘┃蜡笔4K",
