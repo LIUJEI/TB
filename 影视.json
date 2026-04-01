@@ -236,18 +236,18 @@
     "类型": "影视"
 },
 {
-	"key": "恰瓜子",
-	"name": "🪀┃恰恰┃瓜子",
-	"type": 3,
-	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
+    "key": "恰瓜子",
+    "name": "🪀┃恰恰┃瓜子",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
 },
 {
-	"key": "恰娃子",
-	"name": "🪀┃娃娃┃瓜子",
-	"type": 3,
-	"api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-	"ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
+    "key": "恰娃子",
+    "name": "🪀┃娃娃┃瓜子",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/瓜娃子.js"
 },
 {
     "key": "dr_腾迅",
@@ -330,7 +330,7 @@
     "类型": "短剧"
 },
 {
-	"key": "py_五五短剧",
+    "key": "py_五五短剧",
     "name": "♨️┃短劇┃五五",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/五五.py",
@@ -338,19 +338,19 @@
     "类型": "短剧"
 },
 {
-	"key": "py_七猫短剧",
+    "key": "py_七猫短剧",
     "name": "♨️┃短劇┃七猫",
-	"type": 3,
+    "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/七猫.py",
-	"style":{"type":"rect","ratio":1.33},
+    "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
 },
 {
-	"key":"py_PTT視頻",
-	"name":"♨️┃追劇┃短剧",
-	"type": 3,
-	"api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/PTT短剧.py",
-	"style":{"type":"rect","ratio":1.33},
+    "key":"py_PTT視頻",
+    "name":"♨️┃追劇┃短剧",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/PTT短剧.py",
+    "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
 },
 {
@@ -384,25 +384,25 @@
     "类型": "短剧"
 },	
 {
-	"key": "csp_YALI",
-	"name": "♾️┃鸭梨┃动漫",
-	"type": 3,
-	"api": "csp_AppQi",
-	"ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
+    "key": "csp_YALI",
+    "name": "♾️┃鸭梨┃动漫",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://taobao.yalifun.com/xindm.json|88858c3b8560e348|okhttp/3.14.9"
 },
 {
-	"key": "丫丫动漫", 
-	"name": "♾️┃丫丫┃动漫", 
-	"type": 3, 
-	"api": "csp_AppGet", 
-	"ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
+    "key": "丫丫动漫", 
+    "name": "♾️┃丫丫┃动漫", 
+    "type": 3, 
+    "api": "csp_AppGet", 
+    "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl"
 },
 {
-	"key": "曼波动漫", 
-	"name": "♾️┃曼波┃动漫", 
-	"type": 3, 
-	"api": "csp_AppGet", 
-	"ext": "https://app.omofun1.top|66dc309cbeeca454"
+    "key": "曼波动漫", 
+    "name": "♾️┃曼波┃动漫", 
+    "type": 3, 
+    "api": "csp_AppGet", 
+    "ext": "https://app.omofun1.top|66dc309cbeeca454"
 },
 {
     "key": "咕咕动漫",
@@ -442,6 +442,14 @@
     "style": {"type": "rect","ratio": 1.333}
 },
 {
+    "key": "sp_盘它",
+    "name": "🖍︎┃网盘┃盘它4K",
+    "type": 3,
+    "api": "csp_PanWebShareCloudPT",
+	"jar": "./JAR/Sxiao.jar",
+    "style": {"type": "list"}
+},
+{
     "key": "csp_Duopan",
     "name": "🖍︎┃网盘┃蜡笔4K",
     "type": 3,
@@ -456,8 +464,8 @@
     "http://fmao.site",
     "http://fmao.shop",
     "http://xiaocge.fun"],
-	"url_key": "Netfixtv2",
-	"threadinfo": {"chunksize": 512,"threads": 16}}
+    "url_key": "Netfixtv2",
+    "threadinfo": {"chunksize": 512,"threads": 16}}
 },
 {
     "key": "csp_Netfixtv",
@@ -473,7 +481,7 @@
     "http://www.miqk.cc",
     "https://www.zhizhenpan.fun"],
     "url_key": "Netfixtv2",
-	"threadinfo": {"chunksize": 512,"threads": 16}}
+    "threadinfo": {"chunksize": 512,"threads": 16}}
 },
 {
     "key": "csp_FeiMaoUC",
@@ -481,31 +489,15 @@
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
-	"url_key": "FeiMaoUC",
+    "url_key": "FeiMaoUC",
     "site_urls": ["https://shandian.blog/","https://sd.sduc.site"]}
-},
-{
-    "key": "csp_Wogg",
-    "name": "👽┃网盘┃玩偶4K",
-    "type": 3,
-    "api": "csp_Wogg",
-    "jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "site": [
-    "https://wogg.xxooo.cf",
-    "https://woggpan.888484.xyz",
-    "https://wogg.333232.xyz",
-    "http://woggpan.xxooo.cf",
-    "https://www.wogg.one"],
-    "url_key": "Netfixtv2",
-	"threadinfo": {"chunksize": 512,"threads": 16}}
 },
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-	"jar": "./JAR/Sxiao.jar",
+    "jar": "./JAR/Sxiao.jar",
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -514,7 +506,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-	"jar": "./JAR/Sxiao.jar",
+    "jar": "./JAR/Sxiao.jar",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
 }],
 "parses": [
@@ -569,9 +561,9 @@
 {
     "name": "☪冰豆㊏",
     "type": 0,
-	"url": "https://bd.jx.cn/?url=",
-	"ext": {
-	"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://bd.jx.cn/?url=",
+    "ext": {
+    "header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
 },
 {
     "name": "☪虾米㊎",
@@ -583,9 +575,9 @@
     "url": "https://www.8090g.cn/jiexi/?url="
 }, 
 {
-	"name": "☪华勇❂",
-	"type": 0,
-	"url": "https://huayong.net/vip4/?url="
+    "name": "☪华勇❂",
+    "type": 0,
+    "url": "https://huayong.net/vip4/?url="
 }, 
 {
     "name": "❂m3u8⑤",
@@ -595,7 +587,7 @@
 {
     "name": "🏁琉芸★内部嗅探★",
     "type": 0,
-	"url": "https://jx.2s0.cn/player/?url="
+    "url": "https://jx.2s0.cn/player/?url="
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
