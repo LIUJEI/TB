@@ -443,9 +443,10 @@
 },
 {
     "key": "sp_盘它",
-    "name": "🖍︎┃网盘┃盘它4K",
+    "name": "🎩┃网盘┃盘它4K",
     "type": 3,
     "api": "csp_PanWebShareCloudPT",
+    "jar": "./JAR/Sxiao.jar",
     "style": {"type": "list"}
 },
 {
