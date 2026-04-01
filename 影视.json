@@ -329,10 +329,10 @@
     "类型": "短剧"
 },
 {
-	"key":"py_盒马短剧",
-	"name":"♨️┃盒马┃短剧",
+	"key":"py_PTT視頻",
+	"name":"♨️┃追劇┃短剧",
 	"type": 3,
-	"api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/盒马.py",
+	"api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/PTT短剧.py",
 	"style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
 },
