@@ -80,28 +80,28 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png"
 }, 
 {
-    "key": "天狗追剧",
+    "key": "csp_xBPQ_天狗追剧",
     "name": "🍁┃天狗┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.png"
 },
 {
-    "key": "MTYY",
+    "key": "csp_xBPQ_MTYY",
     "name": "🍁┃麥田┃影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/麥田.png"
 },
 {
-    "key": "ling",
+    "key": "csp_xBPQ_ling",
     "name": "🍁┃飞快┃影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/飞快.png"
 },
 {
-    "key": "好影快看",
+    "key": "csp_xBPQ_好影快看",
     "name": "🍁┃好影┃快看",
     "type": 3,
     "api": "csp_XBPQ",
@@ -117,9 +117,10 @@
 {
     "key": "csp_xBPQ_饭团",
     "name": "🍁┃饭团┃影院",
-    "type": 3,
-    "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/edit/master/BPQ/饭团.png"
+    "type":3,
+	"api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团.png",
+    "类型": "影视"
 },
 {
     "key": "csp_BPQ_包子",
@@ -178,7 +179,7 @@
     "类型": "短剧"
 },	
 {
-    "key": "柠檬影视",
+    "key": "csp_xBPQ_柠檬影视",
     "name": "🍁┃柠檬┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -188,7 +189,7 @@
     "分类": "柠檬剧场$13#电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
-    "key": "app影视",
+    "key": "csp_xBPQ_app影视",
     "name": "🍁┃APP┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -218,7 +219,7 @@
     "过滤词": "/hls/#php"}
 }, 
 {
-    "key": "龛影影视",
+    "key": "csp_xBPQ_龛影影视",
     "name": "🍁┃看影┃蓝光",
     "type": 3,
     "api": "csp_XBPQ",
@@ -227,7 +228,7 @@
     "分类": "看影全部$0#电影$1#剧集$2#动漫$4#综艺$3#伦理剧$14"}
 },
 {
-    "key": "胖虎影视",
+    "key": "csp_xBPQ_胖虎影视",
     "name": "🍁┃胖虎┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -236,7 +237,7 @@
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"}
 },
 {
-    "key": "蛋蛋魔法影视",
+    "key": "csp_xBPQ_蛋蛋魔法影视",
     "name": "🍁┃蛋蛋┃魔法",
     "type": 3,
     "api": "csp_XBPQ",
@@ -246,7 +247,7 @@
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"}
 },  
 {
-    "key": "水牛影视",
+    "key": "csp_xBPQ_水牛影视",
     "name": "🍁┃水牛┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -305,7 +306,7 @@
     "线路数组":"hl-tabs-btnhl-slide-swiper&&&&<"}
 },
 {
-    "key":"永乐视频",
+    "key":"csp_xBPQ_永乐视频",
     "name":"🍁┃永乐┃影视",
     "type":3,
     "api":"csp_XBPQ",
@@ -325,7 +326,7 @@
     "分类":"全部$0#短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}
 }, 
 {
-    "key": "🐈‍⬛喜多影视",
+    "key": "csp_xBPQ_喜多影视",
     "name": "🍁┃喜多┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -335,7 +336,7 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
-    "key": "奇奇",
+    "key": "csp_奇奇",
     "name": "♾️┃奇奇┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -347,7 +348,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "小猪",
+    "key": "csp_小猪",
     "name": "♾️┃小猪┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -370,7 +371,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "星河",
+    "key": "csp_星河",
     "name": "♾️┃星河┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -382,7 +383,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "优兔",
+    "key": "csp_优兔",
     "name": "♾️┃优兔┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -404,7 +405,7 @@
     "dataIv": "88689667dce61725"}
 },
 {
-    "key": "老鹰",
+    "key": "csp_老鹰",
     "name": "♾️┃老鹰┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -415,7 +416,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "爱影",
+    "key": "csp_爱影",
     "name": "♾️┃爱影｜APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -428,7 +429,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "金牌",
+    "key": "csp_金牌",
     "name": "♾️┃金牌┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -441,7 +442,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "芬奇",
+    "key": "csp_芬奇",
     "name": "♾️┃芬奇┃APP",
     "type": 3,
     "api": "csp_AppGet",
@@ -451,7 +452,7 @@
     "dataIv": "bH5mI8iK0tK7aQ5x"}
 },
 {
-    "key": "小羊",
+    "key": "csp_小羊",
     "name": "♾️┃小羊┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -461,7 +462,7 @@
     "dataIv": "mC6kG4mI1uM8tS4o"}
 },
 {
-    "key": "不错",
+    "key": "csp_不错",
     "name": "♾️┃不错┃APP",
     "type": 3,
     "api": "csp_AppGet",
@@ -471,7 +472,7 @@
     "dataIv": "vE4kR7cF6jS6jH7a"}
 },
 {
-    "key": "云朵",
+    "key": "csp_云朵",
     "name": "♾️┃云朵┃APP",
     "type": 3,
     "api": "csp_AppGet",
@@ -481,7 +482,7 @@
     "dataIv": "Tpmm9FD99lJ8Dexa"}
 },
 {
-    "key": "顾我",
+    "key": "csp_顾我",
     "name": "♾️┃顾我┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -492,7 +493,7 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "蓝鹰",
+    "key": "csp_蓝鹰",
     "name": "♾️┃蓝鹰┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -504,7 +505,7 @@
     "ua": "okhttp/3.10.0"}
 },     
 {
-    "key": "七壹",
+    "key": "csp_七壹",
     "name": "♾️┃七壹┃APP",
     "type": 3,
     "api": "csp_AppGet",
@@ -514,7 +515,7 @@
     "dataIv": "45452893929B40D9"}
 },
 {
-    "key": "王子",
+    "key": "csp_王子",
     "name": "♾️┃王子┃App",
     "type": 3,
     "searchable": 1,
@@ -557,7 +558,7 @@
     "dataIv": "685bf108bc47b67d"}
 },
 {
-    "key": "xsa假段友get",
+    "key": "csp_段友",
     "name": "♾️┃段段┃App",
     "type": 3,
     "api": "csp_AppGet",
@@ -567,7 +568,7 @@
     "dataIv": "8E2DC386FD452D05"}
 },
 {
-    "key": "星空",
+    "key": "csp_星空",
     "name": "♾️┃星空┃APP",
     "type": 3,
     "api": "csp_AppGet",
