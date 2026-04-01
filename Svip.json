@@ -150,13 +150,6 @@
     "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o"
 },
 {
-    "key": "星空",
-    "name": "♾️┣星空┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk"
-},
-{
     "key": "火狐",
     "name": "♾️┣火狐┫APP",
     "type": 3,
@@ -170,13 +163,6 @@
     "api": "csp_AppGet",
     "ext": "https://qiyiys.cc|45452893929B40D9"
 },
-{
-    "key": "瑞奇",
-    "name": "♾️┣瑞奇┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
-},	
 {
     "key": "csp_yongy",
     "name": "♾️┣永夜┫APP",
@@ -197,27 +183,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
-},
-{
-    "key": "csp_驿站",
-    "name": "♾️┣驿站┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/驿站.png|dyyztvapiappyyds"
-},
-{
-    "key": "csp_HG影视",
-    "name": "♾️┣全网┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://ios.hgyx.vip|062dec75d039980e"
-},
-{
-    "key": "csp_瑞奇",
-    "name": "♾️┣瑞奇┫APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://rqxk.gdata.fun|yangruiqiYsapp00"
 },
 {
       "key": "咕噜vox映画",
