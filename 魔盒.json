@@ -636,6 +636,31 @@
     "dataIv": "107jkcdncofcdkjk"}
 },
 {
+      "key": "缘梦",
+      "name": "⭐梦想4K✨蓝光资源",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_lzxw",
+      "ext": {
+        "url": "http://165.99.42.137:5432",
+        "dataKey": "1234567890987654",
+        "dataIv": "1234567890987654"
+      }
+    },
+	{
+      "key": "咕噜vox映画",
+      "name": "🪀┃咕噜┃映画",
+      "type": 3,
+     
+      "api": "https://17264.kstore.space/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+},
+{
     "key": "csp_70",
     "name": "♾️┃麒麟┃App",
     "type": 3,
