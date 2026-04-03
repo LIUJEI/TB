@@ -63,15 +63,7 @@
     "类型": "APP"
 },
 {
-    "key": "csp_cangsu",
-    "name": "🆘┃倉鼠┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o",
-    "类型": "APP"
-},
-{
-    "key": "爱影视",
+    "key": "csp_爱影视",
     "name": "🆘┃愛影┃秒播",
     "type": 3,
     "api": "csp_AppQi",
@@ -84,14 +76,6 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|",
-    "类型": "APP"
-},
-{
-    "key": "csp_moli",
-    "name": "🆘┃茉莉┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext":  "http://103.236.72.188:2656|88689667dce61725",
     "类型": "APP"
 },
 {
@@ -111,11 +95,27 @@
     "类型": "APP"
 },
 {
+    "key": "csp_moli",
+    "name": "🆘┃茉莉┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext":  "http://103.236.72.188:2656|88689667dce61725",
+    "类型": "APP"
+},
+{
     "key": "csp_优兔",
     "name": "🆘┃優菟┃秒播",
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
+    "类型": "APP"
+},
+{
+    "key": "csp_guming",
+    "name": "🆘┃顧明┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
     "类型": "APP"
 },
 {
