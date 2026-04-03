@@ -83,7 +83,7 @@
     "name": "🆘┃花豬┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:1369|h5w3d6g1j9s2h3f6",
+    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
     "类型": "APP"
 },
 {
@@ -118,6 +118,21 @@
     "ext": "http://110.42.67.221:8009|123456789abcdefg",
     "类型": "APP"
 },
+{
+    "key": "csp_若曦",
+    "name": "💥若曦┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://111.170.175.83:6622|kB79jPQIpDxxcy7y|122"
+},
+{
+    "key": "csp_視界",
+    "name": "🆘┃視界┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b"
+},
+
 {
     "key": "csp_追剧达人",
     "name": "🆘┃追剧┃达人",
