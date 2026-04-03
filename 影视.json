@@ -103,8 +103,8 @@
     "类型": "APP"
 },
 {
-    "key": "csp_qidong",
-    "name": "🆘┃啓東┃秒播",
+    "key": "csp_cangL",
+    "name": "🆘┃滄浪┃秒播",
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
