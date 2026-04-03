@@ -75,7 +75,7 @@
     "name": "🆘┃愛影┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://111.170.7.206:28688|ada211sdfsff3261|initV122|mineInfo",
+    "ext": "http://111.170.7.206:28688|okkfKgnc9JIBISh1|initV122|mineInfo",
     "类型": "APP"
 },
 {
@@ -95,11 +95,11 @@
     "类型": "APP"
 },
 {
-    "key": "csp_yunduo",
-    "name": "🆘┃雲朵┃秒播",
+    "key": "csp_canyue",
+    "name": "🆘┃殘月┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://yd4kcms.yd4k.top|Tpmm9FD99lJ8Dexa",
+    "ext": "http://165.99.42.137:5432|1234567890987654",
     "类型": "APP"
 },
 {
