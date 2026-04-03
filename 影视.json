@@ -55,19 +55,11 @@
     "类型": "APP"
 },
 {
-    "key": "csp_qiqi",
-    "name": "🆘┃齊齊┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://110.42.67.221:8009|123456789abcdefg",
-    "类型": "APP"
-},
-{
     "key": "csp_爱影视",
     "name": "🆘┃愛影┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://222.211.75.252:28688|okkfKgnc9JIBISh1|initV122|mineInfo",
+    "ext": "http://222.211.75.252:28688|okkfKgnc9JIBISh1|mineInfo",
     "类型": "APP"
 },
 {
@@ -111,11 +103,19 @@
     "类型": "APP"
 },
 {
-    "key": "csp_guming",
-    "name": "🆘┃顧明┃秒播",
+    "key": "csp_qidong",
+    "name": "🆘┃啓東┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
+    "类型": "APP"
+},
+{
+    "key": "csp_qiqi",
+    "name": "🆘┃齊齊┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
+    "ext": "http://110.42.67.221:8009|123456789abcdefg",
     "类型": "APP"
 },
 {
