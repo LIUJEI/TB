@@ -135,6 +135,22 @@
     "类型": "APP"
 },
 {
+	"key":"csp_南瓜",
+	"name":"🆘┃南瓜┃秒播",
+	"type":3,
+	"api":"csp_NanGua",
+	"jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+	"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+},
+{
+    "key": "csp_聚搜",
+    "name": "🆘┃巧技┃聚搜",
+    "type": 3,
+    "api": "csp_qiao2",
+    "jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+    "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+},
+{
     "key": "csp_追剧达人",
     "name": "🆘┃追剧┃达人",
     "type": 3,
