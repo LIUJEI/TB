@@ -28,91 +28,136 @@
     "name":"🍁┃旺旺┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.png",
+    "类型": "影视"
 },
 {
     "key":"csp_影業",
     "name":"🍁┃劉氏┃影業",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB.png",
+    "类型": "影视"
 },
 {
     "key": "csp_咕咚电影网",
     "name": "🍁┃咕咚┃电影",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/咕咚.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/咕咚.png",
+    "类型": "影视"
 }, 
 {
     "key": "Aries白羊影院",
     "name": "🍁┃白羊┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/白羊.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/白羊.png",
+    "类型": "影视"
 },
 {
     "key": "shiju影视",
     "name": "🍁┃视觉┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/新视觉.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/新视觉.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_起看",
+    "name": "🍁┃起看┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/起看.png",
+    "类型": "影视"
 },
 {
     "key": "Aries-全民影院",
     "name": "🍁┃全民┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/全民.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/全民.png",
+    "类型": "影视"
 },
 {
     "key": "Aries大象",
     "name": "🍁┃大象┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/大象.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/大象.png",
+    "类型": "影视"
 },
 {
     "key": "csp_XBPQ_韩片",
     "name": "🍁┃韩片┃剧场",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png",
+    "类型": "影视"
 }, 
 {
     "key": "csp_xBPQ_天狗追剧",
     "name": "🍁┃天狗┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.png",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_MTYY",
     "name": "🍁┃麥田┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/麥田.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/麥田.png",
+    "类型": "影视"
 },
+{
+    "key": "WYtv",
+    "name": "🍁┃微云┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/微云.png",
+    "类型": "影视"
+},
+{
+    "key": "PKW",
+    "name": "🍁┃片库┃网站",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/片库.png",
+    "类型": "影视"
+},
+{
+    "key": "速影",
+    "name": "🍁┃速影┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/速影.png",
+    "类型": "影视"
+},	
 {
     "key": "csp_xBPQ_ling",
     "name": "🍁┃飞快┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/飞快.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/飞快.png",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_好影快看",
     "name": "🍁┃好影┃快看",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/快看.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/快看.png",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_奇优",
     "name": "🍁┃奇优┃影视",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇优.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇优.png",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_饭团",
@@ -120,6 +165,46 @@
     "type":3,
 	"api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_维思",
+    "name": "🍁┃维思┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/VS.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_云飞",
+    "name": "🍁┃云飞┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/云飞.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_七七",
+    "name": "🍁┃七七┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/七味.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_六八",
+    "name": "🍁┃六八┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/六八.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_海瑞影院",
+    "name": "🍁┃海瑞┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/海瑞.png",
     "类型": "影视"
 },
 {
