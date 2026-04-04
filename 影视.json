@@ -87,14 +87,6 @@
     "类型": "APP"
 },
 {
-    "key": "csp_moli",
-    "name": "🆘┃茉莉┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext":  "http://103.236.72.188:2656|88689667dce61725",
-    "类型": "APP"
-},
-{
     "key": "csp_优兔",
     "name": "🆘┃優菟┃秒播",
     "type": 3,
@@ -120,19 +112,28 @@
 },
 {
     "key": "csp_若曦",
-    "name": "💥若曦┃秒播",
+    "name": "🆘┃若曦┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "http://111.170.175.83:6622|kB79jPQIpDxxcy7y|122"
+    "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122",
+    "类型": "APP"
 },
 {
     "key": "csp_視界",
     "name": "🆘┃視界┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b"
+    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b",
+    "类型": "APP"
 },
-
+{
+    "key": "csp_moli",
+    "name": "🆘┃茉莉┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext":  "http://103.236.72.188:2656|88689667dce61725",
+    "类型": "APP"
+},
 {
     "key": "csp_追剧达人",
     "name": "🆘┃追剧┃达人",
