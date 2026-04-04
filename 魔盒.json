@@ -184,14 +184,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_XBPQ_七七",
-    "name": "🍁┃七七┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/七味.png",
-    "类型": "影视"
-},
-{
     "key": "csp_XBPQ_六八",
     "name": "🍁┃六八┃影院",
     "type": 3,
