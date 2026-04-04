@@ -476,11 +476,11 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/奇奇.png",
+    "url": "http://110.42.67.221:8002",
     "dataKey": "123456789abcdefg",
     "dataIv": "123456789abcdefg",
     "init": "initV122",
-    "ua": "okhttp/3.10.0"}
+    "ua": "okhttp/3.10.0"
 },
 {
     "key": "csp_小猪",
