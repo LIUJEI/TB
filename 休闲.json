@@ -433,7 +433,7 @@
       "recordable": 0
     },
     {
-      "key": "采集G(番号)",
+      "key": "采集G(森林)",
       "name": "撸铁🥥森林",
       "type": 1,
       "api": "http://senlinzy2.com/api.php/provide/vod/?ac=list",
