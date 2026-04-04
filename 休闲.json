@@ -312,6 +312,21 @@
       }
     },
     {
+      "key": "西瓜影院_XBPQ",
+      "name": "撸铁🍉西瓜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "&&",
+        "副标题": "芸✨-+module-item-text\">&&",
+        "线路数组": "data-parent=&&",
+        "线路标题": "title=\"&&\"",
+        "分类url": "https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/",
+        "分类": "福利&主播自拍&国产精品&日本精品&中文字幕&欧美精品",
+        "分类值": "49&50&51&53&54&55"
+      }
+    },
+    {
       "key": "采集G(辣椒)",
       "name": "撸铁🌶辣椒",
       "type": 0,
@@ -346,25 +361,8 @@
       "filterable": 0
     },
     {
-      "key": "采集G(番号)",
-      "name": "撸铁🥥番号",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "com-Sm",
-      "name": "撸铁🥥雪梨",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lbapiby.com",
-      "name": "撸铁🥥蘑菇",
+      "key": "采集G(喇叭)",
+      "name": "撸铁🥥喇叭",
       "type": 0,
       "style": {
         "type": "rect",
@@ -372,16 +370,6 @@
       },
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
       "searchable": 1
-    },
-    {
-      "key": "采集G(大地)",
-      "name": "撸铁🥥蜜橘",
-      "type": 0,
-      "api": "https://dadiapi.com/apple_m3u8.php",
-      "playUrl": "https://play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "采集G(红桃)",
@@ -433,10 +421,18 @@
       "recordable": 0
     },
     {
-      "key": "采集G(森林)",
+      "key": "采集G(色猫)",
+      "name": "撸铁🥥色猫",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "采集Q(森林)",
       "name": "撸铁🥥森林",
       "type": 1,
-      "api": "http://senlinzy2.com/api.php/provide/vod/?ac=list",
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
@@ -447,6 +443,56 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "采集G(森林)",
+      "name": "撸铁🥥森林",
+      "type": 1,
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
+      "categories": [
+        "精品推荐",
+        "国产色情",
+        "主播直播",
+        "亚洲无码",
+        "亚洲有码",
+        "中文字幕",
+        "巨乳美乳",
+        "人妻熟女",
+        "强奸乱伦",
+        "欧美精品",
+        "萝莉少女",
+        "伦理三级",
+        "成人动漫",
+        "自拍偷拍",
+        "制服丝袜",
+        "口交颜射",
+        "日本精品",
+        "Cosplay",
+        "素人自拍",
+        "台湾辣妹",
+        "韩国御姐",
+        "唯美港姐",
+        "东南亚AV",
+        "欺辱凌辱",
+        "剧情介绍",
+        "多人多P",
+        "91探花",
+        "网红流出",
+        "野外露出",
+        "古装扮演",
+        "女优系列",
+        "可爱学生",
+        "风情旗袍",
+        "兽耳系列",
+        "瑜伽裤",
+        "闷骚护士",
+        "过膝袜",
+        "网曝门",
+        "传媒出品",
+        "女同性恋",
+        "男同性恋",
+        "恋腿狂魔"
+      ]
     },
     {
       "key": "采集B(玉兔)资源",
