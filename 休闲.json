@@ -31,7 +31,47 @@
       "type": 3,
       "api": "https://c.cxics.com/fc/madou.js"
     },
-    
+    {
+      "key": "小姨子",
+      "name": "撸铁🥥小姨子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "芸✨专属",
+        "播放数组": "play-list\"&&</div",
+        "链接": "https://thchp.top/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+        "直接播放": "1",
+        "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
+      }
+    },
+    {
+      "key": "少妇醉酒",
+      "name": "撸铁🥥少妇人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "芸✨专属",
+        "主页url": "https://1dpimsdt.shaofu10.xyz/奋发图强/",
+        "分类url": "https://1dpimsdt.shaofu10.xyz/vodtype/{cateId}-{catePg}.html",
+        "分类二次截取": "少妇醉酒&&随机精选",
+        "分类数组": "<a&&/a",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&.html",
+        "数组": "<div class=\"item\">&&</a",
+        "标题": "<strong*>&&</strong>",
+        "图片": "data-src=\"&&\"",
+        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+        "线路二次截取": "随机精选&&传送门",
+        "线路数组": "<h2&&/h2>",
+        "线路标题": "👀+>&&<",
+        "播放二次截取": "var player_aaaa=&&</script>",
+        "播放数组": "{&&}",
+        "播放列表": "&&分割({})",
+        "播放标题": "\"from\":\"&&\"",
+        "播放链接": "\"url\":\"&&\"[工具:解unicode]"
+      }
+    },
     {
       "key": "段老师",
       "name": "撸铁🥥段老",
@@ -80,42 +120,6 @@
       }
     },
     {
-      "key": "搜片2",
-      "name": "撸铁🥥搜TV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "作者": "暗黑乐哥",
-        "请求头": "",
-        "编码": "UTF-8",
-        "主页url": "https://www.sotvla.cc/?search=%E6%97%A0%E7%A0%81",
-        "分类url": "https://www.sotvla.cc/?search={cateId}&page={catePg}",
-        "分类": "探花&糖心&传媒&NHDTB&MTALL&SSIS&SUPD&FC2PPV&JRZE&JURA&START&HMN&少妇&MKMP&MUBD &MKBD&BOKD&MDTM&MDBK&BAZX&REAL&UMSO&WAAA&WANZ&EBOD&TEK&KIBD&BLK&BF&PPPE&PPPD&PPSD&MXGS&JUQ&JUC&JUX&OBA&URE&MEYD&MDYD&JUFE&FPRE&JUNY&JUFD&FINH&NIMA&NSFS&NSPS&NVH&GVH&MVG&OVG&RVG&GVG&GARA&CAWD&KAWD&MUDR&MUKD&MUCD&MUKC&MUM&ADN&ATID&JBD&RBD&SHKD&DASS&DASD&HODV&BNDV&BBAN&IDBD&IENF&IESP&AUKG&AUKT&AUKS&HUNTC&HUNBL&HUNTB&HUNTA&SUJI &SCOP&HJMO&HJBB&DVDMS&DVDES&DVDMS&DANDY&SW&FSET&RKI&SILK&ECBM&VOTAN&GRMO&GRMR&TYOD&TPPN&BID&BBI&CJOD&CLUB&OHO&BOBB&NEO&VENU&VEMA&VAGU&MIAD&MIDE&MIRD&MIGD&SDMT&MV&RCT&MAX&SERO&MILD&ABS&ABP&MAS&EDD&ESK&DOM&GATE&GSAD&TUSHY&THP&TSWN&一本道&SKY&SMD&SMBD&KP&KS&KG&YUU &C0930&DSAM&AV9898&10musume&ANIMAC&KSJK&NNPJ",
-        "分类值": "*",
-        "数组": "picwidth\">&&/span>",
-        "标题": "name\">&&<",
-        "图片": "src=\"&&\"",
-        "副标题": "芸✨专属",
-        "链接": "href=\"&&\"",
-        "影片年代": "上映时间：&&</span>",
-        "影片地区": "地区：&&</span>",
-        "影片类型": "类型：&&</span>",
-        "状态": "更新日期：&&</span>",
-        "导演": "导演：&&</span>",
-        "主演": "主演：&&</span>",
-        "简介": "【友情提醒：请不要相信视频中的广告，以免上当受骗！】👉+简介：&&<!",
-        "线路数组": "data-source&&</div>",
-        "线路标题": ">&&<",
-        "播放数组": "episodes\":\\[&&\\]",
-        "倒序": "0",
-        "播放列表": "{&&}",
-        "播放标题": "title\":\"&&\"",
-        "播放链接": "url\":\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "https://www.sotvla.cc/?search={wd}"
-      }
-    },
-    {
       "key": "csp_香蕉视频",
       "name": "撸铁🥥香蕉",
       "type": 3,
@@ -129,47 +133,6 @@
         "直接播放": "1",
         "分类url": "https://www.1av.shop/vodtype/{cateId}-{catePg}.html;;z",
         "分类": "国产视频$1#欧美高清$18#日韩视频$17#熟女人妻$25#国产传媒$11#精品推荐$16#网曝私密$2#三级电影$21"
-      }
-    },
-    {
-      "key": "小姨子",
-      "name": "撸铁🥥小姨子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "芸✨专属",
-        "播放数组": "play-list\"&&</div",
-        "链接": "https://thchp.top/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
-        "直接播放": "1",
-        "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
-      }
-    },
-    {
-      "key": "少妇醉酒",
-      "name": "撸铁🥥少妇人",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "芸✨专属",
-        "主页url": "https://1dpimsdt.shaofu10.xyz/奋发图强/",
-        "分类url": "https://1dpimsdt.shaofu10.xyz/vodtype/{cateId}-{catePg}.html",
-        "分类二次截取": "少妇醉酒&&随机精选",
-        "分类数组": "<a&&/a",
-        "分类标题": ">&&<",
-        "分类ID": "/vodtype/&&.html",
-        "数组": "<div class=\"item\">&&</a",
-        "标题": "<strong*>&&</strong>",
-        "图片": "data-src=\"&&\"",
-        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-        "线路二次截取": "随机精选&&传送门",
-        "线路数组": "<h2&&/h2>",
-        "线路标题": "👀+>&&<",
-        "播放二次截取": "var player_aaaa=&&</script>",
-        "播放数组": "{&&}",
-        "播放列表": "&&分割({})",
-        "播放标题": "\"from\":\"&&\"",
-        "播放链接": "\"url\":\"&&\"[工具:解unicode]"
       }
     },
     {
@@ -194,68 +157,6 @@
         "分类": "国产精品$1#日韩亚洲$2#自拍偷拍$15#欧美激情$3#主播视频$16#中文字幕$4#日韩无码$11#动漫成人$14#推荐视频$5#同性人妖$6#欧美大片$7#原创国产$8#制服淫穴$9#换脸AI区$10#三级综艺$12#次元动漫$13",
         "分类url": "https://1gkka.com/typegaokk/{cateId}_{catePg}.html[https://1gkka.com/typegaokk/{cateId}.html",
         "搜索url": "https://1gkka.com/vodsearch/{wd}----------{pg}---.html"
-      }
-    },
-    {
-      "key": "csp_无码帝国",
-      "name": "撸铁🥥帝国",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "芸✨专属",
-        "主页url": "http://224cuo.com/",
-        "直接播放": "1",
-        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-        "跳转播放链接": "var playUrl=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
-        "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
-      }
-    },
-    {
-      "key": "csp_乱伦群视频",
-      "name": "撸铁🥥乱伦 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "发布地址": "https://luanlunqun.cc/",
-        "主页url": "https://web.llq4.xyz/llq",
-        "数组": "stui-vodlist__thumb lazyload&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "芸✨-+text-right\">&&</span>",
-        "简介": "description\" content=\"&&在线",
-        "链接": "href=\"&&\"",
-        "跳转播放链接": "var player_*url\":\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "https://web.llq4.xyz/llq/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类二次截取": "<!-- 分类列表 -->&&<!-- end 分类列表 -->",
-        "分类数组": "<a&&</a",
-        "分类标题": ">&&</a[不包含:更多]",
-        "分类ID": "/llq/index.php/vod/*/id/&&.html",
-        "分类url": "https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
-      }
-    },
-    {
-      "key": "csp_好看影院",
-      "name": "撸铁🥥好看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "http://duanjuhk.com/vodshow/id/fuliduanju.html",
-        "副标题": "芸✨专属",
-        "分类url": "http://duanjuhk.com/vodshow/class/{cateId}/id/fuliduanju/page/{catePg}.html",
-        "分类": "日本伦理&韩国伦理&港台三级&西方伦理",
-        "分类值": "*",
-        "简介": "简介：&&",
-        "线路二次截取": "tabs-swiper&&",
-        "线路数组": "",
-        "线路标题": "&&<",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "搜索url": "http://duanjuhk.com/vodsearch/page/{pg}/wd/{wd}.html",
-        "搜索模式": "1"
       }
     },
     {
@@ -324,6 +225,48 @@
         "分类url": "https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/",
         "分类": "福利&主播自拍&国产精品&日本精品&中文字幕&欧美精品",
         "分类值": "49&50&51&53&54&55"
+      }
+    },
+    {
+      "key": "csp_乱伦群视频",
+      "name": "撸铁🥥乱伦 ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "发布地址": "https://luanlunqun.cc/",
+        "主页url": "https://web.llq4.xyz/llq",
+        "数组": "stui-vodlist__thumb lazyload&&</a",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "芸✨-+text-right\">&&</span>",
+        "简介": "description\" content=\"&&在线",
+        "链接": "href=\"&&\"",
+        "跳转播放链接": "var player_*url\":\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "https://web.llq4.xyz/llq/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类二次截取": "<!-- 分类列表 -->&&<!-- end 分类列表 -->",
+        "分类数组": "<a&&</a",
+        "分类标题": ">&&</a[不包含:更多]",
+        "分类ID": "/llq/index.php/vod/*/id/&&.html",
+        "分类url": "https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"
+      }
+    },
+    {
+      "key": "csp_无码帝国",
+      "name": "撸铁🥥帝国",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "芸✨专属",
+        "主页url": "http://224cuo.com/",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "跳转播放链接": "var playUrl=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
+        "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
       }
     },
     {
