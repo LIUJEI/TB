@@ -268,6 +268,22 @@
       }
     },
     {
+      "key": "采集G(香蕉资源)",
+      "name": "撸铁🍌香蕉",
+      "type": 0,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "采集G(杏吧资源)",
+      "name": "撸铁🥥杏吧",
+      "type": 0,
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
       "key": "采集G(妖娥娥)",
       "name": "撸铁🥥妖娥",
       "type": 0,
