@@ -135,16 +135,16 @@
     "类型": "APP"
 },
 {
-	"key":"csp_南瓜",
-	"name":"🆘┃南瓜┃秒播",
-	"type":3,
-	"api":"csp_NanGua",
-	"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar",
-	"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+	"key": "csp_柠檬",
+    "name": "🆘┃柠檬┃秒播",
+    "type": 3,
+    "api": "csp_Nmvod",
+    "jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+    "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
 },
 {
-    "key": "csp_聚搜",
-    "name": "🆘┃巧技┃聚搜",
+    "key": "csp_橘子",
+    "name": "🆘┃橘子┃秒播",
     "type": 3,
     "api": "csp_qiao2",
     "jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
