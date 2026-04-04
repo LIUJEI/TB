@@ -135,22 +135,6 @@
     "类型": "APP"
 },
 {
-	"key": "csp_柠檬",
-    "name": "🆘┃柠檬┃秒播",
-    "type": 3,
-    "api": "csp_Nmvod",
-    "jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-    "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-},
-{
-    "key": "csp_橘子",
-    "name": "🆘┃橘子┃秒播",
-    "type": 3,
-    "api": "csp_qiao2",
-    "jar": "./JAR/qiao.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-    "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
-},
-{
     "key": "csp_追剧达人",
     "name": "🆘┃追剧┃达人",
     "type": 3,
