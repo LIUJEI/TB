@@ -88,14 +88,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_XBPQ_韩片",
-    "name": "🍁┃韩片┃剧场",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png",
-    "类型": "影视"
-}, 
-{
     "key": "csp_xBPQ_天狗追剧",
     "name": "🍁┃天狗┃追剧",
     "type": 3,
@@ -199,6 +191,14 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/海瑞.png",
     "类型": "影视"
 },
+{
+    "key": "csp_XBPQ_韩片",
+    "name": "🍁┃韩片┃剧场",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png",
+    "类型": "影视"
+}, 
 {
     "key": "csp_BPQ_包子",
     "name": "🍁┃短劇┃包子",
