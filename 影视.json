@@ -136,17 +136,17 @@
 },
 {
     "key": "极境视频",
-    "name": "🦠极境┃秒播",
+    "name": "🆘┃极境┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://dy.stxbed.com|cf95610dfb758d63"
+    "ext": "https://dy.stxbed.com|cf95610dfb758d63|jijing|10000"
 },
 {
     "key": "瞬启视频",
-    "name": "🌂瞬启┃秒播",
+    "name": "🆘┃瞬启┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://dy.oogsy.com|670cf3a52bc2452f"
+    "api": "csp_AppQi",
+    "ext": "https://dy.oogsy.com|670cf3a52bc2452f|shunqi|10000"
 },
 {
     "key": "csp_追剧达人",
