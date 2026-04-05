@@ -139,14 +139,14 @@
     "name": "🆘┃极境┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://dy.stxbed.com|cf95610dfb758d63|jijing|10000"
+    "ext": "https://dy.stxbed.com|cf95610dfb758d63"
 },
 {
     "key": "瞬启视频",
     "name": "🆘┃瞬启┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": "https://dy.oogsy.com|670cf3a52bc2452f|shunqi|10000"
+    "ext": "https://dy.oogsy.com|670cf3a52bc2452f"
 },
 {
     "key": "csp_追剧达人",
