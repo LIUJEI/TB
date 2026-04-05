@@ -138,14 +138,14 @@
     "key": "极境视频",
     "name": "🆘┃极境┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "csp_AppGet",
     "ext": "https://dy.stxbed.com|cf95610dfb758d63|jijing|10000"
 },
 {
     "key": "瞬启视频",
     "name": "🆘┃瞬启┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "csp_AppGet",
     "ext": "https://dy.oogsy.com|670cf3a52bc2452f|shunqi|10000"
 },
 {
