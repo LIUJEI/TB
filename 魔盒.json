@@ -471,6 +471,34 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
+      "key": "极境视频",
+      "name": "🦠极境┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://dy.stxbed.com",
+        "app_id": "jijing",
+        "dataKey": "cf95610dfb758d63",
+		"dataIv": "cf95610dfb758d63",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "zhuan"
+      }
+    },
+    {
+      "key": "瞬启视频",
+      "name": "🌂瞬启┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://dy.oogsy.com/",
+        "app_id": "shunqi",
+        "dataKey": "670cf3a52bc2452f",
+		  "dataIv": "670cf3a52bc2452f",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "zhuan"
+      }
+    },	
+{
     "key": "csp_奇奇",
     "name": "♾️┃奇奇┃APP",
     "type": 3,
