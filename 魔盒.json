@@ -472,32 +472,28 @@
 },
 {
       "key": "极境视频",
-      "name": "🦠极境┃APP",
+      "name": "🦠极境APP",
       "type": 3,
       "api": "csp_AppQi",
       "ext": {
         "url": "https://dy.stxbed.com",
-        "app_id": "jijing",
         "dataKey": "cf95610dfb758d63",
 		"dataIv": "cf95610dfb758d63",
-        "versionCode": "10000",
-        "UMENG_CHANNEL": "zhuan"
-      }
+        "init": "initV122",
+    "ua": "okhttp/3.10.0"}
     },
     {
       "key": "瞬启视频",
-      "name": "🌂瞬启┃APP",
+      "name": "🌂瞬启APP",
       "type": 3,
       "api": "csp_AppQi",
       "ext": {
         "url": "https://dy.oogsy.com/",
-        "app_id": "shunqi",
         "dataKey": "670cf3a52bc2452f",
 		  "dataIv": "670cf3a52bc2452f",
-        "versionCode": "10000",
-        "UMENG_CHANNEL": "zhuan"
-      }
-    },	
+        "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},	
 {
     "key": "csp_奇奇",
     "name": "♾️┃奇奇┃APP",
