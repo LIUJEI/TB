@@ -471,30 +471,6 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
-      "key": "极境视频",
-      "name": "🦠极境APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://dy.stxbed.com",
-        "dataKey": "cf95610dfb758d63",
-		"dataIv": "cf95610dfb758d63",
-        "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-    },
-    {
-      "key": "瞬启视频",
-      "name": "🌂瞬启APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://dy.oogsy.com/",
-        "dataKey": "670cf3a52bc2452f",
-		  "dataIv": "670cf3a52bc2452f",
-        "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},	
-{
     "key": "csp_奇奇",
     "name": "♾️┃奇奇┃APP",
     "type": 3,
@@ -586,6 +562,26 @@
     "init": "initV122",
     "search": "mineInfo",
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_阿里雲",
+    "name": "♾️┣阿里┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "http://111.170.175.83:6622",
+    "dataKey": "kB79jPQIpDxxcy7y",
+    "dataIv": "kB79jPQIpDxxcy7y"}
+},
+{
+    "key": "視界",
+    "name": "♾️┣視界┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://4ksjcms.4ksj.app",
+    "dataKey": "bF4fD1fC0gR0mB0b",
+    "dataIv": "bF4fD1fC0gR0mB0b"}
 },
 {
     "key": "csp_金牌",
