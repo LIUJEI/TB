@@ -67,7 +67,7 @@
     "name": "🆘┃曦臣┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
+    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|okhttp/3.10.0",
     "类型": "APP"
 },
 {
@@ -114,7 +114,7 @@
     "key": "csp_洋洋",
     "name": "🆘┃洋洋┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext":  "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o",
     "类型": "APP"
 },
