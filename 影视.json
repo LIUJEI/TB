@@ -39,220 +39,6 @@
     "changeable": 1
 },
 {
-      "key": "migu_tv",
-      "name": "咪咕｜4K(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/migu/migu_tv.php/provide/vod",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "rr",
-      "name": "人人｜4K(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/rr.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "优酷弹幕",
-      "name": "优酷｜1K(JX)",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/%E4%BC%98%E9%85%B7%E5%BC%B9%E5%B9%95.js"
-    },
-    {
-      "key": "爱奇艺弹幕",
-      "name": "艺艺｜1K(JX)",
-      "type": 3,
-      "api": "http://nn.4688888.xyz/js/drpy2.min.js",
-      "ext": "http://nn.4688888.xyz/js/%E7%88%B1%E5%A5%87%E8%89%BA.js"
-    },
-    {
-      "key": "华数",
-      "name": "华数｜1K(JX)",
-      "api": "http://nn.4688888.xyz/py/%E5%8D%8E%E6%95%B0TV.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
-      "key": "薯片",
-      "name": "乐视｜1K(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/ls.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "PPTV",
-      "name": "皮皮｜1K(JX)",
-      "api": "http://nn.4688888.xyz/py/pp.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
-      "key": "yd",
-      "name": "移动｜4K(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/138.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "yd1",
-      "name": "移动①｜4K(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/bix.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
-	{
-      "key": "gz",
-      "name": "洽洽｜替换(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/gzys.php/provide/vod",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "feifan",
-      "name": "非凡｜无广(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/feifan/feifan.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "xmly",
-      "name": "喜马拉雅｜听书(JX)",
-      "type": 1,
-      "api": "http://nm.4688888.xyz/vod/xmly_a.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:http://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "qtfm",
-      "name": "蜻蜓FM｜电台(JX)",
-      "type": 1,
-      "api": "http://nm.4688888.xyz/vod/qingting/qt.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:http://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "qtfmbook",
-      "name": "蜻蜓FM｜听书(JX)",
-      "type": 1,
-      "api": "http://nm.4688888.xyz/vod/qingting/qtbook.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:http://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "qqmusic",
-      "name": "秋秋｜音乐(JX)",
-      "type": 4,
-      "api": "http://nm.4688888.xyz/vod/qqmusicdm.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "kuwo",
-      "name": "酷我｜音乐(JX)",
-      "type": 4,
-      "api": "http://nm.4688888.xyz/vod/kuwo/kwdm.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "kuwot",
-      "name": "酷我｜听书(JX)",
-      "type": 4,
-      "api": "http://nm.4688888.xyz/vod/kuwo/kuwotdm.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "wyy",
-      "name": "网易云｜音乐(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/wyy.php/provide/vod",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "mgm",
-      "name": "咪咕｜音乐(JX)",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/migu/migu.php/provide/vod",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "hema",
-      "name": "河马｜短剧(JX)",
-      "type": 1,
-      "api": "http://nm.4688888.xyz/vod/hema/hm.php/provide/vod/",
-      "searchable": 1,
-      "playUrl": "json:https://nm.4688888.xyz/nm_free.php?url=",
-      "changeable": 1
-    },
-    {
-      "key": "短剧",
-      "name": "短剧｜聚合",
-      "api": "http://nn.4688888.xyz/py/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
-      "key": "19005",
-      "name": "1905｜流畅",
-      "api": "http://nn.4688888.xyz/py/1905.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
-      "key": "华夏",
-      "name": "华夏｜流畅",
-      "api": "http://nn.4688888.xyz/py/%E5%8D%8E%E5%A4%8F.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "type": 3
-    },
-    {
-      "key": "京城",
-      "name": "京城｜1K",
-      "type": 1,
-      "api": "https://nm.4688888.xyz/vod/jc.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-{
     "key": "csp_muqi",
     "name": "🆘┃暮旗┃秒播",
     "type": 3,
@@ -277,11 +63,11 @@
     "类型": "APP"
 },
 {
-    "key": "csp_aiying",
+    "key": "csp_guwo",
     "name": "🆘┃曦臣┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://111.170.7.184:3263|sjvlwnhk6h9znl61|305|",
+    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
     "类型": "APP"
 },
 {
@@ -290,14 +76,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://165.99.42.137:5432|1234567890987654",
-    "类型": "APP"
-},
-{
-    "key": "csp_花小猪",
-    "name": "🆘┃花豬┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
     "类型": "APP"
 },
 {
@@ -333,11 +111,11 @@
     "类型": "APP"
 },
 {
-    "key": "csp_茉莉",
-    "name": "🆘┃茉莉┃秒播",
+    "key": "csp_洋洋",
+    "name": "🆘┃洋洋┃秒播",
     "type": 3,
     "api": "csp_AppGet",
-    "ext":  "http://103.236.72.188:2656|88689667dce61725",
+    "ext":  "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o",
     "类型": "APP"
 },
 {
@@ -346,6 +124,14 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://110.42.67.221:8002|123456789abcdefg",
+    "类型": "APP"
+},
+{
+    "key": "csp_花小猪",
+    "name": "🆘┃花豬┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
     "类型": "APP"
 },
 {
