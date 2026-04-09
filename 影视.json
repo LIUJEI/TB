@@ -79,14 +79,6 @@
     "类型": "APP"
 },
 {
-    "key": "csp_若曦",
-    "name": "🆘┃若曦┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://211.154.24.56:8369|685bf108bc47b67d",
-    "类型": "APP"
-},
-{
     "key": "csp_洋洋",
     "name": "🆘┃洋洋┃秒播",
     "type": 3,
@@ -116,14 +108,6 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
-    "类型": "APP"
-},
-{
-    "key": "csp_視界",
-    "name": "🆘┃視界┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b",
     "类型": "APP"
 },
 {
