@@ -71,14 +71,6 @@
     "类型": "APP"
 },
 {
-    "key": "csp_优兔",
-    "name": "🆘┃優菟┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
-    "类型": "APP"
-},
-{
     "key": "csp_cangL",
     "name": "🆘┃滄浪┃秒播",
     "type": 3,
@@ -90,7 +82,7 @@
     "key": "csp_若曦",
     "name": "🆘┃若曦┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "csp_AppGet",
     "ext": "http://211.154.24.56:8369|685bf108bc47b67d",
     "类型": "APP"
 },
@@ -116,6 +108,14 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
+    "类型": "APP"
+},
+{
+    "key": "csp_优兔",
+    "name": "🆘┃優菟┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
     "类型": "APP"
 },
 {
