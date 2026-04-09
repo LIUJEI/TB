@@ -39,14 +39,6 @@
     "changeable": 1
 },
 {
-    "key": "csp_muqi",
-    "name": "🆘┃暮旗┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|kj37zs29q22jk96t|",
-    "类型": "APP"
-},
-{
     "key": "csp_猫头鹰",
     "name": "🆘┃藍鷹┃秒播",
     "type": 3,
@@ -99,15 +91,7 @@
     "name": "🆘┃若曦┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|searchList4",
-    "类型": "APP"
-},
-{
-    "key": "csp_視界",
-    "name": "🆘┃視界┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b",
+    "ext": "http://211.154.24.56:8369|685bf108bc47b67d",
     "类型": "APP"
 },
 {
@@ -132,6 +116,22 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
+    "类型": "APP"
+},
+{
+    "key": "csp_視界",
+    "name": "🆘┃視界┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b",
+    "类型": "APP"
+},
+{
+    "key": "csp_muqi",
+    "name": "🆘┃暮旗┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|kj37zs29q22jk96t|",
     "类型": "APP"
 },
 {
