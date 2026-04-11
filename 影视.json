@@ -119,20 +119,6 @@
     "类型": "APP"
 },
 {
-    "key": "一次性-不错",
-    "name": "简简✅有4K",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
-},
-{
-    "key": "一次性-布布",
-    "name": "绝绝✅有4K",
-    "type": 3,
-    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/z布布62dd7e1e4046301e9efda9870daae823.js",
-    "style": {"type": "rect","ratio": 1.33}
-},
-{
     "key": "csp_追剧达人",
     "name": "🆘┃追剧┃达人",
     "type": 3,
@@ -186,6 +172,13 @@
     "type": 4,
 	"api": "http://sspa8.top:8100/php/清风.php",
     "类型": "影视"
+},
+{
+    "key": "一次性-布布",
+    "name": "🪀┃布布┃影視",
+    "type": 3,
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/z布布62dd7e1e4046301e9efda9870daae823.js",
+    "style": {"type": "rect","ratio": 1.33}
 },
 {
     "key": "csp_js_月光影视",
