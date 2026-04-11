@@ -674,26 +674,6 @@
     "dataIv": "mC6kG4mI1uM8tS4o"}
 },
 {
-    "key": "csp_不错",
-    "name": "♾️┃不错┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://zbc4kmcs.zbc4k.app",
-    "dataKey": "vE4kR7cF6jS6jH7a",
-    "dataIv": "vE4kR7cF6jS6jH7a"}
-},
-{
-    "key": "csp_云朵",
-    "name": "♾️┃云朵┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://yd4kcms.yd4k.top",
-    "dataKey": "Tpmm9FD99lJ8Dexa",
-    "dataIv": "Tpmm9FD99lJ8Dexa"}
-},
-{
     "key": "csp_顾我",
     "name": "♾️┃顾我┃APP",
     "type": 3,
@@ -810,6 +790,32 @@
     "sign": "679543610991810f19698c187e5e106e"}
 },
 {
+      "key": "稀饭fm",
+      "name": "🥣┃稀饭┃影视",
+   
+      "type": 3,
+      "api": "csp_Getapp",
+     
+      "ext": {
+        "host": "https://app.xifanys.com",
+        "datakey": "HM6Ly9yeS4ya3dvL",
+        "dataiv": "HM6Ly9yeS4ya3dvL",
+        "version": "119"
+      }
+    },
+	{
+      "key": "csp_Jianpian",
+      "name": "荐片",
+      "type": 3,
+      
+      "api": "csp_Jianpian",
+      "ext": {
+        "filters": "http://rihou.cc:88/json/jianpian.json",
+        "imgUrl": "https://img.jgsfnl.com",
+        "sites": "https://api.ztcgi.com"
+      }
+    },
+{
     "key": "csp_70",
     "name": "♾️┃麒麟┃App",
     "type": 3,
@@ -822,6 +828,21 @@
     "type": 3,
     "api": "csp_AppFox",
     "ext": {"host": "https://app2512.ystva.com","ver": 2}
+},
+{
+    "key": "聚搜影",
+    "name": "聚搜影视",
+    "type": 3,
+    "style": {"type": "rect","ratio": 1.485},
+    "api": "https://8877.kstore.space/jar/AppToV5.py",
+    "ext": "http://43.248.117.123:4680"
+},
+{
+      "key": "皮皮",
+      "name": "🦐皮皮虾✨资源秒播",
+      "type": 3,
+      "api": "https://8877.kstore.space/jar/AppToV5.py",
+      "ext": "http://38.55.237.41:8762"
 },
 {
     "key": "drpyS_人人影视[优]",
@@ -948,7 +969,7 @@
 },
 {
     "key": "至臻阿里",
-    "name": "至臻",
+    "name": "至臻解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "",
@@ -956,7 +977,7 @@
 },
 {
     "key": "至臻闪电",
-    "name": "闪电️",
+    "name": "闪电️解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -1014,6 +1035,46 @@
 }],
 
 "parses": [
+{
+      "name": "高兴不起来49",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api89.php?url="
+    },
+    {
+      "name": "不知道谁的",
+      "type": 1,
+      "url": "http://1.94.244.214:8889/geturl?url="
+    },
+    {
+      "name": "丰",
+      "type": 1,
+      "url": "https://fzl4k.xyz/jx.php?url="
+    },
+    {
+      "name": "4K - API解析",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
+    },
+    {
+      "name": "YYNB解析",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+    },
+    {
+      "name": "YYNB解析2",
+      "type": 1,
+      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "广告",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
 {
     "name": "🦐虾米解析🍚",
     "url": "https://jx.xmflv.cc/?url=",
