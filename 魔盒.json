@@ -315,6 +315,63 @@
     "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
 },
 {
+    "key": "一次性-枫叶电影",
+    "name": "🍁┃枫叶┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "手机",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】:+text cor3\">[*],&&</div>",
+    "图片": "data-src=\"&&\"[替换:amp;>>空]",
+    "主页url": "https://www.budaichuchen.net/label/qq.html",
+    "副标题": "ft2\">&&</i>",
+    "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+    "播放数组": "anthology-list-play size\">&&</ul>",
+    "分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "一次性-奇点影视",
+    "name": "🍁┃奇点┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "手机",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】:+讲述的是：&&",
+    "多线数组": "solid transparent;\"&&</a>",
+    "多线链接": "href=\"&&\"",
+    "线路数组": "solid transparent;\"&&</a>",
+    "线路标题": ">&&<",
+    "分类url": "https://qidianyingshi.net/top/{cateId}-{area}-time-{class}-----{catePg}---{year}.html",
+    "分类": "短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "一次性-布袋初尘_源码版(源码精准)",
+    "name": "🍁┃布袋┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "手机",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】:+text cor3\">[*],&&</div>",
+    "图片": "data-src=\"&&\"[替换:amp;>>空]",
+    "主页url": "https://www.budaichuchen.net",
+    "副标题": "ft2\">&&</i>",
+    "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+    "播放数组": "anthology-list-play size\">&&</ul>",
+    "分类url": "https://www.budaichuchen.net/type/{cateId}-{catePg}.html",
+    "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "QIST-cbh茶杯狐",
+    "name": "🍁┃茶杯┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
+    "分类url": "https://www.cupfox7.com/cupfox/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+    "分类": "电影$fenlei1#电视剧$fenlei2#综艺$fenlei3#动漫$fenlei4"},
+    "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
+},
+{
     "key": "csp_xBPQ_柠檬影视",
     "name": "🍁┃柠檬┃影院",
     "type": 3,
