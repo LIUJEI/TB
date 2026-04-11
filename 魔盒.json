@@ -945,7 +945,55 @@
     "api": "http://115.191.55.109:9097/api/哇哇影视 ᵈᶻ?do=php&pwd=50721480be241243",
     "title": "哇哇影视 ᵈᶻ",
     "lang": "php"
-},	
+},
+{
+    "key": "至臻阿里",
+    "name": "至臻",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "",
+    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGFXaGtjaU1qSTIxcGFHUnk="
+},
+{
+    "key": "至臻闪电",
+    "name": "闪电️",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
+    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxemFHRnVaR2xoYmlNakkzTm9ZVzVrYVdGdQ=="
+},
+{
+    "key": "小虎玩",
+    "name": "小虎",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
+    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxb2RXSmhiaU1qSTJKMVltRnU="
+},
+{
+    "key": "小米玩",
+    "name": "蜡笔️",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
+    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxc1lXSnBNeU1qSTJ4aFlta3o="
+},
+{
+    "key": "飞碟木偶",
+    "name": "木偶",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
+    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEWXZZWEJwTWk1d2FIQS9jMmwwWlQxdGRXOTFJeU1qYlhWdmRRPT0="
+},
+{
+    "key": "pansou",
+    "name": "盘搜|4K",
+    "type": 3,
+    "api": "csp_ZC4K",
+    "jar": "http://yp2.mftv.top/zz4k666.jar",
+    "ext": "YUhSMGNEb3ZMMnRyTXk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTljR0Z1YzI5MVl5TWpJM0JoYm5OdmRXTT0="
+},
 {
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
