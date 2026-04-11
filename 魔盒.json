@@ -968,6 +968,54 @@
     "lang": "php"
 },
 {
+    "key": "dr_腾迅",
+    "name": "🐉┃騰訊┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/QQtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_芒果",
+    "name": "🐉┃芒果┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/MGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_奇异",
+    "name": "🐉┃奇藝┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/AQItv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_优酷",
+    "name": "🐉┃優酷┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/yKtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_搜狗",
+    "name": "🐉┃搜狗┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/SGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "🐉┃嗶哩┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/bili.js",
+    "类型": "官解"
+},
+{
     "key": "至臻阿里",
     "name": "至臻解析",
     "type": 3,
