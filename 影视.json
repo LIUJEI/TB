@@ -177,9 +177,8 @@
     "key": "csp_js_-布布",
     "name": "🪀┃布布┃影視",
     "type": 3,
-    "api": "./XB/布布.py",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影视"
+    "api": "./XB/布布.js",
+    "style": {"type": "rect","ratio": 1.33}
 },
 {
     "key": "csp_js_月光影视",
