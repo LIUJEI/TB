@@ -177,8 +177,9 @@
     "key": "一次性-布布",
     "name": "🪀┃布布┃影視",
     "type": 3,
-    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/z布布62dd7e1e4046301e9efda9870daae823.js",
-    "style": {"type": "rect","ratio": 1.33}
+    "api": "./XB/布布.js",
+    "style": {"type": "rect","ratio": 1.33},
+    "类型": "影视"
 },
 {
     "key": "csp_js_月光影视",
@@ -242,6 +243,13 @@
     "type": 3,
     "api": "./XB/独播.js",
     "类型": "影视"
+},
+{
+    "key": "csp_T4_短剧",
+    "name": "🪀┃短剧┃在线",
+    "type": 4,
+    "api": "https://api.uumnet.com/tvbox/php/nxduanju.php",
+    "类型": "短剧"
 },
 {
     "key": "恰瓜子",
