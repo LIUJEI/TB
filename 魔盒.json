@@ -790,19 +790,16 @@
     "sign": "679543610991810f19698c187e5e106e"}
 },
 {
-      "key": "稀饭fm",
-      "name": "🥣┃稀饭┃影视",
-   
-      "type": 3,
-      "api": "csp_Getapp",
-     
-      "ext": {
-        "host": "https://app.xifanys.com",
-        "datakey": "HM6Ly9yeS4ya3dvL",
-        "dataiv": "HM6Ly9yeS4ya3dvL",
-        "version": "119"
-      }
-    },
+    "key": "稀饭fm",
+    "name": "♾️┃稀饭┃影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "site": "https://app.xifanys.com",
+    "datakey": "HM6Ly9yeS4ya3dvL",
+    "dataiv": "HM6Ly9yeS4ya3dvL",
+    "version": "119"}
+},
 	{
       "key": "csp_Jianpian",
       "name": "荐片",
