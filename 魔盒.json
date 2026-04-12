@@ -793,7 +793,7 @@
     "key": "稀饭fm",
     "name": "♾️┃稀饭┃影视",
     "type": 3,
-    "api": "csp_AppGet",
+    "api": "csp_AppQi",
     "ext": {
     "url": "https://app.xifanys.com",
     "datakey": "HM6Ly9yeS4ya3dvL",
