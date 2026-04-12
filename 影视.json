@@ -650,8 +650,8 @@
 },
 {
     "name": "🏁琉芸★内部嗅探★",
+	"type": 0,
     "url": "https://jx.xmflv.cc/?url=",
-    "type": 0,
     "ext": {
     "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},
     "header": {"User-Agent": "Mozilla/5.0"}
