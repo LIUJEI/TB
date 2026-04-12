@@ -24,7 +24,7 @@
 },
 {
     "key": "kglive",
-    "name": "┃酷狗┃直播",
+    "name": "🌐┃酷狗┃直播",
     "type": 4,
     "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
     "searchable": 1,
@@ -32,7 +32,7 @@
 },
 {
     "key": "dylive",
-    "name": "┃抖音┃直播",
+    "name": "🌐┃抖音┃直播",
     "type": 4,
     "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
     "searchable": 1,
@@ -510,7 +510,7 @@
 },
 {
     "key": "至臻阿里",
-    "name": "🌐┃至臻┃解析",
+    "name": "🌐┃至臻┃解析4K",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -518,7 +518,7 @@
 },
 {
     "key": "小虎玩",
-    "name": "🌐┃小虎┃解析",
+    "name": "🌐┃小虎┃解析4K",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
@@ -526,7 +526,7 @@
 },
 {
     "key": "小米玩",
-    "name": "🌐┃蜡笔️┃解析",
+    "name": "🌐┃蜡笔️┃解析4K",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -534,7 +534,7 @@
 },
 {
     "key": "飞碟木偶",
-    "name": "🌐┃木偶┃解析",
+    "name": "🌐┃木偶┃解析4K",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
