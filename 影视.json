@@ -459,7 +459,7 @@
 },
 {
     "key": "sp_盘它",
-    "name": "🎩┃网盘┃盘它4K",
+    "name": "🌐┃网盘┃盘它4K",
     "type": 3,
     "api": "csp_PanWebShareCloudPT",
     "jar": "./JAR/Sxiao.jar",
@@ -467,7 +467,7 @@
 },
 {
     "key": "csp_FeiMaoUC",
-    "name": "⚡┃网盘┃闪电4K",
+    "name": "🌐┃网盘┃闪电4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -476,7 +476,7 @@
 },
 {
     "key": "csp_Duopan",
-    "name": "🖍︎┃网盘┃蜡笔4K",
+    "name": "🌐┃网盘┃蜡笔4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -494,7 +494,7 @@
 },
 {
     "key": "csp_Netfixtv",
-    "name": "💌┃️网盘┃至臻4K",
+    "name": "🌐┃网盘┃至臻4K",
     "type": 3,
     "api": "csp_Duopan",
     "ext": {
@@ -510,7 +510,7 @@
 },
 {
     "key": "至臻阿里",
-    "name": "至臻解析",
+    "name": "🌐┃至臻┃解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -518,7 +518,7 @@
 },
 {
     "key": "至臻闪电",
-    "name": "闪电️解析",
+    "name": "🌐┃闪电️┃解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -526,7 +526,7 @@
 },
 {
     "key": "小虎玩",
-    "name": "小虎解析",
+    "name": "🌐┃小虎┃解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
@@ -534,7 +534,7 @@
 },
 {
     "key": "小米玩",
-    "name": "蜡笔️解析",
+    "name": "🌐┃蜡笔️┃解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
@@ -542,18 +542,11 @@
 },
 {
     "key": "飞碟木偶",
-    "name": "木偶解析",
+    "name": "🌐┃木偶┃解析",
     "type": 3,
     "api": "csp_ZC4K",
     "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
     "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEWXZZWEJwTWk1d2FIQS9jMmwwWlQxdGRXOTFJeU1qYlhWdmRRPT0="
-},
-{
-    "key": "lvdou",
-    "name": "免费解析",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://8.mftv.top/api.php/app/"
 },
 {
     "key": "ConfigCenter",
