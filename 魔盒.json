@@ -1124,6 +1124,28 @@
       "url": "https://yparse.ik9.cc/index.php?url="
     },
 {
+      "name": "不良帅-不高兴4K-老换",
+      "type": 1,
+      "url": "http://php.xuan666.icu/高兴/api89.php?url="
+    },	
+ {
+      "name": "不良帅布偶",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
+    },
+	{
+      "name": "不良帅XM",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
+      "ext": {
+        "header": {
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
+        }
+      }
+    },
+	
+{
     "name": "🦐虾米解析🍚",
     "url": "https://jx.xmflv.cc/?url=",
     "type": 0,
