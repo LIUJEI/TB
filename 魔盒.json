@@ -968,102 +968,6 @@
     "lang": "php"
 },
 {
-    "key": "dr_腾迅",
-    "name": "🐉┃騰訊┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/QQtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_芒果",
-    "name": "🐉┃芒果┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/MGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_奇异",
-    "name": "🐉┃奇藝┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/AQItv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_优酷",
-    "name": "🐉┃優酷┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/yKtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_搜狗",
-    "name": "🐉┃搜狗┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/SGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_哔哩视频",
-    "name": "🐉┃嗶哩┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/bili.js",
-    "类型": "官解"
-},
-{
-    "key": "至臻阿里",
-    "name": "至臻解析",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGFXaGtjaU1qSTIxcGFHUnk="
-},
-{
-    "key": "至臻闪电",
-    "name": "闪电️解析",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxemFHRnVaR2xoYmlNakkzTm9ZVzVrYVdGdQ=="
-},
-{
-    "key": "小虎玩",
-    "name": "小虎",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "https://mpimg.cn/down.php/b4b695cf12db5356b2bf50afbccb7452.jar",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxb2RXSmhiaU1qSTJKMVltRnU="
-},
-{
-    "key": "小米玩",
-    "name": "蜡笔️",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxc1lXSnBNeU1qSTJ4aFlta3o="
-},
-{
-    "key": "飞碟木偶",
-    "name": "木偶",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEWXZZWEJwTWk1d2FIQS9jMmwwWlQxdGRXOTFJeU1qYlhWdmRRPT0="
-},
-{
-    "key": "pansou",
-    "name": "盘搜|4K",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "http://yp2.mftv.top/zz4k666.jar",
-    "ext": "YUhSMGNEb3ZMMnRyTXk1dFpuUjJMblJ2Y0M5aGNHa3VjR2h3UDNOcGRHVTljR0Z1YzI5MVl5TWpJM0JoYm5OdmRXTT0="
-},
-{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
@@ -1083,68 +987,39 @@
 }],
 
 "parses": [
-{
-      "name": "高兴不起来49",
-      "type": 1,
-      "url": "http://php.xuan666.icu/高兴/api89.php?url="
-    },
-    {
-      "name": "不知道谁的",
-      "type": 1,
-      "url": "http://1.94.244.214:8889/geturl?url="
-    },
-    {
-      "name": "丰",
-      "type": 1,
-      "url": "https://fzl4k.xyz/jx.php?url="
-    },
-    {
-      "name": "4K - API解析",
-      "type": 1,
-      "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
-    },
-    {
-      "name": "YYNB解析",
-      "type": 1,
-      "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
-    },
-    {
-      "name": "YYNB解析2",
-      "type": 1,
-      "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
-    },
-    {
-      "name": "虾米",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "广告",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-{
-      "name": "不良帅-不高兴4K-老换",
-      "type": 1,
-      "url": "http://php.xuan666.icu/高兴/api89.php?url="
-    },	
- {
-      "name": "不良帅布偶",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
-    },
-	{
-      "name": "不良帅XM",
-      "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
-      "ext": {
-        "header": {
-          "Accept": "*/*",
-          "Origin": "https://jx.xmflv.com"
-        }
-      }
-    },
 	
+{
+    "name": "4K - API解析",
+    "type": 1,
+    "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
+},
+{
+    "name": "YYNB解析",
+    "type": 1,
+    "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
+},
+{
+    "name": "YYNB解析2",
+    "type": 1,
+    "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+},
+{
+    "name": "高兴4K",
+    "type": 1,
+    "url": "http://php.xuan666.icu/高兴/api89.php?url="
+},	
+{
+    "name": "布偶4K",
+    "type": 1,
+    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
+},
+{
+    "name": "🦐虾米解析🍚",
+    "type": 1,
+    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
+    "ext": {
+    "header": {"Accept": "*/*","Origin": "https://jx.xmflv.com"}}
+},	
 {
     "name": "🦐虾米解析🍚",
     "url": "https://jx.xmflv.cc/?url=",
