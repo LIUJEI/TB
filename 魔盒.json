@@ -795,23 +795,22 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "site": "https://app.xifanys.com",
+    "url": "https://app.xifanys.com",
     "datakey": "HM6Ly9yeS4ya3dvL",
     "dataiv": "HM6Ly9yeS4ya3dvL",
     "version": "119"}
 },
-	{
-      "key": "csp_Jianpian",
-      "name": "荐片",
-      "type": 3,
-      
-      "api": "csp_Jianpian",
-      "ext": {
-        "filters": "http://rihou.cc:88/json/jianpian.json",
-        "imgUrl": "https://img.jgsfnl.com",
-        "sites": "https://api.ztcgi.com"
-      }
-    },
+{
+    "key": "csp_Jianpian",
+    "name": "♾️┃荐片┃影视",
+    "type": 3,
+    "jar": "https://fastlink.cokey.xyz/f/N32bt4/vox.jar",  
+    "api": "csp_Jianpian",
+    "ext": {
+    "filters": "http://rihou.cc:88/json/jianpian.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
+},
 {
     "key": "csp_70",
     "name": "♾️┃麒麟┃App",
