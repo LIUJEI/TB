@@ -517,14 +517,6 @@
     "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxdGFXaGtjaU1qSTIxcGFHUnk="
 },
 {
-    "key": "至臻闪电",
-    "name": "🌐┃闪电️┃解析",
-    "type": 3,
-    "api": "csp_ZC4K",
-    "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/ZC4KK.jar",
-    "ext": "YUhSMGNEb3ZMekV4Tmk0Mk1pNHhNek11T0RZNk5UWTJPREV2VkRRdlZEVXZZWEJwTWk1d2FIQS9jMmwwWlQxemFHRnVaR2xoYmlNakkzTm9ZVzVrYVdGdQ=="
-},
-{
     "key": "小虎玩",
     "name": "🌐┃小虎┃解析",
     "type": 3,
@@ -659,7 +651,10 @@
 {
     "name": "🏁琉芸★内部嗅探★",
     "url": "https://jx.xmflv.cc/?url=",
-    "type": 0
+    "type": 0,
+    "ext": {
+    "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},
+    "header": {"User-Agent": "Mozilla/5.0"}
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
