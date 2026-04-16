@@ -47,11 +47,27 @@
     "类型": "APP"
 },
 {
-    "key": "csp_爱影视",
-    "name": "🆘┃愛影┃秒播",
+    "key": "csp_金都",
+    "name": "🆘┃優菟┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://222.211.75.252:28688|okkfKgnc9JIBISh1|mineInfo",
+    "api": "csp_AppGet",
+    "ext": "https://cmm.jindou11.top|weyuhgiohgsytwhj"
+    "类型": "APP"
+},
+{
+    "key": "csp_siyiecao",
+    "name": "🆘┃齊齊┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk",
+    "类型": "APP"
+},
+{
+    "key": "csp_liebao",
+    "name": "🆘┃暮旗┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://444421.xyz|#getapp@TMD@2025",
     "类型": "APP"
 },
 {
@@ -59,7 +75,7 @@
     "name": "🆘┃曦臣┃秒播",
     "type": 3,
     "api": "csp_AppQi",
-    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|okhttp/3.10.0",
+    "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e",
     "类型": "APP"
 },
 {
@@ -79,22 +95,6 @@
     "类型": "APP"
 },
 {
-    "key": "csp_洋洋",
-    "name": "🆘┃洋洋┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext":  "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o",
-    "类型": "APP"
-},
-{
-    "key": "csp_qiqi",
-    "name": "🆘┃齊齊┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://110.42.67.221:8002|123456789abcdefg",
-    "类型": "APP"
-},
-{
     "key": "csp_花小猪",
     "name": "🆘┃佩琪┃秒播",
     "type": 3,
@@ -103,20 +103,18 @@
     "类型": "APP"
 },
 {
-    "key": "csp_优兔",
-    "name": "🆘┃優菟┃秒播",
+    "key": "橘汁",
+    "name": "橘汁｜APP",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://v4.efjhl.cn|UrWKPnmQWJA8AQzd",
-    "类型": "APP"
+    "api": "./XB/fuz.js",
+    "ext": {"host": "","site": "https://vip.123pan.cn/1848463092/cct/az5.txt","version": "3.0.1.9"}
 },
 {
-    "key": "csp_muqi",
-    "name": "🆘┃暮旗┃秒播",
+    "key": "csp_baih",
+    "name": "♾️┃駱駝┃App",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XQ/暮旗.png|2015692015692015",
-    "类型": "APP"
+    "api": "./XB/fuz.js",
+    "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
     "key": "csp_追剧达人",
