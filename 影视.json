@@ -47,6 +47,14 @@
     "类型": "APP"
 },
 {
+    "key": "csp_花小猪",
+    "name": "🆘┃佩琪┃秒播",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
+    "类型": "APP"
+},
+{
     "key": "csp_liebao",
     "name": "🆘┃暮旗┃秒播",
     "type": 3,
@@ -76,14 +84,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
-    "类型": "APP"
-},
-{
-    "key": "csp_花小猪",
-    "name": "🆘┃佩琪┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
     "类型": "APP"
 },
 {
