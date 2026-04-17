@@ -724,6 +724,33 @@
     "UMENG_CHANNEL": "zhuan"}
 },
 {
+      "key": "魔方",
+      "name": "魔方┃影院",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.alibaba31casaq.top/",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "咕噜画",
+      "name": "咕噜┃️影院",
+      "type": 3,
+      "changeable": 0,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/Appfox.min.js",
+   
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "timeout": 8,
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+    },
+{
     "key": "咕噜vox映画",
     "name": "♾️┃咕噜┃映画",
     "type": 3,
