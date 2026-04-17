@@ -679,16 +679,49 @@
     "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"}
 },
 {
-    "key": "四叶草",
+   "key": "四叶草",
     "name": "🍀星叶｜1080P",
     "type": 3,
     "api": "csp_AppGet",
-    "ext":{
-    "url": "https://qj4.catbb.xyz",
-	"dataKey":"eecbio48dsq13kkk",
-	"dataIv": "eecbio48dsq13kkk",
-	"version": "120",
-    "ua": "okhttp/3.10.0"}
+    "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100",
+	"jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg"
+},
+{
+    "key": "csp_Jianpian",
+    "name": "🥺荐片┃VOX",
+    "type": 3,
+    "api": "csp_Jianpian",
+    "jar": "http://rihou.cc:88/jar/vox.jar",
+    "ext": {
+    "filters": "http://rihou.cc:88/json/jianpian.json",
+    "imgUrl": "https://img.jgsfnl.com",
+    "sites": "https://api.ztcgi.com"}
+},
+{
+    "key": "极境视频",
+    "name": "🦠极境┃APP",
+    "type": 3,
+    "api": "csp_Hmys",
+	"jar": "http://rihou.cc:88/jar/vox.jar",
+    "ext": {
+    "host": "https://dy.stxbed.com",
+    "app_id": "jijing",
+    "deviceid": "cf95610dfb758d63",
+    "versionCode": "10000",
+    "UMENG_CHANNEL": "zhuan"}
+},
+{
+    "key": "瞬启视频",
+    "name": "🌂瞬启┃APP",
+    "type": 3,
+    "api": "csp_Hmys",
+	"jar": "http://rihou.cc:88/jar/vox.jar",
+    "ext": {
+    "host": "https://dy.oogsy.com/",
+    "app_id": "shunqi",
+    "deviceid": "670cf3a52bc2452f",
+    "versionCode": "10000",
+    "UMENG_CHANNEL": "zhuan"}
 },
 {
     "key": "咕噜vox映画",
