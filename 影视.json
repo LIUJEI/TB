@@ -271,8 +271,9 @@
     "key": "csp_js_-布布",
     "name": "🪀┃布布┃影視",
     "type": 3,
-    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/js/z布布62dd7e1e4046301e9efda9870daae823.js",
-    "style": {"type": "rect","ratio": 1.33}
+    "api": "./XB/%E5%B8%83%E5%B8%83.js",
+    "style": {"type": "rect","ratio": 1.33},
+    "类型": "影视"
 },
 {
     "key": "csp_js_月光影视",
