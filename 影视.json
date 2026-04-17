@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-  "spider": "./JAR/FM.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+  "spider": "/JAR/fm.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
