@@ -103,23 +103,28 @@
     "类型": "APP"
 },
 {
-    "key": "秒看APP",
-    "name": "🆘┃秒看┃秒播",
+    "key": "薯条",
+    "name": "🆘┃薯条┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "api": "csp_AppDrama",
+	"jar": "./JAR/Sxiao.jar",
     "ext": {
-    "site": "https://mk1080.top/get.txt",
-    "dataKey": "c60d88b2eep53za8",
-    "dataIv": "c60d88b2eep53za8",
-    "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"}
+    "appName": "薯条影视",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.st.standroid",
+    "host": "",
+    "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+    "version": "5.0.0.1",
+    "decrypt": "0"}
 },
 {
     "key": "天堂APP",
     "name": "🆘┃天堂┃秒播",
     "type": 3,
     "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "./JAR/Sxiao.jar",
     "ext": {
     "appName": "电影天堂",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -137,7 +142,7 @@
     "name": "🆘┃橘汁┃秒播",
     "type": 3,
     "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "../JAR/Sxiao.jar",
     "ext": {
     "appName": "橘汁",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
@@ -155,7 +160,7 @@
     "name": "🆘┃华谊┃秒播",
     "type": 3,
     "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "./JAR/Sxiao.jar",
     "ext": {
     "appName": "华谊",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
@@ -173,7 +178,7 @@
     "name": "🆘┃苹果┃秒播",
     "type": 3,
     "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "./JAR/Sxiao.jar",
     "ext": {
     "appName": "小苹果",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -191,7 +196,7 @@
     "name": "🆘┃顾我┃秒播",
     "type": 3,
     "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "./JAR/Sxiao.jar",
     "ext": {
     "appName": "顾我追剧",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -549,7 +554,7 @@
     "name": "🌐┃网盘┃盘它4K",
     "type": 3,
     "api": "csp_PanWebShareCloudPT",
-    "jar": "./JAR/Sxiao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+    "jar": "./JAR/Sxiao.jar",
     "style": {"type": "list"}
 },
 {
@@ -632,7 +637,7 @@
     "name": "🇨🇳┣☪配✿置┫辅助",
     "type": 3,
     "api": "csp_Config",
-    "jar": "./JAR/Sxiao.png",
+    "jar": "./JAR/Sxiao.jar",
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -641,7 +646,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "jar": "./JAR/Sxiao.png",
+    "jar": "./JAR/Sxiao.jar",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
 }],
 "parses": [
