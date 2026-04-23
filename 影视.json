@@ -103,6 +103,28 @@
     "类型": "APP"
 },
 {
+      "key": "奇",
+      "name": "😋奇奇",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "http://110.42.67.221:8003/",
+        "key": "123456789abcdefg",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "电视剧",
+        "综艺",
+        "短剧",
+        "动漫",
+        "少儿",
+        "学习"
+      ]
+    },
+{
     "key": "薯条",
     "name": "🆘┃薯条┃秒播",
     "type": 3,
