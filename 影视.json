@@ -95,6 +95,13 @@
     "类型": "APP"
 },
 {
+    "key": "csp_baih",
+    "name": "🆘┃駱駝┃秒播",
+    "type": 3,
+    "api": "./XB/AppFox.js",
+    "ext": {"host": "https://app2512.ystva.com","ver": 2}
+},
+{
     "key": "csp_齊齊",
     "name": "🆘┃齊齊┃秒播",
     "type": 3,
@@ -105,6 +112,16 @@
     "init": "V122",
     "api": 2,
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_咕噜",
+    "name": "🆘┃咕噜┃映画",
+    "type": 3,
+    "api": "./TS/AppQi.js",
+    "ext": {
+    "host": "http://www.yingsw.top",
+    "key": "guluyinghua_123",
+    "sign": "679543610991810f19698c187e5e106e"}
 },
 {
     "key": "csp_若寒",
