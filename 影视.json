@@ -384,6 +384,24 @@
     "类型": "官解"
 },
 {
+    "key": "围观短剧",
+    "name": "♨️┃短劇┃围观",
+    "type": 3,
+    "api": "csp_WeiguanDJ",
+    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+    "genre": "shortdrama",
+    "类型": "短剧"
+},
+{
+    "key": "甜圈短剧",
+    "name": "♨️┃短劇┃甜圈",
+    "type": 3,
+    "api": "csp_TianquanDJ",
+    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+    "genre": "shortdrama",
+    "类型": "短剧"
+},
+{
     "key":"py_河马短剧",
     "name":"♨️┃短劇┃河马",
     "type":3,
