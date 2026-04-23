@@ -107,75 +107,68 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "薯条",
-    "name": "🆘┃薯条┃秒播",
+    "key": "csp_若寒",
+    "name": "🆘┃若寒┃秒播",
     "type": 3,
-    "api": "csp_AppDrama",
-	"jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "appName": "薯条影视",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.st.standroid",
-    "host": "",
-    "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
-    "version": "5.0.0.1",
-    "decrypt": "0"}
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AQ9Lg7S4ZB0EmWILI1ZpGjwhYjCe54m22c/8tjfDYA6qsWE+j5YnWoQ9ADCwM+RrBO5AhwFlKa/FqPidMBpkS+52UDt7OJ/nXo9hTHHCi6LTvJayzkZRd4j9utb1AcYfsD5LWpq6dH6KpcpxYrwu12B0Zi5ZEfVcpFlfe9zZacsH+/ZHOpht5zLaypr+m4xIAMyMSoK+c3x36YxoEFQDMryv4da9D1NA5UU2B3BgT2vECOmBnU91dE05sUz9grnuEc27nEJ2MLq7P1K5Qnz2+Y9bvMxjFoGe6qy+kb+RH1JbMUFOly22sSXEMxCu4fhyQ4xcj37h2PHzUbAqB4fp3bVXNIKMDQTInkBPPgqRj1TLO14PN+u6wBMdiFlJkXYCyopqkV0d5KbdNrI1hcAH71tF/oIY4/aMO+PPviwFwI18wp594UmTUrWc6eCzoI96y196tkmIGwyMguF0eaG97gVJvwn1IwDShrTTO9iYXgsIY5n85WzNFzYoURgbO9zgGRHkt1UAajx0vuYnTcLGiSGvApEZ0v+ihgWRu8kRL/e1zB3gf1iJWThfo6arV4vTgf7TBQpFHyroryMYTHJtdh8VrWFobxgZK5fQSw5JKSPhQLihEOleAcg9Z54ykIKa80ocH+047qQVA1SS446lf+wfIxkZT9oC1rApr/BDdXH7nVezkVkH2zQoYauBwB4Y5w=="
 },
 {
-    "key": "橘汁APP",
-    "name": "🆘┃橘汁┃秒播",
+    "key": "csp_玄羽",
+    "name": "🆘┃玄羽┃秒播",
     "type": 3,
-    "api": "csp_AppDrama",
-    "jar": "../JAR/Sxiao.jar",
-    "ext": {
-    "appName": "橘汁",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "publicIv": "ed5fdsgucxumegqa",
-    "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.tjjiangh.android",
-    "host": "",
-    "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-    "version": "3.0.1.9",
-    "decrypt": "1"}
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AR2YshFQZFgTeyCygDO6OgGjn6YXU/1HL4Z+FScW+/hZp6UWxx1bbMyFzdNpVWIBdiG+VWvWc5rYXiGlkPXxMvzDyDfkUPpbmk6e4B9zkMSC+XolV6nAYXCNv92rOUwzoexLzhBRTevBRnrGwzziWxdfYzrSh8XPz5VIxJvRqAWJYlirJHqgVEpbXOhRj9mPU/pygOsDe5t7tbQG215gZ8a2JfA1d92i4At+CFD6G1g+RDRhk1MSUUPa01iskyl8iQ9x6amu8ZA9SDZnAIitOhI2/CcQ5gKB/dZOLi4TxJ21uX2Wutw1IajFcy/mO3250K+tWdYnyz3IQfDqWAtUTbGonl7h1pwhfX5V7PLEOmIpElD+fRAUBduYAqnfLK4sMyhjFD5uec/3TNR6SNDGH5V+OR63F405R9MbOMAcLzvpN5HrEQenVD1MYqr2u8jse1XcaaTD8fvyemBtV203kXNUrk8Ec1MVGdDvWAq5nJXL4Q8+jHKQsII99IVrHG8E9+RsLzjPXncJlhUtb+91Zog/AMdh2BOJtRg4PvFPbgPumrYuIzEPLCDw6Iw92MHcjDIFpwODko5WsHcpATY+GJPWKcG7T7kUnx0v29wGP4+vZRitcw1ZOehnCH/NDc3LV5L1PCKQ4ZsB5ffh65XVY+VbLGUVSvz/Mb34s4V1sXWL/enJEXUZQSKlSwEcpVCb/9j6hFOgw+YlfKRCCD9uI6FX4k32QRz9xdcCdabd9zrHgye+okzTayQq0CAMa8wDEfZIAPucT/hL9zSXFPFkeT4="
 },
 {
-    "key": "华谊APP",
-    "name": "🆘┃华谊┃秒播",
+    "key": "csp_怀桑",
+    "name": "🆘┃怀桑┃秒播",
     "type": 3,
-    "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "appName": "华谊",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-    "publicIv": "ed5fdsgucxumegqa",
-    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.muyue.tool",
-    "host": "",
-    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-    "version": "1.0.0.4",
-    "decrypt": "1"}
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "Aey0H1IVVgH6JF5Tyng4o1l0UHiaXENvzMubfWofIdS4alGpPyrakxjaV+QnqNUkGgi/EJpuCcLxim8AQ6gYQYeIidvKCaYEV0B0Lk1HqWKSaBRDKF9kzx1VNgW8GaY1dYnzMD6DvETPpO88mKlwWRmZYCXuK/+FbtM37ENBbmyZ9hPLpzMLHky0gf+Oe5xB2FT94CnK4djI/jD3gqkCkDt9SmNrsYFFR2nDu1SrQJeVSgzx7M2LYuTj+E8PwbJAxBFH8g04gHQJtU6o/nrx2TqDK26WHFMejWvI8j8bHVQ5aK5Y4/fZ8lVIZHTAb3clJ7GTA+bgMSWDddCjIpKUzAAzKjrVEuMq59QTWta9ZvMN8rbzeTN9hMp2lQqIBTF4u/g657KJS5RKbLAr7lVcrcjrMvZwe6EVwpy3480CXbG+9TLTWm2hRbhMqXRUjMii3sOlQFcra+XF7vyGl7O+GRzEWxR+/UYUdJ6Vt7rzSiOUhNxdCunFEERKIk/1rIBcoHL3tPvXj7LOD/193xNTZR9TEvT//ET3qdyJvfPrTSBWk37ZKim1d4WSM3hwqSI+X/7vPXt40leKSXIGK15ajaHJtpQNRfxF1BA4pVSe602OQrRsQHYeBwASZl2+zIa8KCVg0EjD/qBWjk37VM5Iwl61ykswGgRWKWFzDzVDHYgg6vJ1aTWmZngusAwxClBMsTyM/B4ZxuodUjv9cAAUkUk="
 },
 {
-    "key": "顾我APP",
-    "name": "🆘┃顾我┃秒播",
+    "key": "csp_长泽",
+    "name": "🆘┃长泽┃秒播",
     "type": 3,
-    "api": "csp_AppDrama",
-    "jar": "./JAR/Sxiao.jar",
-    "ext": {
-    "appName": "顾我追剧",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "publicIv": "ed5fdsgucxumegqa",
-    "dataKey": "QK40VUWYWE45L0DOSTVOTEP0AM44PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.bingewatch.android",
-    "host": "",
-    "site": "https://guwoandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_guwozhuijuandroid.txt",
-    "version": "2.0.0.1",
-    "decrypt": "0"}
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AXCBj5iowoVvHyi5t1+KdWKiwkguKBtxl+07UD+Yhlqa/ZPfvqsDVbvJjODnQyU9zCkd35xXPE5YEyFzoQdfnzrLSxPdSbNuguQnZpaa7FwK9J8rZYQCsaqrfXlbGcakhiSRXtj5RJLW6waEroeVrjCkbVz/xgEld9MVOgFkSZGuPPiKcJQKB+rzqXMVicBbol8cijO1iWzXIeuPfGQLOZvVTFZqrZGkFtR+j5+Jj0AWDDQ494uey8XIxIejWMSibD8xob6I77m/krY9DmZM6jHdG26MwkLkyGO9lSDubISJoKFzFYPM137ZDvJSIyWjioL/CkarK1A6hiRZK1o02os+l5CGFZZZWf4mLrh3WDXWitiaCnQGv94+zOt+ztjY5CNHBKAtlEKoes5JEaYYRLi661H77z9VErCFm5NwNxJ6wYLnRIHCM6/haRx0GqPR/h1tfPqZBhJQTJVgz6N80Hz1GRtDZKDw45BCkkjwtEnk9uKJF93dH/jThb4BcA9XxzEEV3mFUp8qXPUtJF0zxlJtnoYBDCEWT4Ax+h4kUa+jU8mB7Q8/38exbw1CsJphYP5wBYD07UfiUYZj/PW0n0f7/Zw/IGaF2bzJiYK3+kySYrvxTFB8dR3YnmEoqDSqB799pAapyoKhs+Re4/wW2klu3yDDPA5ePZj/R/+1MgXn/w4i2d/S/Cb494oEOCtz0jukudu8Ca1qZq9K+fVxxy1mEsa6yJUR3kvXHV1cojO/0MJhkABoGPFhnHGJK4/fVNJkCIMbLvetur4ZXLYZTss="
+},
+{
+    "key": "csp_晚吟",
+    "name": "🆘┃晚吟┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "jar": "./JAR/moy.jar",
+    "ext": "AbrYAR+wwOYjHghDPvaX+/5t5b6NyxuD7nLJL5Mkgv5I2+1VyAvyMSPCcr0pkyfvVaks34Ns7c6YilTDKwkr15v9zSJ73LDie9jB36BsHpuJr4nA0TWLSZuYaL0J4HEDwJ6XmisDagr6zUEI08pEZgCt5SVyO22Pa9zv4XbKuR50iS2HF1lbZmsdjEkZ2JrB5J3+iUWtOLmIqxmHQCzP1C4="
+},
+{
+    "key": "csp_厌离",
+    "name": "🆘┃厌离┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "jar": "./JAR/moy.jar",
+    "ext": "AYzygyRIBpoo44RlNZLzD5sWPWEAyx0tMn+XdMPt6/KjGk1xiZH+VMpMMrE6+zxuI4MFN/wn1sW/cDZkVRwH6TyoWvZrBDczvNuGuiRM0rK0JDIrm80zIEOP9ByWWuCGPXyzHwqh38WCWC1z7v/taX/thj9tgSihEdHAgI7FRHvaUlZ/uL9Xr9p4neO5HFeJagkdhyE6xanOEFSPt7HRH7M="
+},
+{
+    "key": "csp_枫眠",
+    "name": "🆘┃枫眠┃秒播",
+    "type": 3,
+    "jar": "./JAR/moy.jar",
+    "api": "csp_AppGet",
+    "ext": "Afw7EQZoX/L2gMvrCApQzIViOi20nBFjzar80zRimEjSc6rc6TqoE1aJuVCWGkKLGQ1R/nTsFk4xEH2lo/frIH0fJa+Vo4JEFmJzfan/VJbas3wGHhdyIkgMwJG5IzemGZR0vU4a1NpPNt6eHUQm6k4ePmMRxn7BtaKpYy/szXSNeV4jow6yzsgURQmqKMj5eXEm1DoIRtizl0Zdi4w1DLQ="
+},
+{
+    "key": "csp_思追",
+    "name": "🆘┃思追┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "jar": "./JAR/moy.jar",
+    "ext": "AU307h2KNobLNHi8K6Don7Q6ak/s8rASRxeDMosaB2TJSi+m4PxR3WsjeCNpiB6xL2G2k8H35Ki0RQVYdRU/b0FwHjChf2nPpIBGA6Pl5vhXOWgqwuJP28NRd9Y8g13FrWWqboe0s8ArJ8Vh33rL3dmY8ljUBPDOGyEmOFMEYu6Ec1xsZDAtUzHXJQDkfup9GekHknvwhZXH4a1AR8nOmwI="
 },
 {
     "key": "csp_追剧达人",
