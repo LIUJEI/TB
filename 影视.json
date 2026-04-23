@@ -98,7 +98,7 @@
     "key": "csp_齊齊",
     "name": "🆘┃齊齊┃秒播",
     "type": 3,
-    "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://110.42.67.221:8003/",
     "key": "123456789abcdefg",
