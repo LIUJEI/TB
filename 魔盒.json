@@ -316,10 +316,10 @@
 },
 {
             "key": "影视森林",
-            "name": "✨影视森林✨",
+            "name": "🍁┃影视森林✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "",
+            "jar": "./JAR/MoHe.jar",
             "ext": {
                 "编码": "UTF-8",
                 "倒序": "1",
@@ -345,6 +345,7 @@
             "name": "✨YY影视✨",
             "type": 3,
             "api": "csp_XBPQ",
+			"jar": "./JAR/MoHe.jar",
             "ext": {
                 "编码": "UTF-8",
                  "数组": "p:.myui-vodlist__thumb",
@@ -369,7 +370,7 @@
             "name": "✨小蜜蜂影院✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "",
+            "jar": "./JAR/MoHe.jar",
             "ext": {
                 "编码": "UTF-8",
                 "倒序": "1",
@@ -396,7 +397,7 @@
             "key": "😍AAZ音乐",
             "name": "😍AAZ音乐",
             "type": 3,
-            "jar": "",
+            "jar": "./JAR/MoHe.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.aaz.cx/",
@@ -410,13 +411,33 @@
             "name": "💗【 truvaze 】XB®",
             "type": 3,
             "api": "csp_XBPQ",
-            "style": {
-                "type": "rect",
-                "ratio": 1.05
-            },
-            "jar": "",
-            "ext": "http://154.36.173.40/tgyg/json/truvaze.json"
-        },
+            "jar": "./JAR/MoHe.jar",
+            "ext": {
+	"作者": "xy",
+    "站名": "truvaze",
+    "发布页": "",
+    "主页url": "",
+    "数组二次截取": "\"items\"*[&&]",
+    "数组": "{&&}",
+    "标题": "\"tweet_account\"*\"&&\"",
+    "图片": "https://truvaze.com/_next/image?url=+\"thumbnail\"*\"&&\"+\\&w=640&q=75",
+    "副标题": "🔞",
+    "链接": "\"url\"*\"&&\"",
+    "线路数组": "",
+    "线路标题": "Truvaze",
+    "播放数组": "",
+    "播放标题": "",
+    "播放列表": "",
+    "播放链接": "",
+    "跳转播放链接": "",
+    "搜索模式": "1",
+    "搜索url": "",
+    "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 16; PJV110 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.135 Mobile Safari/537.36",
+    "特殊分类链接": "观看,每日$https://truvaze.com/api/media?range=&page={catePg}&per_page=50&category=&ids=&isAnimeOnly=0&sort={cateId}",
+    "分类url": "https://truvaze.com/api/media?range={cateId}&page={catePg}&per_page=50&category=&ids=&isAnimeOnly=0&sort=favorite;;k0m0vz",
+    "分类": "所有$all#每日$favorite#每周$weekly#每月$monthly#观看$pv"
+}
+},
 {
     "key": "一次性-枫叶电影",
     "name": "🍁┃枫叶┃影院",
