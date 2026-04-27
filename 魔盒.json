@@ -389,8 +389,8 @@
                 "分类url": "https://www.xmfyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "连续剧$2#电影$1#动漫$4#综艺$3#"
             }
-        },
-        {
+},
+{
             "key": "😍AAZ音乐",
             "name": "🍁┃AAZ┃音乐",
             "type": 3,
@@ -402,14 +402,14 @@
                 "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
                 "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"
             }
-        },
-        {
-            "key": "truvaze",
-            "name": "💗【 truvaze 】XB®",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./JAR/BPQ.jar",
-            "ext": {
+},
+{
+    "key": "truvaze",
+    "name": "🍁┃无料┃成人®",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./JAR/BPQ.jar",
+    "ext": {
 	"作者": "xy",
     "站名": "truvaze",
     "发布页": "",
