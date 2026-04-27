@@ -192,7 +192,7 @@
     "name": "🆘┃追忆┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "ext": {
     "name": "",
     "password": "",
@@ -204,7 +204,7 @@
     "name": "🆘┃星影┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "ext": {
     "name": "",
     "password": "",
@@ -216,7 +216,7 @@
     "name": "🆘┃爱爱┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "ext": {
     "name": "",
     "password": "",
@@ -228,7 +228,7 @@
     "name": "🆘┃幕悦┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "ext": {
     "name": "",
     "password": "",
@@ -240,7 +240,7 @@
     "name": "🆘┃螃螃┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "ext": {
     "name": "",
     "password": "",
@@ -252,7 +252,7 @@
     "name": "🆘┃伊伊┃秒播",
     "type": 3,
     "api": "csp_YIysAmns",
-    "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+    "jar": "./JAR/aodm.png",
     "changeable": 1
 },
 {
@@ -558,48 +558,40 @@
     "类型": "短剧"
 },
 {
-    "name": "♨️┃嗷嗚｜漫剧",
-    "key": "MjHggg",
-    "type": 3,
-    "api": "csp_HgggAmns",
-    "ext": "comic_series",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
-},
-{
     "name": "♨️┃短劇┃嗷嗚",
     "key": "DjHggg",
     "type": 3,
     "api": "csp_HgggAmns",
     "ext": "short_play",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃豪堪",
     "key": "豪堪｜短剧",
     "type": 3,
     "api": "csp_HHkkAmns",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃围观",
     "key": "围观｜短剧",
     "type": 3,
     "api": "csp_WgdjAmns",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃拜拜",
     "key": "拜拜｜短剧",
     "type": 3,
     "api": "csp_BddjAmns",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃喵喵",
     "key": "喵喵｜短剧",
     "type": 3,
     "api": "csp_QmdjAmns",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃甜圈",
@@ -607,14 +599,22 @@
     "type": 3,
     "api": "csp_TQdjAmns",
     "genre": "shortdrama",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
 },
 {
     "name": "♨️┃短劇┃星星",
     "key": "星星｜短剧",
     "type": 3,
     "api": "csp_XydjAmns",
-    "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png"
+    "jar": "./JAR/aodm.png"
+},
+{
+    "name": "♨️┃嗷嗚｜漫剧",
+    "key": "MjHggg",
+    "type": 3,
+    "api": "csp_HgggAmns",
+    "ext": "comic_series",
+    "jar": "./JAR/aodm.png"
 },
 {
     "key": "csp_YALI",
