@@ -315,6 +315,109 @@
     "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
 },
 {
+            "key": "影视森林",
+            "name": "✨影视森林✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "",
+            "ext": {
+                "编码": "UTF-8",
+                "倒序": "1",
+                "数组": "p:.col-sm-4",
+                "标题": "p:.ewave-vodlist__thumb->text",
+                "副标题": "p:span->text[含序号:2]",
+                "图片": "p:.ewave-vodlist__thumb->data-original",
+                "链接": "p:.thumb-link->href",
+                "线路数组": "p:.playlist-slide",
+                "线路标题": "p:.swiper-slide->text",
+                "播放数组": "p:.ewave-content__playlist",
+                "播放列表": "p:a",
+                "播放标题": "p:->text",
+                "播放链接": "p:->href",
+                "跳转播放链接": "var player_*url\":\"&&\"[工具:解url]",
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.baixiaotangtop.com/vodtype/{cateId}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"
+            }
+        },
+        {
+            "key": "废J0院0",
+            "name": "✨YY影视✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "编码": "UTF-8",
+                 "数组": "p:.myui-vodlist__thumb",
+                 "标题": "p:->title",
+                "副标题": "p:span->text[含序号:3]",
+                 "图片": "p:a->data-original",
+                "链接": "href=\"&&\"",
+                "线路数组": "p:.nav-tabs[不包含:同]",
+                "线路标题": "p:a->text",
+                "播放数组": "p:.myui-content__list",
+                "播放列表": "p:a",
+                "播放标题": "p:->text",
+                "播放链接": "p:->href",
+                "跳转播放链接": "var player_*url\":\"&&\"[工具:解url]",
+                "分类url": "http://www.cn-youbang.net/hdshow/{cateId}--------{catePg}---.html",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#"
+               
+            }
+        },
+        {
+            "key": "小蜜蜂影院",
+            "name": "✨小蜜蜂影院✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "",
+            "ext": {
+                "编码": "UTF-8",
+                "倒序": "1",
+                "数组": "p:.hl-col-xs-4",
+                "标题": "p:.hl-item-thumb->title",
+                "副标题": "p:span->text[含序号:2]",
+                "图片": "p:.hl-item-thumb->data-original",
+                "链接": "p:.hl-item-thumb->href",
+                "线路数组": "p:.hl-tabs a",
+                "线路标题": "p:->alt",
+                "播放数组": "p:.hl-plays-list",
+                "播放列表": "p:a",
+                "播放标题": "p:->text[不包含:展开全部]",
+                "播放链接": "p:->href",
+                "跳转播放链接": "https://svip.qlplayer.cyou?url=+var player_*url\":\"&&\"||普通线路--var player_*url\":\"&&\"",
+                "二次跳转播放链接": "https://svip.qlplayer.cyou/api/resolve.php?token=+apiToken: \"&&\"",
+                "三次跳转播放链接": "j:url",
+                "嗅探词": ".m3u8",
+                "分类url": "https://www.xmfyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "连续剧$2#电影$1#动漫$4#综艺$3#"
+            }
+        },
+        {
+            "key": "😍AAZ音乐",
+            "name": "😍AAZ音乐",
+            "type": 3,
+            "jar": "",
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.aaz.cx/",
+                "分类": "排行$list/djwuqu#歌单$playtype/index#歌手$singerlist/index/index/index/index#MV$mvlist/index#",
+                "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
+                "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"
+            }
+        },
+        {
+            "key": "truvaze",
+            "name": "💗【 truvaze 】XB®",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.05
+            },
+            "jar": "",
+            "ext": "http://154.36.173.40/tgyg/json/truvaze.json"
+        },
+{
     "key": "一次性-枫叶电影",
     "name": "🍁┃枫叶┃影院",
     "type": 3,
