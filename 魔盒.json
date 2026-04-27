@@ -316,10 +316,10 @@
 },
 {
             "key": "影视森林",
-            "name": "🍁┃影视森林✨",
+            "name": "🍁┃天天",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/MoHe.jar",
+            "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
             "ext": {
                 "编码": "UTF-8",
                 "倒序": "1",
@@ -345,7 +345,7 @@
             "name": "✨YY影视✨",
             "type": 3,
             "api": "csp_XBPQ",
-			"jar": "./JAR/MoHe.jar",
+			"jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
             "ext": {
                 "编码": "UTF-8",
                  "数组": "p:.myui-vodlist__thumb",
@@ -370,7 +370,7 @@
             "name": "✨小蜜蜂影院✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/MoHe.jar",
+            "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
             "ext": {
                 "编码": "UTF-8",
                 "倒序": "1",
@@ -397,7 +397,7 @@
             "key": "😍AAZ音乐",
             "name": "😍AAZ音乐",
             "type": 3,
-            "jar": "./JAR/MoHe.jar",
+            "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.aaz.cx/",
@@ -411,7 +411,7 @@
             "name": "💗【 truvaze 】XB®",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./JAR/MoHe.jar",
+            "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/HeTa.jar",
             "ext": {
 	"作者": "xy",
     "站名": "truvaze",
