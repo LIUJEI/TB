@@ -95,11 +95,11 @@
     "类型": "APP"
 },
 {
-    "key": "csp_金牌",
-    "name": "🆘┃金牌┃秒播",
+    "key": "csp_星空",
+    "name": "🆘┃星空┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|searchList4",
+    "api": "csp_AppGet",
+    "ext": "https://xk9.xkgzs.xyz|106jkcdnkldzckjk",
     "类型": "APP"
 },
 {
