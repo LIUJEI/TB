@@ -319,6 +319,22 @@
     "ext": "http://43.248.117.123:4680"
 },
 {
+    "key": "橘子",
+    "name": "🪀┃橘子┃影视",
+    "type": 3,
+	"style": {"type": "rect","ratio": 1.485},
+    "api": "https://gitee.com/s-7/tv/raw/0/Fei.py",
+    "ext": "https://dmc.yy-fun.cc/feiapp"
+},
+{
+    "key": "快映",
+    "name": "🪀┃快映┃影视",
+    "type": 3,
+    "style": {"type": "rect","ratio": 1.485},
+    "api": "https://17264.kstore.space/Appfox.min.js",
+    "ext": {"host": "https://www.baidukuaiy.top","ver": 3}
+},
+{
     "key": "zhiqiu",
     "name": "🪀┃听风┃知秋",
     "type": 3,
