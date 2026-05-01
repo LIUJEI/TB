@@ -649,6 +649,89 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
+      "key": "猫头鹰",
+      "name": "🦉猫头鹰┃秒播",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+        "key": "zxPtEUDGVllIUhDB",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "蓝鹰",
+      "name": "🦅蓝鹰┃秒播",
+      "type": 3,
+      "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "key": "ca94b06ca359d80e",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+{
+      "key": "稀饭fm",
+      "name": "🥣┃稀饭┃影视",
+      "jar": "https://fastlink.cokey.xyz/f/3r1mt0/fm.jar",
+      "type": 3,
+      "api": "csp_Getapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://app.xifanys.com",
+        "datakey": "HM6Ly9yeS4ya3dvL",
+        "dataiv": "HM6Ly9yeS4ya3dvL",
+        "version": "119"
+      }
+    },
+    {
+      "key": "咕噜画",
+      "name": "咕噜映画 | APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "https://17264.kstore.space/Appfox.min.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "timeout": 8,
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+    },
+    {
+      "key": "缘梦APP",
+      "name": "🎽缘梦┃APP",
+      "jar": "https://fastlink.cokey.xyz/f/N32bt4/vox.jar",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://www.zipfve.cn",
+        "datakey": "1234567890987654"
+      }
+    },
+    {
+      "key": "csp_Jianpian",
+      "name": "荐片",
+      "type": 3,
+      "jar": "https://fastlink.cokey.xyz/f/N32bt4/vox.jar",
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "filters": "http://rihou.cc:88/json/jianpian.json",
+        "imgUrl": "https://img.jgsfnl.com",
+        "sites": "https://api.ztcgi.com"
+      }
+    },	
+{
     "key": "猎豹",
     "name": "♾️┃猎豹┃APP",
     "type": 3,
