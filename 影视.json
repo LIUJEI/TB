@@ -50,6 +50,28 @@
     "api": 2}
 },
 {
+    "key": "新首发",
+    "name": "👻 标清3",
+    "type": 3,
+    "api": "./AppGet.js",
+	"ext": {
+    "host": "http://110.42.67.221:9002/",
+    "key": "FTgP4Gq8zPiqbt7M",
+	"类型": "APP",	
+    "api": 2}
+},
+{
+    "key": "四叶草",
+    "name": "🍀 标清4",
+    "type": 3,
+    "api": "./AppGet.js",
+	"ext": {
+    "host": "https://qj4.catbb.xyz",
+    "key": "eecbio48dsq13kkk",
+	"类型": "APP",	
+    "api": 2}
+},
+{
     "key": "csp_花小猪",
     "name": "🆘┃佩琪┃秒播",
     "type": 3,
