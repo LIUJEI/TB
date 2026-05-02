@@ -64,17 +64,23 @@
     "key": "csp_liebao",
     "name": "🆘┃暮旗┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://444421.xyz|#getapp@TMD@2025",
-    "类型": "APP"
+    "api": "./Ap1Get.js",
+	"ext": {
+    "host": "https://444421.xyz/",
+    "key": "#getapp@TMD@2025",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_xiju",
     "name": "🆘┃曦臣┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://211.154.24.56:8369|685bf108bc47b67d",
-    "类型": "APP"
+    "api": "./Ap2Get.js",
+	"ext": {
+    "host": "http://211.154.24.56:8369/",
+    "key": "685bf108bc47b67d",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_wangzi",
