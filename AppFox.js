@@ -484,7 +484,7 @@ async function detail(id) {
         
         if (!video) return '{"list":[]}';
         
-        let play_from = video.vod_play_from ? video.vod_play_from.split('$$$💕') : [];
+        let play_from = video.vod_play_from ? video.vod_play_from.split('$$$') : [];
         let play_urls = video.vod_play_url ? video.vod_play_url.split('$$$') : [];
         
         let sortedSources = sortSources(play_from, play_urls);
@@ -531,7 +531,7 @@ async function detail(id) {
                 }
             }
             
-            video.vod_play_from = play_from.join('$$$💕');
+            video.vod_play_from = play_from.join('$$$💕琉芸👉');
             video.vod_play_url = processed_play_urls.join('$$$');
             
             foxConfig.parses = {};
