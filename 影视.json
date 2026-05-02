@@ -73,6 +73,37 @@
     "ua": "okhttp/3.10.0"}
 },
 {
+    "key": "csp_liebao",
+    "name": "🆘┃猎豹┃秒播",
+    "type": 3,
+    "api": "./XB/AppFox.js",
+	"ext": {
+    "host": "https://444421.xyz/",
+    "key": "#getapp@TMD@2025",
+	"类型": "APP",	
+    "api": 2}
+},
+{
+    "key": "csp_云播",
+    "name": "🆘┃云播┃秒播",
+    "type": 3,
+    "api": "./XB/AppFox.js",
+    "ext": {
+	"host": "http://app.hktvyb.cc",
+	"类型": "APP",	
+    "api": 2}
+},
+{
+    "key": "csp_baih",
+    "name": "🆘┃青析┃秒播",
+    "type": 3,
+    "api": "./XB/AppFox.js",
+    "ext": {
+	"host": "https://app2512.ystva.com",
+	"类型": "APP",	
+    "api": 2}
+},
+{
     "key": "csp_咕噜",
     "name": "🆘┃咕噜┃映画",
     "type": 3,
@@ -81,17 +112,6 @@
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
     "sign": "679543610991810f19698c187e5e106e"}
-},
-{
-    "key": "csp_liebao",
-    "name": "🆘┃暮旗┃秒播",
-    "type": 3,
-    "api": "./XB/AppFox.js",
-	"ext": {
-    "host": "https://444421.xyz/",
-    "key": "#getapp@TMD@2025",
-	"类型": "APP",	
-    "api": 2}
 },
 {
     "key": "csp_xiju",
@@ -189,20 +209,6 @@
     "type": 3,
     "api": "csp_AppYsV2",
     "ext": "https://www.airfun.fun/xgapp.php/v2/"
-},
-{
-    "key": "csp_云播",
-    "name": "🆘┃云播┃秒播",
-    "type": 3,
-    "api": "./XB/AppFox.js",
-    "ext": {"host": "http://app.hktvyb.cc"}
-},
-{
-    "key": "csp_baih",
-    "name": "🆘┃駱駝┃秒播",
-    "type": 3,
-    "api": "./XB/AppFox.js",
-    "ext": {"host": "https://app2512.ystva.com","ver": 2}
 },
 {
     "key": "csp_若寒",
