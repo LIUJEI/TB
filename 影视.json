@@ -76,7 +76,7 @@
     "key": "csp_咕噜",
     "name": "🆘┃咕噜┃映画",
     "type": 3,
-    "api": "./AppGet.js",
+    "api": "./TS/AppQi.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
@@ -86,7 +86,7 @@
     "key": "csp_liebao",
     "name": "🆘┃暮旗┃秒播",
     "type": 3,
-    "api": "./Ap1Get.js",
+    "api": "./XB/AppFox.js",
 	"ext": {
     "host": "https://444421.xyz/",
     "key": "#getapp@TMD@2025",
@@ -97,7 +97,7 @@
     "key": "csp_xiju",
     "name": "🆘┃曦臣┃秒播",
     "type": 3,
-    "api": "./Ap2Get.js",
+    "api": "./XB/AppFox.js",
 	"ext": {
     "host": "http://211.154.24.56:8369/",
     "key": "685bf108bc47b67d",
@@ -119,7 +119,7 @@
     "key": "csp_cangL",
     "name": "🆘┃滄浪┃秒播",
     "type": 3,
-    "api": "./Ap4Get.js",
+    "api": "./XB/AppFox.js",
 	"ext": {
     "host": "http://app1-0-0.87333.cc/",
     "key": "VwsHxkCViDXEExWa",
@@ -130,7 +130,7 @@
     "key": "csp_缘梦",
     "name": "🆘┃缘梦┃秒播",
     "type": 3,
-    "api": "./Ap5Get.js",
+    "api": "./XB/AppFox.js",
 	"ext": {
     "host": "http://165.99.42.137:5432/",
     "key": "1234567890987654",
@@ -141,7 +141,7 @@
     "key": "csp_星空",
     "name": "🆘┃星空┃秒播",
     "type": 3,
-    "api": "./Ap6Get.js",
+    "api": "./XB/AppFox.js",
 	"ext": {
     "host": "https://xk9.xkgzs.xyz/",
     "key": "106jkcdnkldzckjk",
