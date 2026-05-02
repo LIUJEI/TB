@@ -42,17 +42,23 @@
     "key": "csp_猫头鹰",
     "name": "🆘┃藍鷹┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://154.219.117.157:6688|ca94b06ca359d80e",
-    "类型": "APP"
+    "api": "./AppGet.js",
+	"ext": {
+    "host": "http://154.219.117.157:6688/",
+    "key": "ca94b06ca359d80e",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_花小猪",
     "name": "🆘┃佩琪┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://211.154.22.153:4643|uxxDgHxsdoSgVGZZ",
-    "类型": "APP"
+    "api": "./Ap0Get.js",
+	"ext": {
+    "host": "http://211.154.22.153:4643/",
+    "key": "uxxDgHxsdoSgVGZZ",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_liebao",
