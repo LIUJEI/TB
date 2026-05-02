@@ -75,7 +75,7 @@
     "key": "csp_花小猪",
     "name": "🆘┃佩琪┃秒播",
     "type": 3,
-    "api": "./Ap0Get.js",
+    "api": "./AppGet.js",
 	"ext": {
     "host": "http://211.154.22.153:4643/",
     "key": "uxxDgHxsdoSgVGZZ",
