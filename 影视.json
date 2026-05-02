@@ -86,33 +86,45 @@
     "key": "csp_wangzi",
     "name": "🆘┃殘月┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
-    "类型": "APP"
+    "api": "./Ap3Get.js",
+	"ext": {
+    "host": "https://app.95112475.xyz/",
+    "key": "5a9w6x58dsq6z3a6",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_cangL",
     "name": "🆘┃滄浪┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
-    "类型": "APP"
+    "api": "./Ap4Get.js",
+	"ext": {
+    "host": "http://app1-0-0.87333.cc/",
+    "key": "VwsHxkCViDXEExWa",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_缘梦",
     "name": "🆘┃缘梦┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "http://165.99.42.137:5432|1234567890987654",
-    "类型": "APP"
+    "api": "./Ap5Get.js",
+	"ext": {
+    "host": "http://165.99.42.137:5432/",
+    "key": "1234567890987654",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_星空",
     "name": "🆘┃星空┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-    "ext": "https://xk9.xkgzs.xyz|106jkcdnkldzckjk",
-    "类型": "APP"
+    "api": "./Ap6Get.js",
+	"ext": {
+    "host": "https://xk9.xkgzs.xyz/",
+    "key": "106jkcdnkldzckjk",
+	"类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_奴娜",
