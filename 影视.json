@@ -174,7 +174,7 @@
     "key": "csp_咕噜",
     "name": "🆘┃咕噜┃映画",
     "type": 3,
-    "api": "./TS/AppQi.js",
+    "api": "./XB/AppFox.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
