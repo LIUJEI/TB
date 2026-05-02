@@ -364,7 +364,7 @@ async function detail(id) {
     });
     froms = _.map(playSources, source => source.show);
     urls = _.map(playSources, source => source.urls);
-    videos.vod_play_from = froms.join('$$$💕琉芸👉');
+    videos.vod_play_from = froms.join('$$$藍鷹💕');
     videos.vod_play_url = urls.join('$$$');
     return JSON.stringify({
         list: [videos],
