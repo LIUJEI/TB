@@ -314,7 +314,7 @@ async function detail(id) {
         vod_director: info.vod.vod_director,
         vod_actor: info.vod.vod_actor,
         vod_pic: info.vod.vod_pic,
-        vod_content: info.vod.vod_content,
+        vod_content:'【琉🔹芸❤广告勿信👉剧情】📢' + info.vod.vod_content,
         type_name: info.vod.vod_class,
         vod_year: info.vod.vod_year 
     };
@@ -364,7 +364,7 @@ async function detail(id) {
     });
     froms = _.map(playSources, source => source.show);
     urls = _.map(playSources, source => source.urls);
-    videos.vod_play_from = froms.join('$$$');
+    videos.vod_play_from = froms.join('$$$💕琉芸👉');
     videos.vod_play_url = urls.join('$$$');
     return JSON.stringify({
         list: [videos],
