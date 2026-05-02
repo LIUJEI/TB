@@ -98,7 +98,7 @@
     "key": "csp_liebao",
     "name": "🆘┃猎豹┃秒播",
     "type": 3,
-    "api": "./XB/AppFox.js",
+    "api": "./AppFox.js",
 	"ext": {
     "host": "https://444421.xyz/",
     "key": "#getapp@TMD@2025",
@@ -109,7 +109,7 @@
     "key": "csp_云播",
     "name": "🆘┃云播┃秒播",
     "type": 3,
-    "api": "./XB/AppFox.js",
+    "api": "./AppFox.js",
     "ext": {
 	"host": "http://app.hktvyb.cc",
 	"类型": "APP",	
@@ -119,7 +119,7 @@
     "key": "csp_baih",
     "name": "🆘┃青析┃秒播",
     "type": 3,
-    "api": "./XB/AppFox.js",
+    "api": "./AppFox.js",
     "ext": {
 	"host": "https://app2512.ystva.com",
 	"类型": "APP",	
@@ -129,7 +129,7 @@
     "key": "csp_咕噜",
     "name": "🆘┃咕噜┃映画",
     "type": 3,
-    "api": "./TS/AppQi.js",
+    "api": "./AppQi.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
