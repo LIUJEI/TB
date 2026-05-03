@@ -1027,15 +1027,6 @@
     "类型": "短剧"
 },
 {
-    "key": "drpyS_人人影视[优]",
-    "name": "🪀┃人人┃影院",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
-    "title": "人人影视[优]",
-    "author": "EylinSir",
-    "类型": "影视"
-},
-{
     "key": "drpyS_剧海影视[优]",
     "name": "🪀┃剧海┃影视",
     "type": 4,
@@ -1140,14 +1131,6 @@
     "类型": "影视",
     "logo": "https://guaziyingshi.xxsnav.com/files/guaziyingshi.png",
     "lang": "ds"
-},
-{
-    "key": "php_哇哇影视 ᵈᶻ",
-    "name": "🪀┃哇哇┃影视",
-    "type": 4,
-    "api": "http://115.191.55.109:9097/api/哇哇影视 ᵈᶻ?do=php&pwd=50721480be241243",
-    "title": "哇哇影视 ᵈᶻ",
-    "lang": "php"
 },
 {
     "key": "ConfigCenter",
