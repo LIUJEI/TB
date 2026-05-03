@@ -791,7 +791,7 @@
 },
 {
     "key": "知予",
-    "name": "知予｜4K",
+    "name": "🌐┃知予┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -799,7 +799,7 @@
 },
 {
     "key": "寻川",
-    "name": "寻川｜4K",
+    "name": "🌐┃寻川┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -807,7 +807,7 @@
 },
 {
     "key": "枕霜",
-    "name": "枕霜｜4K",
+    "name": "🌐┃枕霜┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -815,7 +815,7 @@
 },
 {
     "key": "栖鹤",
-    "name": "栖鹤｜4K",
+    "name": "🌐┃栖鹤┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -823,7 +823,7 @@
 },
 {
     "key": "清沅",
-    "name": "清沅｜4K",
+    "name": "🌐┃清沅┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -831,7 +831,7 @@
 },
 {
     "key": "孟葭",
-    "name": "孟葭｜4K",
+    "name": "🌐┃孟葭┃秒播",
     "api": "csp_AppNox",
     "type": 3,
 	"jar": "./JAR/moy.jar",
@@ -839,7 +839,7 @@
 },
 {
     "key": "若寒",
-    "name": "若寒｜APP",
+    "name": "🌐┃若寒┃秒播",
     "type": 3,
 	"jar": "./JAR/moy.jar",
     "api": "csp_AppEy",
@@ -847,7 +847,7 @@
 },
 {
     "key": "敛芳",
-    "name": "敛芳｜APP",
+    "name": "🌐┃敛芳┃秒播",
     "type": 3,
     "api": "csp_AppEy",
     "jar": "./JAR/moy.jar",
@@ -855,7 +855,7 @@
 },
 {
     "key": "怀桑",
-    "name": "怀桑｜APP",
+    "name": "🌐┃怀桑┃秒播",
     "type": 3,
     "api": "csp_AppEy",
     "jar": "./JAR/moy.jar",
@@ -863,7 +863,7 @@
 },
 {
     "key": "长泽",
-    "name": "长泽｜APP",
+    "name": "🌐┃长泽┃秒播",
     "type": 3,
     "api": "csp_AppEy",
     "jar": "./JAR/moy.jar",
@@ -871,7 +871,7 @@
 },
 {
     "key": "琼林",
-    "name": "琼林｜APP",
+    "name": "🌐┃琼林┃秒播",
     "type": 3,
     "api": "csp_AppGet",
     "jar": "./JAR/moy.jar",
@@ -879,7 +879,7 @@
 },
 {
     "key": "厌离",
-    "name": "厌离｜APP",
+    "name": "🌐┃厌离┃秒播",
     "type": 3,
     "api": "csp_AppGet",
     "jar": "./JAR/moy.jar",
@@ -887,7 +887,7 @@
 },
 {
     "key": "枫眠",
-    "name": "枫眠｜APP",
+    "name": "🌐┃枫眠┃秒播",
     "type": 3,
     "jar": "./JAR/moy.jar",
     "api": "csp_AppGet",
@@ -895,7 +895,7 @@
 },
 {
     "key": "思追",
-    "name": "思追丨APP",
+    "name": "🌐┃思追┃秒播",
     "type": 3,
     "api": "csp_AppGet",
     "jar": "./JAR/moy.jar",
@@ -903,7 +903,7 @@
 },	
 {
     "key": "aowo-追忆NewNoxZy",
-    "name": "♾️┃追忆┃APP",
+    "name": "🌐┃追忆┃秒播",
     "type": 3,
     "api": "csp_NewNoxAmns",
     "jar": "./JAR/aodm.png",
@@ -913,7 +913,7 @@
 },
 {
     "key": "csp_追剧达人",
-    "name": "♾️┃追剧┃APP",
+    "name": "🌐┃追剧┃秒播",
     "type": 3,
     "api": "csp_AppV6Amns",
     "jar": "./JAR/awdm.png",
@@ -921,7 +921,7 @@
 },
 {
     "key": "csp_特狗",
-    "name": "♾️┃特狗┃APP",
+    "name": "🌐┃特狗┃秒播",
     "type": 3,
     "api": "csp_AppV6Amns",
     "jar": "./JAR/awdm.png",
@@ -929,7 +929,7 @@
 },
 {
     "key": "csp_小柚子",
-    "name": "♾️┃柚子┃APP",
+    "name": "🌐┃柚子┃秒播",
     "type": 3,
     "api": "csp_AppV6Amns",
     "jar": "./JAR/awdm.png",
@@ -937,7 +937,7 @@
 },
 {
     "key": "csp_大师兄",
-    "name": "♾️┃大师┃APP",
+    "name": "🌐┃大师┃秒播",
     "type": 3,
     "api": "csp_AppV6Amns",
     "jar": "./JAR/awdm.png",
@@ -945,7 +945,7 @@
 },
 {
     "key": "小黄人",
-    "name": "♾️┃小黄┃APP",
+    "name": "🌐┃小黄┃秒播",
     "type": 3,
     "api": "csp_AppV6Amns",
     "jar": "./JAR/awdm.png",
