@@ -790,136 +790,117 @@
     "sign": "679543610991810f19698c187e5e106e"}
 },
 {
-    "key": "魔方",
-    "name": "♾️┃魔方┃影院",
+    "key": "知予",
+    "name": "知予｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "AZO8UzEWvZvXzsgI4SNyGQ4L+vGtppdKcprDfwA5qTsMJGhz+Cj3rdFZ5YzhjdvBQIbdxwvClWQGLM9wF1u9ElENTfBdxL6uNMOvyy032H2gp1sS8fCxJq5a1oMSXMzsgNAh0RO6EKTHPogHj3cH2BbwaoPYdnleeqato0VOM6ffKeXl3SpXczHhvt6ZcTPNsFIgy2uSXX26nLfid+1yEEIuKA1wY0P11N8wRW4xt+WjV2X6IRjUXmAzuqNNp/m5Ap6tl/IJdxhAiUjPy3pkDj37urj2p4xkUusOkrv5ygSmQNiu/YSHMBJSpWzoimp6yrBtwYLMasumbJRePHjpzU88qKoq5W0Hg0jSYvvi8jXXPHosfChyzOo39MD2MeOJPgoyZ+Qq/3bk9qLX8tgqwN8QQ9eyW+eKBO3HlcPEYblkPB1RViR26NYMv5lxxDZCd/8bseGByoKAKmxTzN861Vgcfrg/NcUq4JZAqfM/HaRJcGI1WHoajHayK4KF54gofurfdoKZVubSGNYGPY7oI5mkPQ37SAQs6nCaqCU6GPisurONvttHIPLjl1huzrJ8UO+3V3oBZYn+IqgHQ6vujXEiCFlx27zmkAxfhOLQ1U13HGAAIljxAX30xsqOYhPA6dNtQaHCAcEUl3kFDEHT8osRG/VaPh3IFp3eDJBZHqQpBw+1tW4L7w4PqMzbY/FVj2goJMNlDwz20vFHUrAGQyN+B+PVHwuFktgMUeYbGqu4b8NdTJUlv6ghoYo4gtdeqLIy+LFqoKRJa1EVjleAA4vBrQW4jTRyft4OMamucYDUK2dlrBmnmAJGRQK0ZziH1eAHC3iau3rXQ0WUZB2ItgU+fp714k1RX3FDA7NaRXOkXRruEN2l3FzaNLeP+7KCY/GrG7ftj3MiDjnUaFSKubDJL3TAaW37ZKitDiu+RR6JLy+XTXFyfqa3gIiiC2FG6njx7FR0EnSyNaXAtfbYZdfXWp6YCCnEuDaI3kXT9wsRdq7QWjV6f+2d6XIPyfXr6OebhBuZFU99ELPgXGeUO9TJqqjFF9/6vDD6bhsPDpEc"
+},
+{
+    "key": "寻川",
+    "name": "寻川｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "AZwKLTGJseDoHAfRGZgidaVzBXHTFWKNP9y5+JMTNtMt+GZOYqXrg+BpTi30W2daF1BshLlNfT2WFEamYHeH16Ynudj2EiVK9+AWISKGdecnTJeGgFG0CYit/EisqgMyWohTap73SM+/gaBSL+oNwVgnGJ/8BuyMlAnuxbtcJWGDFUdKzdaM6Nn0gjj4jS9R+e6TH49uCDIVY0lt6iTnYMXmwq4wOWpE/gZUZiCk23d0tPI/V0CuL+Hl5ITXvfkLx1+H1XZdm6C3pIUJMwb4gZ95W2rrkhX4d3Yrws1eld1nXu5ejRbrLHype4LnZuwHpo7iq+vUT0HfMEkJnFtuBOT6nOw7xKLNWXSJC7PmJDDIr8yabmtdnIzeI6LOJPtmD+w4drvqJpty/1YjxXfFUA19qwnAB7iuLLdeKmeaYKecLstYv7+bEY6vFibImX79eOtrlUUEaglkmuqWqmShFYv/YeuZ2LtYb9eWmDBelBIXhFHXsxYAk8+rNB9AMVVpGhisUIcAA75ha+5mnGVtALRsAW3BFIhy0GiQ9vOzeWwC9osf8YMQ9vfyskzhUFpvT1EhJTGiOsq8vYBi8t+FDRUC1z+13AbyTGk9yDgx74fMHYg9pexhwkotIP8oSDr19Xy4q0Gz6QWjjDxtDlAK3qH5erFmOU8uzdckAjgHxwZ7tfvZXUqQcLz4ICIqgN3WxpAMD0Jnenifi852lCB5HDmaJ6lLpmlr8eGr0OVXVNHRS5mttbisDkbrz5O4wlglsfwX1xzW8namjlc15Kfv/24xFjlzQk+r4fOE4knXw38VsFTMZb+Yz1ODPIagwmOQt9xTHdHefU+FML6MTrBi0hHfW0ooVITGfniCerhOvXW73eZfABNkQaj43UQ37Xo9zFAa8INzYeGlGomHPAQLaH+agFZsM3dL+RgPDL8PO6rpp7I6rKCv5rxtz1rDGKEfWuT4YaJL2aoDjZY28vjxbFDpADFKjlK7wDeeGjB7kR8BDgFtexk3HcdNmAVD4SweeQ=="
+},
+{
+    "key": "枕霜",
+    "name": "枕霜｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "Af1/6Y52uCcPbQl7IHrMceiPw3QWWzjeBXFiqhGDUYsuyDMVTAYqMnW0nMStGbZ6lcYLK2Bkk9rscOnqCso+gHJrZPcZQ3hgj8MbOqXxrt0cb+raTh5pLbiBdsBczLv+oYyKiF1tVW/Z33zzESEo27Ejmxir8ZP9mErU61hqWFKiH3O7GRMA5I94frJCWV0ts82nlcEuYuYoxarOOjF7pjeV0KgqPhsFChHuwSNzs/ntq4QMIv0MbM8FSLZlqg4V7IXofCp0/8692k7H2qwC2d4z0u3KSt4aFK9wOHWTqoBymDP3+Z4H45gcc9NoEM3El1WdkEOWXf9jHNOpK9i4y9xWzHwTbJ01ZQ1UhvlAjizpIfxesMWTfZQIXK1z5sjbNAxDafeUYzD8gtpczIlD/hoIw5ZBHqHYmBo26czJHclnJZEW/HIuF46rmCckpE+OP6RnhEMa4P0Z5+cW3RhTlk7hpeVWnqJZ+zbUuaOKUQzKHV9b0mRVzMVIQD0uGfsYCAQnqPcOIyVD5JQyL53GYp4fnEm2+9tECMUZIycv9HYoaLhQeq5P2t8E7fr/7/Yb3xgciZS0ies1MBWttooUjGKCplOKK1KLXsjb5440b+X3WNxBGCzbj9CmWlx7nwvhMGg0V/mZiRxYi/wYQrHy5/u9Wq/IUfXbJs+kS+cwGhf/cNu6ZnTSaWgPc0Lgs2tArez7+yazPys2IS0sDqVp9USRvhrVVIXKYqUp+BYcH40Aa9Zd1FD+1flEkjBY27bS4dxc+n9I8ARzKCv7l2L3xo3LOoTJhwu4mjCX8R4KJnzCgziG8zpTPFmomzlFCpqfGH+HD1m64+ssWCltqYZk2lWAsWOGOIyYBYFAGAE+oy7YwqQVFTJ7WlXdYaMNvU4cBuiBK7rajrIW5xydsumizDcqHISmos7CXcouLxWWE+fFC2lwFfJhjwDyYZeOhRtRMrmGVK+dfKPw4pd2ednlesxcLiCLO0smoJ8JivY3WNRYkBdLTd9X7h9TvOUUySmtkil9zlmTkTUSY/HwoMURpuDUlSqZIc5Ov8/mglapkkmSy/QIBcLVJsMphC+naxzv5A=="
+},
+{
+    "key": "栖鹤",
+    "name": "栖鹤｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "AaliqOBxcpzGcWAdNidVant1U9ztartY2Gc+H48ioEHvB5ZTbhqDdbnoLv31jhRV7v9hNgi73aMcFqZY95bvK1LfVaKI8Nn54LfehJx2smNawAv/zuQWq9Jh/vZSN8a/GeJFuVxiTYOVMWeRZdLOiKqfrdqhVj6hc4J5f5Go/5KEVI11/bnfythEHsKO5f5P20C4JpXGF+t5+zvt8PnppelbwtOra+IVJbkW2A4/a0W80UqdaO9oaA9JTc6SuauLGUEPpC1ioz9Tkq3QAwVX1wS73Cvm1PDPJZ7fPjU8Lb9VgLeuZPNr6upedQJeWPBQOl8+dOfwdY+mh4Wap/cW7sZs3xbrGuE6aD8l4ErH4FhRpMl6nyt2mW62RAVNR+xok7+Jjyv3SdNWL9YBIuyIzUD6onRFXWWutE/lGAb+8PLA0xuJwmnyQvTfo6x2y2uED1dsk2nMuNrJShepkIBGt7l3ozffqjlS65gjxGWOwm7Dh9JceLSsQQECo9d/buw18FmfhxiygYdEbbNqSG8thSzGYoPWNRtA36mJjNZbGFVWb9eXxUB0HBOGDYo5GyEh/Vtbqlm9HzuwE/EAUs1Xhw4dbyHN67tGftkJvllFYPmbqBnbFNdduisGwgOHI0wz49RIZo2cBKX2+DFAHxlK99/ewJDAmnC2qEQHcVCGtRxLLKGmKkPwx3LL+JymG85Yc3khpM9V3KpR4vp83z10x2q4R+vx0HKM32z2utoY7NTAD6K5u6votHZWrpSUvopBdNC9Xp7OL3C2igC5XcprC6LqLa3HZh9F7sM6oDXNOKWtAV2m1Kx3HZt/TR7zVAlFEK3OHe6q0hP1SOz7B2Y+gt2IVhT5+delLAX61WWzhq1mEwUWkU8ZSiv6wdijEJrAH6yiEr3uaN14WUnKRy9JSo3Veo1maEzc9aDVpyaXzF5sb3HS6N0a67arB+/dWyJGdVdEBynSAHzanWgSpRUSqqx2sPgYZOLgnosEDf+Tmsy35nsmMs+FSHmas2l/EsoVR/TwDgZPeMojgsHccpsBQxNwjzsnO44woFVQuAwrKnf19gnjRPxS6PTZr7EFi7NtlA=="
+},
+{
+    "key": "清沅",
+    "name": "清沅｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "AfyjGqtDxeFBK/FAGHLai/lfJrkyce6xU1r65ztCSaBP385PA+UUWqSoOiWuSLIi7GDkIrabPJW7MVTOwC3fcl61U+DE6vKrZOtEnVb7rXp7S9T3G2zR415IEyfvTObxupWW9zew9YcLbL/fEnQPsAaOf/2nY5BIKmdo3ebnRR2zJdL6cPGTXM3eYPB8h0QV1tyUGdG0QYrJGLqhSqW/M46e9wTmKnhgaGYN/Bwz9wsqeaY6tEiJk05Qe6gopVHI9P6C1DL3lxeHtF2Fs77ijvtOn+JPe5VkB3o/7m8U4sI2JHuituAjpn5QbF9z83pFfT+QIjo+R1DR5/0Vte1BjWrpqFa/T0hoWZwCsbGhPvPwMHx0Tl06aMjOGb/3Bp+yef71UUwo2aJlml7qvDxvYvX4sokpmROCTEiyGFpL8CEYBVjVuVeEbO8DUIbOpAQIo/Yo8ilzE9diX1Dc6cKceW1zZZIHc+zPbOwAZj8qXSR31nr4pdpp/cpsav6vtrsq+v3AGO9WR3iGhBbBWshjVBu+oRBB892hAMwgcDWAskHLwbuweBfZQchp9h3uKiatswvJ8R9ysWKJLp4dIVoAsnBpOkxLCPT4BwCkJACPqCS/aXKf/p7++kIJ3NFUyFEmmCQ0x++8GKGh6djVIsx6pTuCtcP/cGbk7vryhVQ0flzDzKz9nbwr3YWXZ6GkLd1HjVfoACnJk3JhDuaNWZIks9Lhw+fIfSNpK96g1OTiDMR04PwyZFm7o8dZ5KMNow3l3hYLMBZJq3wHq5txGcGZv6svZ8Je2zJ3bK1L4Ud1B7vca9yo3Es15HrYGZt8QHM5KFgHAZkK6aBio8a4YL0qULawLxuaVrAJKhzcCHq+c9wX4pyniS9yHBe8RSUConYx0b9hlVvRSJUN5MQATV0aY5G+gATJm1iQ55NMb9EGpHVQTFza4B+xXZjpcyk2gov2PXozpSY8cWfh0krQvPgLlsDLG4SBlb/i2ZI3CrkIsuD/x2oQ0qIS3azqZy1+FWN9ihw0X13rhcUBdNSxRmHXka8="
+},
+{
+    "key": "孟葭",
+    "name": "孟葭｜4K",
+    "api": "csp_AppNox",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "ext": "AUvDy5mfuKfSaSDqLHsylDfck7svgy7ulGwLYZvJ3VT3lLUO/76qxiMdSC4ScHna0KPt4Sl2CWZhRyyLcsR4Mb+MmSieuBzTh0QhHQovRrcOMduxwAMN47EUDKrK3JJ5EcrV0zqm/CXG8/ev1o9a3RZbbC2J0AfvVv1laRWboos7Q+KIhZD30VMJUPzXy3/OLvstikktBDUGDI/oO1XJyhc2DHreVvMEwVJVFg42wmHqnThco4t1KorrqVuG+oO3Ot5Q3S2aYk/kLNbNt6EQe517M4X5vQa2roBGZMG9DbZCIsCcTM0LCr90M4+z0WY0vWW2oooSjXTb3DBex4WQYlIEIILDjhNXGvuHi9TQgtoXosA9IIFdFZhnUBREt3+gJWBFldeD1mUcmLes4wekINDMpcoRYUQHFKgCF+loJ03Adqtus204Tv7V4tZoJyCGp1m+3dhkc7w25CAZ7IQBPnW7aLGWbaa50grV6CdBsQuMHfH/pVoyw39500b1Jd/nxrUiJpgyrVBwAe7LkQna8cVdnD3CIy2Wv1ZEFgp+Ho+J880Z+7QhtEtRcVrIDVFgGfc1W9akzL0quzyTtR9lgjeVCzMvf2YzQgwmAxtO46p1BqR5kp/40mXUjEmq8zcVT9FeZk5Yfm6VuC6rKG+wPvHVHy5M8qkmJAXwjfk8d8BXoWnJjldNMNxLyKAMLegrqdjREkk50R9FHgkThIzuB7kxdmgpUAbeNRXromIy8IHfzEzNdv4o0a3RBWsVMt+YGtX/mqx77taK2Ep2K4rpqmMHgmbKqOyD6AOpURQx7Tls3uKKlut3qqx0/fQS7bS24wqmKtvH1TZNZ2HMz+LSMOMWeRkPmtvpSs6KFrd0h/yo3LyrJDom2sgqkMDE9DmMJn8tT3o8RwwrLSlO5zYT3G06negdsZOBX78oV28s90NpkBSiYmaKFq4pv14QUGxrcMJ1BkxwlMMI0x0Z+eZX2QDfXR/U6d6PU4w2nfYmOp1+NO1NJqialzh8qduwXMRBOeH4vFBLWcW5ch7jHQV/fp/6wOLNnUsErWCHbQWLgLKg"
+},
+{
+    "key": "若寒",
+    "name": "若寒｜APP",
+    "type": 3,
+	"jar": "./JAR/moy.jar",
+    "api": "csp_AppEy",
+    "ext": "AQRujO/5SnKoiRduCykqhbV9tdvERLolZv7pB+kGKsMHVROei4qksg/bCne63VY/XBMwYGiP8LX8StcJA9GE+RikzNprvURBWi9DUuMHogzHnnmKaJRyCH+KlExdU4D+y3XpcKYkW2AQ+mipyZ1HEOMSXJO7ZfjVg+CcMWywKbF1FnaNJ+4TLZkhvwWDunLQ7CDUaTbuu8jS4a8gQsNPLM7Ecpn1IP1cmigkW2LzEJ40Gdu1k0s245buvG/ttYP7SCnslX6aRPKWvU9Gbi6rNNu0sMfcz1f2w7HcCSNVGOOHiqG/fnvoaSHIFF7EmB+yc56lIBXicH3p15R+/bM4P9o77w+GHH4JWkSPbmO7Vp6S4BsIId1OrKuaItlXxdRD6IRv9QPzd8JglSVQjzDHMeVXoAaTzjbYVKG1WuPu0IiiVgSvr/ox1S4IoBw8t73VS3m7WdBDau/wJgneY3p5cj4rDNzA1SQFHChZ3sRjUA+4uUHy65Ve2qaRA5EzAfKWUPJHOIwj2XNh7g7ON426D6h6hPy/uUxBmVK/8j8UuF/SbTCKc168giq73b8/i1TMNijpwJIloU2xPG6j0Ai3yvef9VFXiN6pkHTTf8Bbo8qIMRXa4scWfS9VP9ajcGz4J2kv/TBfaGGLvcvZhbRD/Tg1v4H/qYh02Ye/JhBQpxQlS71T5kAovssYHZDAQbXvFQ=="
+},
+{
+    "key": "敛芳",
+    "name": "敛芳｜APP",
+    "type": 3,
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AWknFymW1QKzSllAr8Xyu2C757hMHfJbRCntpfFfre6wRHfEIOHUNSTCyRBp03+VzozAIgD0SImEo1rfkMlDYRkK9IjTbpDjVOh99Wf1I4J5K8N2CrSYuolSbbp5Um9VGqD4hGXpmeMExotv1CSaaSHrxWnTu0WJPVY5vBaPi6ox96sz8WB1wTL6a6oQX+rEbrS4neeZ9No9wbLnleqaQBti1EDWDE3aKKxUYP7aVLdu/lVNLzmv803SXsxf6zbyzuaS7W8IOOcA/kkcwVlBE+JcTI0pzLrn1NkTycBhyN5erRjjQ95/GOjShccieCAOiLlVhoInwCvJ0Qg1/19DSbrvOBjWZ2SEiVkguGKQqtWuQH9ZQHuHDcLd6LnbUgdigf7QuhvYXSQI5CEvfXXs3qCGjbKqgHGBkG7b5f952nbptJDY95Qm42TNTIHypkN3k9o8QlBUXnd+ih8oBlwef/6ox/ISSUmU8xDnf4Oju4/dE+5cCI9VtUayx1PrPEL2jcX+BmUUdio1hBqN2bUHjdyysk7j7yKRjIRDZxuHJH6tZILJ++5360MkRDDixM85Ia+T7UpB0QbeLVFikJPo576VV7sd02kUuFx+eAhxGhAstPv2H+yTuy+uiJfemkEQUSQa2xF1Gd32H/4dJRKupgBHcy6MrTfOjIy7AOVJFlZAO3N9HMpsIvYYoTPIWvAdWHjmodTt7S6aCiLQYJtq4hMjn9C0kkvfnpWyBsLh+ioCvxy0gCZmz2Z+d/ARqVyHxQ=="
+},
+{
+    "key": "怀桑",
+    "name": "怀桑｜APP",
+    "type": 3,
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AeHuBSFDbAg/ylzse3+sKJiOifGa2TAeXRasJGz6TZ4+yymVR+BWV6xdRKTQMKZsmNpjDEUyruZx8khwlylty5QHVyVgEc86h+xHEsgd8X9pWetfcI1JVnJVhzZB0ohjgKOd/fWvfmFCYNGyxzPHBxr8TNil5FRmEeExFJ9eG0/9Pb1LbacXSzxmEFaNBKY1qTkVGn3dvMF+l2Y0D53SVoDcNJBBV09c+amJ2gdzXJkQhOcZGNrHpbI2YZ8kSJY6+F7m9W2VReSe+K3Wk3GG2FdADAOY2VGcQIlzpdG1Vl8Elnlwtw32/ETisfMQfbo2NR2ObG1j7R80IEWsyMU7DxzbItGG1Rc+xKVWvyK4V/6lk/W83NkT++/IetW+YR5cz+hi5XjwoPdb+dWa+2VNlKXFfbJNcwAs34W3r0ArRdHUealTISR+llsOM66AliNbAu1VjRkRDXb0nFH8NdNaVfAvfVgYKvQzAY1s6jNQmk1SL0jIIq6+aDExiiO0DRgu/gD3PupsI/PRsTHjMfHmUAbQs87r0QRGS2EYa23Fi3oCZe5NczTAv7DMF8zTni24RCP8ex+hzCUTeRtWEEwy1lFdcxqpMx40+xl6ydmZRxMAia1CxygKCAITK1frNWVSTc5477fgat7uJqTVxpbkCwLIDuYWQzepWWFjQLfUqTSP9ghikjKNFK3QKIXA80RFuj30U9nqAEWJ91DXLp63+lI="
+},
+{
+    "key": "长泽",
+    "name": "长泽｜APP",
+    "type": 3,
+    "api": "csp_AppEy",
+    "jar": "./JAR/moy.jar",
+    "ext": "AeljPqr62826qs6bzc6j9/RpTf5QqEVJa4b5H5OWsIYiMVQz3YGn42ihdsNCoQ1qLIRV4jal/W/zW1pKZYZ0RmoCuYh8eFjKQlrB6+iuxYA/b8wdMZt1uIIDQ3V8O4x+Wvio/epeb64UT81bzT4d/KmkXob57oV0DKhlk9v/UEnPdxVW5dePxXsRGUWQiuwVAJRl5cpv58UAS+MMaxvlwviCWYD/lfr+YU1z/30AKZ79JCX2YyCiWOzuu30r2HKYAPyg5mizKoX/9IsnW8qD/91OL0pU7v7Nz7EUbd47aRkgQQtAxPp7k8x11SE4RwODbNg496QYlseyXh/98aNEzxZ2QYC8dAg1ZD9TBHfqmWvStmJ5Hgh09OP/pvsCqbfHknWj+IpM700L8gFa+QsCVOF5In1wEW6nIpXymrGa5ojn6M5Abay4P6xcOVtcH4TSQshv7CmjTBdPzfrNVjwreJ3z1uULGIwhaTa1yFxFaYKaKZJm10Nnn7oxLgkd5MzZAPmAljAH8i46ovcPv5Vq+hq6muI98BQlv4ge0lWfwwJCxtjb0DMjuIZrmnRI12iMFkdG8+31iu5hj15v2GAE3vMs9tt8mpx+cjw0gPfoDHNDUn2Cui1eDi0X6TZ9X9U6v9JRMAsxnL9UO1098u5woVDpToRzwBv9TVI1SsW5R/T1AicCx66ZDG1oQZv1aOF1OSKcmQTxdrs0a1KT1/1D4YKfkL3jGKicvjJAFmTkLX4LlJMScSI0t4mxpNs4gF4G8CHgr6QCcHef9iuM/trTkmc="
+},
+{
+    "key": "琼林",
+    "name": "琼林｜APP",
     "type": 3,
     "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.alibaba31casaq.top/",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"}
+    "jar": "./JAR/moy.jar",
+    "ext": "AVnc8GrQ60b99UNiByaoVBLi0nQIye9tIJpcatPQxKNejwWbESMtZqTSqvqu4Ta6bruCw3DXci6tk9xM6kX3ssDazlhQPK70UpwzMQMesOOv6BNwKiujCiDpSmZoaaDhsFuelCejTDy5OuTOA06RCzqauWujH6J7eQBNk9VCBHEFfOl+f81FzcbLyWsXEBZZCKgDBBZBpd0tPJ9AyFVPjGE="
 },
 {
-    "key": "稀饭fm",
-    "name": "♾️┃稀饭┃影视",
+    "key": "厌离",
+    "name": "厌离｜APP",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "https://app.xifanys.com",
-    "datakey": "HM6Ly9yeS4ya3dvL",
-    "dataiv": "HM6Ly9yeS4ya3dvL",
-    "version": "119"}
+    "api": "csp_AppGet",
+    "jar": "./JAR/moy.jar",
+    "ext": "AdXcX8ru5Zl9wVSLOKeQ1kY7I7JxfWQCfFqX6dJ1sonNK5ihv7paSCYG497KQT+JVG3zl3/sj8zoR/uMfuapGBtRpjglYYlCzaGXjQ5hVVYGUuoSUUcEbCV22LAAo8fHgakvUH0PLIQeyBXSNcA82EUGWQNaS6luPJEBNj8Ly+Uv1YOnMmxtjTyqZZhTKJkO9CUVF37aNDG5t4fmM2eOA/A="
 },
 {
-    "key": "csp_70",
-    "name": "♾️┃麒麟┃App",
+    "key": "枫眠",
+    "name": "枫眠｜APP",
     "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "https://qh.70qh.top","ver": 2}
-}, 
-{
-    "key": "csp_baih",
-    "name": "♾️┃駱駝┃App",
-    "type": 3,
-    "api": "csp_AppFox",
-    "ext": {"host": "https://app2512.ystva.com","ver": 2}
+    "jar": "./JAR/moy.jar",
+    "api": "csp_AppGet",
+    "ext": "ASMHPkmuZ3CO/NClj0tmMm6+eAespRDbvs3SHzlihurNEQ5i5S04bFidHFgIHh+7xoQusdbGBRTQh8vDeQlPQfaE2J2v/si9CU+d15PvpRVNqmPnqYifF3NSZG/8ThCtOYIXylbM5t4wTISNF0E75JF5qRewz0ZinZsp67CfthmvMObyuUCPCTxnx/ErDMZ7pW9OiT9QYQI/9yIISmcCEas="
 },
 {
-    "key": "天堂",
-    "name": "♾️┃天堂｜APP",
+    "key": "思追",
+    "name": "思追丨APP",
     "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "电影天堂",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.dytiantang.one",
-    "host": "",
-    "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-    "version": "3.0.0.7",
-    "decrypt": "0"}
-},
-{
-    "key": "橘汁",
-    "name": "♾️┃橘汁｜APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "橘汁",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.tjjiangh.android",
-    "host": "",
-    "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-    "version": "3.0.1.9",
-    "decrypt": "1"}
-},
-{
-    "key": "华谊",
-    "name": "♾️┃华谊｜APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "华谊",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.muyue.tool",
-    "host": "",
-    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-    "version": "1.0.0.4",
-    "decrypt": "1"}
-},
-{
-    "key": "苹果",
-    "name": "♾️┃苹果｜APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "小苹果",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.juechufsh.android.xpg1",
-    "host": "",
-    "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-    "version": "1.0.0.3",
-    "decrypt": "0"}
-},
-{
-    "key": "顾我",
-    "name": "♾️┃顾我｜APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "顾我追剧",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "dataKey": "QK40VUWYWE45L0DOSTVOTEP0AM44PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.bingewatch.android",
-    "host": "",
-    "site": "https://guwoandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_guwozhuijuandroid.txt",
-    "version": "2.0.0.1",
-    "decrypt": "0"}
-},
-{
-    "key": "薯条",
-    "name": "♾️┃薯条｜APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "薯条影视",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.st.standroid",
-    "host": "",
-    "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
-    "version": "5.0.0.1",
-    "decrypt": "0"}
-},
+    "api": "csp_AppGet",
+    "jar": "./JAR/moy.jar",
+    "ext": "AXKrbZM79eMAGzneN3Wkitxcf6NgrYa8FRcHB2RFYrIa1DzrMAA3EZXW6am5C78oAR/IcCmhk7ghFpBqEJ8/VC63AO40BE4oVlRZpiP8nHBpCnKhO9Ve26VcA8pR6Hj5NaeQHhkhkHLBDW4qlc86fpzDMK0o7K0sPvglsUwQxl6I4IDKDzXlVF4su1fy63GpLqrj+BMY1G2OjVsC6G7XBRg="
+},	
 {
     "key": "aowo-追忆NewNoxZy",
     "name": "♾️┃追忆┃APP",
