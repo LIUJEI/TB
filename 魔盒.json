@@ -196,7 +196,7 @@
     "name": "🍁┃短劇┃喵喵",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/喵喵.png",
+    "ext": "./XYQ/喵喵.png",
     "类型": "短剧"
 },
 {
@@ -339,45 +339,43 @@
     "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#"}
 },
 {
-            "key": "小蜜蜂影院",
-            "name": "🍁┃蜜蜂影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./JAR/BPQ.jar",
-            "ext": {
-                "编码": "UTF-8",
-                "倒序": "1",
-                "数组": "p:.hl-col-xs-4",
-                "标题": "p:.hl-item-thumb->title",
-                "副标题": "p:span->text[含序号:2]",
-                "图片": "p:.hl-item-thumb->data-original",
-                "链接": "p:.hl-item-thumb->href",
-                "线路数组": "p:.hl-tabs a",
-                "线路标题": "p:->alt",
-                "播放数组": "p:.hl-plays-list",
-                "播放列表": "p:a",
-                "播放标题": "p:->text[不包含:展开全部]",
-                "播放链接": "p:->href",
-                "跳转播放链接": "https://svip.qlplayer.cyou?url=+var player_*url\":\"&&\"||普通线路--var player_*url\":\"&&\"",
-                "二次跳转播放链接": "https://svip.qlplayer.cyou/api/resolve.php?token=+apiToken: \"&&\"",
-                "三次跳转播放链接": "j:url",
-                "嗅探词": ".m3u8",
-                "分类url": "https://www.xmfyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-                "分类": "连续剧$2#电影$1#动漫$4#综艺$3#"
-            }
+    "key": "小蜜蜂影院",
+    "name": "🍁┃蜜蜂┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./JAR/BPQ.jar",
+    "ext": {
+    "编码": "UTF-8",
+    "倒序": "1",
+    "数组": "p:.hl-col-xs-4",
+    "标题": "p:.hl-item-thumb->title",
+    "副标题": "p:span->text[含序号:2]",
+    "图片": "p:.hl-item-thumb->data-original",
+    "链接": "p:.hl-item-thumb->href",
+    "线路数组": "p:.hl-tabs a",
+    "线路标题": "p:->alt",
+    "播放数组": "p:.hl-plays-list",
+    "播放列表": "p:a",
+    "播放标题": "p:->text[不包含:展开全部]",
+    "播放链接": "p:->href",
+    "跳转播放链接": "https://svip.qlplayer.cyou?url=+var player_*url\":\"&&\"||普通线路--var player_*url\":\"&&\"",
+    "二次跳转播放链接": "https://svip.qlplayer.cyou/api/resolve.php?token=+apiToken: \"&&\"",
+    "三次跳转播放链接": "j:url",
+    "嗅探词": ".m3u8",
+    "分类url": "https://www.xmfyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+    "分类": "连续剧$2#电影$1#动漫$4#综艺$3#"}
 },
 {
-            "key": "😍AAZ音乐",
-            "name": "🍁┃AAZ┃音乐",
-            "type": 3,
-            "jar": "./JAR/BPQ.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "主页url": "https://www.aaz.cx/",
-                "分类": "排行$list/djwuqu#歌单$playtype/index#歌手$singerlist/index/index/index/index#MV$mvlist/index#",
-                "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
-                "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"
-            }
+    "key": "😍AAZ音乐",
+    "name": "🍁┃AAZ┃音乐",
+    "type": 3,
+    "jar": "./JAR/BPQ.jar",
+    "api": "csp_XBPQ",
+    "ext": {
+    "主页url": "https://www.aaz.cx/",
+    "分类": "排行$list/djwuqu#歌单$playtype/index#歌手$singerlist/index/index/index/index#MV$mvlist/index#",
+    "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
+    "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"}
 },
 {
     "key": "truvaze",
@@ -408,24 +406,7 @@
     "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 16; PJV110 Build/BP2A.250605.015) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.135 Mobile Safari/537.36",
     "特殊分类链接": "观看,每日$https://truvaze.com/api/media?range=&page={catePg}&per_page=50&category=&ids=&isAnimeOnly=0&sort={cateId}",
     "分类url": "https://truvaze.com/api/media?range={cateId}&page={catePg}&per_page=50&category=&ids=&isAnimeOnly=0&sort=favorite;;k0m0vz",
-    "分类": "所有$all#每日$favorite#每周$weekly#每月$monthly#观看$pv"
-}
-},
-{
-    "key": "一次性-枫叶电影",
-    "name": "🍁┃枫叶┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "手机",
-    "简介": "【琉🔹芸❤广告勿信👉剧情】:+text cor3\">[*],&&</div>",
-    "图片": "data-src=\"&&\"[替换:amp;>>空]",
-    "主页url": "https://www.budaichuchen.net/label/qq.html",
-    "副标题": "ft2\">&&</i>",
-    "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-    "播放数组": "anthology-list-play size\">&&</ul>",
-    "分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}
+    "分类": "所有$all#每日$favorite#每周$weekly#每月$monthly#观看$pv"}
 },
 {
     "key": "一次性-奇点影视",
@@ -441,32 +422,6 @@
     "线路标题": ">&&<",
     "分类url": "https://qidianyingshi.net/top/{cateId}-{area}-time-{class}-----{catePg}---{year}.html",
     "分类": "短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"}
-},
-{
-    "key": "一次性-布袋初尘_源码版(源码精准)",
-    "name": "🍁┃布袋┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "手机",
-    "简介": "【琉🔹芸❤广告勿信👉剧情】:+text cor3\">[*],&&</div>",
-    "图片": "data-src=\"&&\"[替换:amp;>>空]",
-    "主页url": "https://www.budaichuchen.net",
-    "副标题": "ft2\">&&</i>",
-    "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-    "播放数组": "anthology-list-play size\">&&</ul>",
-    "分类url": "https://www.budaichuchen.net/type/{cateId}-{catePg}.html",
-    "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}
-},
-{
-    "key": "QIST-cbh茶杯狐",
-    "name": "🍁┃茶杯┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
-    "分类url": "https://www.cupfox7.com/cupfox/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-    "分类": "电影$fenlei1#电视剧$fenlei2#综艺$fenlei3#动漫$fenlei4"},
-    "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "csp_xBPQ_柠檬影视",
@@ -615,14 +570,17 @@
     "分类":"全部$0#短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}
 }, 
 {
-    "key": "csp_xBPQ_喜多影视",
-    "name": "🍁┃喜多┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
-    "请求头": "User-Agent$MOBILE_UA",
-    "分类url": "https://piaoxue.co/vodshow/{cateId}--{by}-{class}--{letter}---{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+	"key": "csp_耐看影视", 
+    "name": "🍁┃耐看┃影视", 
+    "type":3,
+    "api":"csp_XBPQ",
+    "简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+    "数组":"public-list-exp\"&&</div></",
+    "副标题":"琉芸✨-+>&&</div>",
+    "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "线路数组":"<a class=\"swiper-slide\">&&</a",
+    "线路标题":"💕琉芸👉-+&&",
+    "播放数组":"<ul class=\"anthology-list-play size\">&&</ul>"}
 },
 {
     "key": "猎豹",
