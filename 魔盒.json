@@ -28,7 +28,7 @@
     "name":"🍁┃旺旺┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/旺旺.png",
+    "ext": "./XYQ/旺旺.png",
     "类型": "影视"
 },
 {
@@ -36,7 +36,7 @@
     "name":"🍁┃劉氏┃影業",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/TVB.png",
+    "ext": "./XYQ/TVB.png",
     "类型": "影视"
 },
 {
@@ -44,7 +44,7 @@
     "name": "🍁┃咕咚┃电影",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/咕咚.png",
+    "ext": "./XYQ/咕咚.png",
     "类型": "影视"
 }, 
 {
@@ -52,7 +52,7 @@
     "name": "🍁┃白羊┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/白羊.png",
+    "ext": "./XYQ/白羊.png",
     "类型": "影视"
 },
 {
@@ -60,7 +60,7 @@
     "name": "🍁┃视觉┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/新视觉.png",
+    "ext": "./XYQ/新视觉.png",
     "类型": "影视"
 },
 {
@@ -68,7 +68,7 @@
     "name": "🍁┃起看┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/起看.png",
+    "ext": "./XYQ/起看.png",
     "类型": "影视"
 },
 {
@@ -76,7 +76,7 @@
     "name": "🍁┃全民┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/全民.png",
+    "ext": "./XYQ/全民.png",
     "类型": "影视"
 },
 {
@@ -84,7 +84,7 @@
     "name": "🍁┃大象┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/大象.png",
+    "ext": "./XYQ/大象.png",
     "类型": "影视"
 },
 {
@@ -92,7 +92,7 @@
     "name": "🍁┃天狗┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/天狗.png",
+    "ext": "./XYQ/天狗.png",
     "类型": "影视"
 },
 {
@@ -100,7 +100,7 @@
     "name": "🍁┃麥田┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/麥田.png",
+    "ext": "./XYQ/麥田.png",
     "类型": "影视"
 },
 {
@@ -108,7 +108,7 @@
     "name": "🍁┃微云┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/微云.png",
+    "ext": "./XYQ/微云.png",
     "类型": "影视"
 },
 {
@@ -116,7 +116,7 @@
     "name": "🍁┃片库┃网站",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/片库.png",
+    "ext": "./XYQ/片库.png",
     "类型": "影视"
 },
 {
@@ -124,7 +124,7 @@
     "name": "🍁┃速影┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/速影.png",
+    "ext": "./XYQ/速影.png",
     "类型": "影视"
 },	
 {
@@ -132,7 +132,7 @@
     "name": "🍁┃奇优┃影视",
     "type": 3,
     "api":"csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/奇优.png",
+    "ext": "./XYQ/奇优.png",
     "类型": "影视"
 },
 {
@@ -140,7 +140,7 @@
     "name": "🍁┃饭团┃影院",
     "type":3,
 	"api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/饭团.png",
+    "ext": "./XYQ/饭团.png",
     "类型": "影视"
 },
 {
@@ -148,7 +148,7 @@
     "name": "🍁┃云飞┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/云飞.png",
+    "ext": "./XYQ/云飞.png",
     "类型": "影视"
 },
 {
@@ -156,7 +156,7 @@
     "name": "🍁┃六八┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/六八.png",
+    "ext": "./XYQ/六八.png",
     "类型": "影视"
 },
 {
@@ -164,7 +164,7 @@
     "name": "🍁┃海瑞┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/海瑞.png",
+    "ext": "./XYQ/海瑞.png",
     "类型": "影视"
 },
 {
@@ -172,7 +172,7 @@
     "name": "🍁┃韩片┃剧场",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/韩片.png",
+    "ext": "./XYQ/韩片.png",
     "类型": "影视"
 },
 {
@@ -180,7 +180,7 @@
     "name": "🍁┃短劇┃包子",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/包子.png",
+    "ext": "./XYQ/包子.png",
 	"类型": "短剧"
 },
 {
@@ -188,7 +188,7 @@
     "name": "🍁┃短劇┃憨塔",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/憨塔.png",
+    "ext": "./XYQ/憨塔.png",
     "类型": "短剧"
 },
 {
@@ -204,7 +204,7 @@
     "name": "🍁┃短劇┃剧王",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/剧王.png",
+    "ext": "./XYQ/剧王.png",
     "类型": "短剧"
 },
 {
@@ -212,7 +212,7 @@
     "name": "🍁┃免费┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/不付费.png",
+    "ext": "./XYQ/不付费.png",
     "类型": "短剧"
 },
 {
