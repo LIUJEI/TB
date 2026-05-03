@@ -687,7 +687,7 @@
     "name": "🍁┃耐看┃影视", 
     "type":3,
     "api":"csp_XBPQ",
-    "简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
+    "ext": {"简介":"【琉🔹芸❤广告勿信👉剧情】 ：+&&</div>",
     "数组":"public-list-exp\"&&</div></",
     "副标题":"琉芸✨-+>&&</div>",
     "分类url": "https://nkvod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
