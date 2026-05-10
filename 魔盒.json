@@ -310,7 +310,7 @@
     "name": "🍁┃PTT┃视频",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "站名": "PTT视频",
     "请求头": "User-Agent$MOBILE_UA",
@@ -329,7 +329,7 @@
     "数组": "card\">&&/span>",
     "标题": "alt=\"&&\"",
     "图片": "src=\"&&\"",
-    "副标题": "🌲+badge-success\">&&<",
+    "副标题": "badge-success\">&&<",
     "链接": "href=\"&&\"[替换:/v>>空]+/1",
     "影片年代": "year\":&&,",
     "影片地区": "_area\":\"&&\"",
@@ -363,7 +363,7 @@
     "name": "🍁┃片吧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -415,7 +415,7 @@
     "name": "🍁┃歪片┃星球",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -435,7 +435,7 @@
     "name": "🍁┃白嫖┃联盟",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -460,7 +460,7 @@
     "name": "🍁┃河马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -486,7 +486,7 @@
     "name": "🍁┃影视┃大全",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
