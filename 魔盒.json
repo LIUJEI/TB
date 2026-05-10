@@ -112,14 +112,6 @@
     "类型": "影视"
 },
 {
-    "key": "PKW",
-    "name": "🍁┃片库┃网站",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XYQ/片库.png",
-    "类型": "影视"
-},
-{
     "key": "速影",
     "name": "🍁┃速影┃影院",
     "type": 3,
@@ -511,30 +503,6 @@
     "分类": "电影$dongzuopian#电视剧$guochanju#综艺$zongyijiemu#动漫$dongmanpian",
     "筛选": "1",
     "类型": "喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#犯罪片$fanzuipian#战争片$zhanzhengpian#纪录片$jilupian||香港剧$xianggangju#韩国剧$hanju#美国剧$meiguoju#日本剧$ribenju#海外剧$haiwaiju#泰国剧$taiguoju#台湾剧$taiwanju||空||空||空"}
-},
-{
-    "key": "好看影视",
-    "name": "🍁┃好看┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
-    "主页url": "https://www.hitv.app/",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "影片状态": "备注：&&</div>",
-    "副标题": "🌲琉芸专属",
-    "影片类型": "module-info-tag\">&&立即播放",
-    "搜索模式": "1",
-    "搜索url": "https://www.hitv.app/search/-------------.html?wd={wd}",
-    "搜索数组": "module-poster-item module-item-class\">&&</a>",
-    "搜索标题": "alt=\"&&\"",
-    "搜索副标题": "note\">&&</div>",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-    "分类url": "https://www.hitv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"}
 },
 {
     "key": "电影先生1",
