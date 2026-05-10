@@ -667,6 +667,19 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"}
 },
 {
+    "key": "vS",
+    "name": "🍁┃vS┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "线路数组": "<a href=\"#playlist&&</a>",
+    "线路标题": "💕琉芸👉+>&&<[不包含:APP高清]",
+    "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "电影$6#电视剧$2#综艺$3#动漫$4"}
+},
+{
     "key": "YY影视",
     "name": "🍁┃YY┃影视",
     "type": 3,
@@ -1139,31 +1152,6 @@
     "链接": "href=\"&&\"",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#",
     "分类url": "http://www.529519.com/listnew/{cateId}-{catePg}.html"}
-},
-{
-    "key": "yy影院",
-    "name": "🍁┃YY┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "副标题": "🌲+note text-bg-r\">&&</span>",
-    "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#微电影$weidianying#新闻$xinwen#",
-    "分类url": "https://v.yy233.com/{cateId}/index__{area}_{year}___{catePg}.html"}
-},
-{
-    "key": "vS",
-    "name": "🍁┃vS┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "线路数组": "<a href=\"#playlist&&</a>",
-    "线路标题": "💕琉芸👉+>&&<[不包含:APP高清]",
-    "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "电影$6#电视剧$2#综艺$3#动漫$4"}
 },
 {
     "key": "😍AAZ音乐",
