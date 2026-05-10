@@ -236,7 +236,7 @@
     "name": "🍁┃抖音┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "分类url": "https://www.gzypcny.com/djshow/{cateId}----{lang}----{catePg}---.html",
     "分类": "♨️抖音短剧$5"}
 },
@@ -245,7 +245,7 @@
     "name": "🍁┃蝶众┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "分类": "♨️蝶众短剧$6",
     "分类url": "https://www.dzyy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"}
 },
@@ -254,7 +254,7 @@
     "name": "🍁┃兰岛┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "分类": "♨️兰岛短剧$20",
     "分类url": "https://www.landaolx.com/vodshow/{cateId}--------{catePg}---{year}/"}
 },
@@ -264,7 +264,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "分类url": "https://www.yrsxjy.com/jzersw/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
     "分类": "♨️九洲短剧$5",
     "搜索url": "https://www.yrsxjy.com/jzersc/{wd}----------{pg}---.html"}
@@ -274,7 +274,7 @@
     "name": "🍁┃五五┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "分类url": "https://www.duanju55.com/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
     "分类": "♨️五五短剧$1",
     "搜索url": "https://www.duanju55.com/index.php/vod/search/page/{pg}/wd/{wd}.html"}
@@ -284,7 +284,7 @@
     "name": "🍁┃茄子┃短劇",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "副标题": "✨+right\">&&<",
     "线路标题": "panel-hd\">&&",
     "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
@@ -295,11 +295,11 @@
     "name": "🍁┃桃子┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "/vod/&&</a>",
-    "标题": "🌲+alt=\"&&\"",
+    "标题": "alt=\"&&\"",
     "图片": "src=\"&&\"",
     "链接": "/vod/+&&\"",
     "线路数组": "playlists&&/div>",
@@ -311,10 +311,10 @@
 }, 
 {
     "key": "csp_51追剧",
-    "name": "🍁┃51追剧",
+    "name": "🍁┃51┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -326,10 +326,10 @@
 },
 {
     "key": "追剧🍁影视",
-    "name": "🍁┃追剧影视",
+    "name": "🍁┃追剧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -341,10 +341,10 @@
 },
 {
     "key": "csp_追剧网",
-    "name": "🍁┃追剧影视",
+    "name": "🍁┃追剧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -355,26 +355,11 @@
     "分类url": "https://www.sxnycy.com/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "大发d煮2",
-    "name": "🍁┃追剧影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "pic&&</li>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类ID": "/vodtype/&&.html",
-    "分类url": "https://www.njshunma.com/vodtype/{cateId}-{catePg}.html"}
-},
-{
     "key": "可可☔影视",
-    "name": "🍁┃可可影视",
+    "name": "🍁┃可可┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "cover-md&&</a>",
@@ -385,26 +370,11 @@
     "分类url": "https://www.icnblog.org/show/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "sd狐2",
-    "name": "🍁┃现在影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "lazyload&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🔥+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
-    "分类url": "http://xylg.cshtz.cn/slist/{cateId}.html?page={catePg}"}
-},
-{
     "key": "茶杯狐",
-    "name": "🍁┃茶杯影视",
+    "name": "🍁┃茶杯┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -414,26 +384,11 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"}
 },
 {
-    "key": "茶杯狐2",
-    "name": "🍁┃茶狐影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "module-item-cover&&</div>",
-    "图片": "data-src=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-    "分类url": "https://www.chabeihu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}"}
-},
-{
     "key": "河马☔影视",
-    "name": "🍁┃河马影视",
+    "name": "🍁┃河马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -444,10 +399,10 @@
 },
 {
     "key": "盒马☔影视",
-    "name": "🍁┃盒马☔影视",
+    "name": "🍁┃盒马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -459,10 +414,10 @@
 },
 {
     "key": "七七☔影视",
-    "name": "🍁┃七七影视",
+    "name": "🍁┃七七┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -473,56 +428,11 @@
     "分类url": "https://www.zeus-solar-system.com/show/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "星空☔影视",
-    "name": "🍁┃星空影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "lazyload&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类ID": "/dk/&&.html",
-    "分类url": "http://www.dkjcx.com/dk/{cateId}-{catePg}.html"}
-},
-{
-    "key": "线卡☔影视",
-    "name": "🍁┃星空影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "lazyload&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类": "电视剧$1#电影$2#综艺$3#动漫$4#",
-    "分类url": "https://www.plateinteractive.com/s/{cateId}-{catePg}.html"}
-},
-{
-    "key": "看屋☔影视",
-    "name": "🍁┃西瓜影音",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "loading&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
-    "分类url": "https://m.kkw361.com/{cateId}/{catePg}-{class}-all-0-3-0-0-0"}
-},
-{
     "key": "映像星球",
-    "name": "🍁┃映像星球",
+    "name": "🍁┃映像┃星球",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "分类url": "https://www.yxxq32.cc/top/{cateId}--------{catePg}---.html",
@@ -530,10 +440,10 @@
 },
 {
     "key": "影视☔大全",
-    "name": "🍁┃影视大全",
+    "name": "🍁┃影视┃大全",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -544,41 +454,11 @@
     "分类url": "https://www.kanys6.com/filmshow/{cateId}-{area}-------{catePg}---{year}.html"}
 },
 {
-    "key": "200狐",
-    "name": "🍁┃大全影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "uk-transition-toggle&&</div>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类url": "https://www.huayaott.com/vodtype/{cateId}-{catePg}.html",
-    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
-},
-{
-    "key": "泡泡🍁影视",
-    "name": "🍁┃泡泡影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "module-item-pic&&</div>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类url": "https://jazxrmyy.com/vodshow/{cateId}--------{catePg}---{year}.html",
-    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
-},
-{
     "key": "135影院",
-    "name": "🍁┃135☔影院",
+    "name": "🍁┃135┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -590,10 +470,10 @@
 },
 {
     "key": "片库🍁影视",
-    "name": "🍁┃片库影视",
+    "name": "🍁┃片库┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
@@ -605,7 +485,7 @@
 },
 {
     "key": "csp_XBPQ_片吧🥗影视",
-    "name": "🍁┃片吧🥗影视",
+    "name": "🍁┃片吧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -659,7 +539,7 @@
       "name": "高清🍁影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "数组": "hl-item-thumb hl-lazy&&</li>",
@@ -676,7 +556,7 @@
       "name": "八戒☔影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "数组": "item-con&&</a>",
@@ -692,7 +572,7 @@
       "name": "番茄🍁APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "主页url": "https://www.dzwhs.com",
@@ -707,7 +587,7 @@
       "name": "艾迪🍁影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "分类url": "https://vidhub4.cc/",
@@ -722,7 +602,7 @@
       "name": "睛天🍁影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "站名": "睛天🍁影视",
         "主页url": "https://www.lhysyllh.com/",
         "副标题": "高清线路HD",
@@ -740,7 +620,7 @@
       "name": "大师🍁影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "副标题": "高清线路HD",
         "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
@@ -751,7 +631,7 @@
       "name": "看看🍁影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": {
+      "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "主页url": "https://www.kanyingt.com/",
