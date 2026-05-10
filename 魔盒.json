@@ -286,7 +286,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
-    "副标题": "琉芸✨-+right\">&&<",
+    "副标题": "✨+right\">&&<",
     "线路标题": "panel-hd\">&&",
     "分类url": "https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html",
     "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
@@ -300,7 +300,7 @@
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "/vod/&&</a>",
-    "标题": "▶️+alt=\"&&\"",
+    "标题": "🌲+alt=\"&&\"",
     "图片": "src=\"&&\"",
     "链接": "/vod/+&&\"",
     "线路数组": "playlists&&/div>",
@@ -312,7 +312,7 @@
 }, 
 {
     "key": "csp_51追剧",
-    "name": "☔51追剧",
+    "name": "🍁┃51追剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -320,14 +320,14 @@
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
     "图片": "data-original=\"&&\"",
-    "标题": "▶️+title=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
     "链接": "href=\"&&\"",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#",
     "分类url": "https://www.bdzyzdm.com/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
     "key": "csp_追剧网",
-    "name": "☔追剧影视",
+    "name": "🍁┃追剧影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -335,14 +335,14 @@
     "编码": "UTF-8",
     "数组": "lazyload&&</a>",
     "图片": "data-original=\"&&\"",
-    "标题": "🌹+title=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
     "链接": "href=\"&&\"",
     "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
     "分类url": "https://www.sxnycy.com/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
     "key": "s大发d煮2",
-    "name": "☔追剧影视",
+    "name": "🍁┃追剧影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -350,258 +350,186 @@
     "编码": "UTF-8",
     "数组": "pic&&</li>",
     "图片": "data-original=\"&&\"",
-    "标题": "🌹+title=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
     "链接": "href=\"&&\"",
     "分类ID": "/vodtype/&&.html",
     "分类url": "https://www.njshunma.com/vodtype/{cateId}-{catePg}.html"}
 },
+{
+    "key": "可可☔影视",
+    "name": "🍁┃可可影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "cover-md&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+alt=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
+    "分类url": "https://www.icnblog.org/show/{cateId}--------{catePg}---.html"}
+},
+{
+    "key": "影视☔大全",
+    "name": "影视大全",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dy#电视剧$dsj#动漫$dm#",
+    "分类url": "https://www.kanys6.com/filmshow/{cateId}-{area}-------{catePg}---{year}.html"}
+},
 
 {
-      "key": "s大sdd煮2",
-      "name": "158☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🌹+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37#",
-        "分类url": "https://www.serart.cn/show/{cateId}--------{catePg}---{year}.html"
-      }
-    },
-    {
-      "key": "s大是d煮2",
-      "name": "可可☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "cover-md&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🌹+alt=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
-        "分类url": "https://www.icnblog.org/show/{cateId}--------{catePg}---.html"
-      }
-    },
-    {
-      "key": "s大啊d煮2",
-      "name": "盒马☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
-        "分类url": "https://www.smartthinkingglobal.com/vodshow/{cateId}--------{catePg}---.html"
-      }
-    },
-    {
-      "key": "茶杯狐",
-      "name": "茶杯🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "s大啊煮2",
-      "name": "新空☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类ID": "/dk/&&.html",
-        "分类url": "http://www.dkjcx.com/dk/{cateId}-{catePg}.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "s大煮2",
-      "name": "猪猪☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "video-content-item&&</p>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-        "分类url": "https://cncjiqi.com/vodshow/{cateId}--------{catePg}---.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "sddd2",
-      "name": "侃侃☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dy#电视剧$dsj#动漫$dm#",
-        "分类url": "https://www.kanys6.com/filmshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "sd狐2",
-      "name": "现在☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
-        "分类url": "http://xylg.cshtz.cn/slist/{cateId}.html?page={catePg}",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "茶杯狐2",
-      "name": "茶狐☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "module-item-cover&&</div>",
-        "图片": "data-src=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-        "分类url": "https://www.chabeihu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "2速54院",
-      "name": "河马☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#",
-        "分类url": "https://www.173103.com/vodshow/{cateId}--------{catePg}---/",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "1速54院",
-      "name": "七七☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37#",
-        "分类url": "https://www.zeus-solar-system.com/show/{cateId}--------{catePg}---.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "1速90院",
-      "name": "线卡☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电视剧$1#电影$2#综艺$3#动漫$4#",
-        "分类url": "https://www.plateinteractive.com/s/{cateId}-{catePg}.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "1速0院",
-      "name": "速影☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "loading&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#短剧$weidianying#",
-        "分类url": "https://www.bdjygs.com/list/{cateId}___{year}__.html",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "130150影0院",
-      "name": "看屋☔影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "loading&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
-        "分类url": "https://m.kkw361.com/{cateId}/{catePg}-{class}-all-0-3-0-0-0",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "25470狐",
-      "name": "缨帽🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://www.yxxq32.cc/top/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$41#短剧$6#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
+    "key": "sd狐2",
+    "name": "现在影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🔥+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#",
+    "分类url": "http://xylg.cshtz.cn/slist/{cateId}.html?page={catePg}"}
+},
+{
+    "key": "茶杯狐",
+    "name": "茶杯影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "标题": "🌲+title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"}
+},
+{
+    "key": "茶杯狐2",
+    "name": "茶狐影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "module-item-cover&&</div>",
+    "图片": "data-src=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+    "分类url": "https://www.chabeihu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}"}
+},
+{
+    "key": "河马☔影视",
+    "name": "🍁┃河马影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "标题": "🌲+title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
+    "分类url": "https://www.smartthinkingglobal.com/vodshow/{cateId}--------{catePg}---.html"}
+},
+{
+    "key": "盒马☔影视",
+    "name": "盒马☔影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#",
+    "分类url": "https://www.173103.com/vodshow/{cateId}--------{catePg}---/"}
+},
+{
+    "key": "七七☔影视",
+    "name": "七七影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37#",
+    "分类url": "https://www.zeus-solar-system.com/show/{cateId}--------{catePg}---.html"}
+},
+{
+    "key": "星空☔影视",
+    "name": "星空影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类ID": "/dk/&&.html",
+    "分类url": "http://www.dkjcx.com/dk/{cateId}-{catePg}.html"}
+},
+{
+    "key": "线卡☔影视",
+    "name": "星空影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电视剧$1#电影$2#综艺$3#动漫$4#",
+    "分类url": "https://www.plateinteractive.com/s/{cateId}-{catePg}.html"}
+},
+{
+    "key": "看屋☔影视",
+    "name": "西瓜影音",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "loading&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🍉+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
+    "分类url": "https://m.kkw361.com/{cateId}/{catePg}-{class}-all-0-3-0-0-0"}
+},
+{
+    "key": "映像星球",
+    "name": "映像星球",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "https://www.yxxq32.cc/top/{cateId}--------{catePg}---.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$41#短剧$6#"}
+},
     {
       "key": "200狐",
       "name": "大全🍁影视",
