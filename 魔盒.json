@@ -325,6 +325,21 @@
     "分类url": "https://www.bdzyzdm.com/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
+    "key": "追剧🍁影视",
+    "name": "🍁┃追剧影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://www.luwozhuji.com/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#"}
+},
+{
     "key": "csp_追剧网",
     "name": "🍁┃追剧影视",
     "type": 3,
@@ -340,7 +355,7 @@
     "分类url": "https://www.sxnycy.com/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "s大发d煮2",
+    "key": "大发d煮2",
     "name": "🍁┃追剧影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -370,24 +385,8 @@
     "分类url": "https://www.icnblog.org/show/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "影视☔大全",
-    "name": "影视大全",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "lazyload&&</a>",
-    "图片": "data-original=\"&&\"",
-    "标题": "🌲+title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "分类": "电影$dy#电视剧$dsj#动漫$dm#",
-    "分类url": "https://www.kanys6.com/filmshow/{cateId}-{area}-------{catePg}---{year}.html"}
-},
-
-{
     "key": "sd狐2",
-    "name": "现在影视",
+    "name": "🍁┃现在影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -402,7 +401,7 @@
 },
 {
     "key": "茶杯狐",
-    "name": "茶杯影视",
+    "name": "🍁┃茶杯影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】 ：+&&",
@@ -416,7 +415,7 @@
 },
 {
     "key": "茶杯狐2",
-    "name": "茶狐影视",
+    "name": "🍁┃茶狐影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -445,7 +444,7 @@
 },
 {
     "key": "盒马☔影视",
-    "name": "盒马☔影视",
+    "name": "🍁┃盒马☔影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -460,7 +459,7 @@
 },
 {
     "key": "七七☔影视",
-    "name": "七七影视",
+    "name": "🍁┃七七影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -475,7 +474,7 @@
 },
 {
     "key": "星空☔影视",
-    "name": "星空影视",
+    "name": "🍁┃星空影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -490,7 +489,7 @@
 },
 {
     "key": "线卡☔影视",
-    "name": "星空影视",
+    "name": "🍁┃星空影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -505,7 +504,7 @@
 },
 {
     "key": "看屋☔影视",
-    "name": "西瓜影音",
+    "name": "🍁┃西瓜影音",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -513,14 +512,14 @@
     "编码": "UTF-8",
     "数组": "loading&&</a>",
     "图片": "data-original=\"&&\"",
-    "标题": "🍉+title=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
     "链接": "href=\"&&\"",
     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
     "分类url": "https://m.kkw361.com/{cateId}/{catePg}-{class}-all-0-3-0-0-0"}
 },
 {
     "key": "映像星球",
-    "name": "映像星球",
+    "name": "🍁┃映像星球",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -529,162 +528,133 @@
     "分类url": "https://www.yxxq32.cc/top/{cateId}--------{catePg}---.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$41#短剧$6#"}
 },
-    {
-      "key": "200狐",
-      "name": "大全🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "uk-transition-toggle&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://www.huayaott.com/vodtype/{cateId}-{catePg}.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "茶204720狐",
-      "name": "泡泡🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "module-item-pic&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://jazxrmyy.com/vodshow/{cateId}--------{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "茶23杯0狐",
-      "name": "片库🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://www.sumintao.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "茶0杯0狐",
-      "name": "追剧🍁影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类url": "https://www.luwozhuji.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
-        "简介": "🍁随缘提示🍁水印广告勿信，谨防诈骗🍁"
-      }
-    },
-    {
-      "key": "135影院",
-      "name": "135☔影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "🔥+title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$dianying#连续剧$dianshiju#",
-        "分类url": "https://www.135kan.cc/type/{cateId}-{catePg}/"
-      }
-    },
-    {
-      "key": "KA影院",
-      "name": "KA☔影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "数组": "hl-lazy&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "分类": "电影$1#影视$2#综艺$3#动漫$4#短剧$5#",
-        "分类url": "https://ikady.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
-      "key": "片吧影视",
-      "name": "片吧🥗影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.pbpbt.com/",
-        "首页": "120",
-        "起始页": "1",
-        "分类url": "/class/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html;;mrc",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "二次截取": "",
-        "数组": "lazyload\"&&</a",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "🌹+text-right\">&&</",
-        "链接": "href=\"&&\"",
-        "影片年代": "年份：&&</p",
-        "影片地区": "地区：&&</p",
-        "影片类型": "类型：&&</p",
-        "状态": "状态：&&</p",
-        "导演": "🍄+导演：&&</p",
-        "主演": "🍄+主演：&&</p",
-        "简介": "🍄请勿相信影片中的广告👉+style=\"display: none;\"&&</span",
-        "线路二次截取": "",
-        "线路数组": "pull-right1&&/span>",
-        "线路标题": "🍄+>&&<",
-        "播放二次截取": "",
-        "播放数组": "playlist clearfix&&</ul>",
-        "倒序": "0",
-        "播放列表": "<a&&/a>",
-        "播放标题": "🌹+>&&<",
-        "播放链接": "href=\"&&\"",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "搜索请求头": "UTF-8;{User-Agent@Mozilla/5.0",
-        "搜索url": "http://www.pbpbt.com/sou/{wd}----------{pg}---.html",
-        "搜索模式": "1",
-        "搜索后缀": "",
-        "搜索二次截取": "",
-        "搜索数组": "lazyload\"&&</a",
-        "搜索标题": "title=\"&&\"",
-        "搜索图片": "original=\"&&\"",
-        "搜索副标题": "right\">&&</",
-        "搜索链接": "href=\"&&\"",
-        "排序": "最新上映&超高人气&全网热播&高分好评",
-        "排序值": "time&hits&up&score",
-        "筛选": "1",
-        "类型": "动作片$5#喜剧片$6#恐怖片$7#科幻片$8#爱情片$9#剧情片$10#战争片$11||国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#海外剧$17||节目秀$23#纪录片$12#赛事$26||动画电影$21#动画剧集$22"
-      }
-    },
-    {
+{
+    "key": "影视☔大全",
+    "name": "🍁┃影视大全",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dy#电视剧$dsj#动漫$dm#",
+    "分类url": "https://www.kanys6.com/filmshow/{cateId}-{area}-------{catePg}---{year}.html"}
+},
+{
+    "key": "200狐",
+    "name": "🍁┃大全影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "uk-transition-toggle&&</div>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://www.huayaott.com/vodtype/{cateId}-{catePg}.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
+},
+{
+    "key": "泡泡🍁影视",
+    "name": "🍁┃泡泡影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "module-item-pic&&</div>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://jazxrmyy.com/vodshow/{cateId}--------{catePg}---{year}.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
+},
+{
+    "key": "135影院",
+    "name": "🍁┃135☔影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类": "电影$dianying#连续剧$dianshiju#",
+    "分类url": "https://www.135kan.cc/type/{cateId}-{catePg}/"}
+},
+{
+    "key": "片库🍁影视",
+    "name": "🍁┃片库影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "数组": "lazyload&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "🌲+title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "分类url": "https://www.sumintao.com/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
+},
+{
+    "key": "csp_XBPQ_片吧🥗影视",
+    "name": "🍁┃片吧🥗影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "http://www.pbpbt.com/",
+    "首页": "120",
+    "起始页": "1",
+    "分类url": "/class/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html;;mrc",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+    "二次截取": "",
+    "数组": "lazyload\"&&</a",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "副标题": "🌲+text-right\">&&</",
+    "链接": "href=\"&&\"",
+    "影片年代": "年份：&&</p",
+    "影片地区": "地区：&&</p",
+    "影片类型": "类型：&&</p",
+    "状态": "状态：&&</p",
+    "导演": "导演：&&</p",
+    "主演": "主演：&&</p",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】📢+style=\"display: none;\"&&</span",
+    "线路二次截取": "",
+    "线路数组": "pull-right1&&/span>",
+    "线路标题": "💕琉芸👉+>&&<",
+    "播放二次截取": "",
+    "播放数组": "playlist clearfix&&</ul>",
+    "倒序": "0",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "var player_*\"url\":\"&&\"",
+    "搜索请求头": "UTF-8;{User-Agent@Mozilla/5.0",
+    "搜索url": "http://www.pbpbt.com/sou/{wd}----------{pg}---.html",
+    "搜索模式": "1",
+    "搜索后缀": "",
+    "搜索二次截取": "",
+    "搜索数组": "lazyload\"&&</a",
+    "搜索标题": "title=\"&&\"",
+    "搜索图片": "original=\"&&\"",
+    "搜索副标题": "right\">&&</",
+    "搜索链接": "href=\"&&\"",
+    "排序": "最新上映&超高人气&全网热播&高分好评",
+    "排序值": "time&hits&up&score",
+    "筛选": "1",
+    "类型": "动作片$5#喜剧片$6#恐怖片$7#科幻片$8#爱情片$9#剧情片$10#战争片$11||国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#海外剧$17||节目秀$23#纪录片$12#赛事$26||动画电影$21#动画剧集$22"}
+},
+{
       "key": "高清在线",
       "name": "高清🍁影视",
       "type": 3,
