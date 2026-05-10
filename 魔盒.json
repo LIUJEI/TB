@@ -287,6 +287,7 @@
     "name": "🍁┃短剧┃大全",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -309,6 +310,7 @@
     "name": "🍁┃PTT┃视频",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "站名": "PTT视频",
     "请求头": "User-Agent$MOBILE_UA",
@@ -361,6 +363,7 @@
     "name": "🍁┃片吧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -412,6 +415,7 @@
     "name": "🍁┃歪片┃星球",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -431,12 +435,13 @@
     "name": "🍁┃白嫖┃联盟",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
     "数组": "module-item-pic&&span></div>",
     "标题": "title=\"&&\"",
-    "副标题": "🌲+<div class=\"module-item-text\">&&</div>",
+    "副标题": "<div class=\"module-item-text\">&&</div>",
     "图片": "data-src=\"&&\"",
     "播放链接": "href=\"&&\"",
     "线路数组": "data-dropdown&&</div>",
@@ -455,6 +460,7 @@
     "name": "🍁┃河马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -480,6 +486,7 @@
     "name": "🍁┃影视┃大全",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
