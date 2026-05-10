@@ -3,7 +3,7 @@
         "数组": "class=\"video-item&&class=\"video-con",
         "标题": "title=\"&&\"",
         "图片": "data-original=\"&&\"",
-        "副标题": "▶️+duration\">&&</div>",
+        "副标题": "🌲+duration\">&&</div>",
         "链接": "href=\"&&\"",
         "播放数组": "playlist-sort-content&&</ul>",
         "播放列表": "<a&&a>",
