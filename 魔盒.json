@@ -287,7 +287,6 @@
     "name": "🍁┃短剧┃大全",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -310,7 +309,6 @@
     "name": "🍁┃PTT┃视频",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "站名": "PTT视频",
     "请求头": "User-Agent$MOBILE_UA",
@@ -363,7 +361,6 @@
     "name": "🍁┃片吧┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -415,7 +412,6 @@
     "name": "🍁┃歪片┃星球",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -435,7 +431,6 @@
     "name": "🍁┃白嫖┃联盟",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -460,7 +455,6 @@
     "name": "🍁┃河马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -486,7 +480,6 @@
     "name": "🍁┃影视┃大全",
     "type": 3,
     "api": "csp_XBPQ",
-	"jar": "./JAR/fengdou.jar",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -621,7 +614,7 @@
     "name": "🍁┃天天┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./JAR/BPQ.jar",
+	"jar": "./JAR/BPQ.jar",
     "ext": {
     "编码": "UTF-8",
     "倒序": "1",
@@ -640,42 +633,6 @@
     "嗅探词": ".m3u8",
     "分类url": "https://www.baixiaotangtop.com/vodtype/{cateId}-{catePg}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"}
-},
-{
-    "key": "vS",
-    "name": "🍁┃vS┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "线路数组": "<a href=\"#playlist&&</a>",
-    "线路标题": "💕琉芸👉+>&&<[不包含:APP高清]",
-    "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "电影$6#电视剧$2#综艺$3#动漫$4"}
-},
-{
-    "key": "YY影视",
-    "name": "🍁┃YY┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-	"jar": "./JAR/BPQ.jar",
-    "ext": {
-    "编码": "UTF-8",
-    "数组": "p:.myui-vodlist__thumb",
-    "标题": "p:->title",
-    "副标题": "🌲+p:span->text[含序号:3]",
-    "图片": "p:a->data-original",
-    "链接": "href=\"&&\"",
-    "线路数组": "p:.nav-tabs[不包含:同]",
-    "线路标题": "💕琉芸👉+p:a->text",
-    "播放数组": "p:.myui-content__list",
-    "播放列表": "p:a",
-    "播放标题": "p:->text",
-    "播放链接": "p:->href",
-    "跳转播放链接": "var player_*url\":\"&&\"[工具:解url]",
-    "分类url": "http://www.cn-youbang.net/hdshow/{cateId}--------{catePg}---.html",
-    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#"}
 },
 {
     "key": "小蜜蜂影院",
@@ -703,6 +660,42 @@
     "嗅探词": ".m3u8",
     "分类url": "https://www.xmfyy.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
     "分类": "连续剧$2#电影$1#动漫$4#综艺$3#"}
+},
+{
+    "key": "YY影视",
+    "name": "🍁┃YY┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+	"jar": "./JAR/BPQ.jar",
+    "ext": {
+    "编码": "UTF-8",
+    "数组": "p:.myui-vodlist__thumb",
+    "标题": "p:->title",
+    "副标题": "🌲+p:span->text[含序号:3]",
+    "图片": "p:a->data-original",
+    "链接": "href=\"&&\"",
+    "线路数组": "p:.nav-tabs[不包含:同]",
+    "线路标题": "💕琉芸👉+p:a->text",
+    "播放数组": "p:.myui-content__list",
+    "播放列表": "p:a",
+    "播放标题": "p:->text",
+    "播放链接": "p:->href",
+    "跳转播放链接": "var player_*url\":\"&&\"[工具:解url]",
+    "分类url": "http://www.cn-youbang.net/hdshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#"}
+},
+{
+    "key": "vS",
+    "name": "🍁┃vS┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "线路数组": "<a href=\"#playlist&&</a>",
+    "线路标题": "💕琉芸👉+>&&<[不包含:APP高清]",
+    "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "电影$6#电视剧$2#综艺$3#动漫$4"}
 },
 {
     "key": "特看网🍁影视",
@@ -1286,6 +1279,159 @@
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
     "sign": "679543610991810f19698c187e5e106e"}
+},
+{
+    "key": "听心99",
+    "name": "听心｜APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "https://api.12321app.com/api",
+    "LoginPath": "/app/log",
+    "appkey": "a0a18659a9977a47e53442cd084b536c",
+    "versionName": "2.8.1",
+    "name": "听心视频",
+    "package": "com.iksp.adsys.jjsp",
+    "buildNumber": "2001",
+    "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"}
+},
+{
+    "key": "追番99",
+    "name": "追番｜APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "https://api.hboqy.cn.hboqy.cn/api",
+    "LoginPath": "/app/log",
+    "appkey": "a0a18659a9977a47e53442cd084b536c",
+    "versionName": "6.1.7",
+    "name": "追番达人",
+    "package": "com.android.packageinstaller",
+    "buildNumber": "2002",
+    "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}
+},
+{
+    "key": "咕噜99",
+    "name": "咕噜丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://103.45.132.22:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+    "versionName": "1.9.5",
+    "name": "咕噜咕噜",
+    "package": "com.bd.tool.gulu",
+    "buildNumber": "2001",
+    "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"}
+},
+{
+    "key": "剧圈99",
+    "name": "剧圈丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://124.221.3.182:19987/app/bn",
+    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+    "versionName": "1.2.0",
+    "name": "剧圈圈",
+    "package": "com.qingtangxiaozhuan.xyz",
+    "buildNumber": "2002",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+},
+{
+    "key": "双星99",
+    "name": "双星丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://175.178.65.250:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "f66f65db127e48449f073c2c6eb0f993",
+    "versionName": "6.4.5",
+    "name": "双子星动漫",
+    "package": "com.yingfu.mobile.android.pgsp",
+    "buildNumber": "2003",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+},
+{
+    "key": "顾我99",
+    "name": "顾我丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://117.50.200.113:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+    "versionName": "4.3.1",
+    "name": "顾我追剧",
+    "package": "com.guwozhuijux.app",
+    "buildNumber": "2001",
+    "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
+},
+{
+    "key": "橘汁",
+    "name": "橘汁｜APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "橘汁",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.lxf.snzlcgtzxyx",
+    "host": "",
+    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+    "version": "3.0.2.1",
+    "decrypt": "1"}
+},
+{
+    "key": "华谊",
+    "name": "华谊｜APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "华谊",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.muyue.tool",
+    "host": "",
+    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+    "version": "1.0.0.4",
+    "decrypt": "1"}
+},
+{
+    "key": "薯条",
+    "name": "薯条｜APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "薯条影视",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.st.standroid",
+    "host": "",
+    "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+    "version": "5.0.0.1",
+    "decrypt": "0"}
+},
+{
+    "key": "春秋",
+    "name": "春秋｜APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "春秋追剧",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "QK40VUWYWE45L0DOSTVOTEP0AM44PQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.bingewatch.android",
+    "host": "",
+    "site": "https://guwoandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_guwozhuijuandroid.txt",
+    "version": "2.0.0.1",
+    "decrypt": "0"}
 },
 {
     "key": "知予",
