@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "./JAR/spider0512.jar",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/spider0512.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
