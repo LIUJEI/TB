@@ -162,19 +162,11 @@
 	"类型": "APP"
 },
 {
-    "key": "csp_cangL",
-    "name": "🆘┃滄浪┃秒播",
+    "key": "csp_soufa",
+    "name": "🆘┃首发┃秒播",
     "type": 3,
-    "api": "csp_AppGet",
-	"ext": "http://app1-0-0.87333.cc|VwsHxkCViDXEExWa",
-	"类型": "APP"
-},
-{
-    "key": "csp_缘梦",
-    "name": "🆘┃缘梦┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-	"ext":  "http://165.99.42.137:5432|1234567890987654",
+    "api": "csp_AppQi",
+    "ext": "http://110.42.67.221:9002|FTgP4Gq8zPiqbt7M",
 	"类型": "APP"
 },
 {
@@ -186,18 +178,12 @@
 	"类型": "APP"
 },
 {
-    "key": "csp_奴娜",
-    "name": "🆘┃奴娜┃秒播",
+    "key": "csp_小鹿",
+    "name": "🆘┃小鹿┃秒播",
     "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://www.nntv.in/api.php/v1.vod"
-},
-{
-    "key": "csp_大米",
-    "name": "🆘┃星球┃秒播",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://www.dmo6o1a9a3.shop/api.php/app/"
+    "api": "csp_AppQi",
+    "ext": "https://xiaolu.pwwhu.cn|x5Bep6Q78VCeYnPS",
+    "类型": "APP"
 },
 {
     "key": "聚搜影",
