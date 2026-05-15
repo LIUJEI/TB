@@ -88,11 +88,10 @@
     "type": 3,
     "api": "./AppGet.js",
     "ext": {
-    "host": "http://110.42.67.221:8003/",
-    "key": "123456789abcdefg",
-    "init": "V122",
-    "api": 2,
-    "ua": "okhttp/3.10.0"}
+    "host": "http://118.184.172.63:22011",
+    "key": "whosyoudaddy5477",
+    "类型": "APP",	
+    "api": 2}
 },
 {
     "key": "csp_云播",
@@ -118,7 +117,7 @@
     "key": "csp_橘子",
     "name": "🆘┃橘子┃影视",
     "type": 3,
-    "api": "https://gitee.com/s-7/tv/raw/0/Fei.py",
+    "api": "https://pan.szfx.top/down.php/1d1ec49276f6668d766af6376b3cfc94.py",
     "ext": "https://dmc.yy-fun.cc/feiapp"
 },
 {
@@ -192,20 +191,6 @@
     "type": 3,
     "api": "csp_AppYsV2",
     "ext": "https://www.nntv.in/api.php/v1.vod"
-},
-{
-    "key": "csp_闪影",
-    "name": "🆘┃闪影┃秒播",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-}, 
-{
-    "key": "csp_帆帆",
-    "name": "🆘┃帆帆┃秒播",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://qpcj.69mini.com/api.php/app/"
 },
 {
     "key": "csp_大米",
