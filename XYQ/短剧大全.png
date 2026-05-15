@@ -1,0 +1,16 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.yingshidaquantv.com/index.php/ajax/data?mid=1&tid=36",
+    "二次截取": "list\":\\[&&\\][替换:\"vod_id>>组头\"vod_id#\"vod_year>>组尾\"vod_year]",
+    "数组": "组头&&组尾",
+    "标题": "vod_name\":\"&&\"",
+    "图片": "vod_pic\":\"&&\"",
+    "副标题": "🌲+vod_remarks\":\"&&\"",
+    "链接": "/vod/+vod_id\":&&,+.html",
+    "线路数组": "\\#ewave-playlist&&</ul>",
+    "线路标题": "💕琉芸👉+>&&</",
+    "跳转播放链接": "var player_*\"url\":\"&&\"",
+    "简介": "【琉🔹芸❤广告勿信👉剧情】📢+简介：&&</div>",
+    "分类url": "/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=30",
+    "分类": "重生民国$37&穿越年代$38&现代言情$39&反转爽文$40&女恋总裁$41&闪婚离婚$42&都市脑洞$43&古装仙侠$44"}
