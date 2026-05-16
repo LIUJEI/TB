@@ -39,18 +39,11 @@
       "ext": "./BPQ/精工厂.json"
     },
     {
-      "key": "文件夹",
-      "name": "撸铁🥥文件夹",
+      "key": "窜天猴",
+      "name": "撸铁🥥窜天猴",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./BPQ/文件夹.json"
-    },
-    {
-      "key": "自排偷拍",
-      "name": "撸铁🥥偷拍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/自排偷拍.json"
+      "ext": "./BPQ/窜天猴.json"
     },
     {
       "key": "高端外泄",
@@ -79,13 +72,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/55视频.json"
-    },
-    {
-      "key": "窜天猴",
-      "name": "撸铁🥥窜天猴",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/窜天猴.json"
     },
     {
       "key": "GDD视频",
@@ -184,6 +170,13 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "ext": "./BPQ/鲨鱼av.json"
+    },
+    {
+      "key": "自排偷拍",
+      "name": "撸铁🥥偷拍",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/自排偷拍.json"
     },
     {
       "key": "一个纯粹的x站",
