@@ -124,7 +124,7 @@
     },
     {
       "key": "樱樱女子",
-      "name": "撸铁🥥女子✨",
+      "name": "撸铁🥥女子",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/樱樱女子.json"
@@ -166,28 +166,28 @@
     },
     {
       "key": "淘精岁月",
-      "name": "淘精㊙️岁月",
+      "name": "淘精🥥岁月",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/淘精岁月.json"
     },
     {
       "key": "超级精品",
-      "name": "超级㊙️精品",
+      "name": "超级🥥精品",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/超级精品.json"
     },
     {
       "key": "公子别走",
-      "name": "公子㊙️别走",
+      "name": "公子🥥别走",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/公子别走.json"
     },
     {
       "key": "撸铁汉",
-      "name": "金陵㊙️撸铁",
+      "name": "金陵🥥撸铁",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/金陵撸铁汉.json"
