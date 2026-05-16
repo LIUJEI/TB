@@ -10,6 +10,14 @@
       "api": "csp"
     },
     {
+      "key": "色播",
+      "name": "🔞色播直播",
+      "type": 3,
+      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/色播.js",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "hipy_js_直转点",
       "name": "📛TH┃点播",
       "type": 3,
@@ -17,26 +25,11 @@
       "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
     },
     {
-      "key": "色播",
-      "name": "🔞色播直播",
-      "type": 3,
-      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/apiv2134色播.js",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "lf_js_lf_live",
-      "name": "💋娱乐｜直播",
-      "type": 3,
-      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/lf_live_min.js",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/live/live.txt"
-    },
-    {
       "key": "直播转点播1",
       "name": "💃┃佳丽┃直播",
       "type": 3,
-      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/js/直播转点播.js",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/tv/直播.txt"
+      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/直播转点播.js",
+      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/直播.txt"
     },
     {
       "key": "精工厂",
@@ -144,60 +137,67 @@
       "ext": "./BPQ/成鸡思汉.json"
     },
     {
+      "key": "野鸡🐔TV",
+      "name": "野鸡🐔TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/野鸡TV.json"
+    },
+    {
       "key": "83视频",
       "name": "撸铁🥥83视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/83视频.json"
+      "ext": "./BPQ/83视频.json"
     },
     {
       "key": "七色谷",
       "name": "撸铁🥥七色谷",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/七色谷.json"
+      "ext": "./BPQ/七色谷.json"
     },
     {
       "key": "桃花",
       "name": "撸铁🥥桃花",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/桃花.json"
+      "ext": "./BPQ/桃花.json"
     },
     {
       "key": "淘精岁月",
       "name": "淘精🥥岁月",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/淘精岁月.json"
+      "ext": "./BPQ/淘精岁月.json"
     },
     {
       "key": "超级精品",
       "name": "超级🥥精品",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/超级精品.json"
+      "ext": "./BPQ/超级精品.json"
     },
     {
       "key": "公子别走",
       "name": "公子🥥别走",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/公子别走.json"
+      "ext": "./BPQ/公子别走.json"
     },
     {
       "key": "撸铁汉",
       "name": "金陵🥥撸铁",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/金陵撸铁汉.json"
+      "ext": "./BPQ/金陵撸铁汉.json"
     },
     {
       "key": "Free",
       "name": "撸铁🥥Free",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/Free.json"
+      "ext": "./BPQ/Free.json"
     },
     {
       "key": "csp_XYQHiker_javffm",
