@@ -97,20 +97,20 @@
 },
 {
     "key": "csp_xBPQ_星辰影视",
-    "name": "星辰｜影视",
+    "name": "🍁┃星辰┃影视",
     "type": 3,
     "api": "csp_HBPQ",
-    "ext": "./XYQ/星辰.png"
+	"jar": "./JAR/svip.jar",
+    "ext": "./XYQ/星辰.png",
+    "类型": "影视"
 },
 {
-    "key": "达兔影视",
-    "name": "达兔｜影视",
+    "key": "XYQHike达兔影视",
+    "name": "🍁┃达兔┃影视",
     "type": 3,
     "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-    "ext": "./XYQ/达兔.png"
+    "ext": "./XYQ/达兔.png",
+    "类型": "影视"
 },
 {
     "key": "csp_xBPQ_MTYY",
@@ -835,6 +835,7 @@
     "name": "乐看｜APP",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"图片": "data-src=\"&&\"",
     "副标题": "hide ft2\">&&<",
@@ -855,6 +856,7 @@
     "name": "农民｜APP",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"简介":"剧情介绍:+更新：*</div>&&",
 	"分类url":"https://www.ahwsgy.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -865,6 +867,7 @@
     "name": "多多影院",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"简介":"影评介绍: +vod-content\">&&</div>",
 	"副标题":"note text-bg-r\">&&</span>",
@@ -876,6 +879,7 @@
     "name": "星空｜影视",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -887,6 +891,7 @@
     "name": "兄弟影视",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -913,6 +918,7 @@
     "name": "秀儿｜影视",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
 	"分类":"电影$1#剧集$2#动漫$3#综艺$4"}
@@ -922,6 +928,7 @@
     "name": "枫林｜影视",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {
 	"请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
@@ -934,7 +941,8 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {"简介" :"剧情介绍:+detail-content\" style=*>&&</span>",
-	"首页":"0","副标题":"pic-text text-right\">&&</span>",
+	"首页":"0",
+	"副标题":"pic-text text-right\">&&</span>",
 	"分类url":"https://www.vipdy.vip/s/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	"分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi#福利$fulipian"}
 },
@@ -943,6 +951,7 @@
     "name": "麦田影院",
     "type": 3,
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {"简介":"剧情介绍:+描述:</strong>&&</div>",
 	"数组":"public-list-box public-pic-b&&</div></div>",
 	"图片":"data-src=\"&&\"",
@@ -959,6 +968,7 @@
     "type": 3,
     "ua": "okhttp/3.15",
     "api": "csp_HBPQ",
+	"jar": "./JAR/svip.jar",
     "ext": {"简介": "寒+剧情介绍：&&</p >",
     "分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
     "分类": "电影$1#电视剧$2#樱花动漫$4#综艺$3",
