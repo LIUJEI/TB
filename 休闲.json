@@ -1,7 +1,7 @@
 {
   "warningText": "导航页：http://lzoq.serv00.net",
-  //"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/0324xx.jar",
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/svip.jar",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/0324xx.jar",
+  //"spider": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/svip.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
@@ -32,88 +32,11 @@
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/tv/直播.txt"
     },
     {
-      "key": "✨水果派✨",
-      "name": "✨水果派✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/水果派.json"
-    },
-    {
-      "key": "✨爱污传媒✨",
-      "name": "✨Aries|爱污传媒✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/爱污传媒.json"
-    },
-    {
-      "key": "✨51短剧✨",
-      "name": "✨Aries|51短剧✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/51短剧.json"
-    },
-    {
-      "key": "✨爱色吧✨",
-      "name": "✨Aries|爱色吧✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/爱色吧.json"
-    },
-    {
-      "key": "✨91视频✨",
-      "name": "✨Aries|91视频✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/91视频.json"
-    },
-    {
-      "key": "✨SAOO✨",
-      "name": "✨SAOO✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/SAOO.json"
-    },
-    {
-      "key": "✨果冻破解版✨",
-      "name": "✨果冻✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/果冻.json"
-    },
-    {
-      "key": "✨百草香✨\n",
-      "name": "✨百草✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/百草.json"
-    },
-    {
-      "key": "✨风流视频✨\n",
-      "name": "✨风流✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/风流.json"
-    },
-    {
-      "key": "推特APP",
-      "name": "✨Aries|推特APP✨",
-      "type": 3,
-      "api": "./BPQ/推特APP.py",
-      "order_num": 5
-    },
-    {
       "key": "精工厂",
       "name": "✨Aries|精工厂✨",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/精工厂.json"
-    },
-    {
-      "key": "国产麻豆",
-      "name": "✨Aries|国产麻豆✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/国产麻豆.json"
     },
     {
       "key": "文件夹",
@@ -122,27 +45,9 @@
       "api": "csp_XBPQ",
       "ext": "./BPQ/文件夹.json"
     },
-    {
-      "key": "四区",
-      "name": "✨Aries|四区✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/四区.json"
-    },
-    {
-      "key": "三区",
-      "name": "✨Aries|三区✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/三区.json"
-    },
-    {
-      "key": "一区",
-      "name": "✨Aries|一区✨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/一区.json"
-    },
+    
+   
+   
     {
       "key": "自排偷拍",
       "name": "✨Aries|自排偷拍✨",
