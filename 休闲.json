@@ -1,6 +1,7 @@
 {
   "warningText": "导航页：http://lzoq.serv00.net",
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/0324xx.jar",
+  //"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/0324xx.jar",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/svip.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
