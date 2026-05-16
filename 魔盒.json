@@ -96,6 +96,23 @@
     "类型": "影视"
 },
 {
+    "key": "csp_xBPQ_星辰影视",
+    "name": "星辰｜影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": "./XYQ/星辰.png"
+},
+{
+    "key": "达兔影视",
+    "name": "达兔｜影视",
+    "type": 3,
+    "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+    "ext": "./XYQ/达兔.png"
+},
+{
     "key": "csp_xBPQ_MTYY",
     "name": "🍁┃麥田┃影院",
     "type": 3,
@@ -813,6 +830,140 @@
     "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
 },
+{
+    "key": "乐看",
+    "name": "乐看｜APP",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"图片": "data-src=\"&&\"",
+    "副标题": "hide ft2\">&&<",
+    "简介": "简介：&&</li",
+    "线路数组": "<i class=\"fa ds-dianying\">&&/a>",
+    "线路标题": "</i>&&<+【共+badge\">&&</span>+集】",
+    "搜索url": "https://lkvlog.cn/search/{wd}----------{pg}---/",
+    "分类url": "https://lkvlog.cn/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+    "分类": "电影&电视剧&综艺&动漫&纪录片&短剧",
+    "分类值": "1&2&3&4&5&34",
+    "筛选": "1",
+    "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||国产&古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他||空||女频恋爱&反转爽&脑洞悬疑&年代穿越&古装仙侠&现代都市&情&短&短剧&都市脑洞&玄幻&逆袭&爱情&甜宠&虐恋&搞笑&萌宝&都市&言情&重生&神医&反转&古装",
+    "年份": "1950-2025",
+    "年份值": "*"}
+},
+{
+    "key": "农民采集",
+    "name": "农民｜APP",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"简介":"剧情介绍:+更新：*</div>&&",
+	"分类url":"https://www.ahwsgy.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	"分类":"短剧$33#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "多多影院",
+    "name": "多多影院",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"简介":"影评介绍: +vod-content\">&&</div>",
+	"副标题":"note text-bg-r\">&&</span>",
+	"分类url": "https://www.bkyaniji.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	"分类": "短剧$33#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+    "key": "星空影视",
+    "name": "星空｜影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
+    "分类url": "http://www.ipcname.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&yuyan={lang}"}
+},
+{
+    "key": "兄弟影视",
+    "name": "兄弟影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "图片": "data-src=\"&&\"",
+    "线路二次截取": "b-b br&&</div>",
+    "线路数组": "<a&&</a>",
+    "线路标题": "✨推荐✨+</i>&&<+【共+badge\">&&</+集】",
+    "播放数组": "play size&&</ul>",
+    "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "✨+>&&</",
+                "简介": "✨介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text cor3\">&&</div>",
+                "搜索模式": "1",
+                "搜索url": "https://brovod.com/ss/{wd}----------{pg}---/",
+                "搜索数组": "list-exp&&</a",
+                "搜索标题": "alt=\"&&封面图",
+                "搜索图片": "data-src=\"&&\"",
+                "分类url": "https://brovod.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$movie#电视剧$tv#综艺$show#动漫$cartoon#纪录片$documentary"
+            }
+},
+{
+    "key": "秀儿影视",
+    "name": "秀儿｜影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+	"分类":"电影$1#剧集$2#动漫$3#综艺$4"}
+},
+{
+    "key": "枫林纲影院",
+    "name": "枫林｜影视",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {
+	"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类url": "https://imaple8.co/type/{cateId}-{catePg}.html"}
+},
+{
+    "key": "VIP影视",
+    "name": "永久｜影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {"简介" :"剧情介绍:+detail-content\" style=*>&&</span>",
+	"首页":"0","副标题":"pic-text text-right\">&&</span>",
+	"分类url":"https://www.vipdy.vip/s/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	"分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi#福利$fulipian"}
+},
+{
+    "key": "麦田影院",
+    "name": "麦田影院",
+    "type": 3,
+    "api": "csp_HBPQ",
+    "ext": {"简介":"剧情介绍:+描述:</strong>&&</div>",
+	"数组":"public-list-box public-pic-b&&</div></div>",
+	"图片":"data-src=\"&&\"",
+	"标题":"title=\"&&\"",
+	"副标题":"public-list-prb hide ft2\">&&</span>",
+	"线路数组":"swiper-slide&&</a>",
+	"线路标题":"&nbsp;&&<",
+	"分类url":"https://mtyy8.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
+	"分类":"短剧$26#电视剧$1#电影$2#动漫$4#综艺$3"}
+},
+{
+    "key": "白嫖者",
+    "name": "翘楚｜采集",
+    "type": 3,
+    "ua": "okhttp/3.15",
+    "api": "csp_HBPQ",
+    "ext": {"简介": "寒+剧情介绍：&&</p >",
+    "分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#樱花动漫$4#综艺$3",
+    "副标题": "class=\"pic-text text-right\"&&</span>"}
+},	
 { 
     "key": "csp_539影视", 
     "name": "🍁┃539┃影视", 
