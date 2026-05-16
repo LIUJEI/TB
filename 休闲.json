@@ -39,21 +39,6 @@
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/tv/直播.txt"
     },
     {
-      "key": "csp_熊猫视频",
-      "name": "撸铁🥥熊猫",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/182.jar"
-    },
-    {
-      "key": "js_madou",
-      "name": "撸铁🥥麻豆",
-      "type": 3,
-      "api": "https://c.cxics.com/fc/madou.js"
-    },
-    {
       "key": "精工厂",
       "name": "✨Aries|精工厂✨",
       "type": 3,
@@ -81,7 +66,7 @@
       "api": "csp_XBPQ",
       "ext": "./BPQ/一个纯粹的x站.json"
     },
-   {
+    {
       "key": "高端外泄",
       "name": "✨Aries|高端外泄✨",
       "type": 3,
