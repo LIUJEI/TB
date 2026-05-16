@@ -31,6 +31,21 @@
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/tv/直播.txt"
     },
     {
+      "key": "csp_熊猫视频",
+      "name": "撸铁🥥熊猫",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/182.jar"
+    },
+    {
+      "key": "js_madou",
+      "name": "撸铁🥥麻豆",
+      "type": 3,
+      "api": "https://c.cxics.com/fc/madou.js"
+    },
+    {
       "key": "精工厂",
       "name": "✨Aries|精工厂✨",
       "type": 3,
@@ -59,24 +74,84 @@
       "api": "csp_XBPQ",
       "ext": "./BPQ/一个纯粹的x站.json"
     },
-
-
-    
-    {
-      "key": "csp_熊猫视频",
-      "name": "撸铁🥥熊猫",
+   {
+      "key": "高端外泄",
+      "name": "✨Aries|高端外泄✨",
       "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/182.jar"
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/高端外泄.json"
     },
     {
-      "key": "js_madou",
-      "name": "撸铁🥥麻豆",
+      "key": "溏心次元",
+      "name": "✨Aries|溏心次元✨",
       "type": 3,
-      "api": "https://c.cxics.com/fc/madou.js"
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/溏心次元.json"
     },
+    {
+      "key": "美人吹箫",
+      "name": "✨Aries|美人吹箫✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/美人吹箫.json"
+    },
+    {
+      "key": "55视频",
+      "name": "✨Aries|55视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/55视频.json"
+    },
+    {
+      "key": "18XXX",
+      "name": "✨Aries|18XXX✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/18XXX.json"
+    },
+    {
+      "key": "窜天猴",
+      "name": "✨Aries|窜天猴✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/窜天猴.json"
+    },
+    {
+      "key": "GDD视频",
+      "name": "✨Aries|GDD视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/GDD视频.json"
+    },
+    {
+      "key": "桃花浪",
+      "name": "✨Aries|桃花浪✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/桃花浪.json"
+    },
+    {
+      "key": "樱樱女子",
+      "name": "✨Aries|樱樱女子✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/樱樱女子.json"
+    },
+    {
+      "key": "激动网",
+      "name": "✨Aries|激动网✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/激动网.json"
+    },
+    {
+      "key": "成鸡思汉",
+      "name": "✨Aries|成鸡思汉✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/成鸡思汉.json"
+    },
+  
     {
       "key": "小姨子",
       "name": "撸铁🥥小姨子",
