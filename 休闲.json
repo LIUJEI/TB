@@ -209,6 +209,13 @@
       "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/金陵撸铁汉.json"
     },
     {
+      "key": "Free",
+      "name": "㊙️|Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/Free.json"
+    },
+    {
       "key": "麻豆👊",
       "name": "麻豆",
       "type": 3,
@@ -304,8 +311,116 @@
         "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
       }
     },
-
-
+    {
+      "key": "魔法少女2",
+      "name": "魔法少女2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "作者": "魔法少女",
+        "站名": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产AV$37#探花AV$43#黑料吃瓜$24#网黄UP主$40#绿帽淫妻$49#国产传媒$44#福利姬$41#字幕$39#水果π$45#主播直播$42#欧美$38#FC2$66#性爱教学$46#三级$48#动漫$47",
+        "数组": "thumbnail\"&&<li",
+        "标题": "多吃枸杞啊",
+        "副标题": "🍵",
+        "图片": "data-original=\"&&\"",
+        "链接": "?v=&&\\&",
+        "嗅探词": ".m3u8",
+        "直接播放": 1,
+        "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "游击队",
+      "name": "游击队",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
+        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
+      }
+    },
+    {
+      "key": "222cou",
+      "name": "222cou",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://224cuo.com/",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "跳转播放链接": "var playUrl=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
+        "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
+      }
+    },
+    {
+      "key": "榨汁",
+      "name": "榨汁姐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://u1v2w3x4.zhazhijie66.buzz/",
+        "数组": "/voddetail/&&</div></div>",
+        "标题": "<a*>&&</a>",
+        "副标题": "色色才是第一生产力",
+        "链接": "/vodplay/+&&\"+-1-1.html",
+        "直接播放": "1",
+        "简介": "description\" content=\"&&\"",
+        "分类url": "https://u1v2w3x4.zhazhijie66.buzz/vodtype/{cateId}/page/{catePg}.html",
+        "分类": "麻豆视频$21#精东影业$27#天美传媒$23#糖心Vlog$37#性视界$39#杏吧原创$31#强奸乱伦$46#国产传媒$42#日本有码$43#明星换脸$50#国产主播$48#激情动漫$49#极品媚黑$58#网红头条$60#韩国主播$62#黑料吃瓜$171#禁漫天堂$173#乱伦专区$175",
+        "搜索url": "https://u1v2w3x4.zhazhijie66.buzz/vodsearch/-------------.html?wd={wd}"
+      }
+    },
+    {
+      "key": "花都",
+      "name": "花都影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "花都影视",
+        "主页url": "https://rb.huaduys.org",
+        "数组": "w-thumb img-shadow&&/a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "💞",
+        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+        "跳转播放链接": "var playUrl = '&&'",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8",
+        "分类": "有码$1#中字有码$6#骑兵有码$7#无码$2#中字无码$8#步兵无码$9#国产$3#糖心$13#国产传媒$11#国产精品$10#欧美$4#动漫$5#中字动漫$14#3D动漫$15",
+        "分类url": "/vodshow/{cateId}-----{letter}---{catePg}---.html"
+      }
+    },
+     {
+      "key": "野鸡🐔TV",
+      "name": "野鸡🐔TV",
+      "type": 3,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://wap.yejiav2.cc/yj/",
+        "数组": "vod-img&&/div></div>",
+        "标题": "🐔+vod-txt*\">&&</a",
+        "图片": "data-original=\"&&\"",
+        "副标题": "<p&&/p>",
+        "链接": "href=\"&&\"",
+        "简介": "description\" content=\"&&\"",
+        "分类url": "https://4g.yejiav16.cc/yj/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "线路标题": "你就是个老色痞",
+        "播放数组": "<div class=\"group-box\"&&</div>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&</",
+        "播放链接": "href=\"&&\"",
+        "分类": "奥斯卡资源$119#野鸡资源$86#仓库资源$206#155资源$244#小鸡资源$225#国产精品$87#国产乱伦$90#日本无码$228#日本有码$109",
+        "类型": "国产视频$120#中文字幕$121#国产传媒$122#日本有码$123#日本无码$124#欧美无码$125#强干乱伦$126#制服诱惑$127#国产主播$128#激情动漫$129#明星换脸$130#抖阴视频$131#女优明星$132#网曝黑料$133#伦理三级$134#SM调教$135#极品魅黑$136#网红头条$137#韩国主播$138||兔子先生$96#杏吧传媒$95#麻豆传媒$94#香港三级$93#明星淫梦$92#美女主播$91#国产乱伦$90#国产探花$89#绿帽淫妻$88#国产精品$87#天美传媒$97#SA国际传媒$98#其他片商$99#中文字幕$100#性世界$101#扣扣传媒$102#果冻传媒$103#星空无线$104#精东影业$105#葫芦影业$106#蜜桃传媒$107#起点传媒$108#日本有码$109#高清无码$110#精品素人$111#精品动漫$112#欧美专区$113#怀旧av$114#SWAG$115#特色专区$116#网曝门事件$117#日本乱伦$118||日本有码$207#无码中文字幕$208#有码中文字幕$209#日本无码$210#国产视频$211#欧美高清$212#动漫剧情$213||AV解说$266#国产自拍$254#熟女人妻$255#萝莉少女$256#百合剧情$257#美乳巨乳$258#强歼乱伦$259#抖音视频$260#韩国主播$261#网红头条$262#网曝黑料$263#欧美无码$264#女优明星$265#欧美系列$252#卡通动漫$251#中文字幕$250#AI换脸$249#三级伦理$248#制服诱惑$247#麻豆传媒$246#无码专区$245#美女主播$253||男男$226#女女$227#日本无码$228#中文有码$229#黑人无码$230#欧美无码$231#海外主播$232#国产视频$233#明星换脸$234#萝莉少女$235#网红主播$236#探花系列$237#传媒拍摄$238#伦理三级$239#网曝黑料$240#激情动漫$241#VR视角$242#解说类$243||空||空||空||空"
+      }
+    },
     
     {
       "key": "小姨子",
