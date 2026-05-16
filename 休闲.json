@@ -190,6 +190,7 @@
       "name": "撸铁🥥xx站",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/一个纯粹的x站.json"
     },
     {
@@ -197,6 +198,7 @@
       "name": "撸铁🥥18XXX",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/18XXX.json"
     },
     {
@@ -204,6 +206,7 @@
       "name": "撸铁🥥桃花浪",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/桃花浪.json"
     },
     {
@@ -211,6 +214,7 @@
       "name": "撸铁🥥桃花",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/桃花.json"
     },
     {
@@ -218,6 +222,7 @@
       "name": "撸铁🥥女子",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/樱樱女子.json"
     },
     {
@@ -225,6 +230,7 @@
       "name": "撸铁🥥激动网",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/激动网.json"
     },
     {
@@ -232,6 +238,7 @@
       "name": "公子🥥别走",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": "./BPQ/公子别走.json"
     },
     {
@@ -270,6 +277,7 @@
       "name": "撸铁🥥快递",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -290,6 +298,7 @@
       "name": "撸铁🥥爆料网",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": {
         "作者": "✨集✨",
         "发布地址": "https://hljdh.co/,https://bean.hbmkuelb.com/homeway.html",
@@ -345,6 +354,7 @@
       "name": "撸铁🥥少女",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/xyqxbpq.jar",
       "ext": {
         "作者": "魔法少女",
         "站名": "",
@@ -402,6 +412,7 @@
       "name": "撸铁🥥花都",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/XBPQ.jar",
       "ext": {
         "站名": "花都影视",
         "主页url": "https://rb.huaduys.org",
