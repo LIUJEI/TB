@@ -17,6 +17,14 @@
       "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
     },
     {
+      "key": "色播",
+      "name": "🔞色播直播",
+      "type": 3,
+      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/apiv2134色播.js",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "lf_js_lf_live",
       "name": "💋娱乐｜直播",
       "type": 3,
@@ -151,7 +159,154 @@
       "api": "csp_XBPQ",
       "ext": "./BPQ/成鸡思汉.json"
     },
-  
+    {
+      "key": "83视频",
+      "name": "㊙️83视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/83视频.json"
+    },
+    {
+      "key": "七色谷",
+      "name": "㊙️七色谷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/七色谷.json"
+    },
+    {
+      "key": "桃花",
+      "name": "㊙️桃花",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/桃花.json"
+    },
+    {
+      "key": "淘精岁月",
+      "name": "㊙️淘精岁月",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/淘精岁月.json"
+    },
+    {
+      "key": "超级精品",
+      "name": "㊙️超级精品",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/超级精品.json"
+    },
+    {
+      "key": "公子别走",
+      "name": "㊙️公子别走",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/公子别走.json"
+    },
+    {
+      "key": "撸铁汉",
+      "name": "㊙️金陵撸铁汉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/金陵撸铁汉.json"
+    },
+    {
+      "key": "麻豆👊",
+      "name": "麻豆",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "发布url": "www.njav.sbs",
+        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类": "日本视频$1#麻豆视频$2#国产视频$3",
+        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1"
+      }
+    },
+    {
+      "key": "痴迷视频",
+      "name": "痴迷视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.chimi60.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "数组": "<ul&&</ul>",
+        "标题": "title=\"&&\"",
+        "图片": "img=\"&&\"",
+        "副标题": "<p&&/p>",
+        "链接": "href=\"&&\"",
+        "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/index.php/vod/type/id/&&.html",
+        "简介": "description\" content=\"&&\""
+      }
+    },
+    {
+      "key": "快递🔞",
+      "name": "快递🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.xjjkdfw.sbs/",
+        "数组": "thumbnail-group clearfix&&</li",
+        "标题": ">&&<",
+        "图片": "original=\"&&\"",
+        "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+        "分类url": "https://www.xjjkdfw.sbs/vodtype/{cateId}/page/{catePg}.html",
+        "分类二次截取": "<div class=\"area\">&&</div",
+        "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/vodtype/&&.html"
+      }
+    },
+    {
+      "key": "911爆料网",
+      "name": "911爆料网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "作者": "✨集✨",
+        "发布地址": "https://hljdh.co/,https://bean.hbmkuelb.com/homeway.html",
+        "站名": "911爆料网",
+        "编码": "UTF-8",
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://argue.hbmkuelb.com",
+        "首页": "200",
+        "起始页": "1",
+        "分类url": "/category/{cateId}/{catePg}/;;mrcRA",
+        "分类": "最新爆料$jrgb#精选大瓜$rmgb#猎奇吃瓜$blqw#TOP5大瓜$rlph#社会热点$ssdbl#海角社区$hjsq#每日大赛$mrds#校园吃瓜$xyss#明星吃瓜$mxhl#网红爆料$whbl#反差爆料$bgzq#网黄福利$fljq#午夜剧场$crfys#探花经典$thjx#禁漫天堂$dmhv#吃瓜精选$slec#重口调教$zksr#精选连载$crlz",
+        "数组": "dateModified&&</a",
+        "图片": "https://v2.api-m.com/api/meinvpic?return=302",
+        "标题": "headline\">&&<",
+        "副标题": "datePublished*>&&<",
+        "链接": "href=\"&&\"",
+        "简介": "og:description\" content=\"&&\"",
+        "线路二次截取": "",
+        "线路数组": "data-config='&&</div",
+        "线路标题": "爆料",
+        "播放数组": "data-config='&&</div",
+        "播放列表": "{&&}}",
+        "播放标题": "\"&&\"",
+        "播放链接": "url\":\"&&\"",
+        "搜索url": "/search/{wd}/{pg}/",
+        "搜索模式": "1"
+      }
+    },
+    {
+      "key": "影片库",
+      "name": "🔞影片库🪜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "影片库lugiao.top",
+        "主页url": "https://you.lugiao12.top/",
+        "分类": "国产片商$42#麻豆传媒$43#兔子先生$44#蜜桃传媒$45#精东影业$46#天美传媒$47#星空无限$48#果冻传媒$49#葫芦影业$50#杏吧传媒$51#扣扣传媒$53#SA国际传媒$54#起点传媒$55#中文字幕$56#精品素人$57#高清无码$58#日本有码$59#怀旧AV$60#VR专区$61#AV解说$62#SWAG$63#国产精品$64#网曝门事件$77#国产探花$65#JVID$66#绿帽淫妻$67#国产乱伦$68#美女主播$69#明星淫梦$70#香港三级$71#性世界$73#欧美专区$83#TS人妖$84#日本乱伦$86#精品动漫$74",
+        "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
+      }
+    },
+
+
+    
     {
       "key": "小姨子",
       "name": "撸铁🥥小姨子",
