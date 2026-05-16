@@ -40,105 +40,105 @@
     },
     {
       "key": "精工厂",
-      "name": "✨Aries|精工厂✨",
+      "name": "撸铁🥥精工厂",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/精工厂.json"
     },
     {
       "key": "文件夹",
-      "name": "✨Aries|文件夹✨",
+      "name": "撸铁🥥文件夹",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/文件夹.json"
     },
     {
       "key": "自排偷拍",
-      "name": "✨Aries|自排偷拍✨",
+      "name": "撸铁🥥偷拍",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/自排偷拍.json"
     },
     {
       "key": "一个纯粹的x站",
-      "name": "✨Aries|一个纯粹的x站✨",
+      "name": "撸铁🥥xx站",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/一个纯粹的x站.json"
     },
     {
       "key": "高端外泄",
-      "name": "✨Aries|高端外泄✨",
+      "name": "撸铁🥥外泄",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/高端外泄.json"
     },
     {
       "key": "溏心次元",
-      "name": "✨Aries|溏心次元✨",
+      "name": "撸铁🥥溏心",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/溏心次元.json"
     },
     {
       "key": "美人吹箫",
-      "name": "✨Aries|美人吹箫✨",
+      "name": "撸铁🥥吹箫",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/美人吹箫.json"
     },
     {
       "key": "55视频",
-      "name": "✨Aries|55视频✨",
+      "name": "撸铁🥥55视频",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/55视频.json"
     },
     {
       "key": "18XXX",
-      "name": "✨Aries|18XXX✨",
+      "name": "撸铁🥥18XXX",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/18XXX.json"
     },
     {
       "key": "窜天猴",
-      "name": "✨Aries|窜天猴✨",
+      "name": "撸铁🥥窜天猴",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/窜天猴.json"
     },
     {
       "key": "GDD视频",
-      "name": "✨Aries|GDD视频✨",
+      "name": "撸铁🥥GDD视频",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/GDD视频.json"
     },
     {
       "key": "桃花浪",
-      "name": "✨Aries|桃花浪✨",
+      "name": "撸铁🥥桃花浪",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/桃花浪.json"
     },
     {
       "key": "樱樱女子",
-      "name": "✨Aries|樱樱女子✨",
+      "name": "撸铁🥥女子✨",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/樱樱女子.json"
     },
     {
       "key": "激动网",
-      "name": "✨Aries|激动网✨",
+      "name": "撸铁🥥激动网",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/激动网.json"
     },
     {
       "key": "成鸡思汉",
-      "name": "✨Aries|成鸡思汉✨",
+      "name": "撸铁🥥思汉",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/成鸡思汉.json"
@@ -331,6 +331,16 @@
       }
     },
     {
+      "key": "游击队",
+      "name": "撸铁🥥游击队",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
+        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
+      }
+    },
+    {
       "key": "魔法少女2",
       "name": "撸铁🥥少女",
       "type": 3,
@@ -350,16 +360,6 @@
         "嗅探词": ".m3u8",
         "直接播放": 1,
         "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
-      "key": "游击队",
-      "name": "撸铁🥥游击队",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
-        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
       }
     },
     {
@@ -429,29 +429,6 @@
         "直接播放": "1",
         "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
-      }
-    },
-    {
-      "key": "野鸡🐔TV",
-      "name": "撸铁🥥野鸡",
-      "type": 3,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "主页url": "https://wap.yejiav2.cc/yj/",
-        "数组": "vod-img&&/div></div>",
-        "标题": "🐔+vod-txt*\">&&</a",
-        "图片": "data-original=\"&&\"",
-        "副标题": "<p&&/p>",
-        "链接": "href=\"&&\"",
-        "简介": "description\" content=\"&&\"",
-        "分类url": "https://4g.yejiav16.cc/yj/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "线路标题": "你就是个老色痞",
-        "播放数组": "<div class=\"group-box\"&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&</",
-        "播放链接": "href=\"&&\"",
-        "分类": "奥斯卡资源$119#野鸡资源$86#仓库资源$206#155资源$244#小鸡资源$225#国产精品$87#国产乱伦$90#日本无码$228#日本有码$109",
-        "类型": "国产视频$120#中文字幕$121#国产传媒$122#日本有码$123#日本无码$124#欧美无码$125#强干乱伦$126#制服诱惑$127#国产主播$128#激情动漫$129#明星换脸$130#抖阴视频$131#女优明星$132#网曝黑料$133#伦理三级$134#SM调教$135#极品魅黑$136#网红头条$137#韩国主播$138||兔子先生$96#杏吧传媒$95#麻豆传媒$94#香港三级$93#明星淫梦$92#美女主播$91#国产乱伦$90#国产探花$89#绿帽淫妻$88#国产精品$87#天美传媒$97#SA国际传媒$98#其他片商$99#中文字幕$100#性世界$101#扣扣传媒$102#果冻传媒$103#星空无线$104#精东影业$105#葫芦影业$106#蜜桃传媒$107#起点传媒$108#日本有码$109#高清无码$110#精品素人$111#精品动漫$112#欧美专区$113#怀旧av$114#SWAG$115#特色专区$116#网曝门事件$117#日本乱伦$118||日本有码$207#无码中文字幕$208#有码中文字幕$209#日本无码$210#国产视频$211#欧美高清$212#动漫剧情$213||AV解说$266#国产自拍$254#熟女人妻$255#萝莉少女$256#百合剧情$257#美乳巨乳$258#强歼乱伦$259#抖音视频$260#韩国主播$261#网红头条$262#网曝黑料$263#欧美无码$264#女优明星$265#欧美系列$252#卡通动漫$251#中文字幕$250#AI换脸$249#三级伦理$248#制服诱惑$247#麻豆传媒$246#无码专区$245#美女主播$253||男男$226#女女$227#日本无码$228#中文有码$229#黑人无码$230#欧美无码$231#海外主播$232#国产视频$233#明星换脸$234#萝莉少女$235#网红主播$236#探花系列$237#传媒拍摄$238#伦理三级$239#网曝黑料$240#激情动漫$241#VR视角$242#解说类$243||空||空||空||空"
       }
     },
     {
@@ -742,6 +719,29 @@
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key": "jkunzy.com",
+      "name": "撸铁🥥jkun(直连)",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "laosebizy.com",
+      "name": "撸铁🥥色逼(直连)",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "奥斯卡资源网",
+      "name": "撸铁🥥奥斯卡",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
     },
     {
       "key": "采集G(森林)",
