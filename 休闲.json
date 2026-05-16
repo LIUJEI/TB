@@ -17,6 +17,301 @@
       "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
     },
     {
+      "key": "lf_js_lf_live",
+      "name": "💋娱乐｜直播",
+      "type": 3,
+      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/lib/lf_live_min.js",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/live/live.txt"
+    },
+    {
+      "key": "直播转点播1",
+      "name": "💃┃佳丽┃直播",
+      "type": 3,
+      "api": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/js/直播转点播.js",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/8310f2998309365ada002f8ca498744d5c5b83f0/%E7%BA%AF%E7%A6%8F%E5%88%A9/tv/直播.txt"
+    },
+    {
+      "key": "✨水果派✨",
+      "name": "✨水果派✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/水果派.json"
+    },
+    {
+      "key": "✨爱污传媒✨",
+      "name": "✨Aries|爱污传媒✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/爱污传媒.json"
+    },
+    {
+      "key": "✨51短剧✨",
+      "name": "✨Aries|51短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/51短剧.json"
+    },
+    {
+      "key": "✨爱色吧✨",
+      "name": "✨Aries|爱色吧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/爱色吧.json"
+    },
+    {
+      "key": "✨91视频✨",
+      "name": "✨Aries|91视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/91视频.json"
+    },
+    {
+      "key": "✨SAOO✨",
+      "name": "✨SAOO✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/SAOO.json"
+    },
+    {
+      "key": "✨果冻破解版✨",
+      "name": "✨果冻✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/果冻.json"
+    },
+    {
+      "key": "✨百草香✨\n",
+      "name": "✨百草✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/百草.json"
+    },
+    {
+      "key": "✨风流视频✨\n",
+      "name": "✨风流✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/风流.json"
+    },
+    {
+      "key": "推特APP",
+      "name": "✨Aries|推特APP✨",
+      "type": 3,
+      "api": "./BPQ/推特APP.py",
+      "order_num": 5
+    },
+    {
+      "key": "精工厂",
+      "name": "✨Aries|精工厂✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/精工厂.json"
+    },
+    {
+      "key": "国产麻豆",
+      "name": "✨Aries|国产麻豆✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/国产麻豆.json"
+    },
+    {
+      "key": "文件夹",
+      "name": "✨Aries|文件夹✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/文件夹.json"
+    },
+    {
+      "key": "四区",
+      "name": "✨Aries|四区✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/四区.json"
+    },
+    {
+      "key": "三区",
+      "name": "✨Aries|三区✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/三区.json"
+    },
+    {
+      "key": "一区",
+      "name": "✨Aries|一区✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/一区.json"
+    },
+    {
+      "key": "自排偷拍",
+      "name": "✨Aries|自排偷拍✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/自排偷拍.json"
+    },
+    {
+      "key": "一个纯粹的x站",
+      "name": "✨Aries|一个纯粹的x站✨",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/一个纯粹的x站.json"
+    },
+    {
+      "key": "玫瑰TV",
+      "name": "✨Aries|玫瑰TV✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/玫瑰TV.json"
+    },
+    {
+      "key": "SOAV",
+      "name": "✨Aries|SOAV✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/SOAV.json"
+    },
+    {
+      "key": "51短剧",
+      "name": "✨Aries|51短剧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/51短剧.json"
+    },
+    {
+      "key": "旺仔小乔",
+      "name": "✨Aries|旺仔小乔✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/旺仔小乔.json"
+    },
+    {
+      "key": "高端外泄",
+      "name": "✨Aries|高端外泄✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/高端外泄.json"
+    },
+    {
+      "key": "初の体验",
+      "name": "✨Aries|初の体验✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/初の体验.json"
+    },
+    {
+      "key": "溏心次元",
+      "name": "✨Aries|溏心次元✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/溏心次元.json"
+    },
+    {
+      "key": "醉奶吧",
+      "name": "✨Aries|醉奶吧✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/醉奶吧.json"
+    },
+    {
+      "key": "麻豆视频",
+      "name": "✨Aries|麻豆视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/麻豆视频.json"
+    },
+    {
+      "key": "偷拍自拍",
+      "name": "✨Aries|偷拍自拍✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/偷拍自拍.json"
+    },
+    {
+      "key": "美人吹箫",
+      "name": "✨Aries|美人吹箫✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/美人吹箫.json"
+    },
+    {
+      "key": "55视频",
+      "name": "✨Aries|55视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/55视频.json"
+    },
+    {
+      "key": "18XXX",
+      "name": "✨Aries|18XXX✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/18XXX.json"
+    },
+    {
+      "key": "窜天猴",
+      "name": "✨Aries|窜天猴✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/窜天猴.json"
+    },
+    {
+      "key": "GDD视频",
+      "name": "✨Aries|GDD视频✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/GDD视频.json"
+    },
+    {
+      "key": "桃花浪",
+      "name": "✨Aries|桃花浪✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/桃花浪.json"
+    },
+    {
+      "key": "3Q",
+      "name": "✨Aries|3Q✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/3Q.json"
+    },
+    {
+      "key": "好色™ Tv",
+      "name": "✨Aries|好色™ Tv.py✨",
+      "type": 3,
+      "api": "./BPQ/好色™ Tv.py",
+      "order_num": 5
+    },
+    {
+      "key": "百灵鸟在线",
+      "name": "✨Aries|百灵鸟在线✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/百灵鸟在线.json"
+    },
+    {
+      "key": "樱樱女子",
+      "name": "✨Aries|樱樱女子✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/樱樱女子.json"
+    },
+    {
+      "key": "激动网",
+      "name": "✨Aries|激动网✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/激动网.json"
+    },
+    {
+      "key": "成鸡思汉",
+      "name": "✨Aries|成鸡思汉✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/成鸡思汉.json"
+    },
+    {
       "key": "csp_熊猫视频",
       "name": "撸铁🥥熊猫",
       "type": 3,
