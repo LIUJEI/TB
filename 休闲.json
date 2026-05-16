@@ -11,7 +11,7 @@
     },
     {
       "key": "色播",
-      "name": "🔞色播直播",
+      "name": "📛TH┃直播",
       "type": 3,
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/色播.js",
       "searchable": 1,
@@ -19,7 +19,7 @@
     },
     {
       "key": "hipy_js_直转点",
-      "name": "📛TH┃点播",
+      "name": "💃┃佳丽┃点播",
       "type": 3,
       "api": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js",
       "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
@@ -204,35 +204,35 @@
       "name": "撸铁🥥JAVFFM",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json"
+      "ext": "./BPQ/javffm.json"
     },
     {
       "key": "色花堂",
       "name": "撸铁🥥色花堂",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json"
+      "ext": "./BPQ/色花堂1.json"
     },
     {
       "key": "csp_XYQHiker_日日撸",
       "name": "撸铁🥥日撸",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/日日撸.json"
+      "ext": "./BPQ/日日撸.json"
     },
     {
       "key": "csp_XYQHiker_黄色仓库la",
       "name": "撸铁🥥黄仓",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库啦.json"
+      "ext": "./BPQ/黄色仓库啦.json"
     },
     {
       "key": "csp_XYQHiker_鲨鱼av",
       "name": "撸铁🥥鲨鱼",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/鲨鱼av.json"
+      "ext": "./BPQ/鲨鱼av.json"
     },
     {
       "key": "麻豆👊",
