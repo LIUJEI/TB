@@ -162,22 +162,6 @@
 	"类型": "APP"
 },
 {
-    "key": "csp_soufa",
-    "name": "🆘┃首发┃秒播",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": "http://110.42.67.221:9002|FTgP4Gq8zPiqbt7M",
-	"类型": "APP"
-},
-{
-    "key": "csp_星空",
-    "name": "🆘┃星空┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-	"ext": "https://xk9.xkgzs.xyz|106jkcdnkldzckjk",
-	"类型": "APP"
-},
-{
     "key": "csp_小鹿",
     "name": "🆘┃小鹿┃秒播",
     "type": 3,
