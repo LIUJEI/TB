@@ -189,7 +189,7 @@
     },
     {
       "key": "csp_XYQHiker_javffm",
-      "name": "撸铁🥥VFFM",
+      "name": "撸铁🥥FFM",
       "type": 3,
       "jar": "./JAR/svip.jar",
       "api": "csp_XYQHiker",
@@ -328,7 +328,7 @@
     },
     {
       "key": "222cou",
-      "name": "撸铁🥥222cou",
+      "name": "撸铁🥥cou",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -506,7 +506,7 @@
     },
     {
       "key": "西瓜影院_XBPQ",
-      "name": "撸铁🍉西瓜",
+      "name": "撸铁🥥西瓜",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -561,7 +561,7 @@
     },
     {
       "key": "采集G(香蕉资源)",
-      "name": "撸铁🍌香蕉",
+      "name": "撸铁🥥香蕉",
       "type": 0,
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -653,22 +653,6 @@
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
     },
     {
-      "key": "jkunzy.com",
-      "name": "撸铁🥥jkun(直连)",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "laosebizy.com",
-      "name": "撸铁🥥色逼(直连)",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "采集Q(森林)",
       "name": "撸铁🥥森林",
       "type": 1,
@@ -725,6 +709,22 @@
         "男同性恋",
         "恋腿狂魔"
       ]
+    },
+    {
+      "key": "jkunzy.com",
+      "name": "撸铁🥥jkun(直连)",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "laosebizy.com",
+      "name": "撸铁🥥色逼(直连)",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "采集B(玉兔)资源",
