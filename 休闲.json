@@ -36,6 +36,7 @@
       "name": "撸铁🥥色花堂",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./JAR/svip.jar",
       "ext": "/BPQ/色花堂1.json"
     },
     {
