@@ -1,6 +1,6 @@
 {
   "warningText": "导航页：http://lzoq.serv00.net",
-  "spider": "./JAR/'0324福利.jar'",
+  "spider": "./JAR/0324福利.jar'",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
@@ -16,20 +16,6 @@
       "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/色播.js",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "hipy_js_直转点",
-      "name": "💃┃佳丽┃点播",
-      "type": 3,
-      "api": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.js",
-      "ext": "http://gzy.hk3.345888.xyz.cdn.cloudflare.net/直转点.txt"
-    },
-    {
-      "key": "直播转点播1",
-      "name": "💃┃佳丽┃直播",
-      "type": 3,
-      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/直播转点播.js",
-      "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/直播.txt"
     },
     {
       "key": "精工厂",
