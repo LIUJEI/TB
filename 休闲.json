@@ -53,11 +53,11 @@
       "ext": "./BPQ/激动网.json"
     },
     {
-      "key": "GDD视频",
-      "name": "撸铁🥥GD视频",
+      "key": "桃花浪",
+      "name": "撸铁🥥桃花浪",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./BPQ/GDD视频.json"
+      "ext": "./BPQ/桃花浪.json"
     },
     {
       "key": "55视频",
@@ -72,6 +72,34 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/83视频.json"
+    },
+    {
+      "key": "GDD视频",
+      "name": "撸铁🥥GD视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/GDD视频.json"
+    },
+    {
+      "key": "18XXX",
+      "name": "撸铁🥥18XXX",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/18XXX.json"
+    },
+     {
+      "key": "Free",
+      "name": "撸铁🥥Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/Free.json"
+    },
+    {
+      "key": "一个纯粹的x站",
+      "name": "撸铁🥥xx站",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./BPQ/一个纯粹的x站.json"
     },
     {
       "key": "高端外泄",
@@ -95,39 +123,11 @@
       "ext": "./BPQ/野鸡TV.json"
     },
     {
-      "key": "Free",
-      "name": "撸铁🥥Free",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/Free.json"
-    },
-    {
       "key": "自排偷拍",
       "name": "撸铁🥥偷拍",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./BPQ/自排偷拍.json"
-    },
-    {
-      "key": "一个纯粹的x站",
-      "name": "撸铁🥥xx站",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/一个纯粹的x站.json"
-    },
-    {
-      "key": "18XXX",
-      "name": "撸铁🥥18XXX",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/18XXX.json"
-    },
-    {
-      "key": "桃花浪",
-      "name": "撸铁🥥桃花浪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./BPQ/桃花浪.json"
     },
     {
       "key": "桃花",
@@ -189,7 +189,7 @@
     },
     {
       "key": "csp_XYQHiker_javffm",
-      "name": "撸铁🥥JAVFFM",
+      "name": "撸铁🥥VFFM",
       "type": 3,
       "jar": "./JAR/svip.jar",
       "api": "csp_XYQHiker",
@@ -220,6 +220,60 @@
       "ext": "./BPQ/鲨鱼av.json"
     },
     {
+      "key": "影片库",
+      "name": "撸铁🥥影片库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "影片库lugiao.top",
+        "主页url": "https://you.lugiao12.top/",
+        "分类": "国产片商$42#麻豆传媒$43#兔子先生$44#蜜桃传媒$45#精东影业$46#天美传媒$47#星空无限$48#果冻传媒$49#葫芦影业$50#杏吧传媒$51#扣扣传媒$53#SA国际传媒$54#起点传媒$55#中文字幕$56#精品素人$57#高清无码$58#日本有码$59#怀旧AV$60#VR专区$61#AV解说$62#SWAG$63#国产精品$64#网曝门事件$77#国产探花$65#JVID$66#绿帽淫妻$67#国产乱伦$68#美女主播$69#明星淫梦$70#香港三级$71#性世界$73#欧美专区$83#TS人妖$84#日本乱伦$86#精品动漫$74",
+        "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "游击队",
+      "name": "撸铁🥥游击队",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
+        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
+      }
+    },
+    {
+      "key": "小姨子",
+      "name": "撸铁🥥小姨子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "副标题": "芸✨专属",
+        "播放数组": "play-list\"&&</div",
+        "链接": "https://thchp.top/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
+        "直接播放": "1",
+        "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
+      }
+    },
+    {
+      "key": "榨汁",
+      "name": "撸铁🥥榨汁姐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://u1v2w3x4.zhazhijie66.buzz/",
+        "数组": "/voddetail/&&</div></div>",
+        "标题": "<a*>&&</a>",
+        "副标题": "色色才是第一生产力",
+        "链接": "/vodplay/+&&\"+-1-1.html",
+        "直接播放": "1",
+        "简介": "description\" content=\"&&\"",
+        "分类url": "https://u1v2w3x4.zhazhijie66.buzz/vodtype/{cateId}/page/{catePg}.html",
+        "分类": "麻豆视频$21#精东影业$27#天美传媒$23#糖心Vlog$37#性视界$39#杏吧原创$31#强奸乱伦$46#国产传媒$42#日本有码$43#明星换脸$50#国产主播$48#激情动漫$49#极品媚黑$58#网红头条$60#韩国主播$62#黑料吃瓜$171#禁漫天堂$173#乱伦专区$175",
+        "搜索url": "https://u1v2w3x4.zhazhijie66.buzz/vodsearch/-------------.html?wd={wd}"
+      }
+    },
+    {
       "key": "麻豆👊",
       "name": "撸铁🥥麻豆",
       "type": 3,
@@ -248,28 +302,6 @@
         "分类标题": ">&&<",
         "分类ID": "/index.php/vod/type/id/&&.html",
         "简介": "description\" content=\"&&\""
-      }
-    },
-    {
-      "key": "影片库",
-      "name": "撸铁🥥影片库",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "影片库lugiao.top",
-        "主页url": "https://you.lugiao12.top/",
-        "分类": "国产片商$42#麻豆传媒$43#兔子先生$44#蜜桃传媒$45#精东影业$46#天美传媒$47#星空无限$48#果冻传媒$49#葫芦影业$50#杏吧传媒$51#扣扣传媒$53#SA国际传媒$54#起点传媒$55#中文字幕$56#精品素人$57#高清无码$58#日本有码$59#怀旧AV$60#VR专区$61#AV解说$62#SWAG$63#国产精品$64#网曝门事件$77#国产探花$65#JVID$66#绿帽淫妻$67#国产乱伦$68#美女主播$69#明星淫梦$70#香港三级$71#性世界$73#欧美专区$83#TS人妖$84#日本乱伦$86#精品动漫$74",
-        "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
-      }
-    },
-    {
-      "key": "游击队",
-      "name": "撸铁🥥游击队",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
-        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
       }
     },
     {
@@ -312,24 +344,6 @@
       }
     },
     {
-      "key": "榨汁",
-      "name": "撸铁🥥榨汁姐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://u1v2w3x4.zhazhijie66.buzz/",
-        "数组": "/voddetail/&&</div></div>",
-        "标题": "<a*>&&</a>",
-        "副标题": "色色才是第一生产力",
-        "链接": "/vodplay/+&&\"+-1-1.html",
-        "直接播放": "1",
-        "简介": "description\" content=\"&&\"",
-        "分类url": "https://u1v2w3x4.zhazhijie66.buzz/vodtype/{cateId}/page/{catePg}.html",
-        "分类": "麻豆视频$21#精东影业$27#天美传媒$23#糖心Vlog$37#性视界$39#杏吧原创$31#强奸乱伦$46#国产传媒$42#日本有码$43#明星换脸$50#国产主播$48#激情动漫$49#极品媚黑$58#网红头条$60#韩国主播$62#黑料吃瓜$171#禁漫天堂$173#乱伦专区$175",
-        "搜索url": "https://u1v2w3x4.zhazhijie66.buzz/vodsearch/-------------.html?wd={wd}"
-      }
-    },
-    {
       "key": "花都",
       "name": "撸铁🥥花都",
       "type": 3,
@@ -348,20 +362,6 @@
         "嗅探词": "index.m3u8",
         "分类": "有码$1#中字有码$6#骑兵有码$7#无码$2#中字无码$8#步兵无码$9#国产$3#糖心$13#国产传媒$11#国产精品$10#欧美$4#动漫$5#中字动漫$14#3D动漫$15",
         "分类url": "/vodshow/{cateId}-----{letter}---{catePg}---.html"
-      }
-    },
-    {
-      "key": "小姨子",
-      "name": "撸铁🥥小姨子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "芸✨专属",
-        "播放数组": "play-list\"&&</div",
-        "链接": "https://thchp.top/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html",
-        "直接播放": "1",
-        "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
       }
     },
     {
@@ -646,12 +646,11 @@
       "filterable": 1
     },
     {
-      "key": "采集Q(森林)",
-      "name": "撸铁🥥森林",
+      "key": "奥斯卡资源网",
+      "name": "撸铁🥥奥斯卡",
       "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
     },
     {
       "key": "jkunzy.com",
@@ -670,11 +669,12 @@
       "filterable": 1
     },
     {
-      "key": "奥斯卡资源网",
-      "name": "撸铁🥥奥斯卡",
+      "key": "采集Q(森林)",
+      "name": "撸铁🥥森林",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "采集G(森林)",
