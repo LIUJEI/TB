@@ -256,6 +256,193 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
 },
 {
+	"key": "spider_2055489252845686784",
+    "name": "普通|独播库",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252845686784?token=baiyetv"
+},
+{
+	"key": "spider_2055489252883435520",
+    "name": "普通|茶杯狐",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252883435520?token=baiyetv"
+},
+{
+	"key": "spider_2055489254192058368",
+    "name": "普通|片海",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489254192058368?token=baiyetv"
+},
+{
+	"key": "spider_2055489253831348224",
+    "name": "普通|袋鼠",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489253831348224?token=baiyetv"
+},
+{
+	"key": "spider_2055489252858269697",
+    "name": "普通|天堂",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252858269697?token=baiyetv"
+},
+{
+	"key": "spider_2055489252896018432",
+    "name": "普通|荐片",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252896018432?token=baiyetv"
+},
+{
+	"key": "spider_2055489252820520960",
+    "name": "普通|瓜子",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252820520960?token=baiyetv"
+},
+{
+	"key": "spider_2055489252799549440",
+    "name": "普通|热播",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252799549440?token=baiyetv"
+},
+{
+	"key": "spider_2055489251809693696",
+    "name": "普通|永乐",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251809693696?token=baiyetv"
+},
+{
+	"key": "spider_2055489251784527872",
+    "name": "普通|比巴",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251784527872?token=baiyetv"
+},
+{
+	"key": "spider_2055489251717419008",
+    "name": "普通|星辰",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251717419008?token=baiyetv"
+},
+{
+	"key": "spider_2055489251788722176",
+    "name": "普通|枫叶",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251788722176?token=baiyetv"
+},
+{
+	"key": "spider_2055489251709030400",
+    "name": "普通|韩剧",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251709030400?token=baiyetv"
+},
+{
+	"key": "spider_2055489251704836096",
+    "name": "普通|大全",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251704836096?token=baiyetv"
+},
+{
+	"key": "spider_2055489250631094272",
+    "name": "普通|唐人",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250631094272?token=baiyetv"
+},
+{
+	"key": "spider_2055489251797110784",
+    "name": "普通|毒舌",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251797110784?token=baiyetv"
+},
+{
+	"key": "spider_2055489251792916480",
+    "name": "普通|毒舌3",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251792916480?token=baiyetv"
+},
+{
+	"key": "spider_2055489250673037312",
+    "name": "普通|布布",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250673037312?token=baiyetv"
+},
+{
+	"key": "spider_2055489250689814528",
+    "name": "普通|布布2",
+    "type": 4
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250689814528?token=baiyetv"
+},
+{
+	"key": "spider_2055489250664648705",
+    "name": "普通|黑米",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250664648705?token=baiyetv"
+},
+{
+	"key": "spider_2055489250698203136",
+    "name": "普通|影猫",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250698203136?token=baiyetv"
+},
+{
+	"key": "spider_2055489250647871488",
+    "name": "普通|如意",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250647871488?token=baiyetv"
+},
+{
+	"key": "spider_2055489250664648704",
+    "name": "普通|威伯",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250664648704?token=baiyetv"
+},
+{
+	"key": "spider_2055489250618511360",
+    "name": "普通|哇哇",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250618511360?token=baiyetv"
+},
+{
+	"key": "spider_2055489247078518784",
+    "name": "普通|123",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489247078518784?token=baiyetv"
+},
+{
+	"key": "spider_2055489247099490304",
+    "name": "普通|360",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489247099490304?token=baiyetv"
+},
+{
+	"key": "spider_2055494257426305024",
+    "name": "短剧|剧粉",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055494257426305024?token=baiyetv"
+},
+{
+	"key": "spider_2055494257455665152",
+    "name": "短剧|河马",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055494257455665152?token=baiyetv"
+}, 
+{
+	"key": "spider_2055494257464053760",
+    "name": "短剧|星星",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055494257464053760?token=baiyetv"
+},
+{
+    "key": "spider_2055494257434693632",
+    "name": "短剧|嘟嘟",
+    "type": 4,
+	"api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055494257434693632?token=baiyetv"
+},
+{
+    "key": "spider_2055494257413722112",
+    "name": "短剧|剧网",
+    "type": 4,
+	"api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055494257413722112?token=baiyetv"
+},  
+
+{
     "key":"py_河马短剧",
     "name":"♨️┃短劇┃河马",
     "type":3,
