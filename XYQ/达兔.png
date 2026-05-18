@@ -34,7 +34,7 @@
                 "地区详情": "p:matches(地区)&&Text!地区:",
                 "类型详情": "p:matches(分类)&&Text!分类:",
                 "演员详情": "p:matches(主演)&&Text!主演:",
-                "简介详情": "'剧情介绍：'+.content&&Text",
+                "简介详情": "'【琉🔹芸❤广告勿信👉剧情】📢:'+.content&&Text",
                 "线路列表数组规则": ".nav-tabs&&a",
                 "线路标题": "'💕'+a&&Text",
                 "播放列表数组规则": "body&&.myui-content__list",
