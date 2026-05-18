@@ -122,7 +122,7 @@
     "类型": "影视"
 },
 {
-    "key": "WYtv",
+    "key": "csp_WYtv",
     "name": "🍁┃微云┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -131,7 +131,7 @@
     "类型": "影视"
 },
 {
-    "key": "速影",
+    "key": "csp_速影",
     "name": "🍁┃速影┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -187,7 +187,7 @@
     "类型": "影视"
 },
 {
-    "key": "白嫖者联盟",
+    "key": "csp_白嫖者联盟",
     "name": "🍁┃白嫖┃联盟",
     "type": 3,
     "api": "csp_XBPQ",
@@ -195,7 +195,7 @@
     "类型": "影视"
 },
 {
-    "key": "河马影视",
+    "key": "csp_河马影视",
     "name": "🍁┃河马┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -203,7 +203,7 @@
     "类型": "影视"
 },
 {
-    "key": "影视大全",
+    "key": "csp_影视大全",
     "name": "🍁┃影视┃大全",
     "type": 3,
     "api": "csp_XBPQ",
@@ -211,7 +211,7 @@
     "类型": "影视"
 },	
 {
-    "key": "电影先生1",
+    "key": "csp_电影先生1",
     "name": "🍁┃电影┃先生",
     "type": 3,
     "api": "csp_XBPQ",
@@ -219,7 +219,7 @@
     "类型": "影视"
 },
 {
-    "key": "鹊桥影院",
+    "key": "csp_鹊桥影院",
     "name": "🍁┃鹊桥┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -227,7 +227,7 @@
     "类型": "影视"
 },
 {
-    "key": "七味影院",
+    "key": "csp_七味影院",
     "name": "🍁┃七味┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -243,7 +243,7 @@
     "类型": "影视"
 },
 {
-    "key": "短剧网②",
+    "key": "csp_短剧网②",
     "name": "🍁┃风云┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -251,7 +251,7 @@
     "类型": "影视"
 },
 {
-    "key": "短剧大全",
+    "key": "csp_短剧大全",
     "name": "🍁┃短剧┃大全",
     "type": 3,
     "api": "csp_XBPQ",
@@ -259,7 +259,7 @@
     "类型": "短剧"
 },
 {
-    "key": "短剧ptt视频",
+    "key": "csp_短剧ptt视频",
     "name": "🍁┃PTT┃视频",
     "type": 3,
     "api": "csp_XBPQ",
@@ -375,7 +375,7 @@
     "分类": "女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}
 },
 {
-    "key": "好看影视",
+    "key": "csp_好看影视",
     "name": "🍁┃好看┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -399,7 +399,7 @@
     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"}
 },
 {
-    "key": "柠檬视频",
+    "key": "csp_柠檬视频",
     "name": "🍁┃柠檬┃视频",
     "type": 3,
     "api": "csp_XBPQ",
@@ -418,7 +418,7 @@
     "简介": "【琉🔹芸❤广告勿信👉剧情】📢+introduction-content\">&&</div>"}
 },
 {
-    "key": "特看网🍁影视",
+    "key": "csp_特看网🍁影视",
     "name": "🍁┃特刊┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -456,7 +456,7 @@
     "分类url": "https://www.taozi008.com/vod/index.html?page={catePg}&type_id={cateId}"}
 }, 
 {
-  "key": "一次性-奇点影视",
+  "key": "csp_奇点影视",
     "name": "🍁┃奇点┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -471,7 +471,7 @@
     "分类": "短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"}
 },
 {
-    "key": "可可☔影视",
+    "key": "csp_可可☔影视",
     "name": "🍁┃可可┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -486,7 +486,7 @@
     "分类url": "https://www.icnblog.org/show/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "茶杯狐",
+    "key": "csp_茶杯狐",
     "name": "🍁┃茶杯┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -500,7 +500,7 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"}
 },
 {
-    "key": "七七☔影视",
+    "key": "csp_七七☔影视",
     "name": "🍁┃七七┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -515,7 +515,7 @@
     "分类url": "https://www.zeus-solar-system.com/show/{cateId}--------{catePg}---.html"}
 },
 {
-    "key": "映像星球",
+    "key": "csp_映像星球",
     "name": "🍁┃映像┃星球",
     "type": 3,
     "api": "csp_XBPQ",
@@ -526,7 +526,7 @@
     "分类": "电影$1#连续剧$2#综艺$3#动漫$41#短剧$6#"}
 },
 {
-    "key": "片库🍁影视",
+    "key": "csp_片库🍁影视",
     "name": "🍁┃片库┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -541,7 +541,7 @@
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$36#"}
 },
 {
-    "key": "高清在线",
+    "key": "csp_高清在线",
     "name": "🍁┃高清┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -557,7 +557,7 @@
     "分类": "短剧$36#电影$1#连续剧$2#动漫$4#综艺$3#"}
 },
 {
-    "key": "八戒影院",
+    "key": "csp_八戒影院",
     "name": "🍁┃八戒┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -572,7 +572,7 @@
     "分类ID": "/bajie_chn/&&.html"}
 },
 {
-    "key": "番茄20",
+    "key": "csp_番茄20",
     "name": "🍁┃番茄┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -603,7 +603,7 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {
-    "key": "面包网",
+    "key": "csp_面包网",
     "name": "🍁┃面包┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -616,7 +616,7 @@
     "线路标题": "琉芸专属"}
 },
 {
-    "key": "永乐视频",
+    "key": "csp_永乐视频",
     "name": "🍁┃永乐┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -629,7 +629,7 @@
     }
 },
 {
-    "key": "大师兄影视",
+    "key": "csp_大师兄影视",
     "name": "🍁┃师兄┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -640,7 +640,7 @@
     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#豆瓣电影Top250$42"}
 },
 {
-    "key": "游子视频",
+    "key": "csp_游子视频",
     "name": "🍁┃游子┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -651,7 +651,7 @@
     "分类": "电影$dianying#电视剧$dianshiju#纪录片$jilupian#动漫$dongman#综艺$zongyi"}
 },
 {
-    "key": "八点半",
+    "key": "csp_八点半",
     "name": "🍁┃八点┃剧场",
     "type": 3,
     "api": "csp_XBPQ",
@@ -664,7 +664,7 @@
     "分类url": "http://www.jsjiyuan.com/t/{cateId}-{catePg}.html"}
 },
 {
-    "key": "奇游影视",
+    "key": "csp_奇游影视",
     "name": "🍁┃奇游┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -675,7 +675,7 @@
     "分类url": "http://23.224.2.172/list/{cateId}_{catePg}.html"}
 },
 {
-    "key": "零零七影视",
+    "key": "csp_零零七影视",
     "name": "🍁┃零七┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -686,7 +686,7 @@
     "分类url": "https://vip.00qtv.com/007/{cateId}/page/{catePg}.html"}
 },
 {
-    "key": "雪糕TV",
+    "key": "csp_雪糕TV",
     "name": "🍁┃雪糕┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -833,7 +833,7 @@
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
 },
 {
-    "key": "乐看视频",
+    "key": "csp_乐看视频",
     "name": "🍁┃乐看┃视频",
     "type": 3,
     "api": "csp_HBPQ",
@@ -853,7 +853,7 @@
     "年份值": "*"}
 },
 {
-    "key": "农民采集",
+    "key": "csp_农民采集",
     "name": "🍁┃农民┃影视",
     "type": 3,
     "api": "csp_HBPQ",
@@ -875,7 +875,7 @@
     "分类url": "http://www.ipcname.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&yuyan={lang}"}
 },
 {
-    "key": "秀儿影视",
+    "key": "csp_秀儿影视",
     "name": "🍁┃秀儿┃影视",
     "type": 3,
     "api": "csp_HBPQ",
@@ -885,7 +885,7 @@
 	"分类":"电影$1#剧集$2#动漫$3#综艺$4"}
 },
 {
-    "key": "枫林纲影院",
+    "key": "csp_枫林纲影院",
     "name": "🍁┃枫林┃影视",
     "type": 3,
     "api": "csp_HBPQ",
@@ -897,7 +897,7 @@
     "分类url": "https://imaple8.co/type/{cateId}-{catePg}.html"}
 },
 {
-    "key": "VIP影视",
+    "key": "csp_VIP影视",
     "name": "🍁┃永久┃影视",
     "type": 3,
     "api": "csp_XBPQ",
@@ -908,7 +908,7 @@
 	"分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi#福利$fulipian"}
 },
 {
-    "key": "麦田影院",
+    "key": "csp_麦田影院",
     "name": "🍁┃麦田┃影院",
     "type": 3,
     "api": "csp_HBPQ",
@@ -919,12 +919,12 @@
 	"标题":"title=\"&&\"",
 	"副标题":"🌲+public-list-prb hide ft2\">&&</span>",
 	"线路数组":"swiper-slide&&</a>",
-	"线路标题":"💕琉芸👉+&nbsp;&&<",
+	"线路标题":"💕+&nbsp;&&<",
 	"分类url":"https://mtyy8.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
 	"分类":"短剧$26#电视剧$1#电影$2#动漫$4#综艺$3"}
 },
 {
-    "key": "白嫖者",
+    "key": "csp_白嫖者",
     "name": "🍁┃翘楚┃白嫖",
     "type": 3,
     "ua": "okhttp/3.15",
@@ -960,7 +960,7 @@
     "分类url": "http://www.529519.com/listnew/{cateId}-{catePg}.html"}
 },
 {
-    "key": "天天影院",
+    "key": "csp_天天影院",
     "name": "🍁┃天天┃影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -1094,19 +1094,8 @@
     "ua": "okhttp/3.10.0"}
 },     
 {
-    "key": "csp_小猪",
-    "name": "♾️┃小猪┃APP",
-    "type": 3,
-    "api": "./AppGet.js",
-	"ext": {
-    "host": "http://211.154.22.153:4643/",
-    "key": "uxxDgHxsdoSgVGZZ",
-	"类型": "APP",	
-    "api": 2}
-}, 
-{
     "key": "首发",
-    "name": "♾️┃首发｜APP",
+    "name": "♾️┃首发┃APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -1139,7 +1128,7 @@
 },
 {
     "key": "茉莉",
-    "name": "♾️┃茉莉｜APP",
+    "name": "♾️┃茉莉┃APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -1180,16 +1169,6 @@
     "dataIv": "1234567887654321"}
 },
 {
-    "key": "csp_星空",
-    "name": "♾️┃星空┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://xk9.xkgzs.xyz",
-    "dataKey": "106jkcdnkldzckjk",
-    "dataIv": "106jkcdnkldzckjk"}
-},
-{
     "key": "csp_金鳞",
     "name": "♾️┃金鳞┃APP",
     "type": 3,
@@ -1211,7 +1190,7 @@
 },
 {
     "key": "听心99",
-    "name": "♾️┃听心｜APP",
+    "name": "♾️┃听心┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -1226,7 +1205,7 @@
 },
 {
     "key": "追番99",
-    "name": "♾️┃追番｜APP",
+    "name": "♾️┃追番┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -1241,7 +1220,7 @@
 },
 {
     "key": "咕噜99",
-    "name": "♾️┃咕噜丨APP",
+    "name": "♾️┃咕噜┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -1256,7 +1235,7 @@
 },
 {
     "key": "剧圈99",
-    "name": "♾️┃剧圈丨APP",
+    "name": "♾️┃剧圈┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -1269,23 +1248,23 @@
     "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
 },
 {
-    "key": "双星99",
-    "name": "♾️┃双星丨APP",
+    "key": "橙子99",
+    "name": "♾️┃橙子┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
-    "host": "http://175.178.65.250:19987/app/bn",
+    "host": "http://113.31.180.218:19987/app/bn",
     "LoginPath": "/app/log",
-    "appkey": "f66f65db127e48449f073c2c6eb0f993",
-    "versionName": "6.4.5",
-    "name": "双子星动漫",
-    "package": "com.yingfu.mobile.android.pgsp",
-    "buildNumber": "2003",
-    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+    "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+    "versionName": "4.3.1",
+    "name": "小橙子",
+    "package": "com.xchengzix.app",
+    "buildNumber": "2001",
+    "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"}
 },
 {
     "key": "顾我99",
-    "name": "♾️┃顾我丨APP",
+    "name": "♾️┃顾我┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -1300,7 +1279,7 @@
 },
 {
     "key": "橘汁",
-    "name": "♾️┃橘汁｜APP",
+    "name": "♾️┃橘汁┃APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
@@ -1316,7 +1295,7 @@
 },
 {
     "key": "华谊",
-    "name": "♾️┃华谊｜APP",
+    "name": "♾️┃华谊┃APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
@@ -1332,7 +1311,7 @@
 },
 {
     "key": "薯条",
-    "name": "♾️┃薯条｜APP",
+    "name": "♾️┃薯条┃APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
@@ -1348,7 +1327,7 @@
 },
 {
     "key": "春秋",
-    "name": "♾️┃春秋｜APP",
+    "name": "♾️┃春秋┃APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
@@ -1363,6 +1342,89 @@
     "decrypt": "0"}
 },
 {
+    "key": "久久",
+    "name": "♾️┃久久┃APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+},
+{
+    "key": "奴娜",
+    "name": "♾️┃奴娜┃APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://www.nntv.in/api.php/v1.vod"
+},
+{
+    "key": "飞飞",
+    "name": "♾️┃飞飞┃APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "https://qpcj.69mini.com/api.php/app/"
+},
+{
+    "key": "闪影",
+    "name": "♾️┃闪影┃APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+},
+{
+    "key": "围观短剧",
+    "name": "♾️┃围观┃短剧",
+    "type": 3,
+    "api": "csp_WeiguanDJ",
+    "genre": "shortdrama"
+},
+{
+    "key": "甜圈短剧",
+    "name": "♾️┃甜圈┃短剧",
+    "type": 3,
+    "api": "csp_TianquanDJ",
+    "genre": "shortdrama"
+},
+{
+    "key": "独播影视",
+    "name": "♾️┃独播┃影视",
+    "type": 3,
+    "api": "csp_Duboku"
+},
+{
+    "key": "金牌影视",
+    "name": "♾️┃金牌┃影视",
+    "type": 3,
+    "api": "csp_Jpys",
+    "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+},
+{
+    "key": "云播影视",
+    "name": "♾️┃云播┃影视",
+    "type": 3,
+    "api": "csp_Tvyb",
+    "ext": "http://www.tvyb03.com"
+},
+{
+    "key": "瓜子影视",
+    "name": "♾️┃瓜子┃影视",
+    "type": 3,
+    "api": "csp_Gz360"
+},
+{
+    "key": "骚火影视",
+    "name": "♾️┃骚火┃影视",
+    "type": 3,
+    "api": "csp_SaoHuo",
+    "ext": "https://shdy5.us"
+},
+{
+    "key": "农民影视",
+    "name": "♾️┃农民┃影视",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200"
+},
+	
+{
     "key": "旺旺采集资源",
     "name": "旺旺☪短剧",
     "type": 1,
@@ -1374,27 +1436,6 @@
     "type": 1,
     "api": "https://wwzy.tv/api.php/provide/vod/",
     "playUrl": ""
-},
-{
-    "key": "久久",
-    "name": "久久☪采集",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-},
-{
-    "key": "奴娜",
-    "name": "奴娜☪采集",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://www.nntv.in/api.php/v1.vod"
-},
-{
-    "key": "飞飞",
-    "name": "飞飞☪采集",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "https://qpcj.69mini.com/api.php/app/"
 },
 {
     "key": "三六资源",
@@ -1527,37 +1568,37 @@
 },
 {
     "key": "百度资源",
-    "name": "🥬百度☪资源",
+    "name": "百度☪资源",
     "type": 1,
     "api": "https://api.apibdzy.com/api.php/provide/vod/"
 },
 {
     "key": "豪华资源",
-    "name": "🥬豪☪华资源",
+    "name": "豪☪华资源",
     "type": 1,
     "api": "https://hhzyapi.com/api.php/provide/vod/"
 },
 {
     "key": "牛牛资源",
-    "name": "🥬牛牛☪资源",
+    "name": "牛牛☪资源",
     "type": 1,
     "api": "https://api.niuniuzy.me/api.php/provide/vod/"
 },
 {
     "key": "丫丫资源",
-    "name": "🥬丫丫☪资源",
+    "name": "丫丫☪资源",
     "type": 1,
     "api": "https://cj.yayazy.net/api.php/provide/vod/"
 },
 {
     "key": "魔都资源",
-    "name": "🥬魔都☪资源",
+    "name": "魔都☪资源",
     "type": 1,
     "api": "https://www.mdzyapi.com/api.php/provide/vod/"
 },
 {
     "key":"天堂资源网",
-    "name":"🥬采集☪天堂",
+    "name":"采集☪天堂",
     "type":0,
     "api":"http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/"
 },
