@@ -171,7 +171,7 @@
 },
 {
     "key": "聚搜影",
-    "name": "🪀┃聚搜┃影视",
+    "name": "聚搜🪀影视",
     "type": 3,
     "style": {"type": "rect","ratio": 1.485},
     "api": "https://8877.kstore.space/jar/AppToV5.py",
@@ -179,7 +179,7 @@
 },
 {
     "key": "csp_js_-布布",
-    "name": "🪀┃布布┃影視",
+    "name": "布布🪀影視",
     "type": 3,
     "api": "./XB/%E5%B8%83%E5%B8%83.js",
     "style": {"type": "rect","ratio": 1.33},
@@ -187,79 +187,59 @@
 },
 {
     "key": "csp_js_月光影视",
-    "name": "🪀┃月光┃影視",
+    "name": "月光🪀影視",
     "type": 3,
     "api": "./XB/月光.js",
     "类型": "影视"
 },
 {
     "key": "csp_js_金牌123",
-    "name": "🪀┃金牌┃影視",
+    "name": "金牌🪀影視",
     "type": 3,
     "api": "./XB/金牌.js",
     "类型": "影视"
 },
 {
     "key": "csp_js_apple",
-    "name": "🪀┃苹果┃影視",
+    "name": "苹果🪀影視",
     "type": 3,
     "api": "./XB/苹果.js",
     "类型": "影视"
 },
 {
     "key": "星辰影院",
-    "name": "🪀┃星辰┃影視",
+    "name": "星辰🪀影視",
     "type": 3,
     "api": "./XB/星辰.js",
     "类型": "影视"
 },
 {
     "key": "py_fk",
-    "name": "🪀┃飞快┃影視",
+    "name": "飞快🪀影視",
     "type": 3,
     "api": "./XB/飞快.py",
     "类型": "影视"
 },
 {
     "key": "py_jieyingshi",
-    "name": "🪀┃界牌┃影視",
+    "name": "界牌🪀影視",
     "type": 3,
     "api": "./XB/界牌.py",
     "类型": "影视"
 },
 {
-    "key": "土豆浏览器",
-    "name": "🪀┃土豆┃影视",
-    "type": 3,
-    "api": "./XB/土豆.py",
-    "类型": "影视"
-},
-{
     "key":"华数",
-    "name":"🪀┃华数┃影视",
+    "name":"华数🪀影视",
     "type":3,
     "api": "./XB/华数.py",
     "类型": "影视"
 },
 {
     "key": "独播库",
-    "name": "🪀┃独播┃影視",
+    "name": "独播🪀影視",
     "type": 3,
     "api": "./XB/独播.js",
     "类型": "影视"
-},
-{
-    "key": "恰瓜子",
-    "name": "🪀┃恰恰┃瓜子",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
-},
-{
-	"key": "T4_独播库",
-    "name": "影視⭐独库",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252845686784?token=baiyetv"
 },
 {
 	"key": "T4_茶杯狐",
@@ -314,12 +294,6 @@
     "name": "影視⭐琵琶",
     "type": 4,
     "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251784527872?token=baiyetv"
-},
-{
-	"key": "T4_星辰影院",
-    "name": "影視⭐星辰",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251717419008?token=baiyetv"
 },
 {
 	"key": "T4_枫叶",
@@ -395,21 +369,9 @@
 },
 {
 	"key": "T4_毒舌03",
-    "name": "影視⭐毒舌3",
+    "name": "影視⭐毒毒",
     "type": 4,
     "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251792916480?token=baiyetv"
-},
-{
-	"key": "T4_布布影视",
-    "name": "影視⭐布布",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250673037312?token=baiyetv"
-},
-{
-	"key": "T4_布布影视2",
-    "name": "影視⭐布布2",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250689814528?token=baiyetv"
 },
 {
 	"key": "T4_短剧粉",
@@ -437,7 +399,7 @@
 },
 {
     "key":"py_河马短剧",
-    "name":"♨️┃短劇┃河马",
+    "name":"短劇♨️河马",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/河马.py",
     "style":{"type":"rect","ratio":1.33},
@@ -445,7 +407,7 @@
 },
 {
     "key":"py_星芽短剧",
-    "name":"♨️┃短劇┃星芽",
+    "name":"短劇♨️星芽",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/星芽.py",
     "style":{"type":"rect","ratio":1.33},
@@ -453,7 +415,7 @@
 },
 {
     "key":"py_剧王短剧",
-    "name":"♨️┃短劇┃剧王",
+    "name":"短劇♨️剧王",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/剧王.py",
     "style":{"type":"rect","ratio":1.33},
@@ -461,7 +423,7 @@
 },
 {
     "key": "py_五五短剧",
-    "name": "♨️┃短劇┃五五",
+    "name": "短劇♨️五五",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/五五.py",
     "style":{"type":"rect","ratio":1.33},
@@ -469,7 +431,7 @@
 },
 {
     "key": "py_七猫短剧",
-    "name": "♨️┃短劇┃七猫",
+    "name": "短劇♨️七猫",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/七猫.py",
     "style":{"type":"rect","ratio":1.33},
@@ -477,7 +439,7 @@
 },
 {
     "key":"py_PTT視頻",
-    "name":"♨️┃追劇┃短剧",
+    "name":"追劇♨️短剧",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/lib/PTT短剧.py",
     "style":{"type":"rect","ratio":1.33},
@@ -485,7 +447,7 @@
 },
 {
     "key":"py_喜福短剧",
-    "name":"♨️┃短劇┃喜福",
+    "name":"短劇♨️喜福",
     "type":3,
     "api":"https://gitee.com/lyun_1_0/TS/raw/main/lib/喜福.py",
     "style":{"type":"rect","ratio":1.33},
@@ -493,7 +455,7 @@
 },
 {
     "key": "csp_js_红果",
-    "name": "♨️┃红果┃短剧",
+    "name": "红果♨️短剧",
     "type": 3,
     "api": "./XB/红果.js",
     "style":{"type":"rect","ratio":1.33},
@@ -501,13 +463,13 @@
 },
 {
     "key": "csp_js_剧和短剧",
-    "name": "♨️┃短劇┃系列",
+    "name": "短劇♨️系列",
     "type": 3,
     "api": "./XB/短合.js"
 },
 {
     "key": "cj_牛牛短剧",
-    "name": "♨️┃短劇┃牛牛",
+    "name": "短劇♨️牛牛",
     "type": 1,
     "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
     "categories": [
