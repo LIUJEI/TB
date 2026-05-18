@@ -256,54 +256,6 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/恰瓜子.js"
 },
 {
-    "key": "dr_腾迅",
-    "name": "🐉┃騰訊┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/QQtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_芒果",
-    "name": "🐉┃芒果┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/MGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_奇异",
-    "name": "🐉┃奇藝┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/AQItv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_优酷",
-    "name": "🐉┃優酷┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/yKtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_搜狗",
-    "name": "🐉┃搜狗┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/SGtv.js",
-    "类型": "官解"
-},
-{
-    "key": "dr_哔哩视频",
-    "name": "🐉┃嗶哩┃官方",
-    "type": 3,
-    "api": "./libs/drpy3.min.js",
-    "ext": "./TS/bili.js",
-    "类型": "官解"
-},
-{
     "key":"py_河马短剧",
     "name":"♨️┃短劇┃河马",
     "type":3,
@@ -388,6 +340,54 @@
     "现代都市"],
     "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
+},
+{
+    "key": "dr_腾迅",
+    "name": "🐉┃騰訊┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/QQtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_芒果",
+    "name": "🐉┃芒果┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/MGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_奇异",
+    "name": "🐉┃奇藝┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/AQItv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_优酷",
+    "name": "🐉┃優酷┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/yKtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_搜狗",
+    "name": "🐉┃搜狗┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/SGtv.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "🐉┃嗶哩┃官方",
+    "type": 3,
+    "api": "./libs/drpy3.min.js",
+    "ext": "./TS/bili.js",
+    "类型": "官解"
 },
 {
     "key": "csp_YALI",
