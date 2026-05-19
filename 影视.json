@@ -114,13 +114,6 @@
     "api": 2}
 },
 {
-    "key": "csp_橘子",
-    "name": "🆘┃橘子┃影视",
-    "type": 3,
-    "api": "https://pan.szfx.top/down.php/1d1ec49276f6668d766af6376b3cfc94.py",
-    "ext": "https://dmc.yy-fun.cc/feiapp"
-},
-{
     "key": "csp_快映",
     "name": "🆘┃快映┃影视",
     "type": 3,
