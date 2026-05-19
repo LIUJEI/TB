@@ -49,8 +49,6 @@
 {
     "key": "csp_BiliMV",
     "name": "💫┃哔哩┃音乐",
-    "key": "csp_BiliMV",
-    "name": "💫┃哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
     "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
