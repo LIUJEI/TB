@@ -145,7 +145,8 @@
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"}
+    "sign": "679543610991810f19698c187e5e106e",
+	"类型": "APP"}
 },
 {
     "key": "csp_liebao",
@@ -155,7 +156,8 @@
 	"ext": {
     "url": "https://444421.xyz",
     "dataKey": "#getapp@TMD@2025",
-    "dataIv": "#getapp@TMD@2025"}
+    "dataIv": "#getapp@TMD@2025",
+	"类型": "APP"}
 },
 {
     "key": "csp_xiju",
@@ -165,7 +167,8 @@
     "ext": {
     "url": "http://211.154.24.56:8369",
     "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
+    "dataIv": "685bf108bc47b67d",
+	"类型": "APP"}
 },
 {
     "key": "csp_wangzi",
@@ -175,7 +178,8 @@
 	"ext": {
     "url": "https://app.95112475.xyz",
     "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"}
+    "dataIv": "5a9w6x58dsq6z3a6",
+	"类型": "APP"}
 },
 {
     "key": "csp_茉莉",
@@ -185,7 +189,8 @@
     "ext": {
     "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
     "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"}
+    "dataIv": "88689667dce61725",
+	"类型": "APP"}
 },
 {
     "key": "py_橘子",
@@ -193,7 +198,8 @@
     "type": 3,
     "style": {"type": "rect","ratio": 1.485},
     "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
-    "ext": "https://dmc.yy-fun.cc/feiapp"
+    "ext": "https://dmc.yy-fun.cc/feiapp",
+	"类型": "APP"
 },
 {
     "key": "py_追影",
@@ -201,7 +207,8 @@
     "type": 3,
     "style": {"type": "rect","ratio": 1.485},
     "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
-    "ext": "http://43.248.117.123:4680"
+    "ext": "http://43.248.117.123:4680",
+	"类型": "APP"
 },
 {
     "key": "py_皮皮虾",
@@ -209,14 +216,16 @@
     "type": 3,
 	"style": {"type": "rect","ratio": 1.485},
     "api": "https://d.kstore.dev/download/12194/TS/ppx.py",
-    "ext": "http://154.94.224.98:8762"  
+    "ext": "http://154.94.224.98:8762",
+	"类型": "APP"  
 },
 {
     "key": "csp_App闪影",
     "name": "🆘┃影視┃闪影",
     "type": 3,
     "api": "csp_AppYsV2",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+	"类型": "APP"
 },
 {
     "key": "js_独播库",
