@@ -283,12 +283,12 @@
     "ext": {"分类url": "https://www.knvod.com/vshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"}
 },
 {
-    "key": "maccms_local",
-    "name": "🆘┃影視┃雨夜",
-    "type": 1,
-    "api": "http://dy.7772888.xyz/api.php/tvbox",
-    "searchable": 1,
-    "quickSearch": 1
+    "key": "耐看",
+    "name": "🆘┃影視┃耐看",
+    "type": 3,
+    "api": "csp_WebNK",
+	"jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+    "ext": "w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="
 },
 {
     "name": "🌐┃伊外┃快速",
