@@ -49,10 +49,14 @@
 {
     "key": "csp_BiliMV",
     "name": "💫┃哔哩┃音乐",
+    "key": "csp_BiliMV",
+    "name": "💫┃哔哩┃音乐",
     "type": 3,
     "api": "csp_Bili",
-    "ext": {"json": "./XB/音乐.json","cookie": ""},
-    "style": {"type": "rect","ratio": 1.333}
+    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+    "ext": {"json": "https://d.kstore.dev/download/12194/TS/音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"},
+    "style": {"type": "rect","ratio": 1.597}
 },
 {
     "key": "csp_猫头鹰",
@@ -704,57 +708,6 @@
     "type": 3,
     "api": "csp_AppGet",
     "ext": "http://cic.aicg.fun|2c4h36abd96se10u"
-},
-{
-    "key": "sp_盘它",
-    "name": "🌐┃网盘┃盘它4K",
-    "type": 3,
-    "api": "csp_PanWebShareCloudPT",
-    "jar": "./JAR/Sxiao.jar",
-    "style": {"type": "list"}
-},
-{
-    "key": "csp_FeiMaoUC",
-    "name": "🌐┃网盘┃闪电4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "url_key": "FeiMaoUC",
-    "site_urls": ["https://shandian.blog/","https://sd.sduc.site"]}
-},
-{
-    "key": "csp_Duopan",
-    "name": "🌐┃网盘┃蜡笔4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "site_urls": [
-    "http://xiaocgege.shop",
-    "https://feimao666.fun",
-    "http://feimao888.fun",
-    "https://feimo.fun",
-    "http://www.labi88.sbs",
-    "http://fmao.site",
-    "http://fmao.shop",
-    "http://xiaocge.fun"],
-    "url_key": "Netfixtv2",
-    "threadinfo": {"chunksize": 512,"threads": 16}}
-},
-{
-    "key": "csp_Netfixtv",
-    "name": "🌐┃网盘┃至臻4K",
-    "type": 3,
-    "api": "csp_Duopan",
-    "ext": {
-    "site_urls": [
-    "http://xiaomi666.fun",
-    "https://zhizhen1.top",
-    "https://mihdr.top",
-    "https://www.mihdr.top",
-    "http://www.miqk.cc",
-    "https://www.zhizhenpan.fun"],
-    "url_key": "Netfixtv2",
-    "threadinfo": {"chunksize": 512,"threads": 16}}
 },
 {
     "key": "ConfigCenter",
