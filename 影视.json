@@ -170,208 +170,196 @@
     "类型": "APP"
 },
 {
-    "key": "聚搜影",
-    "name": "聚搜🪀影视",
+    "key": "py_橘子",
+    "name": "🆘┃影視┃橘子",
     "type": 3,
     "style": {"type": "rect","ratio": 1.485},
-    "api": "https://8877.kstore.space/jar/AppToV5.py",
+    "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
+    "ext": "https://dmc.yy-fun.cc/feiapp"
+},
+{
+    "key": "py_追影",
+    "name": "🆘┃影視┃追影",
+    "type": 3,
+    "style": {"type": "rect","ratio": 1.485},
+    "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
     "ext": "http://43.248.117.123:4680"
 },
 {
-    "key": "csp_js_-布布",
-    "name": "布布🪀影視",
+    "key": "js_独播库",
+    "name": "🆘┃影視┃独播",
     "type": 3,
-    "api": "./XB/%E5%B8%83%E5%B8%83.js",
+    "api": "https://d.kstore.dev/download/12194/TS/独播.js",
+    "类型": "影視"
+},
+{
+    "key": "js_布布",
+    "name": "🆘┃影視┃布布",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/布布.js",
     "style": {"type": "rect","ratio": 1.33},
-    "类型": "影视"
+    "类型": "影視"
+},  
+{
+    "key": "js_月光影视",
+    "name": "🆘┃影視┃月光",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/月光.js",
+    "类型": "影視"
 },
 {
-    "key": "csp_js_月光影视",
-    "name": "月光🪀影視",
+    "key": "js_金牌",
+    "name": "🆘┃影視┃金牌",
     "type": 3,
-    "api": "./XB/月光.js",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/金牌.js",
+    "类型": "影視"
 },
 {
-    "key": "csp_js_金牌123",
-    "name": "金牌🪀影視",
+    "key": "js_星辰影院",
+    "name": "🆘┃影視┃星辰",
     "type": 3,
-    "api": "./XB/金牌.js",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/星辰.js",
+    "类型": "影視"
 },
 {
-    "key": "csp_js_apple",
-    "name": "苹果🪀影視",
+    "key": "js_麻雀",
+    "name": "🆘┃影視┃麻雀",
     "type": 3,
-    "api": "./XB/苹果.js",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/麻雀.js",
+    "类型": "影視"
 },
 {
-    "key": "星辰影院",
-    "name": "星辰🪀影視",
+    "key": "js_永乐",
+    "name": "🆘┃影視┃永乐",
     "type": 3,
-    "api": "./XB/星辰.js",
-    "类型": "影视"
-},
-{
-    "key": "py_fk",
-    "name": "飞快🪀影視",
-    "type": 3,
-    "api": "./XB/飞快.py",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/永乐.js",
+    "类型": "影視"
 },
 {
     "key": "py_jieyingshi",
-    "name": "界牌🪀影視",
+    "name": "🆘┃影視┃界牌",
     "type": 3,
-    "api": "./XB/界牌.py",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/界牌.py",
+    "类型": "影視"
 },
 {
-    "key":"华数",
-    "name":"华数🪀影视",
+    "key":"py_华数",
+    "name":"🆘┃影視┃华数",
     "type":3,
-    "api": "./XB/华数.py",
-    "类型": "影视"
-},
-{
-    "key": "独播库",
-    "name": "独播🪀影視",
-    "type": 3,
-    "api": "./XB/独播.js",
-    "类型": "影视"
+    "api": "https://d.kstore.dev/download/12194/TS/华数.py",
+    "类型": "影視"
 },
 {
 	"key": "T4_茶杯狐",
-    "name": "影視⭐茶狐",
+    "name": "🆘┃影視┃茶狐",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252883435520?token=baiyetv"
-},
-{
-	"key": "T4_这片海",
-    "name": "影視⭐片海",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489254192058368?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252883435520?token=baiyetv",
+    "类型": "影視"
 },
 {
 	"key": "T4_袋鼠影视",
-    "name": "影視⭐袋鼠",
+    "name": "🆘┃影視┃袋鼠",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489253831348224?token=baiyetv"
-},
-{
-	"key": "T4_电影天堂",
-    "name": "影視⭐天堂",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252858269697?token=baiyetv"
-},
-{
-	"key": "T4_荐片",
-    "name": "影視⭐荐片",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252896018432?token=baiyetv"
-},
-{
-	"key": "T4_瓜子",
-    "name": "影視⭐瓜子",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252820520960?token=baiyetv"
-},
-{
-	"key": "T4_热播",
-    "name": "影視⭐热播",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252799549440?token=baiyetv"
-},
-{
-	"key": "T4_永乐视频",
-    "name": "影視⭐永乐",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251809693696?token=baiyetv"
-},
-{
-	"key": "T4_歪比巴卜",
-    "name": "影視⭐琵琶",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251784527872?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489253831348224?token=baiyetv",
+    "类型": "影視"
 },
 {
 	"key": "T4_枫叶",
-    "name": "影視⭐枫叶",
+    "name": "🆘┃影視┃枫叶",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251788722176?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251788722176?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_新韩剧网",
-    "name": "影視⭐韩剧",
+	"key": "T4_荐片",
+    "name": "🆘┃影視┃荐片",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251709030400?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252896018432?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_影视大全",
-    "name": "影視⭐大全",
+	"key": "T4_瓜子",
+    "name": "🆘┃影視┃瓜子",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251704836096?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252820520960?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_2055489250631094272",
-    "name": "影視⭐唐人",
+	"key": "T4_一起看影视",
+    "name": "🆘┃影視┃起看",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250631094272?token=baiyetv"
-},
-{
-	"key": "T4_小黑米",
-    "name": "影視⭐黑米",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250664648705?token=baiyetv"
-},
-{
-	"key": "T4_影猫仓库",
-    "name": "影視⭐影猫",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250698203136?token=baiyetv"
-},
-{
-	"key": "T4_如意资源",
-    "name": "影視⭐如意",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250647871488?token=baiyetv"
-},
-{
-	"key": "T4_威尔伯TV",
-    "name": "影視⭐威伯",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250664648704?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251797110784?token=baiyetv",
+    "类型": "影視"
 },
 {
 	"key": "T4_哇哇影视",
-    "name": "影視⭐哇哇",
+    "name": "🆘┃影視┃哇哇",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250618511360?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250618511360?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_123TV",
-    "name": "影視⭐123",
+	"key": "T4_歪比巴卜",
+    "name": "🆘┃影視┃琵琶",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489247078518784?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251784527872?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_movie360",
-    "name": "影視⭐360",
+	"key": "T4_影视大全",
+    "name": "🆘┃影視┃大全",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489247099490304?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251704836096?token=baiyetv",
+    "类型": "影視"
 },
 {
-	"key": "T4_毒舌影视",
-    "name": "影視⭐毒舌",
+	"key": "T4_2055489250631094272",
+    "name": "🆘┃影視┃唐人",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251797110784?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250631094272?token=baiyetv",
+    "类型": "影視"
+},
+{
+	"key": "T4_小黑米",
+    "name": "🆘┃影視┃黑米",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250664648705?token=baiyetv",
+    "类型": "影視"
+},
+{
+	"key": "T4_影猫仓库",
+    "name": "🆘┃影視┃影猫",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250698203136?token=baiyetv",
+    "类型": "影視"
+},
+{
+	"key": "T4_如意资源",
+    "name": "🆘┃影視┃如意",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489250647871488?token=baiyetv",
+    "类型": "影視"
 },
 {
 	"key": "T4_毒舌03",
-    "name": "影視⭐毒毒",
+    "name": "🆘┃影視┃毒舌",
     "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251792916480?token=baiyetv"
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251792916480?token=baiyetv",
+    "类型": "影視"
+},
+{
+	"key": "T4_电影天堂",
+    "name": "🆘┃影視┃天堂",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489252858269697?token=baiyetv",
+    "类型": "影視"
+},
+{
+	"key": "T4_这片海",
+    "name": "🆘┃影視┃片海",
+    "type": 4,
+    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489254192058368?token=baiyetv",
+    "类型": "影視"
 },
 {
 	"key": "T4_短剧粉",
