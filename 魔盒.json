@@ -1108,60 +1108,11 @@
     "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
 },
 {
-    "key": "围观短剧",
-    "name": "🍁┃围观┃短剧",
-    "type": 3,
-    "api": "csp_WeiguanDJ",
-    "genre": "shortdrama"
-},
-{
-    "key": "甜圈短剧",
-    "name": "🍁┃甜圈┃短剧",
-    "type": 3,
-    "api": "csp_TianquanDJ",
-    "genre": "shortdrama"
-},
-{
     "key": "独播影视",
     "name": "🍁┃独播┃影视",
     "type": 3,
     "api": "csp_Duboku"
 },
-{
-    "key": "金牌影视",
-    "name": "🍁┃金牌┃影视",
-    "type": 3,
-    "api": "csp_Jpys",
-    "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-},
-{
-    "key": "云播影视",
-    "name": "🍁┃云播┃影视",
-    "type": 3,
-    "api": "csp_Tvyb",
-    "ext": "http://www.tvyb03.com"
-},
-{
-    "key": "瓜子影视",
-    "name": "🍁┃瓜子┃影视",
-    "type": 3,
-    "api": "csp_Gz360"
-},
-{
-    "key": "骚火影视",
-    "name": "🍁┃骚火┃影视",
-    "type": 3,
-    "api": "csp_SaoHuo",
-    "ext": "https://shdy5.us"
-},
-{
-    "key": "农民影视",
-    "name": "🍁┃农民┃影视",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
-},
-	
 {
     "key": "旺旺采集资源",
     "name": "旺旺☪短剧",
