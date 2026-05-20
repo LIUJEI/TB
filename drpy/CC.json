@@ -1,28 +1,23 @@
 {"urls":[
 {
-    "name": "🏡《首页》聚合",
-    "updated_at":"2026-05-19 22:10:14",
+    "name": "🏡《凯速网》首页🏡",
+    "updated_at":"2026-05-20 21:41:10",
     "url": "https://d.kstore.dev/download/12194/影视.json"
 },
 {
-    "name": "☀️《推荐》聚合",
-    "updated_at":"2026-05-19 22:10:14",
+    "name": "🏡《凯速网》推荐🏡",
+    "updated_at":"2026-05-20 21:48:14",
     "url": "https://d.kstore.dev/download/12194/魔盒.json"
+},
+{
+    "name": "☀️《凯速网》福利☀️",
+    "updated_at":"2026-05-20 21:51:34",
+    "url": "https://d.kstore.dev/download/12194/休闲.json"
 },
 {
     "name": "🚸《自用》枫斗",
     "updated_at":"2026-05-19 22:10:14",
     "url": "http://枫斗.top/tv"
-},
-{
-    "name": "🚸《集多》VOX",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "http://rihou.cc:88/demo.php"
-},
-{
-    "name": "🚸《自用》欧歌",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "https://pan.szfx.top/down.php/ea929b0357a41eea3322b356df175901.json"
 },
 {
     "name": "🚸《自用》幸福",
@@ -50,39 +45,19 @@
     "url": "http://www.小不点.com"
 },
 {
-   "name":"🚸《自用》夏夏",
-   "updated_at":"2026-03-25 23:13:22",
-   "url":"https://11405.kstore.space/xiaye/qk4k.json"
-},
-{
     "name": "🚸《自用》林中",
     "updated_at":"2026-05-19 22:10:14",
     "url": "https://8815.kstore.vip/tvbox/Ace"
 },
 {
-    "name": "🚸《自用》壹米",
+    "name": "🚸《自用》基米",
     "updated_at":"2026-05-19 22:10:14",
-    "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg"
-},
-{
-    "name": "🚸《自用》苍蓝",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "https://13537.kstore.vip/tvbox/test.json"
-},
-{
-    "name": "🚸《自用》牛马",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "http://nn.4688888.xyz/common.json"
-},
+    "url": "https://17264.kstore.space/哈基米.png"
+}, 
 {
     "name": "🚸《自用》豆包",
     "updated_at":"2026-05-19 22:10:14",
     "url": "https://17264.kstore.space/豆包.jpg"
-},
-{
-    "name": "🚸《自用》裤佬",
-    "updated_at":"2026-05-18 12:51:34",
-    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
 },
 {
     "name": "🚸《自用》南风",
@@ -95,30 +70,26 @@
     "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
 },
 {
-    "name": "🚸《自用》ccT4",
-    "updated_at":"2026-05-18 12:51:34",
-    "url": "http://ll14s7fe.zjz-service.cn:20384/api/subscription/2055497520582234112/tvbox?token=baiyetv"
-},
-{
     "name": "🚸《自用》未知",
     "updated_at":"2026-05-18 12:51:34",
     "url": "https://ghfast.top/https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/FuLi.json"
 },
 {
-    "name": "🐠《自用》休闲",
-    "updated_at":"2026-05-18 12:51:34",
-    "url": "https://d.kstore.dev/download/12194/%E4%BC%91%E9%97%B2.json"
-},
-{
-    "name": "🚸《自用》哈基米",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "https://17264.kstore.space/哈基米.png"
-}, 
-{
     "name": "🚸《自用》EasyTV",
     "updated_at":"2026-05-19 22:10:14",
     "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
 },
+{
+    "name": "🚸《自用》裤佬",
+    "updated_at":"2026-05-18 12:51:34",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
+},
+  {"name":"🚸《自用》夏夏","updated_at":"2026-03-25 23:13:22","url":"https://11405.kstore.space/xiaye/qk4k.json"},
+  {"name":"🚸《自用》壹米","updated_at":"2026-05-19 22:10:14","url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg"},
+  {"name":"🚸《自用》苍蓝","updated_at":"2026-05-19 22:10:14","url": "https://13537.kstore.vip/tvbox/test.json"},
+  {"name":"🚸《自用》牛马","updated_at":"2026-05-19 22:10:14","url": "http://nn.4688888.xyz/common.json"},
+  {"name":"🚸《集多》VOX","updated_at":"2026-05-19 22:10:14","url": "http://rihou.cc:88/demo.php"},
+  {"name":"🚸《自用》欧歌","updated_at":"2026-05-19 22:10:14","url": "https://pan.szfx.top/down.php/ea929b0357a41eea3322b356df175901.json"},
   {"name":"🚸《自用》饭太硬","updated_at":"2026-05-01 22:10:14","url":"http://www.饭太硬.net/tv"},
   {"name":"🚸《自用》饭太硬2","updated_at":"2026-05-01 22:10:14","url":"http://www.饭太硬.cc/tv"},
   {"name":"🚸《自用》饭太硬3","updated_at":"2026-05-01 22:10:14","url":"http://www.饭太硬.art/tv"},
