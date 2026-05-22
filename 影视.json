@@ -217,34 +217,6 @@
     "类型": "APP"
 },
 {
-    "key": "csp_xiju",
-    "name": "🆘┃新剧┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
-},
-{
-    "key": "csp_魔方",
-    "name": "🆘┃魔方┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.alibaba31casaq.top/",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"}
-},
-{
-    "key": "闪影",
-    "name": "🆘┃影視┃闪影",
-    "type": 3,
-    "api": "csp_AppYs",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-	"类型": "APP"
-},
-{
     "key": "js_袋鼠影视",
     "name": "🆘┃影視┃袋鼠",
     "type": 3,
@@ -364,6 +336,14 @@
     "api": "https://d.kstore.dev/download/12194/TS/壹影视.py",
     "style": {"type": "rect","ratio": 1.33},
     "类型": "影視"
+},
+{
+    "key": "闪影",
+    "name": "🆘┃影視┃闪影",
+    "type": 3,
+    "api": "csp_AppYs",
+    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+	"类型": "APP"
 },
 {
     "key":"py_河马短剧",
@@ -492,6 +472,26 @@
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/bili.js",
     "类型": "官解"
+},
+{
+    "key": "csp_xiju",
+    "name": "🆘┃新剧┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "http://211.154.24.56:8369",
+    "dataKey": "685bf108bc47b67d",
+    "dataIv": "685bf108bc47b67d"}
+},
+{
+    "key": "csp_魔方",
+    "name": "🆘┃魔方┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.alibaba31casaq.top/",
+    "dataKey": "1234567887654321",
+    "dataIv": "1234567887654321"}
 },
 {
     "key": "csp_YALI",
