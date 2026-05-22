@@ -634,19 +634,18 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
 }],
 "parses": [
-	
 {
     "name": "YYNB解析4K",
     "type": 1,
     "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
 },
 {
-    "name": "YYNB解析4K",
+    "name": "麒麟解析4K",
     "type": 1,
-    "url": "https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
+    "url": "https://api.jxapi.cc/api/?key=9f61f1b9797b7b55e306a68da27359ac&url="
 },
 {
-    "name": "4KAPI解析",
+    "name": "极速解析4K",
     "type": 1,
     "url": "http://niubi.69mini.com/api/?key=h28y9WWIgO2BU25bpW&url="
 },	
