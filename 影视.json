@@ -131,80 +131,90 @@
      "name": "🆘┃乐达┃影视",
      "type": 3,
      "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-     "ext": {
-     "host": "https://ledayy.com",
-     "类型": "APP",
-     "api": 3}
+     "ext": "https://ledayy.com",
+     "style": {"type": "rect","ratio": 1.485},
+     "类型": "APP"
 },
 {
     "key": "csp_xicen",
     "name": "🆘┃夕岑┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-	"host": "http://app.hktvyb.cc",
-	"类型": "APP",	
-    "api": 3}
+    "ext": "http://app.hktvyb.cc",
+    "style": {"type": "rect","ratio": 1.485},
+	"类型": "APP"
 },
 {
     "key": "csp_baih",
     "name": "🆘┃沐辞┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-	"host": "https://app2512.ystva.com",
-	"类型": "APP",	
-    "api": 3}
+    "ext": "https://app2512.ystva.com",
+    "style": {"type": "rect","ratio": 1.485},
+	"类型": "APP"
 },
 {
     "key": "csp_jiahe",
     "name": "🆘┃嘉禾┃影视",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-    "host": "https://www.baidukuaiy.top",
-    "类型": "APP",
-    "api": 3}
+    "ext": "https://www.baidukuaiy.top",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
 },
 {
     "key": "csp_lieying",
     "name": "🆘┃豹影┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-    "host": "https://444421.xyz",
-    "类型": "APP",
-    "api": 3}
+    "ext": "https://444421.xyz",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
 },
 {
     "key": "csp_meigui",
     "name": "🆘┃玫瑰┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-    "host": "http://43.251.227.45:3688",
-    "类型": "APP",
-    "api": 3}
+    "ext": "http://43.251.227.45:3688",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
 },
 {
     "key": "csp_hbys",
     "name": "🆘┃华彬┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": {
-    "host": "https://api2026.hboqy.cn/",
-    "类型": "APP",
-    "api": 3}
+    "ext": "https://api2026.hboqy.cn/",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
 },
 {
-    "key": "csp_小鹿",
-    "name": "🆘┃小鹿┃秒播",
+    "key": "py_橘子",
+    "name": "🆘┃影視┃橘子",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "https://xiaolu.pwwhu.cn",
-    "dataKey": "x5Bep6Q78VCeYnPS",
-    "dataIv": "x5Bep6Q78VCeYnPS"}
+    "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
+    "ext": "https://dmc.yy-fun.cc/feiapp",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "py_追影",
+    "name": "🆘┃影視┃追影",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
+    "ext": "http://43.248.117.123:4680",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "py_皮皮虾",
+    "name": "🆘┃影視┃皮虾",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/ppx.py",
+    "ext": "http://154.94.224.98:8762",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
 },
 {
     "key": "csp_xiju",
@@ -217,16 +227,6 @@
     "dataIv": "685bf108bc47b67d"}
 },
 {
-    "key": "csp_wangzi",
-    "name": "🆘┃王子┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"}
-},
-{
     "key": "csp_魔方",
     "name": "🆘┃魔方┃秒播",
     "type": 3,
@@ -235,30 +235,6 @@
     "url": "https://www.alibaba31casaq.top/",
     "dataKey": "1234567887654321",
     "dataIv": "1234567887654321"}
-},
-{
-    "key": "py_橘子",
-    "name": "🆘┃影視┃橘子",
-    "type": 3,
-    "style": {"type": "rect","ratio": 1.485},
-    "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
-    "ext": "https://dmc.yy-fun.cc/feiapp"
-},
-{
-    "key": "py_追影",
-    "name": "🆘┃影視┃追影",
-    "type": 3,
-    "style": {"type": "rect","ratio": 1.485},
-    "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
-    "ext": "http://43.248.117.123:4680"
-},
-{
-    "key": "py_皮皮虾",
-    "name": "🆘┃影視┃皮虾",
-    "type": 3,
-    "style": {"type": "rect","ratio": 1.485},
-    "api": "https://d.kstore.dev/download/12194/TS/ppx.py",
-    "ext": "http://154.94.224.98:8762"
 },
 {
     "key": "闪影",
