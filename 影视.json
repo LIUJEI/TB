@@ -628,7 +628,7 @@
 },
 {
    "key": "kktd",
-   "name": "🏡糖豆┃舞蹈",
+   "name": "🎄┃糖豆┃舞蹈",
    "type": 1,
    "api": "https://tt.666888.club/vod/cibn_api.php/provide/vod/",
    "searchable": 1,
@@ -636,7 +636,7 @@
 },
 {
    "key": "tt",
-   "name": "🏡儿童┃专区",
+   "name": "🎄┃儿童┃专区",
    "type": 1,
    "api": "https://tt.666888.club/vod/tt.php/provide/vod/",
    "searchable": 1,
