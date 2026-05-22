@@ -221,8 +221,9 @@
     "name": "🆘┃影視┃荐片",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
-    "ext":  "https://api.ztcgi.com",
-    "类型": "APP"
+    "ext": {
+    "host": "https://api.ztcgi.com",
+    "类型": "APP"}
 },
 {
     "key": "js_袋鼠影视",
