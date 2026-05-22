@@ -217,6 +217,14 @@
     "类型": "APP"
 },
 {
+    "key": "cat_荐片app",
+    "name": "🆘┃影視┃荐片",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
+    "ext":  "https://api.ztcgi.com",
+    "类型": "APP"
+},
+{
     "key": "js_袋鼠影视",
     "name": "🆘┃影視┃袋鼠",
     "type": 3,
@@ -240,15 +248,6 @@
     "style": {"type": "rect","ratio": 1.33},
     "类型": "影視"
 }, 
-{
-    "key": "cat_荐片app",
-    "name": "🆘┃影視┃荐片",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
-    "ext": {
-    "host": "https://api.ztcgi.com",
-    "类型": "影視"}
-},
 {
     "key": "js_独播库",
     "name": "🆘┃影視┃独播",
@@ -419,7 +418,7 @@
     "类型": "短剧"
 },
 {
-    "key": "苹果短剧",
+    "key": "py_苹果短剧",
     "name": "♨️┃短劇┃苹果",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/苹果短剧.py",
