@@ -39,8 +39,8 @@
     "changeable": 1
 },
 {
-    "key": "csp_栖遥",
-    "name": "🆘┃栖遥┃秒播",
+    "key": "csp_soufa",
+    "name": "🆘┃罗绮┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
 	"ext": {
@@ -51,7 +51,7 @@
 },
 {
     "key": "csp_lanying",
-    "name": "🆘┃藍鷹┃秒播",
+    "name": "🆘┃朗吟┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
 	"ext": {
@@ -61,8 +61,8 @@
     "api": 2}
 },
 {
-    "key": "csp_晚禾",
-    "name": "🆘┃晚禾┃秒播",
+    "key": "csp_xiqi",
+    "name": "🆘┃西倾┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
 	"ext": {
@@ -84,7 +84,7 @@
 },
 {
     "key": "csp_hulu",
-    "name": "🆘┃葫芦┃秒播",
+    "name": "🆘┃素娥┃秒播",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
     "ext": {
@@ -116,6 +116,118 @@
     "api": 2}
 },
 {
+    "key" : "csp_xingy",
+    "name" : "🆘┃暮春┃秒播",
+    "type" : 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
+    "ext": {
+    "host": "http://107.151.244.162:6622",
+    "key": "wNCwbXzr0Bm6cS2C",
+    "类型": "APP",	
+    "api": 2}
+},  
+{
+    "key" : "csp_aying",
+    "name" : "🆘┃亭皋┃秒播",
+    "type" : 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppGet.js",
+    "ext": {
+    "host":  "http://222.211.75.252:26168",
+    "key":  "nzEqOgYk3QzHuEP8",
+    "类型": "APP",	
+    "api": 2}
+},
+{
+     "key": "csp_leda",
+     "name": "🆘┃湘漓┃秒播",
+     "type": 3,
+     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+     "ext": "https://ledayy.com",
+     "style": {"type": "rect","ratio": 1.485},
+     "类型": "APP"
+},
+{
+    "key": "csp_xicen",
+    "name": "🆘┃琉璃┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "http://app.hktvyb.cc",
+    "style": {"type": "rect","ratio": 1.485},
+	"类型": "APP"
+},
+{
+    "key": "csp_baih",
+    "name": "🆘┃涧木┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "https://app2512.ystva.com",
+    "style": {"type": "rect","ratio": 1.485},
+	"类型": "APP"
+},
+{
+    "key": "csp_jiahe",
+    "name": "🆘┃残烟┃影视",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "https://www.baidukuaiy.top",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "csp_lieying",
+    "name": "🆘┃云岑┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "https://444421.xyz",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "csp_meigui",
+    "name": "🆘┃晚晴┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "http://43.251.227.45:3688",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "csp_hbys",
+    "name": "🆘┃峥嵘┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
+    "ext": "https://api2026.hboqy.cn/",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "py_juziy",
+    "name": "🆘┃阑珊┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
+    "ext": "https://dmc.yy-fun.cc/feiapp",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "py_juhey",
+    "name": "🆘┃霜镜┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
+    "ext": "http://43.248.117.123:4680",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
+    "key": "py_pixia",
+    "name": "🆘┃馀忆┃秒播",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/ppx.py",
+    "ext": "http://154.94.224.98:8762",
+    "style": {"type": "rect","ratio": 1.485},
+    "类型": "APP"
+},
+{
     "key": "csp_gulu",
     "name": "🆘┃咕噜┃映画",
     "type": 3,
@@ -127,103 +239,13 @@
 	"类型": "APP"}
 },
 {
-     "key": "csp_leda",
-     "name": "🆘┃乐达┃影视",
-     "type": 3,
-     "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-     "ext": "https://ledayy.com",
-     "style": {"type": "rect","ratio": 1.485},
-     "类型": "APP"
-},
-{
-    "key": "csp_xicen",
-    "name": "🆘┃夕岑┃秒播",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "http://app.hktvyb.cc",
-    "style": {"type": "rect","ratio": 1.485},
-	"类型": "APP"
-},
-{
-    "key": "csp_baih",
-    "name": "🆘┃沐辞┃秒播",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "https://app2512.ystva.com",
-    "style": {"type": "rect","ratio": 1.485},
-	"类型": "APP"
-},
-{
-    "key": "csp_jiahe",
-    "name": "🆘┃嘉禾┃影视",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "https://www.baidukuaiy.top",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "csp_lieying",
-    "name": "🆘┃豹影┃秒播",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "https://444421.xyz",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "csp_meigui",
-    "name": "🆘┃玫瑰┃秒播",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "http://43.251.227.45:3688",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "csp_hbys",
-    "name": "🆘┃华彬┃秒播",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppFox.js",
-    "ext": "https://api2026.hboqy.cn/",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "py_橘子",
-    "name": "🆘┃影視┃橘子",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/Appjuzi.py",
-    "ext": "https://dmc.yy-fun.cc/feiapp",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "py_追影",
-    "name": "🆘┃影視┃追影",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/AppToV5.py",
-    "ext": "http://43.248.117.123:4680",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
-    "key": "py_皮皮虾",
-    "name": "🆘┃影視┃皮虾",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/ppx.py",
-    "ext": "http://154.94.224.98:8762",
-    "style": {"type": "rect","ratio": 1.485},
-    "类型": "APP"
-},
-{
     "key": "cat_荐片app",
     "name": "🆘┃影視┃荐片",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
     "ext": {
     "host": "https://api.ztcgi.com",
-    "类型": "APP"}
+    "类型": "影視"}
 },
 {
     "key": "js_袋鼠影视",
@@ -233,22 +255,6 @@
     "style": {"type": "rect","ratio": 1.33},
     "类型": "影視"
 },
-{
-    "key": "py_58ys",
-    "name": "🆘┃影視┃苇箔",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/58ys.py",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影視"
-},
-{
-    "key": "py_瓜娃子",
-    "name": "🆘┃影視┃瓜子",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/瓜娃子.py",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影視"
-}, 
 {
     "key": "js_独播库",
     "name": "🆘┃影視┃独播",
@@ -338,6 +344,22 @@
     "类型": "影視"
 },
 {
+    "key": "py_58ys",
+    "name": "🆘┃影視┃苇箔",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/58ys.py",
+    "style": {"type": "rect","ratio": 1.33},
+    "类型": "影視"
+},
+{
+    "key": "py_瓜娃子",
+    "name": "🆘┃影視┃瓜子",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/瓜娃子.py",
+    "style": {"type": "rect","ratio": 1.33},
+    "类型": "影視"
+}, 
+{
     "key": "闪影",
     "name": "🆘┃影視┃闪影",
     "type": 3,
@@ -402,28 +424,12 @@
     "类型": "短剧"
 },
 {
-    "key": "csp_BPQ_憨塔",
-    "name": "♨️┃短劇┃憨塔",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/憨塔.png",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "短剧"
-},
-{
     "key":"py_PTT視頻",
     "name":"♨️┃短劇┃視頻",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/PTT短剧.py",
     "style":{"type":"rect","ratio":1.33},
     "类型": "短剧"
-},
-{
-    "key": "py_苹果短剧",
-    "name": "♨️┃短劇┃苹果",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/苹果短剧.py",
-    "ext": "https://dmc.yy-fun.cc/feiapp"
 },
 {
     "key": "dr_腾迅",
@@ -472,26 +478,6 @@
     "api": "./libs/drpy3.min.js",
     "ext": "./TS/bili.js",
     "类型": "官解"
-},
-{
-    "key": "csp_xiju",
-    "name": "🆘┃新剧┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
-},
-{
-    "key": "csp_魔方",
-    "name": "🆘┃魔方┃秒播",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.alibaba31casaq.top/",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"}
 },
 {
     "key": "csp_YALI",
