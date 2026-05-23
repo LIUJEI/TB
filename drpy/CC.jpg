@@ -16,10 +16,6 @@
       "name" : "肥猫"
 },
 {
-      "url" : "https://qianxbox.oss-cn-beijing.aliyuncs.com/line_box/a.json",
-      "name" : "line"
-},
-{
      "url": "http://825826.xyz:666/tvbox/TYY2/SS.txt",
      "name": "TYY"
 },
@@ -64,10 +60,6 @@
       "name" : "mido影视"
 },
 {
-      "url" : "https://tv.sxi.qzz.io/jsm.json",
-      "name" : "jsm"
-},
-{
       "url" : "https://chuanshuo.77blog.cn/tv.json",
       "name" : "传说"
 },
@@ -88,10 +80,6 @@
       "name" : "菜妮丝"
 },
 {
-      "url" : "https://api.hgyx.vip/hgyx.json",
-      "name" : "hg菠菜源"
-},
-{
     "name": "🚸《自用》天神",
     "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png"
 },
@@ -104,13 +92,9 @@
     "url": "https://wp.kayyw.com/f/rBpaig/%E9%A3%8E%E4%B9%8B%E9%93%83.json"
 },
 {
-      "url" : "https://18189.kstore.space/高兴/高兴.php",
-      "name" : "🚸《自用》高兴"
-},
-{
-    "name": "🚸《自用》月儿|TV",
+    "name": "🚸《自用》高兴",
     "updated_at":"2026-05-20 21:41:10",
-    "url": "http://xclasvgas.sylu.net:8080/smt.php"
+    "url": "https://18189.kstore.space/高兴/高兴.php"
 },
 {
     "name": "🚸《自用》张群",
@@ -225,7 +209,7 @@
   {"name":"🚸《自用》天天开心","updated_at":"2026-04-12 21:20:07","url":"https://play.iptv365.org/天天开心/api.json"},
   {"name":"🚸《自用》嗷呜接口","updated_at":"2026-04-12 21:20:07","url":"http://mytv6688.xyz/aowu/config.webp"},
   {"name":"🚸《自用》家庭影院","updated_at":"2026-04-12 21:20:07","url":"https://13868.kstore.space/vip.json"},
-  {"url" : "https://d.kstore.dev/download/15352/mj1.json","name" : "download18+"},
+
   {"url" : "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/main/%E6%B5%B7%E8%B1%9A%E5%BD%B1%E8%A7%86.json","name" : "海豚影视18+"},
   {"url" : "https://d.kstore.dev/download/17135/%E8%87%AA%E7%94%A8.json","name" : "网络收集1有18+"},
   {"url" : "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json","name" : "18+线路2-18+"},
