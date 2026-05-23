@@ -24,14 +24,6 @@
     "searchable": 0
 },
 {
-    "key":"csp_旺旺",
-    "name":"🍁┃旺旺┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/BPQ/旺旺.json",
-    "类型": "影视"
-},
-{
     "key": "csp_咕咚电影网",
     "name": "🍁┃咕咚┃电影",
     "type": 3,
@@ -213,14 +205,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://d.kstore.dev/download/12194/BPQ/海瑞.json",
-    "类型": "影视"
-},
-{
-    "key": "csp_XBPQ_韩片",
-    "name": "🍁┃韩片┃剧场",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://d.kstore.dev/download/12194/BPQ/韩片.json",
     "类型": "影视"
 },
 {
