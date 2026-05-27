@@ -2111,8 +2111,8 @@ var rule = {
         'Referer': 'https://www.youku.com',
     },
     timeout: 5000,
-    class_name: '电视剧&电影&综艺&动漫&少儿&纪录片&音乐',
-    class_url: '电视剧&电影&综艺&动漫&少儿&纪录片&音乐',
+    class_name: '4K电视剧&4K电影&4K综艺&4K动漫&4K少儿&4K纪录片&4K音乐',
+    class_url: '电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
@@ -2247,7 +2247,7 @@ var rule = {
                     VOD.vod_pic = img;
                     VOD.vod_name = _title;
                     VOD.vod_type = _type;
-                    VOD.vod_remarks = _desc;
+                    VOD.vod_remarks = '🌹'+_desc;
                     VOD.vod_content = JJ
                 } catch (e) {
                     log("海报渲染发生错误:" + e.message);
@@ -2257,7 +2257,7 @@ var rule = {
             }
         }
         if (!/优酷/.test(name)) {
-            VOD.vod_content = "【琉🔹芸❤广告勿信👉剧情】";
+            VOD.vod_content = "非自家播放源,暂无视频简介及海报";
             VOD.vod_remarks = name
         }
 
