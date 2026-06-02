@@ -10,13 +10,38 @@ var rule = {
     url: '/x/bu/pagesheet/list?_all=1&append=1&channel=fyclass&listpage=1&offset=((fypage-1)*21)&pagesize=21&iarea=-1',
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
     
+    // 解析接口配置
+    parse_url: [   
+          "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url=",
+          "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url=",
+          'https://jx.xmflv.com/?url=',
+          'https://jx.77flv.cc/?url=',
+          "https://test1.12321app.com/cpi.php?url=",
+          "http://114.66.21.157:2666/wmm.php?key=368vfij631ykdf&api=tx&url=",
+          'http://yunhai.zhujiale.cn/api/?key=a29aa5d71a4e91b991294356b864e83e&url=',
+          'http://1.94.244.214:8889/geturl?url=',
+          "https://test1.12321app.com/api.php?url=",
+          "https://test1.12321app.com/daoliansiquanjia.php?url=",
+          'http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=',
+          'https://api.jisuyunjifei.top/api/?key=7c2c39e57dc03852ea60f0432efb2836&player&url='
+    ],
+
+    // 屏蔽地址
+    blocked_urls: [
+        'http://sspa8.top:99/jpg/1060089351.mp4',
+        'https://hwmov.a.yximgs.com/upic/2026/05/20/12/BMjAyNjA1MjAxMjIyNThfMTY1NTYxNDk0NF8xOTY0Mjg2MzEzNzNfMl8z_b_B2d85e883e7ab00ad52949e6bcad9fa59.mp4',
+        'https://txmov2.a.kwimgs.com/upic/2026/04/24/22/BMjAyNjA0MjQyMjMxMTdfNTE1Njg1NzUyXzE5NDAxNDg2MjI0N18yXzM=_b_Be9cdf9b3f66017f25b1e9f7c1135de53.mp4',
+       'https://gitee.com/nm_nm/interface/raw/master/ips/ips(20250418105556)_001.ts',
+        'IP使用次数超限，请加群签到.mp4'
+    ],
+
     headers: {
         'User-Agent': 'PC_UA'
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '4K电影&4K电视剧&4K综艺&4K动漫&4K少儿&4K纪录片',
-    class_url: 'movie&tv&variety&cartoon&child&doco',
+    class_name:  '推荐&电影&电视剧&综艺&动漫&少儿&纪录片',
+    class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
 
@@ -40,18 +65,66 @@ var rule = {
         // 检查是否是屏蔽地址
         function isBlockedUrl(url) {
             if (!url) return true;
-            return false; // 移除了屏蔽地址检查
+            return rule.blocked_urls.some(blocked => url.includes(blocked));
         }
         
-        // 使用默认解析
-        log('使用默认解析');
-        input = {
-            header: { 'User-Agent': "" },
-            parse: 0,
-            url: targetUrl,
-            jx: 1,
-            danmaku: 'https://api.danmu.icu/?ac=dm&url=' + targetUrl
-        };
+        // 解析函数
+        function tryParse(url, index) {
+            if (index >= rule.parse_url.length) {
+                // 所有解析接口都失败，使用默认解析
+                log('所有解析接口都尝试失败，使用默认解析');
+                input = {
+                    header: { 'User-Agent': "" },
+                    parse: 0,
+                    url: targetUrl,
+                    jx: 1,
+                    danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&site=js&url=' + targetUrl
+                };
+                return;
+            }
+            
+            let parseUrl = rule.parse_url[index] + encodeURIComponent(url);
+            log('尝试解析接口 ' + (index + 1) + ': ' + parseUrl);
+            
+            let result = fetch(parseUrl, { 
+                method: 'GET',
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                    'Referer': 'https://v.qq.com/'
+                },
+                timeout: 10000
+            });
+            
+            try {
+                let data = JSON.parse(result);
+                if (data && data.url && data.url.includes("http")) {
+                    // 检查是否是屏蔽地址
+                    if (isBlockedUrl(data.url)) {
+                        log('解析接口 ' + (index + 1) + ' 返回了屏蔽地址，尝试下一个接口');
+                        tryParse(url, index + 1);
+                        return;
+                    }
+                    
+                    log('解析接口 ' + (index + 1) + ' 成功: ' + data.url);
+                    input = {
+                        header: { 'User-Agent': "" },
+                        parse: 0,
+                        url: data.url,
+                        jx: 0,
+                        danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&site=js&url=' + targetUrl
+                    };
+                } else {
+                    log('解析接口 ' + (index + 1) + ' 返回数据无效，尝试下一个');
+                    tryParse(url, index + 1);
+                }
+            } catch (e) {
+                log('解析接口 ' + (index + 1) + ' 失败: ' + e.message);
+                tryParse(url, index + 1);
+            }
+        }
+
+        // 开始解析
+        tryParse(targetUrl, 0);
     }),
 
     推荐: '.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
@@ -76,7 +149,7 @@ var rule = {
                 type_name: json.typ.join(","),
                 vod_actor: json.nam.join(","),
                 vod_year: json.c.year,
-                vod_content:'【琉🔹芸❤广告勿信👉剧情】📢'+ json.c.description,
+                vod_content: json.c.description,
                 vod_remarks: json.rec,
                 vod_pic: urljoin2(input, json.c.pic)
             }
@@ -160,7 +233,7 @@ var rule = {
         });
 
         if (zp.length > 0) {
-            playFrom.push("腾云");
+            playFrom.push("腾讯");
             playUrl.push(zp.map(it => it.title + "$" + it.url).join("#"));
         }
 
@@ -183,7 +256,7 @@ var rule = {
             }
         }
 
-        VOD.vod_play_from = playFrom.join("$$$琉芸专属👉");
+        VOD.vod_play_from = playFrom.join("$$$");
         VOD.vod_play_url = playUrl.join("$$$");
     }),
 

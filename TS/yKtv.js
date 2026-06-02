@@ -2247,7 +2247,7 @@ var rule = {
                     VOD.vod_pic = img;
                     VOD.vod_name = _title;
                     VOD.vod_type = _type;
-                    VOD.vod_remarks = '🌹'+_desc;
+                    VOD.vod_remarks = _desc;
                     VOD.vod_content = JJ
                 } catch (e) {
                     log("海报渲染发生错误:" + e.message);
