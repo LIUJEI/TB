@@ -1,110 +1,18 @@
 {"urls":[
 {
-      "url" : "http://宝盒接口.top",
-      "name" : "宝盒接口"
-},
-{
-      "url" : "http://影视仓接口.top",
-      "name" : "影视仓接口"
-},
-{
-      "url" : "http://cdn.qiaoji8.com/tvbox.json",
-      "name" : "巧计"
-},
-{
-      "url" : "http://肥猫.net",
-      "name" : "肥猫"
-},
-{
-     "url": "http://825826.xyz:666/tvbox/TYY2/SS.txt",
-     "name": "TYY"
-},
-{
-     "url": "https://11465.kstore.space/自营/TVBoxOSC/tvbox/胖虎.json",
-     "name": "胖虎"
-}, 
-{
-      "url" : "https://gitee.com/wynp/ys/raw/master/yc.json",
-      "name" : "如意"
-},
-{
-      "url" : "https://jianhancloud.cn/lcys/lcjk.json",
-      "name" : "陆城影视"
-},
-{
-      "url" : "https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-      "name" : "荷城"
-},
-{
-      "url" : "http://7337.kstore.space/qxys/禁止传播.json",
-      "name" : "七星影仓"
-},
-{
-      "url" : "https://gh-proxy.com/https://github.com/1115501230/laoyutvjson/blob/main/yqx.json",
-      "name" : "御清弦"
-},
-{
-      "url" : "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json",
-      "name" : "其人之道"
-},
-{
-     "url": "https://盒子迷.top/禁止贩卖",
-     "name": "盒子迷"
-},
-{
-      "url" : "https://gh-proxy.com/raw.githubusercontent.com/zheng197600/tvbox/main/0820.json",
-      "name" : "zheng197600"
-},
-{
-      "url" : "http://mido.ittun.com/bh/box.json",
-      "name" : "mido影视"
-},
-{
-      "url" : "https://chuanshuo.77blog.cn/tv.json",
-      "name" : "传说"
-},
-{
-      "url" : "http://47.96.82.41:5188/svip/svip.json",
-      "name" : "软件小哥哥"
-},
-{
-      "url" : "https://gh-proxy.com/raw.githubusercontent.com/letian1650/mybox/main/m.json",
-      "name" : "letian1650"
-},
-{
-      "url" : "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-      "name" : "noimank"
-},
-{
-      "url" : "https://tv.菜妮丝.top",
-      "name" : "菜妮丝"
-},
-{
-    "name": "🚸《自用》天神",
-    "url": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png"
-},
-{
-    "name": "🚸《自用》重兴",
-    "url": "https://pan.szfx.top/down.php/daee0d2b5ddbe2de5b2639fe1273b247.json"
-},  
-{
-    "name": "🚸《自用》风之铃",
-    "url": "https://wp.kayyw.com/f/rBpaig/%E9%A3%8E%E4%B9%8B%E9%93%83.json"
-},
-{
-    "name": "🚸《自用》高兴",
+    "name": "🏡《凯速网》首页🏡",
     "updated_at":"2026-05-20 21:41:10",
-    "url": "https://18189.kstore.space/高兴/高兴.php"
+    "url": "https://d.kstore.dev/download/12194/影视.json"
 },
 {
-    "name": "🚸《自用》张群",
+    "name": "🏡《凯速网》推荐🏡",
     "updated_at":"2026-05-20 21:48:14",
-    "url": "http://zhangqun1818.serv00.net/zq/api.json"
+    "url": "https://d.kstore.dev/download/12194/魔盒.json"
 },
 {
-    "name": "🚸《自用》蓝天",
+    "name": "🏡《凯速网》福利🏡",
     "updated_at":"2026-05-20 21:51:34",
-    "url": "http://103.163.47.120:666/蓝天/wu.json"
+    "url": "https://d.kstore.dev/download/12194/休闲.json"
 },
 {
     "name": "🚸《自用》欧歌",
@@ -112,9 +20,9 @@
     "url": "http://tv.nxog.top/m"
 },
 {
-    "name": "🚸《自用》黄金",
+    "name": "🚸《自用》yun",
     "updated_at":"2026-05-21 07:12:04",
-    "url": "https://d.kstore.dev/download/14505/2.jpg"
+    "url": "https://pan.szfx.top/down.php/e2ccdff16b8758a1af35048fa7eb7483.json"
 },
 {
     "name": "🚸《自用》枫斗",
@@ -137,19 +45,9 @@
     "url": "https://qist.ugigc.dpdns.org/xiaosa/api.json"
 },	
 {
-    "name":"🐠《自用》摸鱼",
-    "updated_at":"2026-05-01 22:17:19",
-    "url":"http://我不是.摸鱼儿.top"
-},
-{
     "name": "🐠《自用》小不点",
     "updated_at":"2026-05-19 22:10:14",
     "url": "http://www.小不点.com"
-},
-{
-    "name": "🚸《自用》林中",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "https://8815.kstore.vip/tvbox/Ace"
 },
 {
     "name": "🚸《自用》基米",
@@ -162,49 +60,51 @@
     "url": "https://17264.kstore.space/豆包.jpg"
 },
 {
-    "name": "🚸《自用》南风",
+    "name": "🚸《自用》宝盒",
     "updated_at":"2026-05-18 12:51:34",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+    "url": "http://宝盒接口.top"
 },
 {
-    "name": "🚸《自用》拾光",
+    "name": "🚸《自用》茄子接口",
     "updated_at":"2026-05-18 12:51:34",
-    "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-},
-{
-    "name": "🚸《自用》EasyTV",
-    "updated_at":"2026-05-19 22:10:14",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
-},
-{
-    "name": "🚸《自用》影视仓",
-    "updated_at":"2026-05-18 12:51:34",
-    "url": "https://www.影视仓.com"
+    "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json"
 }, 
 {
-    "name": "🚸《自用》裤佬",
+    "name": "🚸《自用》XBP",
     "updated_at":"2026-05-18 12:51:34",
-    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
-},
-  {"name":"🚸《自用》夏夏","updated_at":"2026-03-25 23:13:22","url":"https://11405.kstore.space/xiaye/qk4k.json"},
-  {"name":"🚸《自用》壹米","updated_at":"2026-05-19 22:10:14","url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg"},
-  {"name":"🚸《自用》苍蓝","updated_at":"2026-05-19 22:10:14","url": "https://13537.kstore.vip/tvbox/test.json"},
-  {"name":"🚸《自用》牛马","updated_at":"2026-05-19 22:10:14","url": "http://nn.4688888.xyz/common.json"},
-  {"name":"🚸《集多》VOX","updated_at":"2026-05-19 22:10:14","url": "http://rihou.cc:88/demo.php"},
-  {"name":"🚸《云盘》松子","updated_at":"2026-05-19 22:10:14","url": "https://pan.szfx.top/down.php/ea929b0357a41eea3322b356df175901.json"},
-  {"name":"🚸《自用》饭太硬","updated_at":"2026-05-01 22:10:14","url":"http://fty.xxooo.cf/tv"},
-  {"name":"🚸《自用》饭太硬","updated_at":"2026-05-01 22:10:14","url":"http://fty.888484.xyz/tv"},
+    "url": "https://wp.kayyw.com/f/OLb3cd/XBP.json"
+},   
+{
+    "name": "🚸《自用》XBP",
+    "updated_at":"2026-05-18 12:51:34",
+    "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json"
+},   
+{
+    "name": "🚸《自用》影",
+    "updated_at":"2026-05-18 12:51:34",
+    "url": "http://1.94.31.214/api/dgyy/apix64.json"
+}, 
+  {"name":"🚸《自用》天神IY","url":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png"},
+  {"name":"🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
+  {"name":"🚸《自用》林中","url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/main/OK/okys.json"},
+  {"name":"🚸《自用》南风","url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+  {"name":"🚸《自用》荷城","url":"https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json"},
+  {"name":"🚸《自用》软件仓","updated_at":"2026-05-19 22:10:14","url": "http://47.96.82.41:5188/svip/svip.json"},
+  {"name":"🚸《自用》夏夏仓","updated_at":"2026-03-25 23:13:22","url":"https://11405.kstore.space/xiaye/qk4k.json"},
+  {"name":"🚸《自用》苍蓝仓","updated_at":"2026-05-19 22:10:14","url": "https://13537.kstore.vip/tvbox/test.json"},
+  {"name":"🚸《集多》VOX仓","updated_at":"2026-05-19 22:10:14","url": "http://rihou.cc:88/demo.php"},
+  {"name":"🚸《云盘》松子仓","updated_at":"2026-05-19 22:10:14","url": "https://pan.szfx.top/down.php/ea929b0357a41eea3322b356df175901.json"},
+  {"name":"🚸《自用》陆城仓","updated_at":"2026-05-01 22:10:14","url":"https://jianhancloud.cn/lcys/lcjk.json"},
   {"name":"🚸《自用》饭太硬","updated_at":"2026-05-01 22:10:14","url":"http://fty.333232.xyz/tv"},
   {"name":"🚸《自用》莱妮丝","updated_at":"2026-05-01 22:18:22","url":"https://tv.菜妮丝.top"},
   {"name":"🚸《自用》蜗牛接","updated_at":"2026-03-25 23:14:55","url":"https://tv.xn--11x555b.top/svip"},
   {"name":"🚸《自用》快乐接","updated_at":"2026-04-08 21:22:54","url":"http://影视仓接口.top"},
   {"name":"🚸《自用》小虎斑","updated_at":"2026-03-25 23:16:09","url":"http://hb.小虎斑.site:25252/仅供测试"},
-  {"name":"🚸《自用》放牛娃","updated_at":"2026-05-01 22:13:27","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+  {"name":"🚸《自用》七星仓","updated_at":"2026-05-01 22:13:27","url":"http://7337.kstore.space/qxys/禁止传播.json"},
   {"name":"🚸《自用》放牛娃","updated_at":"2026-05-01 22:13:27","url":"http://tvbox.王二小放牛娃.top"},
   {"name":"🚸《自用》天天开心","updated_at":"2026-04-12 21:20:07","url":"https://play.iptv365.org/天天开心/api.json"},
   {"name":"🚸《自用》嗷呜接口","updated_at":"2026-04-12 21:20:07","url":"http://mytv6688.xyz/aowu/config.webp"},
   {"name":"🚸《自用》家庭影院","updated_at":"2026-04-12 21:20:07","url":"https://13868.kstore.space/vip.json"},
-  {"url" : "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json","name" : "18+线路2-18+"},
   {"name":"🚸《自用》总有刁民想害朕","updated_at":"2026-04-12 21:20:07","url":"https://wp.kayyw.com/f/MllRc6/总有刁民想害朕.json"}
 ]}m.json"}]}
  //https://8891.kstore.space/小瓶子影视260325.txt
