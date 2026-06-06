@@ -62,13 +62,6 @@
     "jar" : "./JAR/my.jar"
 },
 {
-    "name" : "🧩┃荐片┃快速",
-    "key" : "JPian",
-    "type" : 3,
-    "api" : "csp_JPianAmns",
-    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-},
-{
     "name" : "🧩┃热播┃快速",
     "key" : "Rbys",
     "type" : 3,
@@ -82,10 +75,17 @@
     "api" : "csp_JinPaiAmns"
 },
 {
-    "name" : "🧩┃伊外┃快速",
-    "key" : "YIys",
+    "name" : "🧩┃韩剧┃快速",
+    "key" : "Hxq",
     "type" : 3,
-    "api" : "csp_YIysAmns"
+    "api" : "csp_HxqAmns"
+},
+{
+    "name" : "🧩┃荐片┃快速",
+    "key" : "JPian",
+    "type" : 3,
+    "api" : "csp_JPianAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
 },
 {
     "name" : "🧩┃杜北┃快速",
@@ -100,12 +100,6 @@
     "type" : 3,
     "api" : "csp_GazeAmns",
     "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
-},
-{
-    "name" : "⭐┃韩剧┃秒播",
-    "key" : "Hxq",
-    "type" : 3,
-    "api" : "csp_HxqAmns"
 },
 {
     "key" : "Duboku",
@@ -152,14 +146,6 @@
     "api" : "csp_SaoHuoFishGuard",
     "jar" : "./JAR/my.jar",
     "ext" : "https://shdy5.us"
-},
-{
-    "key" : "zhiqiu",
-    "name" : "🍃┃听风┃知秋",
-    "type" : 3,
-    "api" : "csp_zhiqiuFishGuard",
-    "jar" : "./JAR/my.jar",
-    "ext" : "http://www.小不点.com/api//2026/zhiqiu.php"
 },
 {
     "name" : "🌐┃夏天┃APP",
@@ -399,79 +385,78 @@
     "jar": "https://d.kstore.dev/download/13971/lib/天南.png",
     "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
 },
-
 {
-    "name" : "🐱嗷嗚|动漫",
+    "name" : "🐱┃嗷嗚┃动漫",
     "key" : "AowuDmAw",
     "type" : 3,
     "api" : "csp_AowuDmAmns",
     "ext" : "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b"
 },
 {
-    "name" : "🐱番茶|动漫",
+    "name" : "🐱┃番茶┃动漫",
     "key" : "AowuDmFc",
     "type" : 3,
     "api" : "csp_AowuDmAmns",
     "ext" : "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856"
 },
 {
-    "name" : "🐱喵物|动漫",
+    "name" : "🐱┃喵物┃动漫",
     "key" : "AowuDmMw",
     "type" : 3,
     "api" : "csp_AowuDmAmns",
     "ext" : "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
 },
 {
-    "name" : "🎬嗷嗚|漫剧",
+    "name" : "🐱┃嗷嗚┃漫剧",
     "key" : "MjHggg",
     "type" : 3,
     "api" : "csp_HgggAmns",
     "ext" : "comic_series"
 },
 {
-    "name" : "🎬嗷嗚|短剧",
+    "name" : "🎬┃嗷嗚┃短剧",
     "key" : "DjHggg",
     "type" : 3,
     "api" : "csp_HgggAmns",
     "ext" : "short_play"
 },
 {
-    "name" : "🎬豪堪|短剧",
+    "name" : "🎬┃豪堪┃短剧",
     "key" : "HHkk",
     "type" : 3,
     "api" : "csp_HHkkAmns",
     "genre" : "shortdrama"
 },
 {
-    "name" : "🎬盒马|短剧",
+    "name" : "🎬┃盒马┃短剧",
     "key" : "Hema",
     "type" : 3,
     "api" : "csp_HemaAmns",
     "genre" : "shortdrama"
 },
 {
-    "name" : "🎬拜拜|短剧",
+    "name" : "🎬┃拜拜┃短剧",
     "key" : "Bddj",
     "type" : 3,
     "api" : "csp_BddjAmns",
     "genre" : "shortdrama"
 },
 {
-    "name" : "🎬围观|短剧",
+    "name" : "🎬┃围观┃短剧",
     "key" : "Wgdj",
     "type" : 3,
     "api" : "csp_WgdjAmns",
     "genre" : "shortdrama"
 },
 {
-    "name" : "🎬喵喵|短剧",
+    "name" : "🎬┃喵喵┃短剧",
     "key" : "Qmdj",
     "type" : 3,
     "api" : "csp_QmdjAmns",
     "genre" : "shortdrama"
 },
 {
-    "name" : "🎬星星|短剧",
+    "name" : "🎬┃星星┃短剧",
     "key" : "Xydj",
     "type" : 3,
     "api" : "csp_XydjAmns",
@@ -524,7 +509,7 @@
     "categories" : ["周杰伦","林俊杰","陈奕迅","邓紫棋","薛之谦"]}
 },
 {
-    "name" : "🎸酷狗|音乐",
+    "name" : "🎸┃酷狗┃音乐",
     "key" : "KuGou",
     "type" : 3,
     "api" : "csp_KuGouAmns",
@@ -653,16 +638,10 @@
     "api" : "csp_MyUcAmns"
 },
 {
-    "name" : "🔍fish|盘搜",
+    "name" : "🛴fish|盘搜",
     "key" : "PSfish",
     "type" : 3,
     "api" : "csp_PSfishAmns"
-},
-{
-    "name" : "🔍短剧|盘搜",
-    "key" : "PSdju",
-    "type" : 3,
-    "api" : "csp_PSdjuAmns"
 },
 {
     "name" : "🛴推送|播放",
