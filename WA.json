@@ -108,6 +108,13 @@
     "api" : "csp_HxqAmns"
 },
 {
+    "key" : "Duboku",
+    "name" : "🎯┃独播┃影视",
+    "type" : 3,
+    "api" : "csp_DubokuFishGuard",
+    "jar" : "./JAR/my.jar"
+},
+{
     "key" : "Wwys",
     "name" : "🍙┃糯米┃影视",
     "type" : 3,
@@ -147,11 +154,12 @@
     "ext" : "https://shdy5.us"
 },
 {
-    "key" : "Duboku",
-    "name" : "🎯┃独播┃影视",
+    "key" : "zhiqiu",
+    "name" : "🍃┃听风┃知秋",
     "type" : 3,
-    "api" : "csp_DubokuFishGuard",
-    "jar" : "./JAR/my.jar"
+    "api" : "csp_zhiqiuFishGuard",
+    "jar" : "./JAR/my.jar",
+    "ext" : "http://www.小不点.com/api//2026/zhiqiu.php"
 },
 {
     "name" : "🌐┃夏天┃APP",
@@ -521,30 +529,6 @@
     "type" : 3,
     "api" : "csp_KuGouAmns",
     "genre" : "music"
-},
-{
-    "name" : "🌍爱瓜|墙外",
-    "key" : "AiGua",
-    "type" : 3,
-    "api" : "csp_AiGuaAmns"
-},
-{
-    "name" : "🌍U视|墙外",
-    "key" : "Ysp",
-    "type" : 3,
-    "api" : "csp_YspAmns"
-},
-{
-    "name" : "🌍欧乐|墙外",
-    "key" : "Olyy",
-    "type" : 3,
-    "api" : "csp_OlyyAmns"
-},
-{
-    "name" : "🌍壹帆|墙外",
-    "key" : "Aiyf",
-    "type" : 3,
-    "api" : "csp_AiyfAmns"
 },
 {
     "name" : "📡Bili|Live",
