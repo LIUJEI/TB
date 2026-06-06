@@ -46,6 +46,59 @@
     "https://www.muou.asia"]}
 },
 {
+    "key": "dr_腾迅",
+    "name": "🐧┃騰訊┃官方",
+    "type": 3,
+    "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/QQtv.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "官解"
+},
+{
+    "key": "dr_芒果",
+    "name": "🥭┃芒果┃官方",
+    "type": 3,
+    "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/MGtv.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "官解"
+},
+{
+    "key": "dr_奇异",
+    "name": "🥝┃奇藝┃官方",
+    "type": 3,
+    "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/AQItv.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "官解"
+},
+{
+    "key": "dr_优酷",
+    "name": "🎢┃優酷┃官方",
+    "type": 3,
+    "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/yKtv.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "官解"
+},
+{
+    "key": "dr_搜狗",
+    "name": "🧃┃搜狗┃官方",
+    "type": 3,
+    "api": "http://8.137.159.77:399/sf/Tvbox/js/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/SGtv.js",
+    "style":{"type":"rect","ratio":1.33},
+    "类型": "官解"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "🐉┃嗶哩┃官方",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/libs/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TS/bili.js",
+    "类型": "官解"
+},
+{
     "name" : "⭐┃瓜子┃秒播",
     "key" : "Guazi",
     "type" : 3,
@@ -60,46 +113,6 @@
     "type" : 3,
     "api" : "csp_GuaziFishGuard",
     "jar" : "./JAR/my.jar"
-},
-{
-    "name" : "🧩┃热播┃快速",
-    "key" : "Rbys",
-    "type" : 3,
-    "api" : "csp_RbysAmns",
-    "ext" : "http://v.rbotv.cn"
-},
-{
-    "name" : "🧩┃金牌┃快速",
-    "key" : "JinPai",
-    "type" : 3,
-    "api" : "csp_JinPaiAmns"
-},
-{
-    "name" : "🧩┃韩剧┃快速",
-    "key" : "Hxq",
-    "type" : 3,
-    "api" : "csp_HxqAmns"
-},
-{
-    "name" : "🧩┃荐片┃快速",
-    "key" : "JPian",
-    "type" : 3,
-    "api" : "csp_JPianAmns",
-    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-},
-{
-    "name" : "🧩┃杜北┃快速",
-    "key" : "Dubk",
-    "type" : 3,
-    "api" : "csp_DubkAmns",
-    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
-},
-{
-    "name" : "🧩┃嘎吱┃快速",
-    "key" : "Gaze",
-    "type" : 3,
-    "api" : "csp_GazeAmns",
-    "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
 },
 {
     "key" : "Duboku",
@@ -146,6 +159,46 @@
     "api" : "csp_SaoHuoFishGuard",
     "jar" : "./JAR/my.jar",
     "ext" : "https://shdy5.us"
+},
+{
+    "name" : "🧩┃热播┃快速",
+    "key" : "Rbys",
+    "type" : 3,
+    "api" : "csp_RbysAmns",
+    "ext" : "http://v.rbotv.cn"
+},
+{
+    "name" : "🧩┃金牌┃快速",
+    "key" : "JinPai",
+    "type" : 3,
+    "api" : "csp_JinPaiAmns"
+},
+{
+    "name" : "🧩┃韩剧┃快速",
+    "key" : "Hxq",
+    "type" : 3,
+    "api" : "csp_HxqAmns"
+},
+{
+    "name" : "🧩┃荐片┃快速",
+    "key" : "JPian",
+    "type" : 3,
+    "api" : "csp_JPianAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
+},
+{
+    "name" : "🧩┃杜北┃快速",
+    "key" : "Dubk",
+    "type" : 3,
+    "api" : "csp_DubkAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+},
+{
+    "name" : "🧩┃嘎吱┃快速",
+    "key" : "Gaze",
+    "type" : 3,
+    "api" : "csp_GazeAmns",
+    "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
 },
 {
     "name" : "🌐┃夏天┃APP",
@@ -429,7 +482,7 @@
 },
 {
     "name" : "🎬┃盒马┃短剧",
-    "key" : "Hema",
+    "key" : "csp_盒马",
     "type" : 3,
     "api" : "csp_HemaAmns",
     "genre" : "shortdrama"
@@ -516,25 +569,29 @@
     "genre" : "music"
 },
 {
-    "name" : "📡Bili|Live",
-    "key" : "Bilive",
+    "key" : "TingBook",
+    "name" : "📻┃六月┃有声",
     "type" : 3,
-    "api" : "csp_BiliveAmns",
-    "style" : {"type" : "rect","ratio" : 1.433}
+    "api" : "csp_TingBookFishGuard",
+    "jar" : "./JAR/my.jar",
+    "ext" : "https://app.365ting.com",
+    "style" : {"type" : "list"}
 },
 {
-    "name" : "📡虎牙|Live",
-    "key" : "HuyaLive",
+    "key" : "TingBookJinXia",
+    "name" : "🎙️┃堇夏┃有声",
     "type" : 3,
-    "api" : "csp_HuyaLiveAmns",
-    "style" : {"type" : "rect","ratio" : 1.433}
+    "api" : "csp_TingBookJinXiaFishGuard",
+    "jar" : "./JAR/my.jar",
+    "ext" : "https://m.ting15.com",
+    "style" : {"type" : "list"}
 },
 {
-    "name" : "🏆瓜子|体育",
-    "key" : "GuaziLive",
+    "key" : "919TY",
+    "name" : "🏆┃919┃体育",
     "type" : 3,
-    "api" : "csp_GuaziLiveAmns",
-    "ext" : "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"
+    "api" : "csp_C919TYFishGuard",
+     "jar" : "./JAR/my.jar"
 },
 {
     "name" : "🏆飞球|体育",
