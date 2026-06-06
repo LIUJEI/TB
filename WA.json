@@ -482,7 +482,7 @@
 },
 {
     "name" : "🎬┃盒马┃短剧",
-    "key" : "csp_盒马",
+    "key" : "Hema",
     "type" : 3,
     "api" : "csp_HemaAmns",
     "genre" : "shortdrama"
@@ -513,22 +513,6 @@
     "key" : "Xydj",
     "type" : 3,
     "api" : "csp_XydjAmns",
-    "genre" : "shortdrama"
-},
-{
-    "key" : "Hema",
-    "name" : "🦛┃河马┃短剧",
-    "type" : 3,
-    "api" : "csp_HemaFishGuard",
-    "jar" : "./JAR/my.jar",
-    "genre" : "shortdrama"
-},
-{
-    "key" : "HHkk",
-    "name" : "😍┃好看┃短剧",
-    "type" : 3,
-    "api" : "csp_HHkkFishGuard",
-    "jar" : "./JAR/my.jar",
     "genre" : "shortdrama"
 },
 {
