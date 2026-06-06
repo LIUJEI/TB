@@ -18,33 +18,6 @@
     "changeable" : 0
 },
 {
-    "name" : "💥玩偶|4K",
-    "key" : "woWogg",
-    "type" : 3,
-    "api" : "csp_WoggAmns",
-    "ext" : {
-    "sites" : [
-    "http://www.wogg.lol",
-    "https://wogg.xxooo.cf",
-    "https://woggpan.888484.xyz",
-    "https://wogg.333232.xyz",
-    "http://woggpan.xxooo.cf",
-    "https://www.wogg.one",
-    "https://www.wogg.live"],
-    "filters" : "https://file.icve.com.cn/file_doc/749/902/BB6E1B79DF03CD16DDAC84F2FF266BD4.aowu"}
-},
-{
-    "name" : "💥木偶|4K",
-    "key" : "moWobg",
-    "type" : 3,
-    "api" : "csp_WobgAmns",
-    "ext" : {
-    "sites" : [
-    "http://123.666291.xyz",
-    "https://666.666291.xyz"],
-    "filters" : "https://file.icve.com.cn/file_doc/935/355/E9E58D35BEEAC71C7F303347F9998D6D.aowu"}
-},
-{
     "name" : "⭐瓜子|秒播",
     "key" : "Guazi",
     "type" : 3,
@@ -58,6 +31,78 @@
     "key" : "Hxq",
     "type" : 3,
     "api" : "csp_HxqAmns"
+},
+{
+    "name" : "🧩荐片|快速",
+    "key" : "JPian",
+    "type" : 3,
+    "api" : "csp_JPianAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
+},
+{
+    "name" : "🧩热播|快速",
+    "key" : "Rbys",
+    "type" : 3,
+    "api" : "csp_RbysAmns",
+    "ext" : "http://v.rbotv.cn"
+},
+{
+    "name" : "🧩金牌|快速",
+    "key" : "JinPai",
+    "type" : 3,
+    "api" : "csp_JinPaiAmns"
+},
+{
+    "name" : "🧩伊外|快速",
+    "key" : "YIys",
+    "type" : 3,
+    "api" : "csp_YIysAmns"
+},
+{
+    "name" : "🧩杜北|快速",
+    "key" : "Dubk",
+    "type" : 3,
+    "api" : "csp_DubkAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+},
+{
+    "name" : "🔗Gaze|2K",
+    "key" : "Gaze",
+    "type" : 3,
+    "api" : "csp_GazeAmns",
+    "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
+},
+{
+    "name" : "🔗Gaze|2K",
+    "key" : "Gaze",
+    "type" : 3,
+    "api" : "csp_GazeAmns",
+    "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
+},
+{
+    "name" : "🔗哔嘀|2K",
+    "key" : "Bidys",
+    "type" : 3,
+    "api" : "csp_BidysAmns",
+    "ext" : "https://www.xlys02.com,https://xl02.com.de"
+},
+{
+    "name" : "🔗厂长|2K",
+    "key" : "Czzy",
+    "type" : 3,
+    "api" : "csp_CzzyAmns",
+    "ext" : {
+    "sites" : "https://www.cz4k.com,https://www.cz01.org,https://czzyv.com",
+    "filters" : ""}
+},
+{
+    "name" : "🔗LBV|2K",
+    "key" : "Libvio",
+    "type" : 3,
+    "api" : "csp_LibvioAmns",
+    "ext" : {
+    "sites" : "https://www.libvio.run,https://www.libvio.mov,https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
+    "filters" : ""}
 },
 {
     "name" : "⭐夏天|秒播",
@@ -162,71 +207,8 @@
         "pub" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB"
       }
     },
-{
-    "name" : "🧩荐片|快速",
-    "key" : "JPian",
-    "type" : 3,
-    "api" : "csp_JPianAmns",
-    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-},
-{
-    "name" : "🧩热播|快速",
-    "key" : "Rbys",
-    "type" : 3,
-    "api" : "csp_RbysAmns",
-    "ext" : "http://v.rbotv.cn"
-},
-{
-    "name" : "🧩金牌|快速",
-    "key" : "JinPai",
-    "type" : 3,
-    "api" : "csp_JinPaiAmns"
-},
-{
-    "name" : "🧩伊外|快速",
-    "key" : "YIys",
-    "type" : 3,
-    "api" : "csp_YIysAmns"
-},
-{
-    "name" : "🧩杜北|快速",
-    "key" : "Dubk",
-    "type" : 3,
-    "api" : "csp_DubkAmns",
-    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
-},
-{
-    "name" : "🔗Gaze|2K",
-    "key" : "Gaze",
-    "type" : 3,
-    "api" : "csp_GazeAmns",
-    "ext" : "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
-},
-{
-    "name" : "🔗哔嘀|2K",
-    "key" : "Bidys",
-    "type" : 3,
-    "api" : "csp_BidysAmns",
-    "ext" : "https://www.xlys02.com,https://xl02.com.de"
-},
-{
-    "name" : "🔗厂长|2K",
-    "key" : "Czzy",
-    "type" : 3,
-    "api" : "csp_CzzyAmns",
-    "ext" : {
-    "sites" : "https://www.cz4k.com,https://www.cz01.org,https://czzyv.com",
-    "filters" : ""}
-},
-{
-    "name" : "🔗LBV|2K",
-    "key" : "Libvio",
-    "type" : 3,
-    "api" : "csp_LibvioAmns",
-    "ext" : {
-    "sites" : "https://www.libvio.run,https://www.libvio.mov,https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
-    "filters" : ""}
-},
+
+
 {
     "name" : "🐱嗷嗚|动漫",
     "key" : "AowuDmAw",
