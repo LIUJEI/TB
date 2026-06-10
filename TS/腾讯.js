@@ -12,7 +12,7 @@ var rule = {
     
     // 解析接口配置
     parse_url: [   
-          "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url=",
+          "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=",
           "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url=",
           'https://jx.xmflv.com/?url=',
           'https://jx.77flv.cc/?url=',
@@ -22,7 +22,6 @@ var rule = {
           'http://1.94.244.214:8889/geturl?url=',
           "https://test1.12321app.com/api.php?url=",
           "https://test1.12321app.com/daoliansiquanjia.php?url=",
-          'http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=',
           'https://api.jisuyunjifei.top/api/?key=7c2c39e57dc03852ea60f0432efb2836&player&url='
     ],
 
@@ -40,7 +39,7 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name:  '推荐&电影&电视剧&综艺&动漫&少儿&纪录片',
+    class_name:  '腾讯推荐&腾讯电影&腾讯电视剧&腾讯综艺&腾讯动漫&腾讯少儿&腾讯纪录片',
     class_url: 'choice&movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
