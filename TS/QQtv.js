@@ -9,7 +9,29 @@ var rule = {
     multi: 1,
     url: '/x/bu/pagesheet/list?_all=1&append=1&channel=fyclass&listpage=1&offset=((fypage-1)*21)&pagesize=21&iarea=-1',
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
-    
+// 解析接口配置
+    parse_url: [   
+          "http://jiexi.fc8001.top/eWYvfVJBekJffSJm.php?url=",            
+          "https://test1.12321app.com/cpi.php?url=",
+          "http://114.66.21.157:2666/wmm.php?key=368vfij631ykdf&api=tx&url=",
+          "http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url=",
+          "http://www.ckplayer.vip/jiexi/?url=",
+          "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url=",
+          "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
+          'https://api.jisuyunjifei.top/api/?key=7c2c39e57dc03852ea60f0432efb2836&player&url=',
+          'https://jx.xmflv.com/?url=',
+          'http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=',
+          'https://jx.77flv.cc/?url='
+    ],
+
+    // 屏蔽地址
+    blocked_urls: [
+        'http://sspa8.top:99/jpg/1060089351.mp4',
+        'https://hwmov.a.yximgs.com/upic/2026/05/20/12/BMjAyNjA1MjAxMjIyNThfMTY1NTYxNDk0NF8xOTY0Mjg2MzEzNzNfMl8z_b_B2d85e883e7ab00ad52949e6bcad9fa59.mp4',
+        'https://txmov2.a.kwimgs.com/upic/2026/04/24/22/BMjAyNjA0MjQyMjMxMTdfNTE1Njg1NzUyXzE5NDAxNDg2MjI0N18yXzM=_b_Be9cdf9b3f66017f25b1e9f7c1135de53.mp4',
+       'https://gitee.com/nm_nm/interface/raw/master/ips/ips(20250418105556)_001.ts',
+        'IP使用次数超限，请加群签到.mp4'
+    ],
     headers: {
         'User-Agent': 'PC_UA'
     },
