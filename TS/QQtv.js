@@ -11,6 +11,7 @@ var rule = {
     filter_url: 'sort={{fl.sort or 75}}&iyear={{fl.iyear}}&year={{fl.year}}&itype={{fl.type}}&ifeature={{fl.feature}}&iarea={{fl.area}}&itrailer={{fl.itrailer}}&gender={{fl.sex}}',
 // 解析接口配置
     parse_url: [   
+        "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
           "http://jiexi.fc8001.top/eWYvfVJBekJffSJm.php?url=",            
           "https://test1.12321app.com/cpi.php?url=",
           "http://114.66.21.157:2666/wmm.php?key=368vfij631ykdf&api=tx&url=",
