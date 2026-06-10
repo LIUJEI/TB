@@ -25,7 +25,7 @@ var rule = {
     },
     timeout: 5000,
 
-    class_name: '电视剧&电影&综艺&动漫&纪录片&教育&少儿',
+    class_name: '芒果电视剧&芒果电影&芒果综艺&芒果动漫&芒果纪录片&芒果教育&芒果少儿',
     class_url: '2&3&1&50&51&115&10',
 
     filter: {
@@ -66,7 +66,7 @@ var rule = {
 
     lazy: $js.toString(() => {
         let apiList = [
-            "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
+            "https://json.cfysoft.cc/api/?key=db40a4b2f15c4078301a068181bb2724&url=",
             "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url=",
             "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url=",
             'http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=',
