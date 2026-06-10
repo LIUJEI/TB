@@ -37,7 +37,7 @@ var rule = {
     },
     timeout: 5000,
     cate_exclude: '会员|游戏|全部',
-    class_name: '4K电影&4K电视剧&4K综艺&4K动漫&4K少儿&4K纪录片',
+    class_name: '腾讯电影&腾讯电视剧&腾讯综艺&腾讯动漫&腾讯少儿&腾讯纪录片',
     class_url: 'movie&tv&variety&cartoon&child&doco',
     limit: 20,
     play_parse: true,
