@@ -66,6 +66,7 @@ var rule = {
 
     lazy: $js.toString(() => {
         let apiList = [
+            "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url=",
             "https://json.xmi6.com/api/?key=2CkQXrfnaanrht0gCQ&url=",
             "https://json.cfysoft.cc/api/?key=6af47759daf81f86dc123f0f519bf73d&url=",
             'http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url=',
