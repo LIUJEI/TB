@@ -85,7 +85,7 @@ var rule = {
     filter_url: 'is_purchase={{fl.is_purchase}}&mode={{fl.mode}}&three_category_id={{fl.three_category_id}}&market_release_date_level={{fl.year}}',
     headers: {'User-Agent': 'MOBILE_UA'},
     timeout: 5000,
-    class_name: '电影&电视剧&纪录片&动漫&综艺&音乐&网络电影',
+    class_name: '爱奇艺电影&爱奇艺电视剧&爱奇艺纪录片&爱奇艺动漫&爱奇艺综艺&爱奇艺音乐&爱奇艺网络电影',
     class_url: '1&2&3&4&6&5&16',
     limit: 20,
     play_parse: true,
