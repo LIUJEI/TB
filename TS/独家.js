@@ -163,7 +163,7 @@ async function detail(id) {
             vod_actor: Array.isArray(data.Actor) ? data.Actor.join(',') : data.Actor,
             vod_director: data.Director,
             vod_content:'【琉🔹芸❤广告勿信👉剧情】📢'+data.Description,
-            vod_play_from: '💕琉芸👉独播库',
+            vod_play_from: '💕琉芸👉独家',
             vod_play_url: playUrls,
             type_name: `${data.Genre || ''},${data.Scenario || ''}`
         }]
