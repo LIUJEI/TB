@@ -828,7 +828,6 @@
     "type": 3,
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
-    "key": "ConfigCenter",
 },
 {
     "key": "版本信息",
