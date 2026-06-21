@@ -352,14 +352,14 @@
 }, 
 {
     "key": "csp_gulu",
-    "name": "🌐┃映画┃APP",
+    "name": "🆘┃影視┃映画",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
+    "api": "https://d.kstore.dev/download/12194/TS/AppQi.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"},
-    "类型": "APP"
+    "sign": "679543610991810f19698c187e5e106e",
+    "类型": "APP"}
 },
 {
     "key": "csp_hulu",
