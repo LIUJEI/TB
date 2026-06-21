@@ -107,6 +107,13 @@
     "timeout": 60
 }, 
 {
+    "name" : "🧩┃杜北┃快速",
+    "key" : "Dubk",
+    "type" : 3,
+    "api" : "csp_DubkAmns",
+    "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+},
+{
     "name" : "⭐┃瓜子┃秒播",
     "key" : "Guazi",
     "type" : 3,
@@ -135,14 +142,6 @@
     "type" : 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200",
-    "jar" : "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
-},
-{
-    "key" : "CZ",
-    "name" : "🏭┃厂长┃影视",
-    "type" : 3,
-    "api": "csp_Czsapp",
-    "ext": "https://cz01.vip",
     "jar" : "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
 },
 {
@@ -216,35 +215,20 @@
     "api": "https://qist.ugigc.dpdns.org/xiaosa/py/星芽短剧.py",
     "genre": "shortdrama"
 },  
-    {
-      "name" : "🧩┃荐片┃快速",
-      "key" : "JPian",
-      "type" : 3,
-      "api" : "csp_JPianAmns",
-      "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"
-    },
-    {
-      "name" : "🧩┃杜北┃快速",
-      "key" : "Dubk",
-      "type" : 3,
-      "api" : "csp_DubkAmns",
-      "ext" : "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
-    },
-   
-    {
-      "name" : "🌐┃夏天┃APP",
-      "key" : "NewGrV2",
-      "type" : 3,
-      "api" : "csp_NewGrV2Amns",
-      "ext" : "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
-    },
-    {
-      "name" : "🌐┃粉猪┃APP",
-      "key" : "AppV7Fz",
-      "type" : 3,
-      "api" : "csp_AppV7Amns",
-      "ext" : "60a35714a2413f05151fea6864509533510f048c89b582eb125174a0c364626eb83a35618bdd10c1840663d38fb441b8ff25a078bc11c7a8f17ad5b723195ef16fe405746bf6b3defd8d16ac2d07b6f6580ea4826889761c1eae278162b6dc791fff46bcd3a42acfdd470315a17f741eeb834b4fb9f184e3baa5e698b9a771341f86037ec6fa0b8b5d3e2f12172d3ba5779bcbd40a9a9842e5e20efe45b59459bcf5269b50355cebeab216ced19dff4c8d1e3968be184fd3d5609eae3e6089d84bc7b97286027f67ef0d2b19002a7cfd7ad3094cb22ee9efd9dfcb7554f5b204f3bb205ac783272c59d9fa88672e92c91cf1f022930ce8acf1850b86c110e19cc99041d491a3330e53981a954fac8b71af43e3c200c360968d571b1ccbec1a91abfc9e6723b8b2fe1f77057423a7c152c35e5a6573a8dca051273febfe8fd8c12383a37226d8b0f4e8f09e3fbb99becc533165486f60cba1ba247842491d5dd10bc79cad14ecd4da86d0b4e9b416cda8bae4f52156c5165025cda138161b660c1e488c6fa4e733e7c78731b21564faf5008f69b326c9bde49778fd9a7a41de21b7d3dcecdd24612797482cd1a781477ad0a8d8fd4d2529dd6d2df6f8bce753b207e81e7d86040062b22aef2bbe1890730797d1f565c07534c959310ab186b766f7fd08d72f51150834a2574c82b20a5b4d7988f7c6cdbecff44213a443f4745695d063b85b4dde937b3b0e1500eb0aa3df69a8e3439c7ed756e828c337593dcde5f2fde83450b7b6897185641e2d3ca79f205dadcd6b72f5d71711c461386a4d758a03bc5e4af817f34dc49e522233044b31dff72440a78c6e8ccccc20ded8439d77efaa365055a34ab71df7ada0ac4f8ce655c4a9780bb16fed6ec0fa6804b02723ad112137bb77729a12eed632baed3f5319afc6ec5cf36fab460429e11bd16604c945086d022237bd387bdc54ad166d35c7b68d55a5ac2f2d96366b1ea6c4a65aca2d2cef14426bbd1e4d39472f050b98126e960aa6ae32d2490509d34e093d432b3bc4a3b47ed04e84874fe52bc7fda34d651cfba4a63152b13b14f2f21c3eaaa6b37dcfee55eceb180d7a6613a297c8ec0177beda009d9fc4ec5d5b9e03fb5309dd10543506d3d079dbeab94ab9999f2c5177697216fd3dde3755b21bb171c26178a3605be3bf52a182f29826e68168883e1ee37b964e27b5daba0e0870c1af08d5f7886d2d12d83250987c12d85caed8fd04fcbacd2c95ab7b8d23eb7c974e6c991a6c9cd1bc953919a240976a47565acd471a6e1f7c0a3bca6056a79c840e1196193301681140a348024d507a88675fcf6a27f1c4b57c55fec5ec94427d02699992da10486c03a961a596651c8b06c43ede2a5412036f98cfc264c1c0634accc532cec8f1e20cc2bcf4391a212fdd72327ddf009234d4015e90e579ef6aed5f1faaa9ac1575fa357a1be3c3a81a7687fc240625feb29c220aca44a5a5b2f2c7ee3417bdf51f374d15e1797afdc0c14b8540dae08eb383610067b679cd6484bbd1b120596358d9d25ec09b46f9a2ea907c1c2351ba704a7ae2a44880dac51711547fd12fae2724ee4321061742c69ed2b7ad59465afcc324aa6458264c3e6bf0ca12b59110b6532bf3d594a576c9275f251562ab2769ebae79ee49000afeb5df2485258170f10aace3aebf8a50ab022330557c4af9520693d419bafa9feb53131f809b8899844e032ca4e0a1ecd8291e6f7b67ec85d4968a4fcac270eca71c34406970596997502bb315ab02dab44d1cec445dcea317c82442aaee948345416bd9fa6161a60700c37ea4209ce91ff94d65fdae641484b8cd3516da0f69b7f4de06809c0829727b10761b6379bd584ffaa38b55e584d65edc750ddc2eb54f7eae93798fa85f0ea1bf2ba5187084fb0259e6a5f05a3129abe89342bab466e09cfc6b845bc0f149372d5b3acf5eb998a73849b7d8d6a2170fd2ae7c39c480eb3bb8b1d3c4a716d4a85f8f708747c275bab0c069e1395d5ec7c3766c3749a8d0d9d9a71dcbeef767fcb889cf95067ae70319aea679ea055b89ccef0652df98ce5189a79ee5cbdb249bba4bda75f2b6f7c353a4cb8d603e41309d2d54f35b51746a50f43bf1ab95a5d4911cdfb4a33431dbb4c201825fb01acfe258d0e2f38404402b8137f7294793b17df1d3fca49673326548577ce905c318fa3333805708f6321796b9c7a73cd1895b15628f4722f1042372565a88c195feb01a29ff3cb711c7213a06f2891a36e2f6eab65e2ec5d6202730f3794a3107e82e2ad442be840ba9a80bca05d5f36763edc10fcb26fcfa8d2cc95f9b1e3b276c378a5a525dd1648239c13016f57e922e305058a42144a48cd3f62d41e72ca27ab8990212e5661aa9be53e7c107a2bff5bf095a63d129105623ea2546c76a9fd88c148f2b0cb2d1af2062c39c6844ae2db0cab2df7e1f665c64cacab3d96b40cea358a7c8b66621c35c96f1605b809d69d09c310e98498646a12015632c7d4a1179ab641868efa77cee536ab932aea775c55d3867733d281d1ac789957d177e333ecbd8e353aa12a947364d53bd3d30bcbecb4a830700eb2a88fda4761378e83d40a49d6ba484a4ba25fa568b5008764209b7160bf5ac40f00de7a536cb607f4a342a0cdbce81eb95e390f9fe0a494da1f5e24ca421a4f76a86d4c73229df6e73756294ad9c9944c07c61a580c538baf39d65db73712488471bcf40e3bbe53114ba9998c5d7225f29d767668f70a647df71323df1c18b562ec6d601e4dbc33434177c6e580851bd135174460d1ea9a8eb98dd6891e56d687a5e4711fa1af3b7031a655592af2542083362647103096c9b3ad86ac908594696b282ea59c62041af26e2fd6fa4e647c199670315be759050a122bd7e9252643245a60be543f252e70ddfe1e714683884049611f453ca7c7b08778372fbf578f5ad5b72c97e17a3a3cfef866dac1d7e0d4ad53058200d0ea0b500a158380784"
-    },
+{
+    "name" : "🌐┃夏天┃APP",
+    "key" : "NewGrV2",
+    "type" : 3,
+    "api" : "csp_NewGrV2Amns",
+    "ext" : "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
+},
+{
+    "name" : "🌐┃粉猪┃APP",
+    "key" : "AppV7Fz",
+    "type" : 3,
+    "api" : "csp_AppV7Amns",
+    "ext" : "60a35714a2413f05151fea6864509533510f048c89b582eb125174a0c364626eb83a35618bdd10c1840663d38fb441b8ff25a078bc11c7a8f17ad5b723195ef16fe405746bf6b3defd8d16ac2d07b6f6580ea4826889761c1eae278162b6dc791fff46bcd3a42acfdd470315a17f741eeb834b4fb9f184e3baa5e698b9a771341f86037ec6fa0b8b5d3e2f12172d3ba5779bcbd40a9a9842e5e20efe45b59459bcf5269b50355cebeab216ced19dff4c8d1e3968be184fd3d5609eae3e6089d84bc7b97286027f67ef0d2b19002a7cfd7ad3094cb22ee9efd9dfcb7554f5b204f3bb205ac783272c59d9fa88672e92c91cf1f022930ce8acf1850b86c110e19cc99041d491a3330e53981a954fac8b71af43e3c200c360968d571b1ccbec1a91abfc9e6723b8b2fe1f77057423a7c152c35e5a6573a8dca051273febfe8fd8c12383a37226d8b0f4e8f09e3fbb99becc533165486f60cba1ba247842491d5dd10bc79cad14ecd4da86d0b4e9b416cda8bae4f52156c5165025cda138161b660c1e488c6fa4e733e7c78731b21564faf5008f69b326c9bde49778fd9a7a41de21b7d3dcecdd24612797482cd1a781477ad0a8d8fd4d2529dd6d2df6f8bce753b207e81e7d86040062b22aef2bbe1890730797d1f565c07534c959310ab186b766f7fd08d72f51150834a2574c82b20a5b4d7988f7c6cdbecff44213a443f4745695d063b85b4dde937b3b0e1500eb0aa3df69a8e3439c7ed756e828c337593dcde5f2fde83450b7b6897185641e2d3ca79f205dadcd6b72f5d71711c461386a4d758a03bc5e4af817f34dc49e522233044b31dff72440a78c6e8ccccc20ded8439d77efaa365055a34ab71df7ada0ac4f8ce655c4a9780bb16fed6ec0fa6804b02723ad112137bb77729a12eed632baed3f5319afc6ec5cf36fab460429e11bd16604c945086d022237bd387bdc54ad166d35c7b68d55a5ac2f2d96366b1ea6c4a65aca2d2cef14426bbd1e4d39472f050b98126e960aa6ae32d2490509d34e093d432b3bc4a3b47ed04e84874fe52bc7fda34d651cfba4a63152b13b14f2f21c3eaaa6b37dcfee55eceb180d7a6613a297c8ec0177beda009d9fc4ec5d5b9e03fb5309dd10543506d3d079dbeab94ab9999f2c5177697216fd3dde3755b21bb171c26178a3605be3bf52a182f29826e68168883e1ee37b964e27b5daba0e0870c1af08d5f7886d2d12d83250987c12d85caed8fd04fcbacd2c95ab7b8d23eb7c974e6c991a6c9cd1bc953919a240976a47565acd471a6e1f7c0a3bca6056a79c840e1196193301681140a348024d507a88675fcf6a27f1c4b57c55fec5ec94427d02699992da10486c03a961a596651c8b06c43ede2a5412036f98cfc264c1c0634accc532cec8f1e20cc2bcf4391a212fdd72327ddf009234d4015e90e579ef6aed5f1faaa9ac1575fa357a1be3c3a81a7687fc240625feb29c220aca44a5a5b2f2c7ee3417bdf51f374d15e1797afdc0c14b8540dae08eb383610067b679cd6484bbd1b120596358d9d25ec09b46f9a2ea907c1c2351ba704a7ae2a44880dac51711547fd12fae2724ee4321061742c69ed2b7ad59465afcc324aa6458264c3e6bf0ca12b59110b6532bf3d594a576c9275f251562ab2769ebae79ee49000afeb5df2485258170f10aace3aebf8a50ab022330557c4af9520693d419bafa9feb53131f809b8899844e032ca4e0a1ecd8291e6f7b67ec85d4968a4fcac270eca71c34406970596997502bb315ab02dab44d1cec445dcea317c82442aaee948345416bd9fa6161a60700c37ea4209ce91ff94d65fdae641484b8cd3516da0f69b7f4de06809c0829727b10761b6379bd584ffaa38b55e584d65edc750ddc2eb54f7eae93798fa85f0ea1bf2ba5187084fb0259e6a5f05a3129abe89342bab466e09cfc6b845bc0f149372d5b3acf5eb998a73849b7d8d6a2170fd2ae7c39c480eb3bb8b1d3c4a716d4a85f8f708747c275bab0c069e1395d5ec7c3766c3749a8d0d9d9a71dcbeef767fcb889cf95067ae70319aea679ea055b89ccef0652df98ce5189a79ee5cbdb249bba4bda75f2b6f7c353a4cb8d603e41309d2d54f35b51746a50f43bf1ab95a5d4911cdfb4a33431dbb4c201825fb01acfe258d0e2f38404402b8137f7294793b17df1d3fca49673326548577ce905c318fa3333805708f6321796b9c7a73cd1895b15628f4722f1042372565a88c195feb01a29ff3cb711c7213a06f2891a36e2f6eab65e2ec5d6202730f3794a3107e82e2ad442be840ba9a80bca05d5f36763edc10fcb26fcfa8d2cc95f9b1e3b276c378a5a525dd1648239c13016f57e922e305058a42144a48cd3f62d41e72ca27ab8990212e5661aa9be53e7c107a2bff5bf095a63d129105623ea2546c76a9fd88c148f2b0cb2d1af2062c39c6844ae2db0cab2df7e1f665c64cacab3d96b40cea358a7c8b66621c35c96f1605b809d69d09c310e98498646a12015632c7d4a1179ab641868efa77cee536ab932aea775c55d3867733d281d1ac789957d177e333ecbd8e353aa12a947364d53bd3d30bcbecb4a830700eb2a88fda4761378e83d40a49d6ba484a4ba25fa568b5008764209b7160bf5ac40f00de7a536cb607f4a342a0cdbce81eb95e390f9fe0a494da1f5e24ca421a4f76a86d4c73229df6e73756294ad9c9944c07c61a580c538baf39d65db73712488471bcf40e3bbe53114ba9998c5d7225f29d767668f70a647df71323df1c18b562ec6d601e4dbc33434177c6e580851bd135174460d1ea9a8eb98dd6891e56d687a5e4711fa1af3b7031a655592af2542083362647103096c9b3ad86ac908594696b282ea59c62041af26e2fd6fa4e647c199670315be759050a122bd7e9252643245a60be543f252e70ddfe1e714683884049611f453ca7c7b08778372fbf578f5ad5b72c97e17a3a3cfef866dac1d7e0d4ad53058200d0ea0b500a158380784"
+},
     {
       "name" : "🌐┃咸鱼┃APP",
       "key" : "AppV7Xy",
@@ -316,135 +300,191 @@
       "ext" : "be125714a2413f05151fea6864509533510fc41478de761606ce64420a9d786d1766ef0968b7cb1b0b380f8d47aaca283235fd63fd19e6ac57a9a71acecc969aedb960608e1d3e2cbaa9365220d19d30711243c747442f77c21fb19b804bde8323048bc73a0ef5d5231c028e694e97122e1bfe3caf778c49dc767622f6c7cfbb12a8feb3154ad53971859304e2d7a50f24558396a1b0f9879420f15416fcd1a44fea822c8e63ddff22f6775663ea26e49ce810481083bfaebae58790814c6c91aedd7cf8d50237a5a22bed49bff6cbe937fc907cf5ce771643461426b40fc79aed7595a6b33e1942d6e93db30da5a10c6e9593dec0ea5cb378cd8a4d90c296b90aa9679a3a791a281abf5fef54ed0c3ba822bfb84d5a48fb97f9ceb65e5be0bd30a4604169f671c543a0d6a4154aee4de66de0baee995b3d9ebd02260d5c4032b8dc191de5e50dc10a5be44405c848e71ef2f7fac85814542927d39a3c5fea40a14e96688c9f4b6f5a62c949e69c66616e7ac0a24b02a746fe6257de3a5325af8f915dd59d3f75ee830ac427fd5c9c136d371beb2ae7233e21ebef3beb0b67d6ae3b8a4b4878da5bd88913145b4dd79754bb0fe8cb19ef8a547355c4795b0bd372296b3ae08227e3a8c8da641b2aad8a545863cbab2da7edf6c48fee21610ace6e05ca511fead0993d23a3a2e720b32fe86da616b34f94874f67bbd3d94b46b207487101453982db864b8aa24c6ff3326999cfbf6328c5ce176c1a01f16802ea4f615016c4a7c8bd401ee726d81f94ad56b9efe12c00e668dfdfc4f820347f71de5b36546b773f6717766c79a01611fe3c5427c6ac4c68f6d8e32b4a5400c4467ba7990c4738b6b021fcc04446eee3b473baa938bece5e1b3b5379eb7d5d079186cfe16ee6fe51202e5b90c18f59569a75944b2e932d68bb8cf9cab437f6176ab85c8b26eedfe59e5b6130b1aab2e49419d7ec0037fd83a5af3d7483bbe8d4e0e8d3033ec3db68a7c78f9100bffee32cb0247e8b647e94838f767f01cfee1a2b9836ac26a389e7340f584fbb0a8600c2ffea100993ae78fb92593ffc41211e0dda196d9d1450a3f22a56af9f4aab61c33dd3744e395aad6527687d0b0df5db85cadb66bc1bafc6bdbde8b640863433192bf091be8e148d421eca44aa1997ce4396965f3724cea8b45b416394ac32ad68cbcc6ad02cfa44bbabda8bad7c5daabe45eac86d0a8d2b203a1924d82fc3ea360436fda1a650e5a7cce58becff50eb2176a4dd90f58887b6fdb15398eefd8968ed2d859d9fd4c0c078522009ce90b59a84903d75a9fbb391deb0f3cab655b9d79e5f43b26323e7086090877472bdf01f580b4a5ead9c0ca008fdd8cba8d50641a6824daf8d0f4c992ca8c1b99723bd1b7a0c69432aca4e892096f1063a06b068127684b82e5a677f272dd45551c01a4c5f0a6e9b6fd26d871f9fd1045b65565a709cb0545882fcc593b885d29f47df475b8b1cf4f95ff61c31252f503924113c52fa72ea655e9245bce5e73427558c5fbf33a933c549dfdca79259fb8eb77d648c5f4813af11ef876e0fd65b16d3989f6d88da1026b0e53e1116e6243727dbd3a264c77d18ff7f194075f9d59f26e983276317f4dce4d2daa69538ac0c034f27f042a5595809f00945117562f16aec2501010d1b7f5521c264c1bddf8a150f5b8fde0aa5630665dc332ab2f3e490b01c7328693f22d98db1ff9599a44930cf14cec95490229c3cbf8eb9e4d083cb77cd50fe806fe469dcf3201822980b222d596e9ceb43375dd00ebc9721e344baf29f84b56000835a364cac6da64abf75f2f1fb890e24549b7b7d28874668b2463d2e790a6dda9a7d3ba00160296fa6f565436df4164bfa739161c8415a0b88c3da5b80f6439fb67e1d6aba0b8c1db798fe967334c574b9919727fb639d6cecb1f2a2a4d4c52fc3c9514efaae17b1d5c14ba1f52847c50025d1ea38cc2da904fb14f0690491ccaf4838e5a28c92a7536d735fa42a283373de3e7781201f9d7f198642f6356fc1d806f5ffa82dc79c114c70fef7e4cfd422c976f51168dd7633a0dadbac3270b9943c9b5254c1dac5688fe0f7213a3f"
     },
     
-    {
-      "key" : "csp_橘汁",
-      "name" : "🌐┃橘汁┃APP",
-      "type" : 3,
-      "api" : "csp_AppDrama",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "appName" : "橘汁",
-        "publicKey" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey" : "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv" : "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg" : "com.lxf.snzlcgtzxyx",
-        "host" : "",
-        "site" : "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version" : "3.0.2.1",
-        "decrypt" : "1"
-      }
-    },
-    {
-      "key" : "csp_华谊",
-      "name" : "🌐┃华谊┃APP",
-      "type" : 3,
-      "api" : "csp_AppDrama",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "appName" : "华谊",
-        "publicKey" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "dataKey" : "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv" : "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg" : "com.muyue.tool",
-        "host" : "",
-        "site" : "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version" : "1.0.0.4",
-        "decrypt" : "1"
-      }
-    },
-    {
-      "key" : "csp_薯条",
-      "name" : "🌐┃薯条┃APP",
-      "type" : 3,
-      "api" : "csp_AppDrama",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "appName" : "薯条影视",
-        "publicKey" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey" : "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
-        "dataIv" : "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg" : "com.st.standroid",
-        "host" : "",
-        "site" : "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
-        "version" : "5.0.0.1",
-        "decrypt" : "0"
-      }
-    },
-    {
-      "key" : "csp_听心99",
-      "name" : "🌐┃听心┃APP",
-      "type" : 3,
-      "api" : "csp_App99",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "host" : "https://api.12321app.com/api",
-        "LoginPath" : "/app/log",
-        "appkey" : "a0a18659a9977a47e53442cd084b536c",
-        "versionName" : "2.8.1",
-        "name" : "听心视频",
-        "package" : "com.iksp.adsys.jjsp",
-        "buildNumber" : "2001",
-        "buildSignature" : "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
-      }
-    },
-    {
-      "key" : "csp_咕噜99",
-      "name" : "🌐┃咕噜┃APP",
-      "type" : 3,
-      "api" : "csp_App99",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "host" : "http://103.45.132.22:19987/app/bn",
-        "LoginPath" : "/app/log",
-        "appkey" : "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName" : "1.9.5",
-        "name" : "咕噜咕噜",
-        "package" : "com.bd.tool.gulu",
-        "buildNumber" : "2001",
-        "buildSignature" : "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
-      }
-    },
-    {
-      "key" : "csp_剧圈99",
-      "name" : "🌐┃剧圈┃APP",
-      "type" : 3,
-      "api" : "csp_App99",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "host" : "http://124.221.3.182:19987/app/bn",
-        "appkey" : "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName" : "1.2.0",
-        "name" : "剧圈圈",
-        "package" : "com.qingtangxiaozhuan.xyz",
-        "buildNumber" : "2002",
-        "buildSignature" : "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key" : "csp_顾我99",
-      "name" : "🌐┃顾我┃APP",
-      "type" : 3,
-      "api" : "csp_App99",
-      "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",
-      "ext" : {
-        "host" : "http://117.50.200.113:19987/app/bn",
-        "LoginPath" : "/app/log",
-        "appkey" : "040f9b1bc5e942569b5c3e63943306ab",
-        "versionName" : "4.3.1",
-        "name" : "顾我追剧",
-        "package" : "com.guwozhuijux.app",
-        "buildNumber" : "2001",
-        "buildSignature" : "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
-      }
-    },
-    {
-      "key" : "nangua",
-      "name" : "🌐┃南瓜┃APP",
-      "type" : 3,
-      "api" : "csp_NanGua",
-      "jar" : "https://d.kstore.dev/download/13971/lib/天南.png",
-      "ext" : "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
+{
+    "key": "宫阁",
+    "name": "🌐┃宫阁┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "https://api.jciyuan.com/api",
+    "LoginPath": "/app/log",
+    "version": "",
+    "appkey": "193856c6f9b844e2b6c55d1ecc744593",
+    "versionName": "6.5.1",
+    "name": "落攻阁",
+    "package": "com.yuaiweiwu.aixue.lggys",
+    "buildNumber": "2001",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+},
+{
+    "key": "橙子99",
+    "name": "橙子丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://113.31.180.218:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+    "versionName": "4.3.1",
+    "name": "小橙子",
+    "package": "com.xchengzix.app",
+    "buildNumber": "2001",
+    "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"}
+},
+{
+    "key": "无极99",
+    "name": "无极丨APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://111.170.140.70:19987/app/bn",
+    "LoginPath": "/app/log",
+    "version": "",
+    "appkey": "c403317c2a2946659b0bcbabdd5de43a",
+    "versionName": "1.0.1",
+    "name": "无极影视",
+    "package": "com.wujiys.app",
+    "buildNumber": "2001",
+    "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"}
+},
+{
+    "key": "csp_顾我99",
+    "name": "🌐┃顾我┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://117.50.200.113:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+    "versionName": "4.3.1",
+    "name": "顾我追剧",
+    "package": "com.guwozhuijux.app",
+    "buildNumber": "2001",
+    "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
+},
+{
+    "key": "csp_听心99",
+    "name": "🌐┃听心┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "https://api.12321app.com/api",
+    "LoginPath": "/app/log",
+    "appkey": "a0a18659a9977a47e53442cd084b536c",
+    "versionName": "2.8.1",
+    "name": "听心视频",
+    "package": "com.iksp.adsys.jjsp",
+    "buildNumber": "2001",
+    "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"}
+},
+{
+    "key": "csp_追番99",
+    "name": "🌐┃追番┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "https://api.hboqy.cn.hboqy.cn/api",
+    "LoginPath": "/app/log",
+    "appkey": "a0a18659a9977a47e53442cd084b536c",
+    "versionName": "6.1.7",
+    "name": "追番达人",
+    "package": "com.android.packageinstaller",
+    "buildNumber": "2002",
+    "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}
+},
+{
+    "key": "csp_咕噜99",
+    "name": "🌐┃咕噜┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://103.45.132.22:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+    "versionName": "1.9.5",
+    "name": "咕噜咕噜",
+    "package": "com.bd.tool.gulu",
+    "buildNumber": "2001",
+    "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"}
+},
+{
+    "key": "csp_剧圈99",
+    "name": "🌐┃剧圈┃APP",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://124.221.3.182:19987/app/bn",
+    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+    "versionName": "1.2.0",
+    "name": "剧圈圈",
+    "package": "com.qingtangxiaozhuan.xyz",
+    "buildNumber": "2002",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+},
+{
+    "key": "csp_橘汁",
+    "name": "🌐┃橘汁┃APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "橘汁",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.lxf.snzlcgtzxyx",
+    "host": "",
+    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+    "version": "3.0.2.1",
+    "decrypt": "1"}
+},
+{
+    "key": "csp_华谊",
+    "name": "🌐┃华谊┃APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "华谊",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.muyue.tool",
+    "host": "",
+    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+    "version": "1.0.0.4",
+    "decrypt": "1"}
+},
+{
+    "key": "csp_薯条",
+    "name": "🌐┃薯条┃APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "薯条影视",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.st.standroid",
+    "host": "",
+    "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+    "version": "5.0.0.1",
+    "decrypt": "0"}
+},
+{
+    "key": "天堂",
+    "name": "天堂｜APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "电影天堂",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.dytiantang.one",
+    "host": "",
+    "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+    "version": "3.0.0.7",
+    "decrypt": "0"}
+},
     {
       "name" : "🐱┃嗷嗚┃动漫",
       "key" : "AowuDmAw",
