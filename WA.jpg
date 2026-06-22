@@ -450,7 +450,7 @@
 },
 {
     "key": "天堂",
-    "name": "天堂｜APP",
+    "name": "🌐┃天堂｜APP",
     "type": 3,
     "api": "csp_AppDrama",
     "jar" : "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
@@ -544,18 +544,11 @@
 },
 {
     "key": "好看短剧",
-    "name": "🥨┃好看┃短剧",
+    "name": "🎬┃好看┃短剧",
     "type": 3,
     "api": "csp_HaokanDJ",
     "genre": "shortdrama",
     "jar" : "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
-},
-{
-    "name" : "🎬┃酷狗┃音乐",
-    "key" : "KuGou",
-    "type" : 3,
-    "api" : "csp_KuGouAmns",
-    "genre" : "music"
 },
     {
       "name" : "🏆┃飞球┃体育",
@@ -569,6 +562,13 @@
       "type" : 3,
       "api" : "csp_BbkqLiveAmns",
       "ext" : "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"
+    },
+   {
+    "name" : "🎉┃酷狗┃音乐",
+    "key" : "KuGou",
+    "type" : 3,
+    "api" : "csp_KuGouAmns",
+    "genre" : "music"
     },
     {
       "name" : "🎉┃Bili┃合集",
