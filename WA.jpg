@@ -480,14 +480,6 @@
     "decrypt": "0"}
 },
 {
-    "name" : "🐱┃嗷嗚┃漫剧",
-    "key" : "MjHggg",
-    "type" : 3,
-    "api" : "csp_HgggAmns",
-    "ext" : "comic_series",
-    "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
-},
-{
     "name" : "🎬┃嗷嗚┃短剧",
     "key" : "DjHggg",
     "type" : 3,
