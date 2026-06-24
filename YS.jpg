@@ -11,11 +11,99 @@
     "searchable": 0
 },
 {
-    "key": "ConfigCenter",
-    "name": "🎬┣配置┫辅助",
+    "key": "YGP",
+    "name": "🎬┣新片┫预告",
     "type": 3,
-    "api": "csp_Config",
-    "style": {"type": "rect","ratio": 1.597}
+    "api": "csp_YGP"
+},
+{
+    "key": "Duboku",
+    "name": "🎯┃影視┃独播",
+    "type": 3,
+    "api": "csp_Duboku"
+},
+{
+    "key": "YunDuo",
+    "name": "☁️┃影視┃云朵",
+    "type": 3,
+    "api": "csp_YunDuo",
+    "ext": "https://yunduoyingshi.com"
+},
+{
+    "key": "CupFox",
+    "name": "☕┃影視┃茶杯",
+    "type": 3,
+    "api": "csp_CupFox",
+    "ext": "https://www.tjtcdl.com"
+},
+{
+    "key": "BuBu",
+    "name": "🧸┃影視┃布布",
+    "type": 3,
+    "api": "csp_BuBu",
+    "ext": "https://asd123sx23xdacsx.top"
+},
+{
+    "key": "Rebo",
+    "name": "🍓┃影視┃热播",
+    "type": 3,
+    "api": "csp_AppRJ",
+    "ext": "http://v.rbotv.cn"
+},
+{
+    "key": "fishhxq",
+    "name": "💃┃影視┃韩圈",
+    "type": 3,
+    "api": "csp_FishHxq",
+    "ext": "http://www.小不点.com/api//2026/fishhxq.php"
+},
+{
+    "key" : "Kan360",
+    "name" : "🫐┃影視┃360",
+    "type" : 3,
+    "api" : "csp_Kan360",
+    "ext" : {
+    "filter" : "https://open.wya6.com/d/down/2026/json/360.json",
+    "fishjx" : ["https://jx.xmflv.com/?url="]}
+},
+{
+    "key": "Wwys",
+    "name": "🍙┃影視┃农牧",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200"
+},
+{
+    "key": "Guazi",
+    "name": "🍉┃影視┃瓜子",
+    "type": 3,
+    "api": "csp_Guazi"
+},
+{
+    "key": "TvDy",
+    "name": "👼┃影視┃天堂",
+    "type": 3,
+    "api": "csp_TvDy"
+},
+{
+    "key": "SaoHuo",
+    "name": "🌶️┃影視┃骚火",
+    "type": 3,
+    "api": "csp_SaoHuo",
+    "ext": "https://shdy5.us"
+},
+{
+    "key": "Jianpian",
+    "name": "🧲┃影視┃荐片",
+    "type": 3,
+    "api": "csp_Jianpian"
+},
+{
+    "key": "wencai",
+    "name": "✏️┃影視┃文才",
+    "type": 3,
+    "api": "csp_WenCai",
+    "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
     "key": "py_liuyun",
@@ -25,148 +113,8 @@
     "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com"},
     "类型": "影視"
 },
-{
-    "key" : "miaokan_4k",
-    "name" : "💮┃秒看┃影视",
-    "type" : 4,
-    "api" : "http://189.1.224.165:4676/proxy.php?code=duanwu&target=063f7be8a0f990abe1de",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影視"
-},
-{
-    "key": "玩偶",
-    "name": "💯玩偶┃4K臻享",
-    "type": 3,
-    "api": "csp_Wogg",
-    "ext": {
-    "site": [
-    "https://www.wogg.net",
-    "https://wogg.xxooo.cf",
-    "https://woggpan.xxooo.cf"]}
-},
-{
-    "key": "至臻",
-    "name": "💯至臻┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://mihdr.top",
-    "https://www.miqk.cc",
-    "https://www.mihdr.top"]}
-},
-{
-    "key": "木偶",
-    "name": "💯玩耦┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://123.666291.xyz",
-    "https://666.666291.xyz",
-    "https://www.muou.site",
-    "https://www.muou.asia"]}
-},
-{
-    "key": "蜡笔",
-    "name": "💯蜡笔┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "http://www.xiaocgege.shop",
-    "http://xiaocge.fun",
-    "http://feimo.fun",
-    "http://xiaocgege.shop"]}
-},
-{
-    "key": "多多",
-    "name": "💯多多┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://tv.yydsys.top",
-    "https://tv.yydsys.cc",
-    "https://tv.214521.xyz"]}
-},
-{
-    "key": "欧哥",
-    "name": "💯欧哥┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://woog.nxog.eu.org",
-    "https://woog.nxog.fun",
-    "https://woog.nxog.eu.org",
-    "https://woog.430520.xyz"]}
-},
-{
-    "key": "二小",
-    "name": "💯二小┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://www.2xiaopan.top",
-    "https://www.erxiaozhan.top",
-    "https://www.2xiaozhan.top"]}
-},
-{
-    "key": "虎斑",
-    "name": "💯虎斑┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": ["http://38.76.197.172:16969"]},
-    "timeout": 60
-}, 
-{
-    "key": "快映",
-    "name": "💯快映┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": ["http://38.76.197.172:12521"]},
-    "timeout": 60
-},
-{
-    "key": "盘它",
-    "name": "💯盘它┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebSharePT",
-    "style": {"type": "list"},
-    "timeout": 60
-},
-{
-    "key": "阿里云盘",
-    "name": "🗂️我的┃阿里云盘",
-    "type": 3,
-    "api": "csp_PanAli",
-    "style": {"type": "list","ratio": 1.433}
-},
-{
-    "key": "夸克网盘",
-    "name": "🗂️我的┃夸克网盘",
-    "type": 3,
-    "api": "csp_PanQuark",
-    "style": {"type": "list","ratio": 1.433}
-},
-{
-    "key": "百度网盘",
-    "name": "🗂️我的┃百度网盘",
-    "type": 3,
-    "api": "csp_PanBaidu",
-    "style": {"type": "list","ratio": 1.433}
-},
-{
-    "key": "UC网盘",
-    "name": "🗂️我的┃UCN网盘",
-    "type": 3,
-    "api": "csp_PanUC",
-    "style": {"type": "list","ratio": 1.433}
-},
+
+
 {
     "key": "dr_腾迅",
     "name": "🐧┃騰訊┃直连",
@@ -790,44 +738,119 @@
     "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
     "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"}
 },
+
 {
-   "key": "kktd",
-   "name": "🎄┃糖豆┃舞蹈",
-   "type": 1,
-   "api": "https://tt.666888.club/vod/cibn_api.php/provide/vod/",
-   "searchable": 1,
-   "changeable": 0
-},
-{
-   "key": "tt",
-   "name": "🎄┃儿童┃专区",
-   "type": 1,
-   "api": "https://tt.666888.club/vod/tt.php/provide/vod/",
-   "searchable": 1,
-   "changeable": 0
-},
-{
-    "key": "kglive",
-    "name": "🎄┃酷狗┃直播",
-    "type": 4,
-    "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "dylive",
-    "name": "🎄┃抖音┃直播",
-    "type": 4,
-    "api": "http://nm.4688888.xyz/vod/dy/dylive.php/provide/vod/",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "csp_reboys",
-    "name": "🇨🇳┣☪热✿门┫影視",
+    "key": "玩偶",
+    "name": "💯玩偶┃4K臻享",
     "type": 3,
-    "api": "csp_AppRJ",
-    "ext": {"url": "http://v.rbotv.cn"}
+    "api": "csp_Wogg",
+    "ext": {
+    "site": [
+    "https://www.wogg.net",
+    "https://wogg.xxooo.cf",
+    "https://woggpan.xxooo.cf"]}
+},
+{
+    "key": "至臻",
+    "name": "💯至臻┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "https://mihdr.top",
+    "https://www.miqk.cc",
+    "https://www.mihdr.top"]}
+},
+{
+    "key": "木偶",
+    "name": "💯玩耦┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "https://123.666291.xyz",
+    "https://666.666291.xyz",
+    "https://www.muou.site",
+    "https://www.muou.asia"]}
+},
+{
+    "key": "蜡笔",
+    "name": "💯蜡笔┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "http://www.xiaocgege.shop",
+    "http://xiaocge.fun",
+    "http://feimo.fun",
+    "http://xiaocgege.shop"]}
+},
+{
+    "key": "多多",
+    "name": "💯多多┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "https://tv.yydsys.top",
+    "https://tv.yydsys.cc",
+    "https://tv.214521.xyz"]}
+},
+{
+    "key": "欧哥",
+    "name": "💯欧哥┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "https://woog.nxog.eu.org",
+    "https://woog.nxog.fun",
+    "https://woog.nxog.eu.org",
+    "https://woog.430520.xyz"]}
+},
+{
+    "key": "二小",
+    "name": "💯二小┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": [
+    "https://www.2xiaopan.top",
+    "https://www.erxiaozhan.top",
+    "https://www.2xiaozhan.top"]}
+},
+{
+    "key": "虎斑",
+    "name": "💯虎斑┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": ["http://38.76.197.172:16969"]},
+    "timeout": 60
+}, 
+{
+    "key": "快映",
+    "name": "💯快映┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebShare",
+    "ext": {
+    "site": ["http://38.76.197.172:12521"]},
+    "timeout": 60
+},
+{
+    "key": "盘它",
+    "name": "💯盘它┃4K臻享",
+    "type": 3,
+    "api": "csp_PanWebSharePT",
+    "style": {"type": "list"},
+    "timeout": 60
+},
+{
+    "key": "ConfigCenter",
+    "name": "🎬┣配置┫辅助",
+    "type": 3,
+    "api": "csp_Config",
+    "style": {"type": "rect","ratio": 1.597}
 },
 {
     "key": "版本信息",
@@ -935,7 +958,7 @@
     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
 }],
 	
-"spider": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/0520xs.jar",	
+"spider": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar",	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
 	
 "lives": [
