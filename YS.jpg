@@ -726,19 +726,6 @@
     "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
-    "key": "欧哥",
-    "name": "💯欧哥┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://woog.nxog.eu.org",
-    "https://woog.nxog.fun",
-    "https://woog.nxog.eu.org",
-    "https://woog.430520.xyz"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
-},
-{
     "key": "虎斑",
     "name": "💯虎斑┃4K臻享",
     "type": 3,
@@ -747,14 +734,6 @@
     "site": ["http://38.76.197.172:16969"]},
     "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 }, 
-{
-    "key": "盘它",
-    "name": "💯盘它┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebSharePT",
-    "style": {"type": "list"},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
-},
 {
     "key": "TGSou",
     "name": "🍬┃糖果┃搜索",
