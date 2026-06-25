@@ -193,25 +193,6 @@
     "类型": "影视"
 }, 
 {
-    "key": "csp_gulu",
-    "name": "🌐┃映画┃APP",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
-    "ext": {
-    "host": "http://www.yingsw.top",
-    "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"},
-    "类型": "APP"
-},
-{
-    "key": "py_juhey",
-    "name": "🌐┃霜镜┃APP",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
-    "ext": "http://43.248.117.123:4680",
-    "类型": "APP"
-},
-{
     "key": "csp_hulu",
     "name": "🌐┃阑珊┃APP",
     "type": 3,
@@ -269,6 +250,25 @@
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://api2026.hboqy.cn/",
+    "类型": "APP"
+},
+{
+    "key": "csp_gulu",
+    "name": "🌐┃映画┃APP",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
+    "ext": {
+    "host": "http://www.yingsw.top",
+    "key": "guluyinghua_123",
+    "sign": "679543610991810f19698c187e5e106e"},
+    "类型": "APP"
+},
+{
+    "key": "py_juhey",
+    "name": "🌐┃霜镜┃APP",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
+    "ext": "http://43.248.117.123:4680",
     "类型": "APP"
 },
 {
