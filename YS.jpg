@@ -739,18 +739,6 @@
     "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
-    "key": "二小",
-    "name": "💯二小┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": [
-    "https://www.2xiaopan.top",
-    "https://www.erxiaozhan.top",
-    "https://www.2xiaozhan.top"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
-},
-{
     "key": "虎斑",
     "name": "💯虎斑┃4K臻享",
     "type": 3,
@@ -759,15 +747,6 @@
     "site": ["http://38.76.197.172:16969"]},
     "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 }, 
-{
-    "key": "快映",
-    "name": "💯快映┃4K臻享",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "ext": {
-    "site": ["http://38.76.197.172:12521"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
-},
 {
     "key": "盘它",
     "name": "💯盘它┃4K臻享",
