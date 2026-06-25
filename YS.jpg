@@ -509,7 +509,7 @@
 },
 {
     "key": "漫国动漫",
-    "name": "漫国丨动漫",
+    "name": "💮┃漫国┃动漫",
     "type": 3,
     "api": "csp_AppSy",
     "ext": {
@@ -517,6 +517,7 @@
     "siteKey": "rectangleadsadxa",
     "listKey": "aassddwwxxllsx1x",
     "parsesKey": "aassddwwxxllsx1x",
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
     "类型": "动漫"}
 },
 {
@@ -525,7 +526,7 @@
     "type": 3,
     "api": "csp_Kugou",
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar",
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
     "类型": "音乐"
 },
 {
@@ -535,7 +536,7 @@
     "api": "csp_Bili",
     "ext": {"json": "https://d.kstore.dev/download/12194/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar",
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
     "style": {"type": "rect","ratio": 1.597}
 },
 {
@@ -624,7 +625,7 @@
     "https://www.wogg.net",
     "https://wogg.xxooo.cf",
     "https://woggpan.xxooo.cf"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "至臻",
@@ -636,7 +637,7 @@
     "https://mihdr.top",
     "https://www.miqk.cc",
     "https://www.mihdr.top"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "木偶",
@@ -649,7 +650,7 @@
     "https://666.666291.xyz",
     "https://www.muou.site",
     "https://www.muou.asia"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "蜡笔",
@@ -662,7 +663,7 @@
     "http://xiaocge.fun",
     "http://feimo.fun",
     "http://xiaocgege.shop"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "多多",
@@ -674,7 +675,7 @@
     "https://tv.yydsys.top",
     "https://tv.yydsys.cc",
     "https://tv.214521.xyz"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "欧哥",
@@ -687,7 +688,7 @@
     "https://woog.nxog.fun",
     "https://woog.nxog.eu.org",
     "https://woog.430520.xyz"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "二小",
@@ -699,7 +700,7 @@
     "https://www.2xiaopan.top",
     "https://www.erxiaozhan.top",
     "https://www.2xiaozhan.top"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "虎斑",
@@ -708,7 +709,7 @@
     "api": "csp_PanWebShare",
     "ext": {
     "site": ["http://38.76.197.172:16969"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 }, 
 {
     "key": "快映",
@@ -717,7 +718,7 @@
     "api": "csp_PanWebShare",
     "ext": {
     "site": ["http://38.76.197.172:12521"]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "盘它",
@@ -725,7 +726,7 @@
     "type": 3,
     "api": "csp_PanWebSharePT",
     "style": {"type": "list"},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "Kanqiu",
@@ -789,7 +790,7 @@
     "type": 3,
     "api": "csp_Config",
     "style": {"type": "rect","ratio": 1.597},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
     "key": "版本信息",
@@ -797,7 +798,7 @@
     "type": 3,
     "api": "csp_Market",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png",
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/YYY.jar"
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 }],
 "parses": [	
 {
