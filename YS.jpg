@@ -302,24 +302,27 @@
 },
 {
     "key": "Hema",
-    "name": "🦛┃盒马┃短剧",
+    "name": "♨️┃短劇┃盒马",
     "type": 3,
     "api": "csp_Hema",
-    "genre": "shortdrama"
+    "genre": "shortdrama",
+    "类型": "短剧"
 },
 {
     "key": "WeiguanDJ",
-    "name": "🔍┃微观┃短剧",
+    "name": "♨️┃短劇┃微观",
     "type": 3,
     "api": "csp_WeiguanDJ",
-    "genre": "shortdrama"
+    "genre": "shortdrama",
+    "类型": "短剧"
 },
 {
     "key": "HHkk",
-    "name": "😍┃好看┃短剧",
+    "name": "♨️┃短劇┃好看",
     "type": 3,
     "api": "csp_HHkk",
-    "genre": "shortdrama"
+    "genre": "shortdrama",
+    "类型": "短剧"
 },
 {
     "key":"py_河马短剧",
@@ -432,7 +435,7 @@
 },
 {
     "key": "csp_Kugou",
-    "name": "💫┃酷狗┃音乐",
+    "name": "🎺┃酷狗┃音乐",
     "type": 3,
     "api": "csp_Kugou",
     "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},
@@ -451,7 +454,7 @@
 },
 {
     "key": "csp_yunyy",
-    "name": "💫┃芸芸┃音乐",
+    "name": "🎸┃芸芸┃音乐",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/芸音乐.js",   
     "类型": "音乐"
