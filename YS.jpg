@@ -654,6 +654,7 @@
     "key": "漫国动漫",
     "name": "💮┃漫国┃动漫",
     "type": 3,
+    "searchable": 1,
     "api": "csp_AppSy",
     "ext": {
     "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
