@@ -17,12 +17,6 @@
     "api": "csp_YGP"
 },
 {
-    "key": "Duboku",
-    "name": "🎯┃影視┃独播",
-    "type": 3,
-    "api": "csp_Duboku"
-},
-{
     "key": "YunDuo",
     "name": "☁️┃影視┃云朵",
     "type": 3,
@@ -44,11 +38,17 @@
     "ext": "https://asd123sx23xdacsx.top"
 },
 {
+    "key": "Duboku",
+    "name": "🎯┃影視┃独播",
+    "type": 3,
+    "api": "csp_Duboku"
+},
+{
     "key": "Rebo",
     "name": "🍓┃影視┃热播",
     "type": 3,
     "api": "csp_AppRJ",
-    "ext": "http://v.rbotv.cn"
+    "ext": {"url": "http://v.rbotv.cn"}
 },
 {
     "key": "fishhxq",
@@ -58,17 +58,8 @@
     "ext": "http://www.小不点.com/api//2026/fishhxq.php"
 },
 {
-    "key" : "Kan360",
-    "name" : "🫐┃影視┃360",
-    "type" : 3,
-    "api" : "csp_Kan360",
-    "ext" : {
-    "filter" : "https://open.wya6.com/d/down/2026/json/360.json",
-    "fishjx" : ["https://jx.xmflv.com/?url="]}
-},
-{
     "key": "Wwys",
-    "name": "🍙┃影視┃农牧",
+    "name": "🌾┃影視┃农民",
     "type": 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200"
@@ -94,7 +85,7 @@
 },
 {
     "key": "Jianpian",
-    "name": "🧲┃影視┃荐片",
+    "name": "🥀┃影視┃荐片",
     "type": 3,
     "api": "csp_Jianpian"
 },
@@ -107,34 +98,15 @@
 },
 {
     "key": "py_liuyun",
-    "name": "💮┃琉璃┃影視",
+    "name": "🍙┃琉璃┃影視",
     "type": 3,
     "api": "https://d.kstore.dev/download/12194/TS/琉璃.py",
-    "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com"},
-    "类型": "影視"
-},
-
-
-
-{
-    "key": "js_独家",
-    "name": "🆘┃影視┃独家",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/独家.js",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影視"
-},
-{
-    "key": "js_布布",
-    "name": "🆘┃影視┃布布",
-    "type": 3,
-    "api" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/3Q.js",
-    "ext": {"host": "https://bubutv.top"},
+    "ext":{"site": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com"},
     "类型": "影視"
 },
 {
     "key": "js_星辰影院",
-    "name": "🆘┃影視┃星辰",
+    "name": "🌟┃影視┃星辰",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/星辰.js",
     "ext": {"host": "https://www.xcyycn.com"},
@@ -142,72 +114,30 @@
 },
 {
     "key": "js_永乐",
-    "name": "🆘┃影視┃永乐",
+    "name": "🏵┃影視┃永乐",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/永乐.js",
-    "style": {"type": "rect","ratio": 1.33},
-    "类型": "影視"
-},
-{
-    "key": "py_金牌",
-    "name": "🆘┃影視┃金牌",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/JP.py",
-    "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com"},
     "类型": "影視"
 },
 {
     "key":"py_华数",
-    "name":"🆘┃影視┃华数",
+    "name":"🚩┃影視┃华数",
     "type":3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
     "ext": {"host": "https://www.wasu.cn"},
     "类型": "影視"
 },
 {
-    "key": "py_壹影视",
-    "name": "🆘┃影視┃壹影",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/壹影视.py",
-    "ext": {"host": "https://light-ios.yiys04.com"},
-    "类型": "影視"
-},
-{
     "key": "py_瓜娃子",
-    "name": "🆘┃影視┃瓜子",
+    "name": "🎑┃影視┃瓜子",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/瓜娃子.py",
     "ext": {"host": "https://api.w32z7vtd.com"},
     "类型": "影視"
 },
 {
-    "key": "cat_荐片app",
-    "name": "🆘┃影視┃荐片",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/jianp.js",
-    "ext": {"host": "https://api.ztcgi.com"},
-    "类型": "影視"
-},
-{
-    "key": "csp_XYQ_旺旺",
-    "name": "🆘┃影視┃农民",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/农民.png",
-    "类型": "影视"
-},
-{
-    "key": "csp_XYQ_zhuijuba",
-    "name": "🆘┃影視┃追剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/追剧.png",
-    "类型": "影视"
-},  
-{
     "key": "csp_XYQ_饭团",
-    "name": "🆘┃影視┃饭团",
+    "name": "🍚┃影視┃饭团",
     "type":3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
@@ -215,7 +145,7 @@
 },
 {
     "key": "XYQ_MTYY",
-    "name": "🆘┃影視┃麥田",
+    "name": "🌿┃影視┃麥田",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
@@ -223,7 +153,7 @@
 },
 {
     "key": "枫林纲影院",
-    "name": "🆘┃影視┃枫林",
+    "name": "🍁┃影視┃枫林",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/枫林.png",
@@ -231,7 +161,7 @@
 },
 {
     "key": "柠檬影视",
-    "name": "🆘┃影視┃柠檬",
+    "name": "🍋┃影視┃柠檬",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/柠檬.png",
@@ -239,7 +169,7 @@
 },
 {
     "key": "xbpq_爱看高清",
-    "name": "🆘┃影視┃爱看",
+    "name": "💖┃影視┃爱看",
     "type": 3,
     "api": "csp_XBPQ",
    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/爱看.png",
@@ -247,7 +177,7 @@
 }, 
 {
     "key": "csp_gulu",
-    "name": "🌐┃映画┃APP",
+    "name": "🗺┃映画┃APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
     "ext": {
@@ -301,34 +231,11 @@
     "api": 2}
 },  
 {
-    "key": "csp_muchi",
-    "name": "🌐┃穆迟┃APP",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
-    "ext": {
-    "host": "http://103.217.190.91:9999",
-    "key": "zxPtEUDGVllIUhDB",
-    "类型": "APP",	
-    "api": 2}
-},
-{
-    "key" : "csp_aying",
-    "name" : "🌐┃亭皋┃APP",
-    "type" : 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
-    "ext": {
-    "host":  "http://222.211.75.252:26168",
-    "key":  "nzEqOgYk3QzHuEP8",
-    "类型": "APP",	
-    "api": 2}
-},
-{
     "key": "csp_baih",
     "name": "🌐┃涧木┃APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://app2512.ystva.com",
-    "style": {"type": "rect","ratio": 1.485},
     "类型": "APP"
 },
 {
@@ -337,7 +244,6 @@
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://api2026.hboqy.cn/",
-    "style": {"type": "rect","ratio": 1.485},
     "类型": "APP"
 },
 {
@@ -346,8 +252,18 @@
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
     "ext": "http://43.248.117.123:4680",
-    "style": {"type": "rect","ratio": 1.485},
     "类型": "APP"
+},
+{
+    "key": "小鹿",
+    "name": "🌐┃小鹿┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
+    "dataKey": "x5Bep6Q78VCeYnPS",
+    "dataIv": "x5Bep6Q78VCeYnPS",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_huazu",
@@ -363,60 +279,35 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_xiju",
-    "name": "🌐┃奈飞┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
-},
-{
-    "key": "csp_魔方",
-    "name": "🌐┃魔方┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.alibaba31casaq.top/",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"}
-},
-{
-    "key": "csp_梨果视频",
-    "name": "🌐┃梨果┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://apps.liguapp.com/getapi.txt",
-    "dataKey": "A9f3Zx7Qk2Lm8P1N",
-    "dataIv": "A9f3Zx7Qk2Lm8P1N"}
-},
-{
     "key": "csp_茉莉",
     "name": "🌐┃茉莉┃APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
-    "url": "http://43.251.227.45:3688",
-    "dataKey" : "88689667dce61725",
-    "dataIv" : "88689667dce61725"}
+    "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+    "dataKey": "88689667dce61725",
+    "dataIv": "88689667dce61725"}
 },
 {
-    "key": "csp_BPQ_喵喵",
-    "name": "♨️┃短劇┃喵喵",
+    "key": "Hema",
+    "name": "🦛┃盒马┃短剧",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/不付费.png",
-    "类型": "短剧"
+    "api": "csp_Hema",
+    "genre": "shortdrama"
 },
 {
-    "key": "csp_BPQ_憨塔",
-    "name": "♨️┃短劇┃憨塔",
+    "key": "WeiguanDJ",
+    "name": "🔍┃微观┃短剧",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/BPQ/憨塔.png",
-    "类型": "短剧"
+    "api": "csp_WeiguanDJ",
+    "genre": "shortdrama"
+},
+{
+    "key": "HHkk",
+    "name": "😍┃好看┃短剧",
+    "type": 3,
+    "api": "csp_HHkk",
+    "genre": "shortdrama"
 },
 {
     "key":"py_河马短剧",
@@ -432,14 +323,6 @@
     "type":3,
     "api":"https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/星芽.py",
     "ext": {"host": "https://app.whjzjx.cn"},
-    "类型": "短剧"
-},
-{
-    "key": "py_五五短剧",
-    "name": "♨️┃短劇┃无量",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/五五.py",
-    "ext": {"host": "https://www.duanju55.com"},
     "类型": "短剧"
 },
 {
@@ -560,16 +443,22 @@
     "类型": "音乐"
 },
 {
-    "key": "😍AAZ音乐",
-    "name": "💫┃AAZ┃音乐",
+    "key": "Buguyy",
+    "name": "🐦┃布谷┃音乐",
     "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
-    "ext": {
-    "主页url": "https://www.aaz.cx/",
-    "分类": "排行$list/djwuqu#歌单$playtype/index#歌手$singerlist/index/index/index/index#MV$mvlist/index#",
-    "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
-    "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"}
+    "api": "csp_Buguyy"
+},
+{
+    "key": "ChuXin",
+    "name": "💕┃初心┃音乐",
+    "type": 3,
+    "api": "csp_ChuXin"
+},
+{
+    "key": "aiting",
+    "name": "🎧┃爱听┃音乐",
+    "type": 3,
+    "api": "csp_AiTingMusic"
 },
 {
     "key": "dr_腾迅",
