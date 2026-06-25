@@ -21,79 +21,91 @@
     "name": "☁️┃影視┃云朵",
     "type": 3,
     "api": "csp_YunDuo",
-    "ext": "https://yunduoyingshi.com"
+    "ext": "https://yunduoyingshi.com",
+    "类型": "影視"
 },
 {
     "key": "CupFox",
     "name": "☕┃影視┃茶杯",
     "type": 3,
     "api": "csp_CupFox",
-    "ext": "https://www.tjtcdl.com"
+    "ext": "https://www.tjtcdl.com",
+    "类型": "影視"
 },
 {
     "key": "BuBu",
     "name": "🧸┃影視┃布布",
     "type": 3,
     "api": "csp_BuBu",
-    "ext": "https://asd123sx23xdacsx.top"
+    "ext": "https://asd123sx23xdacsx.top",
+    "类型": "影視"
 },
 {
     "key": "Duboku",
     "name": "🎯┃影視┃独播",
     "type": 3,
-    "api": "csp_Duboku"
+    "api": "csp_Duboku",
+    "类型": "影視"
 },
 {
     "key": "Rebo",
     "name": "🍓┃影視┃热播",
     "type": 3,
     "api": "csp_AppRJ",
-    "ext": {"url": "http://v.rbotv.cn"}
+    "ext": {"url": "http://v.rbotv.cn"},
+    "类型": "影視"
 },
 {
     "key": "fishhxq",
     "name": "💃┃影視┃韩圈",
     "type": 3,
     "api": "csp_FishHxq",
-    "ext": "http://www.小不点.com/api//2026/fishhxq.php"
+    "ext": "http://www.小不点.com/api//2026/fishhxq.php",
+    "类型": "影視"
 },
 {
     "key": "Wwys",
     "name": "🌾┃影視┃农民",
     "type": 3,
     "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
+    "ext": "https://vip.wwgz.cn:5200",
+    "类型": "影視"
 },
 {
     "key": "Guazi",
     "name": "🍉┃影視┃瓜子",
     "type": 3,
-    "api": "csp_Guazi"
+    "api": "csp_Guazi",
+    "类型": "影視"
 },
 {
     "key": "TvDy",
     "name": "👼┃影視┃天堂",
     "type": 3,
-    "api": "csp_TvDy"
+    "api": "csp_TvDy",
+    "类型": "影視"
 },
 {
     "key": "SaoHuo",
     "name": "🌶️┃影視┃骚火",
     "type": 3,
     "api": "csp_SaoHuo",
-    "ext": "https://shdy5.us"
+    "ext": "https://shdy5.us",
+    "类型": "影視"
 },
 {
     "key": "Jianpian",
     "name": "🥀┃影視┃荐片",
     "type": 3,
-    "api": "csp_Jianpian"
+    "api": "csp_Jianpian",
+    "类型": "影視"
 },
 {
     "key": "wencai",
     "name": "✏️┃影視┃文才",
     "type": 3,
     "api": "csp_WenCai",
+    "类型": "影視",
     "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
@@ -268,7 +280,8 @@
     "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
     "dataKey": "x5Bep6Q78VCeYnPS",
     "dataIv": "x5Bep6Q78VCeYnPS",
-    "ua": "okhttp/3.10.0"}
+    "ua": "okhttp/3.10.0",
+    "类型": "APP"}
 },
 {
     "key": "csp_huazu",
@@ -281,7 +294,8 @@
     "dataIv": "eecbio48dsq13kkk",
     "search": "searchList4",
     "init": "initV122",
-    "ua": "okhttp/3.10.0"}
+    "ua": "okhttp/3.10.0",
+    "类型": "APP"}
 },
 {
     "key": "csp_茉莉",
@@ -291,7 +305,8 @@
     "ext": {
     "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
     "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"}
+    "dataIv": "88689667dce61725",
+    "类型": "APP"}
 },
 {
     "key" : "咕噜",
@@ -461,21 +476,24 @@
 },
 {
     "key": "Buguyy",
-    "name": "🐦┃布谷┃音乐",
+    "name": "📯┃布谷┃音乐",
     "type": 3,
-    "api": "csp_Buguyy"
+    "api": "csp_Buguyy",   
+    "类型": "音乐"
 },
 {
     "key": "ChuXin",
-    "name": "💕┃初心┃音乐",
+    "name": "🪕┃初心┃音乐",
     "type": 3,
-    "api": "csp_ChuXin"
+    "api": "csp_ChuXin",   
+    "类型": "音乐"
 },
 {
     "key": "aiting",
-    "name": "🎧┃爱听┃音乐",
+    "name": "🎻┃爱听┃音乐",
     "type": 3,
-    "api": "csp_AiTingMusic"
+    "api": "csp_AiTingMusic",   
+    "类型": "音乐"
 },
 {
     "key": "dr_腾迅",
