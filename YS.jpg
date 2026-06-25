@@ -115,60 +115,7 @@
 },
 
 
-{
-    "key": "dr_腾迅",
-    "name": "🐧┃騰訊┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/腾讯.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
-{
-    "key": "dr_芒果",
-    "name": "🥭┃芒果┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/芒果.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
-{
-    "key": "dr_奇异",
-    "name": "🥝┃奇藝┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/奇艺.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
-{
-    "key": "dr_优酷",
-    "name": "🎢┃優酷┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/优酷.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
-{
-    "key": "dr_哔哩视频",
-    "name": "🐉┃嗶哩┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/哔哩.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
-{
-    "key": "dr_搜狗",
-    "name": "🧃┃搜狗┃直连",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/SGtv.js",
-    "style":{"type":"rect","ratio":1.33},
-    "类型": "官解"
-},
+
 {
     "key": "js_独家",
     "name": "🆘┃影視┃独家",
@@ -416,100 +363,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "顾我99",
-    "name": "🌐┃顾我┃APP",
-    "type": 3,
-    "api": "csp_App99",
-    "ext": {
-    "host": "http://117.50.200.113:19987/app/bn",
-    "LoginPath": "/app/log",
-    "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-    "versionName": "4.3.1",
-    "name": "顾我追剧",
-    "package": "com.guwozhuijux.app",
-    "buildNumber": "2001",
-    "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
-},
-{
-    "key": "宫阁",
-    "name": "🌐┃宫阁┃APP",
-    "type": 3,
-    "api": "csp_App99",
-    "ext": {
-    "host": "https://api.jciyuan.com/api",
-    "LoginPath": "/app/log",
-    "version": "",
-    "appkey": "193856c6f9b844e2b6c55d1ecc744593",
-    "versionName": "6.5.1",
-    "name": "落攻阁",
-    "package": "com.yuaiweiwu.aixue.lggys",
-    "buildNumber": "2001",
-    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
-},
-{
-    "key": "听心99",
-    "name": "🌐┃听心┃APP",
-    "type": 3,
-    "api": "csp_App99",
-    "ext": {
-    "host": "https://api.12321app.com/api",
-    "LoginPath": "/app/log",
-    "appkey": "a0a18659a9977a47e53442cd084b536c",
-    "versionName": "2.8.1",
-    "name": "听心视频",
-    "package": "com.iksp.adsys.jjsp",
-    "buildNumber": "2001",
-    "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"}
-},
-{
-    "key": "csp_橘汁",
-    "name": "🌐┃橘汁┃APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "橘汁",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.lxf.snzlcgtzxyx",
-    "host": "",
-    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-    "version": "3.0.2.1",
-    "decrypt": "1"}
-},
-{
-    "key": "csp_华谊",
-    "name": "🌐┃华谊┃APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "华谊",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.muyue.tool",
-    "host": "",
-    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-    "version": "1.0.0.4",
-    "decrypt": "1"}
-},
-{
-    "key": "csp_闪影",
-    "name": "🌐┃闪影┃APP",
-    "type": 3,
-    "api": "csp_AppYs",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-    "类型": "APP"
-},
-{
-    "key": "csp_星河",
-    "name": "🌐┃星河┃APP",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://99cms.jj99.icu:8199/api.php/app/",
-    "类型": "APP"
-},
-{
     "key": "csp_xiju",
     "name": "🌐┃奈飞┃APP",
     "type": 3,
@@ -539,26 +392,6 @@
     "dataKey": "A9f3Zx7Qk2Lm8P1N",
     "dataIv": "A9f3Zx7Qk2Lm8P1N"}
 },
-{
-    "key": "csp_气球",
-    "name": "🌐┃气球┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://vv.229d.cn",
-    "dataKey": "8888888888888888",
-    "dataIv": "8888888888888888"}
-},
-{
-    "key": "csp_王子",
-    "name": "🌐┃王子┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"}
-},  
 {
     "key": "csp_茉莉",
     "name": "🌐┃茉莉┃APP",
@@ -738,7 +571,54 @@
     "图片": "||排行--http://img4.kuwo.cn/star/albumcover/500/s4s93/35/2013522491.jpg",
     "分类url": "https://www.aaz.cx/{cateId}/{catePg}.html"}
 },
-
+{
+    "key": "dr_腾迅",
+    "name": "🐧┃騰訊┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/腾讯.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_芒果",
+    "name": "🥭┃芒果┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/芒果.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_奇异",
+    "name": "🥝┃奇藝┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/奇艺.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_优酷",
+    "name": "🎢┃優酷┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/优酷.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "🐉┃嗶哩┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/哔哩.js",
+    "类型": "官解"
+},
+{
+    "key": "dr_搜狗",
+    "name": "🧃┃搜狗┃直连",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/SGtv.js",
+    "类型": "官解"
+},
 {
     "key": "玩偶",
     "name": "💯玩偶┃4K臻享",
