@@ -456,123 +456,6 @@
     "类型": "短剧"
 },
 {
-    "key": "csp_YALI",
-    "name": "💮┃鸭梨┃动漫",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://taobao.yalifun.com/xindm.json",
-    "dataKey": "88858c3b8560e348",
-    "dataIv": "88858c3b8560e348",
-    "init": "initV120",
-    "ua": "okhttp/3.14.9",
-    "类型": "动漫"}
-},
-{
-    "key": "番薯动漫", 
-    "name": "💮┃番薯┃动漫", 
-    "type": 3, 
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://new.app.bytegooty.com",
-    "dataKey": "N4yj7l7xKxHF4*gz",
-    "dataIv": "N4yj7l7xKxHF4*gz",
-    "类型": "动漫"}
-},
-{
-    "key": "曼波动漫", 
-    "name": "💮┃曼波┃动漫", 
-    "type": 3, 
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://app.omofun1.top",
-    "dataKey": "66dc309cbeeca454",
-    "dataIv": "66dc309cbeeca454",
-    "类型": "动漫"}
-},
-{
-    "key": "咕咕动漫",
-    "name": "💮┃咕咕┃动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.gugu3.com",
-    "dataKey": "nKfZ8KX6JTNWRzTD",
-    "dataIv": "nKfZ8KX6JTNWRzTD",
-    "类型": "动漫"}
-},
-{
-    "key": "方舟动漫",
-    "name": "💮┃方舟┃动漫",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.cyfz.top",
-    "dataKey": "e72cdfd629e8895d",
-    "dataIv": "e72cdfd629e8895d",
-    "类型": "动漫"}
-},
-{
-    "key": "漫国动漫",
-    "name": "💮┃漫国┃动漫",
-    "type": 3,
-    "api": "csp_AppSy",
-    "ext": {
-    "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-    "siteKey": "rectangleadsadxa",
-    "listKey": "aassddwwxxllsx1x",
-    "parsesKey": "aassddwwxxllsx1x",
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
-    "类型": "动漫"}
-},
-{
-    "key": "csp_Kugou",
-    "name": "🎺┃酷狗┃音乐",
-    "type": 3,
-    "api": "csp_Kugou",
-    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
-    "类型": "音乐"
-},
-{
-    "key": "csp_BiliMV",
-    "name": "💫┃哔哩┃音乐",
-    "type": 3,
-    "api": "csp_Bili",
-    "ext": {"json": "https://d.kstore.dev/download/12194/TS/音乐.json",
-    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"},
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
-    "style": {"type": "rect","ratio": 1.597}
-},
-{
-    "key": "csp_yunyy",
-    "name": "🎸┃芸芸┃音乐",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/芸音乐.js",   
-    "类型": "音乐"
-},
-{
-    "key": "Buguyy",
-    "name": "📯┃布谷┃音乐",
-    "type": 3,
-    "api": "csp_Buguyy",   
-    "类型": "音乐"
-},
-{
-    "key": "ChuXin",
-    "name": "🪕┃初心┃音乐",
-    "type": 3,
-    "api": "csp_ChuXin",   
-    "类型": "音乐"
-},
-{
-    "key": "aiting",
-    "name": "🎻┃爱听┃音乐",
-    "type": 3,
-    "api": "csp_AiTingMusic",   
-    "类型": "音乐"
-},
-{
     "key": "dr_腾迅",
     "name": "🌏┃騰訊┃直连",
     "type": 3,
@@ -734,6 +617,53 @@
     "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar"
 },
 {
+    "key": "csp_Kugou",
+    "name": "🎺┃酷狗┃音乐",
+    "type": 3,
+    "api": "csp_Kugou",
+    "ext": {"classes": [{"type_name": "酷狗","type_id": "kugou"}]},
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
+    "类型": "音乐"
+},
+{
+    "key": "csp_BiliMV",
+    "name": "🎷┃哔哩┃音乐",
+    "type": 3,
+    "api": "csp_Bili",
+    "ext": {"json": "https://d.kstore.dev/download/12194/TS/音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"},
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",   
+    "类型": "音乐"
+},
+{
+    "key": "csp_yunyy",
+    "name": "🎸┃芸芸┃音乐",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/芸音乐.js",   
+    "类型": "音乐"
+},
+{
+    "key": "Buguyy",
+    "name": "📯┃布谷┃音乐",
+    "type": 3,
+    "api": "csp_Buguyy",   
+    "类型": "音乐"
+},
+{
+    "key": "ChuXin",
+    "name": "🪕┃初心┃音乐",
+    "type": 3,
+    "api": "csp_ChuXin",   
+    "类型": "音乐"
+},
+{
+    "key": "aiting",
+    "name": "🎻┃爱听┃音乐",
+    "type": 3,
+    "api": "csp_AiTingMusic",   
+    "类型": "音乐"
+},
+{
     "key": "Kanqiu",
     "name": "⚽┃看球┃体育",
     "type": 3,
@@ -775,6 +705,76 @@
     "api": "csp_TingBookJinXia",
     "ext": "https://m.ting15.com",
     "style": {"type": "list"}
+},
+{
+    "key": "csp_YALI",
+    "name": "💮┃鸭梨┃动漫",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://taobao.yalifun.com/xindm.json",
+    "dataKey": "88858c3b8560e348",
+    "dataIv": "88858c3b8560e348",
+    "init": "initV120",
+    "ua": "okhttp/3.14.9",
+    "类型": "动漫"}
+},
+{
+    "key": "番薯动漫", 
+    "name": "💮┃番薯┃动漫", 
+    "type": 3, 
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://new.app.bytegooty.com",
+    "dataKey": "N4yj7l7xKxHF4*gz",
+    "dataIv": "N4yj7l7xKxHF4*gz",
+    "类型": "动漫"}
+},
+{
+    "key": "曼波动漫", 
+    "name": "💮┃曼波┃动漫", 
+    "type": 3, 
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://app.omofun1.top",
+    "dataKey": "66dc309cbeeca454",
+    "dataIv": "66dc309cbeeca454",
+    "类型": "动漫"}
+},
+{
+    "key": "咕咕动漫",
+    "name": "💮┃咕咕┃动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.gugu3.com",
+    "dataKey": "nKfZ8KX6JTNWRzTD",
+    "dataIv": "nKfZ8KX6JTNWRzTD",
+    "类型": "动漫"}
+},
+{
+    "key": "方舟动漫",
+    "name": "💮┃方舟┃动漫",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.cyfz.top",
+    "dataKey": "e72cdfd629e8895d",
+    "dataIv": "e72cdfd629e8895d",
+    "类型": "动漫"}
+},
+{
+    "key": "漫国动漫",
+    "name": "💮┃漫国┃动漫",
+    "type": 3,
+    "api": "csp_AppSy",
+    "ext": {
+    "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+    "siteKey": "rectangleadsadxa",
+    "listKey": "aassddwwxxllsx1x",
+    "parsesKey": "aassddwwxxllsx1x",
+    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/SSS.jar",
+    "类型": "动漫"}
 },
 {
     "key": "TGSou",
