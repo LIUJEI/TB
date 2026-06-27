@@ -20,11 +20,6 @@
     "url": "https://d.kstore.dev/download/12194/MY.json"
 },
 {
-    "name":"🚸《自用》测试接口",
-    "updated_at":"2026-04-12 21:20:07",
-    "url":"https://pan.szfx.top/down.php/e99413d1d7cb7bb87bfb21e6b44ba779.jpg"
-},
-{
     "name": "🐠《自用》小不点",
     "updated_at":"2026-05-19 22:10:14",
     "url": "http://www.小不点.com"
@@ -84,6 +79,11 @@
     "updated_at":"2026-05-18 12:51:34",
     "url": "http://1.94.31.214/api/dgyy/apix64.json"
 }, 
+{
+    "name":"🚸《自用》乐哥短剧",
+    "updated_at":"2026-04-12 21:20:07",
+    "url":"https://play.iptv365.org/短剧频道/api.json"
+},
   {"name":"🚸《自用》天神IY","url":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png"},
   {"name":"🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
   {"name":"🚸《自用》林中","url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/main/OK/okys.json"},
