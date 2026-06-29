@@ -26,12 +26,33 @@
     "类型": "影視"
 },
 {
+    "key": "csp_BuBu",
+    "name": "🧸┃影視┃布布",
+    "type": 3,
+    "api": "csp_App3Q",
+    "类型": "影視"
+},
+{
     "key": "csp_Wwys",
     "name": "🌾┃影視┃农民",
     "type": 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200",
     "类型": "影視"
+},
+{
+    "key": "csp_Hxq",
+    "name": "👼┃影視┃韩圈",
+    "type": 3,
+    "api": "csp_Hxq",
+    "ext": "http://www.小不点.com/api/2026/fishhxq.php"
+},
+{
+    "key": "csp_Jpys",
+    "name": "✏️┃影視┃金牌",
+    "type": 3,
+    "api": "csp_Jpys",
+    "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
     "key": "csp_Rebo",
@@ -42,43 +63,46 @@
     "类型": "影視" }
 },
 {
-      "key": "哔哩视频",
-      "name": "💃┃哔哩┃视频",
-      "type": 3,
-      "api": "csp_BiliYS",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-      }
- },
-{
-      "key" : "csp_Atgzxi",
-      "name" : "🥝┃影視┃瓜子",
-      "type" : 3,
-      "api" : "http://xn--oev29b.top/files/js/drpy2.min.js",
-      "ext" : "http://xn--oev29b.top/files/js/瓜子.js"
+    "key" : "csp_Atgzxi",
+    "name" : "🥝┃影視┃瓜子",
+    "type" : 3,
+    "api": "csp_Gz360",
+    "类型": "影視"
 },
 {
-    "key": "csp_TvDy",
+    "key": "csp_Xlys",
     "name": "👼┃影視┃天堂",
+    "api": "csp_Xlys",
     "type": 3,
-    "api": "csp_TvDy",
-    "类型": "影視",
-    "jar": "https://d.kstore.dev/download/12194/自用/YS.jar"
+    "ext": "https://www.xlysw.ggff.net"
 },
 {
-    "key": "csp_SaoHuo",
+    "key": "SaoHuo",
     "name": "🌶️┃影視┃骚火",
     "type": 3,
     "api": "csp_SaoHuo",
     "ext": "https://shdy5.us",
+    "类型": "影視"
+},
+{
+    "key": "Web1905",
+    "name": "🎞┃影視┃老电影 ",
+    "type": 3,
+    "api": "csp_Web1905",
+    "类型": "影視"
+},
+{
+    "key": "Ikanbot",
+    "name": "💟┃影視┃爱看 ",
+    "type": 3,
+    "api": "csp_Ikanbot",
+    "类型": "影視"
+},
+{
+    "key": "csp_Tvyb",
+    "name": "⛅┃影視┃云播 ",
+    "type": 3,
+    "api": "csp_Tvyb",
     "类型": "影視"
 },
 {
@@ -88,22 +112,6 @@
     "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
     "ext": "https://api.ztcgi.com",
     "类型": "影視"
-},
-{
-    "key": "csp_BuBu",
-    "name": "🧸┃影視┃布布",
-    "type": 3,
-    "api" : "https://d.kstore.dev/download/12194/TS/3Q.js",
-    "ext": {"host": "https://asd123sx23xdacsx.top",
-    "类型": "影視" }
-},
-{
-    "key": "csp_wencai",
-    "name": "✏️┃影視┃金牌",
-    "type": 3,
-    "api": "csp_Jpys",
-    "类型": "影視",
-    "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
     "key": "py_liuyun",
@@ -159,62 +167,6 @@
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
     "类型": "影视"
-},
-{
-    "key": "xbpq_爱看高清",
-    "name": "☘┃影視┃爱看",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/爱看.png",
-    "类型": "影视"
-},
-{
-    "key": "嘉禾影视",
-    "name": "💞┃影視┃嘉禾",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/禾嘉影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "蜂鸟影院",
-    "name": "💞┃影視┃蜂鸟",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/蜂鸟影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "123彩",
-    "name": "💞┃影視┃数字",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/123影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "枫叶4k",
-    "name": "💞┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/枫叶影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "晓米影视",
-    "name": "💞┃影視┃晓米",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/晓米影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "扁豆的",
-    "name": "💞┃影視┃扁豆",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/扁豆影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
 },
 {
     "key": "csp_soufa",
@@ -446,30 +398,25 @@
     "decrypt": "1"}
 },
 {
+    "key": "HemaDJ",
+    "name": "♨️┃短劇┃盒马 ",
+    "type": 3,
+    "api": "csp_HemaDJ",
+    "genre": "shortdrama"
+},
+{
+    "key": "HaokanDJ",
+    "name": "♨️┃短劇┃好看 ",
+    "type": 3,
+    "api": "csp_HaokanDJ",
+    "genre": "shortdrama"
+},
+{
     "key": "WeiguanDJ",
-    "name": "♨️┃短劇┃微观",
+    "name": "♨️┃短劇┃围观 ",
     "type": 3,
     "api": "csp_WeiguanDJ",
-    "genre": "shortdrama",
-    "类型": "短剧"
-},
-{
-    "key": "HHkk",
-    "name": "♨️┃短劇┃好看",
-    "type": 3,
-    "api": "csp_HHkk",
-    "genre": "shortdrama",
-    "类型": "短剧",
-    "jar": "https://d.kstore.dev/download/12194/自用/YS.jar"
-},
-{
-    "key": "Hema",
-    "name": "♨️┃短劇┃盒马",
-    "type": 3,
-    "api": "csp_Hema",
-    "genre": "shortdrama",
-    "类型": "短剧",
-    "jar": "https://d.kstore.dev/download/12194/自用/YS.jar"
+    "genre": "shortdrama"
 },
 {
     "key": "py_西饭短剧",
