@@ -611,11 +611,25 @@
     "style": {"type": "list"}
 },
 {
-    "key": "QiutongTY",
-    "name": "🏀┃球通┃体育",
+    "key": "看球直播",
+    "name": "⚽┃看球┃直播",
     "type": 3,
-    "api": "csp_QiutongTY",
-    "style": {"type": "list"}
+    "api": "csp_XBPQ",
+    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
+    "ext": {
+    "数组": "j:data.list",
+    "标题": "j:title",
+    "图片": "j:cover",
+    "副标题": "j:pnavName",
+    "链接": "https://aapi2.xbncs.com/api/room/detail?roomId=+j:roomId",
+    "线路数组": "j:data",
+    "线路标题": "j:nickName",
+    "播放数组": "&&",
+    "播放列表": "j:data",
+    "播放标题": "j:title",
+    "播放链接": "j:pushUrl",
+    "分类": "足球$1#篮球$2#原声$4#回放$13#电竟$11#其他$9#",
+    "分类url": "https://aapi2.xbncs.com/api/room/page?navId={cateId}&page={catePg}&pageSize=30"}
 },
 {
     "key": "919TY",
