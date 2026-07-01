@@ -33,12 +33,18 @@
     "类型": "影視"
 },
 {
-    "key": "csp_Wwys",
-    "name": "🌾┃影視┃农民",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200",
-    "类型": "影視"
+    "key" : "YunDuo",
+    "name" : "☁️┃影視┃云朵",
+    "type" : 3,
+    "api" : "csp_YunDuo",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
+},
+{
+    "key" : "CupFox",
+    "name" : "☕┃影視┃茶杯",
+    "type" : 3,
+    "api" : "csp_CupFox",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
     "key": "csp_Hxq",
@@ -53,6 +59,14 @@
     "type": 3,
     "api": "csp_Jpys",
     "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+},
+{
+    "key": "csp_Wwys",
+    "name": "🌾┃影視┃农民",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200",
+    "类型": "影視"
 },
 {
     "key": "csp_Rebo",
@@ -562,21 +576,21 @@
 },
 {
     "key" : "Buguyy",
-    "name" : "🐦┆布谷┆音乐",
+    "name" : "🐦┃布谷┃音乐",
     "type" : 3,
     "api" : "csp_Buguyy",
     "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
     "key" : "ChuXin",
-    "name" : "💕┆初心┆音乐",
+    "name" : "💕┃初心┃音乐",
     "type" : 3,
     "api" : "csp_ChuXin",
     "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
     "key" : "aiting",
-    "name" : "🎧┆爱听┆音乐",
+    "name" : "🎧┃爱听┃音乐",
     "type" : 3,
     "api" : "csp_AiTingMusic",
     "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
