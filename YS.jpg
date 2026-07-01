@@ -71,7 +71,7 @@
 },
 {
     "key": "csp_Xlys",
-    "name": "👼┃影視┃天堂",
+    "name": "⛪┃影視┃天堂",
     "api": "csp_Xlys",
     "type": 3,
     "ext": "https://www.xlysw.ggff.net"
@@ -170,7 +170,7 @@
 },
 {
     "key": "csp_soufa",
-    "name": "🌐┃罗绮┃APP",
+    "name": "🌐┃罗绮┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
@@ -181,7 +181,7 @@
 },
 {
     "key": "csp_lanying",
-    "name": "🌐┃朗吟┃APP",
+    "name": "🌐┃朗吟┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
@@ -192,7 +192,7 @@
 },
 {
     "key": "csp_xingy",
-    "name": "🌐┃暮春┃APP",
+    "name": "🌐┃暮春┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
@@ -203,7 +203,7 @@
 },
 {
     "key": "csp_hulu",
-    "name": "🌐┃阑珊┃APP",
+    "name": "🌐┃阑珊┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
@@ -214,7 +214,7 @@
 },
 {
     "key": "csp_baih",
-    "name": "🌐┃涧木┃APP",
+    "name": "🌐┃涧木┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://app2512.ystva.com",
@@ -222,7 +222,7 @@
 },
 {
     "key": "csp_hbys",
-    "name": "🌐┃峥嵘┃APP",
+    "name": "🌐┃峥嵘┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://api2026.hboqy.cn/",
@@ -230,7 +230,7 @@
 },
 {
     "key": "csp_gulu",
-    "name": "🌐┃映画┃APP",
+    "name": "🌐┃映画┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
     "ext": {
@@ -241,7 +241,7 @@
 },
 {
     "key": "py_juhey",
-    "name": "🌐┃霜镜┃APP",
+    "name": "🌐┃霜镜┃ APP",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
     "ext": "http://43.248.117.123:4680",
@@ -249,7 +249,7 @@
 },
 {
     "key": "小鹿",
-    "name": "🌐┃小鹿┃APP",
+    "name": "🌐┃小鹿┃ APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -261,7 +261,7 @@
 },
 {
     "key": "csp_huazu",
-    "name": "🌐┃湘漓┃APP",
+    "name": "🌐┃湘漓┃ APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -275,7 +275,7 @@
 },
 {
     "key": "csp_茉莉",
-    "name": "🌐┃茉莉┃APP",
+    "name": "🌐┃茉莉┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -286,7 +286,7 @@
 },
 {
     "key": "csp_xiju",
-    "name": "🌐┃奈飞┃APP",
+    "name": "🌐┃奈飞┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -296,7 +296,7 @@
 },
 {
     "key": "csp_魔方",
-    "name": "🌐┃魔方┃APP",
+    "name": "🌐┃魔方┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -306,7 +306,7 @@
 },
 {
     "key": "csp_火狐视频",
-    "name": "🌐┃火狐┃APP",
+    "name": "🌐┃火狐┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -316,7 +316,7 @@
 },
 {
     "key": "csp_梨果视频",
-    "name": "🌐┃梨果┃APP",
+    "name": "🌐┃梨果┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
@@ -326,17 +326,39 @@
 },
 {
     "key": "csp_王子",
-    "name": "🌐┃王子┃APP",
+    "name": "🌐┃王子┃ APP",
     "type": 3,
     "api": "csp_AppGet",
     "ext": {
     "url": "https://app.95112475.xyz",
     "dataKey": "5a9w6x58dsq6z3a6",
     "dataIv": "5a9w6x58dsq6z3a6"}
-},  
+},
+{
+    "key": "csp_闪影",
+    "name": "🌐┃闪影┃ APP",
+    "type": 3,
+    "api": "csp_AppYs",
+    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+    "类型": "APP"
+},
+{
+    "key": "csp_星河",
+    "name": "🌐┃星河┃ APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+},
+{
+    "key": "久久",
+    "name": "🌐┃久久┃ APP",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+},
 {
     "key": "宫阁99",
-    "name": "🌐┃宫阁┃APP",
+    "name": "🌐┃宫阁┃ APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -352,7 +374,7 @@
 },
 {
     "key": "欣馨99",
-    "name": "🌐┃欣馨┃APP",
+    "name": "🌐┃欣馨┃ APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
@@ -366,24 +388,24 @@
     "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"}
 },
 {
-    "key": "橘子",
-    "name": "🌐┃橘子┃APP",
+    "key": "苹果",
+    "name": "🌐┃苹果┃ APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
-    "appName": "橘子",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+    "appName": "小苹果",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
     "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.lxf.snzlcgtzxyx",
+    "pkg": "com.juechufsh.android.xpg1",
     "host": "",
-    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-    "version": "3.0.2.1",
-    "decrypt": "1"}
+    "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+    "version": "1.0.0.3",
+    "decrypt": "0"}
 },
 {
     "key": "华谊",
-    "name": "🌐┃华谊┃APP",
+    "name": "🌐┃华谊┃ APP",
     "type": 3,
     "api": "csp_AppDrama",
     "ext": {
@@ -396,6 +418,14 @@
     "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
     "version": "1.0.0.4",
     "decrypt": "1"}
+},
+{
+    "key" : "zhiqiu",
+    "name" : "🌐┃听风┃┆知秋",
+    "type" : 3,
+    "api" : "csp_zhiqiu",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar",
+    "ext" : "http://www.小不点.com/api//2026/zhiqiu.php"
 },
 {
     "key": "HemaDJ",
@@ -531,47 +561,29 @@
     "类型": "音乐"
 },
 {
-    "key": "Buguyy",
-    "name": "🪕┃布谷┃音乐",
-    "type": 3,
-    "api": "csp_Buguyy",
-    "类型": "音乐",
-    "jar": "https://d.kstore.dev/download/12194/自用/YS.jar"
+    "key" : "Buguyy",
+    "name" : "🐦┆布谷┆音乐",
+    "type" : 3,
+    "api" : "csp_Buguyy",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
-    "key": "Sir88",
-    "name": "🏟️┃超全┃体育",
-    "type": 3,
-    "api" : "csp_Sir88",
-     "jar": "https://d.kstore.dev/download/12194/自用/YS.jar",
-    "indexs" : 0,
-    "style" : {"type" : "list"}
+    "key" : "ChuXin",
+    "name" : "💕┆初心┆音乐",
+    "type" : 3,
+    "api" : "csp_ChuXin",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
-    "key": "QiutongTY",
-    "name": "🏀┃球通┃体育",
-    "type": 3,
-    "api": "csp_QiutongTY",
-    "style": {"type": "list"}
+    "key" : "aiting",
+    "name" : "🎧┆爱听┆音乐",
+    "type" : 3,
+    "api" : "csp_AiTingMusic",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
-    "key": "919TY",
-    "name": "🏅┃919┃体育",
-    "type": 3,
-    "api": "csp_919TY",
-    "style": {"type": "list"}
-},
-{
-    "key": "Kanqiu",
-    "name": "⚽┃看球┃体育",
-    "type": 3,
-    "api": "csp_Kanqiu",
-    "ext": "http://www.88kanqiu.one",
-    "style": {"type": "list"}
-},
-{
-    "key": "呦呦DJ",
-    "name": "🎙️┃呦呦┃DJ",
+    "key": "csp_yaoDJ",
+    "name": "🪕┃车载┃音乐",
     "type": 3,
     "api": "csp_Djuu",
     "style": {"type": "list"}
@@ -595,6 +607,20 @@
     "name": "🌈┃戏曲┃多多",
     "type": 3,
     "api": "csp_AppLY",
+    "style": {"type": "list"}
+},
+{
+    "key": "QiutongTY",
+    "name": "🏀┃球通┃体育",
+    "type": 3,
+    "api": "csp_QiutongTY",
+    "style": {"type": "list"}
+},
+{
+    "key": "919TY",
+    "name": "⚽┃919┃体育",
+    "type": 3,
+    "api": "csp_919TY",
     "style": {"type": "list"}
 },
 {
