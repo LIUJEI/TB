@@ -33,11 +33,19 @@
     "类型": "影視"
 },
 {
-    "key" : "YunDuo",
-    "name" : "☁️┃影視┃云朵",
-    "type" : 3,
-    "api" : "csp_YunDuo",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
+    "key" : "chengzi",
+    "name" : "🍊┃影視┃橙子",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://113.31.180.218:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+    "versionName": "4.3.1",
+    "name": "小橙子",
+    "package": "com.xchengzix.app",
+    "buildNumber": "2001",
+    "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"}
 },
 {
     "key": "csp_Hxq",
@@ -106,11 +114,19 @@
     "类型": "影視"
 },
 {
-    "key" : "CupFox",
-    "name" : "☕┃影視┃茶杯",
-    "type" : 3,
-    "api" : "csp_CupFox",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
+    "key" : "guwozhuijux",
+    "name" : "☕┃顾我┃追剧",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://117.50.200.113:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+    "versionName": "4.3.1",
+    "name": "顾我追剧",
+    "package": "com.guwozhuijux.app",
+    "buildNumber": "2001",
+    "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
 },
 {
     "key": "csp_Tvyb",
@@ -560,27 +576,6 @@
     "类型": "音乐"
 },
 {
-    "key" : "Buguyy",
-    "name" : "🐦┃布谷┃音乐",
-    "type" : 3,
-    "api" : "csp_Buguyy",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
-},
-{
-    "key" : "ChuXin",
-    "name" : "💕┃初心┃音乐",
-    "type" : 3,
-    "api" : "csp_ChuXin",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
-},
-{
-    "key" : "aiting",
-    "name" : "🎧┃爱听┃音乐",
-    "type" : 3,
-    "api" : "csp_AiTingMusic",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
-},
-{
     "key": "csp_yaoDJ",
     "name": "🪕┃车载┃音乐",
     "type": 3,
@@ -588,21 +583,28 @@
     "style": {"type": "list"}
 },
 {
-    "key": "蜻蜓FM",
+    "key": "csp_Djlh",
+    "name": "📻┃轮回┃ DJ",
+    "type": 3,
+    "api": "csp_Djlh",
+    "style": {"type": "list"}
+},
+{
+    "key": "QingtingFM",
     "name": "📻┃蜻蜓┃FM",
     "type": 3,
     "api": "csp_QingtingFM",
     "style": {"type": "list"}
 },
 {
-    "key": "世界听书",
+    "key": "TingShijie",
     "name": "🖼️┃世界┃听书",
     "type": 3,
     "api": "csp_TingShijie",
     "style": {"type": "list" }
 },
 {
-    "key": "戏曲多多",
+    "key": "AppLY",
     "name": "🌈┃戏曲┃多多",
     "type": 3,
     "api": "csp_AppLY",
@@ -669,7 +671,7 @@
     "类型": "动漫"}
 },  
 {
-    "key": "玩偶",
+    "key": "Wogg",
     "name": "💯玩偶┃4K臻享",
     "type": 3,
     "api": "csp_Wogg",
