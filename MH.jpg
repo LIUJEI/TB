@@ -20,54 +20,6 @@
     "searchable": 0
 },
 {
-    "key": "嘉禾影视",
-    "name": "💞┃影視┃嘉禾",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/禾嘉影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "蜂鸟影院",
-    "name": "💞┃影視┃蜂鸟",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/蜂鸟影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "123彩",
-    "name": "💞┃影視┃数字",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/123影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "枫叶4k",
-    "name": "💞┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/枫叶影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "晓米影视",
-    "name": "💞┃影視┃晓米",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/晓米影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
-    "key": "扁豆的",
-    "name": "💞┃影視┃扁豆",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xn--oev29b.top/files/json/扁豆影视.json",
-    "jar": "https://d.kstore.dev/download/12194/自用/88.jar"
-},
-{
     "key": "csp_咕咚电影网",
     "name": "🍁┃咕咚┃电影",
     "type": 3,
