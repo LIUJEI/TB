@@ -40,13 +40,6 @@
     "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
-    "key" : "CupFox",
-    "name" : "☕┃影視┃茶杯",
-    "type" : 3,
-    "api" : "csp_CupFox",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
-},
-{
     "key": "csp_Hxq",
     "name": "👼┃影視┃韩圈",
     "type": 3,
@@ -111,6 +104,13 @@
     "type": 3,
     "api": "csp_Ikanbot",
     "类型": "影視"
+},
+{
+    "key" : "CupFox",
+    "name" : "☕┃影視┃茶杯",
+    "type" : 3,
+    "api" : "csp_CupFox",
+    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar"
 },
 {
     "key": "csp_Tvyb",
@@ -364,13 +364,6 @@
     "ext": "http://99cms.jj99.icu:8199/api.php/app/"
 },
 {
-    "key": "久久",
-    "name": "🌐┃久久┃ APP",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-},
-{
     "key": "宫阁99",
     "name": "🌐┃宫阁┃ APP",
     "type": 3,
@@ -432,14 +425,6 @@
     "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
     "version": "1.0.0.4",
     "decrypt": "1"}
-},
-{
-    "key" : "zhiqiu",
-    "name" : "🌐┃听风┃┆知秋",
-    "type" : 3,
-    "api" : "csp_zhiqiu",
-    "jar": "https://d.kstore.dev/download/12194/自用/moyu.jar",
-    "ext" : "http://www.小不点.com/api//2026/zhiqiu.php"
 },
 {
     "key": "HemaDJ",
