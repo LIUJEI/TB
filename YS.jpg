@@ -157,6 +157,7 @@
     "name": "🎑┃影視┃瓜子",
     "type" : 3,
     "api" : "csp_GuaziAmns",
+    "jar": "https://d.kstore.dev/download/12194/aow.jar",
     "ext" : {"sites" : "","filters" : "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}
 },
 {
@@ -203,8 +204,8 @@
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
-    "host": "http://107.151.244.162:6622",
-    "key": "wNCwbXzr0Bm6cS2C",
+    "host": "http://222.211.75.252:26168",
+    "key": "nzEqOgYk3QzHuEP8",
     "类型": "APP",
     "api": 2}
 },
@@ -549,19 +550,19 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "https://d.kstore.dev/download/12194/TS/音乐.json",
+    "json": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
 },
 {
     "key": "csp_yunyy",
     "name": "🎸┃芸芸┃音乐",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/芸音乐.js",
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/芸音乐.js",
     "类型": "音乐"
 },
 {
     "key": "csp_yaoDJ",
-    "name": "🪕┃车载┃音乐",
+    "name": "📻┃车载┃音乐",
     "type": 3,
     "api": "csp_Djuu",
     "style": {"type": "list"}
