@@ -107,13 +107,6 @@
     "类型": "影視"
 },
 {
-    "key": "csp_Tvyb",
-    "name": "⛅┃影視┃云播 ",
-    "type": 3,
-    "api": "csp_Tvyb",
-    "类型": "影視"
-},
-{
     "key": "csp_Jianpian",
     "name": "🥀┃影視┃荐片",
     "type": 3,
@@ -151,14 +144,6 @@
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
     "ext": {"host": "https://www.wasu.cn",
     "类型": "影視" }
-},
-{
-    "key": "py_Guazi",
-    "name": "🎑┃影視┃瓜子",
-    "type" : 3,
-    "api" : "csp_GuaziAmns",
-    "jar": "https://d.kstore.dev/download/12194/aow.jar",
-    "ext" : {"sites" : "","filters" : "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}
 },
 {
     "key": "csp_XYQ_饭团",
