@@ -217,8 +217,7 @@
     "key": "csp_hbys",
     "name": "🌐┃峥嵘┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
-    "ext": "https://api2026.hboqy.cn/",
+    "api" : "https://dy.7772888.xyz/api.php/tvbox",
     "类型": "APP"
 },
 {
