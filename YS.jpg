@@ -78,13 +78,6 @@
     "类型": "影視" }
 },
 {
-    "key" : "csp_Atgzxi",
-    "name" : "🥝┃影視┃瓜子",
-    "type" : 3,
-    "api": "csp_Gz360",
-    "类型": "影視"
-},
-{
     "key": "csp_Xlys",
     "name": "⛪┃影視┃天堂",
     "api": "csp_Xlys",
@@ -112,21 +105,6 @@
     "type": 3,
     "api": "csp_Ikanbot",
     "类型": "影視"
-},
-{
-    "key" : "guwozhuijux",
-    "name" : "☕┃顾我┃追剧",
-    "type": 3,
-    "api": "csp_App99",
-    "ext": {
-    "host": "http://117.50.200.113:19987/app/bn",
-    "LoginPath": "/app/log",
-    "appkey": "040f9b1bc5e942569b5c3e63943306ab",
-    "versionName": "4.3.1",
-    "name": "顾我追剧",
-    "package": "com.guwozhuijux.app",
-    "buildNumber": "2001",
-    "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
 },
 {
     "key": "csp_Tvyb",
@@ -175,12 +153,11 @@
     "类型": "影視" }
 },
 {
-    "key": "py_瓜娃子",
+    "key": "py_Guazi",
     "name": "🎑┃影視┃瓜子",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/瓜娃子.py",
-    "ext": {"host": "https://api.w32z7vtd.com",
-    "类型": "影視" }
+    "type" : 3,
+    "api" : "csp_GuaziAmns",
+    "ext" : {"sites" : "","filters" : "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}
 },
 {
     "key": "csp_XYQ_饭团",
@@ -551,7 +528,14 @@
     "类型": "官解"
 },
 {
-    "key": "csp_Kugou",
+    "key" : "csp_kuwoyy",
+    "name" : "🪕┃酷我┃音乐",
+    "type" : 3,
+    "api" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/酷我.py",
+    "类型": "音乐"
+},
+{
+    "key": "csp_Kugouyy",
     "name": "🎷┃酷狗┃音乐",
     "type": 3,
     "api": "csp_Kugou",
@@ -580,13 +564,6 @@
     "name": "🪕┃车载┃音乐",
     "type": 3,
     "api": "csp_Djuu",
-    "style": {"type": "list"}
-},
-{
-    "key": "csp_Djlh",
-    "name": "📻┃轮回┃ DJ",
-    "type": 3,
-    "api": "csp_Djlh",
     "style": {"type": "list"}
 },
 {
