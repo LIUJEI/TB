@@ -206,6 +206,14 @@
     "api": 2}
 },
 {
+    "key": "csp_huazu",
+    "name": "🌐┃湘漓┃ APP",
+    "type" : 3,
+    "api" : "csp_AppGet",
+    "jar" : "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+    "ext" : "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0"
+},
+{
     "key": "csp_baih",
     "name": "🌐┃涧木┃ APP",
     "type": 3,
@@ -248,20 +256,6 @@
     "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
     "dataKey": "x5Bep6Q78VCeYnPS",
     "dataIv": "x5Bep6Q78VCeYnPS",
-    "ua": "okhttp/3.10.0",
-    "类型": "APP"}
-},
-{
-    "key": "csp_huazu",
-    "name": "🌐┃湘漓┃ APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "https://qj4.catbb.xyz",
-    "dataKey": "eecbio48dsq13kkk",
-    "dataIv": "eecbio48dsq13kkk",
-    "search": "searchList4",
-    "init": "initV122",
     "ua": "okhttp/3.10.0",
     "类型": "APP"}
 },
