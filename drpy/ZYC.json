@@ -1,12 +1,11 @@
+{"storeHouse": [{
 {
-  "storeHouse": [
-    {
-      "sourceName": "①🍱稳定仓🍭长期有效🍭",
-      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/drpy/AC.json"
-    },
-    {
-      "sourceName": "②🎎急速仓🍭短期有效🍭",
-      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/drpy/CC.jpg"
-    }
-]}
+    "sourceName": "①🍱稳定仓🍭长期有效🍭",
+    "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/drpy/AC.json"
+},
+{
+    "sourceName": "②🎎急速仓🍭短期有效🍭",
+    "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/drpy/CC.jpg"
+}
+]}m.json"}]}
 
