@@ -19,12 +19,12 @@
     "api": "csp_YGP"
 },
 {
-    "key": "csp_Jianpian",
-    "name": "🥀┃影視┃ 荐片",
+    "key": "csp_Rebo",
+    "name": "☕┃影視┃ 热播",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
-    "ext": "https://api.ztcgi.com",
-    "类型": "影視"
+    "api": "csp_AppRJ",
+    "ext": {"url": "http://v.rbotv.cn",
+    "类型": "影視" }
 },
 {
     "key": "py_liuyun",
@@ -43,16 +43,9 @@
 },
 {
     "key": "csp_BuBu",
-    "name": "🧸┃影視┃ 布布",
+    "name": "🥂┃影視┃ 布布",
     "type": 3,
     "api": "csp_App3Q",
-    "类型": "影視"
-},
-{
-    "key" : "chengzi",
-    "name" : "🌰┃影視┃ 瓜子",
-    "type": 3,
-    "api": "csp_Gz360",
     "类型": "影視"
 },
 {
@@ -71,14 +64,6 @@
     "类型": "影視"
 },
 {
-    "key": "csp_Rebo",
-    "name": "☕┃影視┃ 热播",
-    "type": 3,
-    "api": "csp_AppRJ",
-    "ext": {"url": "http://v.rbotv.cn",
-    "类型": "影視" }
-},
-{
     "key": "csp_Xlys",
     "name": "⛪┃影視┃ 天堂",
     "api": "csp_Xlys",
@@ -86,18 +71,33 @@
     "ext": "https://www.xlysw.ggff.net"
 },
 {
+    "key" : "chengzi",
+    "name" : "🌰┃影視┃ 瓜子",
+    "type": 3,
+    "api": "csp_Gz360",
+    "类型": "影視"
+},
+{
+    "key": "Web1905",
+    "name": "🎞┃影視┃ 老片",
+    "type": 3,
+    "api": "csp_Web1905",
+    "类型": "影視"
+},
+{
+    "key": "csp_Jianpian",
+    "name": "🍀┃影視┃ 荐片",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
+    "ext": "https://api.ztcgi.com",
+    "类型": "影視"
+},
+{
     "key": "SaoHuo",
     "name": "🌶️┃影視┃ 骚火",
     "type": 3,
     "api": "csp_SaoHuo",
     "ext": "https://shdy5.us",
-    "类型": "影視"
-},
-{
-    "key": "Web1905",
-    "name": "🎞┃影視┃老电影 ",
-    "type": 3,
-    "api": "csp_Web1905",
     "类型": "影視"
 },
 {
