@@ -118,7 +118,7 @@
     "key": "js_星辰影院",
     "name": "🌟┃影視┃星辰",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/星辰.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/星辰.js",
     "ext": {"host": "https://www.xcyycn.com",
     "类型": "影視" }
 },
@@ -126,20 +126,21 @@
     "key": "js_永乐",
     "name": "🏵┃影視┃永乐",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/永乐.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/永乐.js",
     "类型": "影視"
 },
 {
     "key" : "js_毒舌",
     "name" : "🐍┃影視┃毒舌",
     "type" : 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/毒舌.js"
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/毒舌.js",
+    "类型": "影視"
 },
 {
     "key": "py_华数",
     "name": "🚩┃影視┃华数",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
     "ext": {"host": "https://www.wasu.cn",
     "类型": "影視" }
 },
@@ -147,14 +148,15 @@
     "key" : "py_壹影视",
     "name" : "🦗┃影視┃壹影",
     "type" : 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/壹影.py"
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/壹影.py",
+    "类型": "影視"
 },
 {
     "key": "csp_XYQ_饭团",
     "name": "🍙┃影視┃饭团",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
     "类型": "影视"
 },
 {
@@ -162,7 +164,7 @@
     "name": "🌾┃影視┃麥田",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
     "类型": "影视"
 },
 {
@@ -170,7 +172,7 @@
     "key" : "AiGua",
     "type" : 3,
     "api" : "csp_AiGuaAmns",
-    "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
+    "jar" : "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
     "name" : "🥥┃影視┃瓜子",
@@ -178,13 +180,13 @@
     "type" : 3,
     "api" : "csp_GuaziAmns",
     "ext" : {"filters" : "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"},
-    "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
+    "jar" : "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
     "key": "csp_soufa",
     "name": "🌐┃罗绮┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
     "host": "http://110.42.67.221:9003/",
     "key": "FTgP4Gq8zPiqbt7M",
@@ -195,7 +197,7 @@
     "key": "csp_lanying",
     "name": "🌐┃朗吟┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
     "host": "http://154.219.117.157:6688/",
     "key": "ca94b06ca359d80e",
@@ -206,7 +208,7 @@
     "key": "csp_xingy",
     "name": "🌐┃暮春┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
     "host": "http://222.211.75.252:26168",
     "key": "nzEqOgYk3QzHuEP8",
@@ -217,7 +219,7 @@
     "key": "csp_hulu",
     "name": "🌐┃阑珊┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
     "host": "http://v12-1-hulucms.nmgzxrl.com",
     "key": "8R33VQSxzmCaHpEX",
@@ -236,7 +238,7 @@
     "key": "csp_baih",
     "name": "🌐┃涧木┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
     "ext": "https://app2512.ystva.com",
     "类型": "APP"
 },
@@ -244,7 +246,7 @@
     "key": "csp_gulu",
     "name": "🌐┃映画┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
@@ -255,7 +257,7 @@
     "key": "py_juhey",
     "name": "🌐┃霜镜┃ APP",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
     "ext": "http://43.248.117.123:4680",
     "类型": "APP"
 },
@@ -552,7 +554,7 @@
     "key": "py_西饭短剧",
     "name": "♨️┃短劇┃稀饭",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/西饭短剧.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/西饭短剧.py",
     "ext": {"host": "https://xifan-api-cn.youlishipin.com",
     "类型": "短剧" }
 },
@@ -560,7 +562,7 @@
     "key": "py_七猫短剧",
     "name": "♨️┃短劇┃七猫",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
     "ext": {"host": "https://api-read.qmplaylet.com",
     "类型": "短剧" }
 },
@@ -568,55 +570,55 @@
     "key": "py_喜福短剧",
     "name": "♨️┃短劇┃喜福",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
     "类型": "短剧"
 },
 {
     "key": "dr_腾迅",
     "name": "🌏┃騰訊┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/QQtv.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/QQtv.js",
     "类型": "官解"
 },
 {
     "key": "dr_芒果",
     "name": "🌏┃芒果┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/MGtv.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/MGtv.js",
     "类型": "官解"
 },
 {
     "key": "dr_奇异",
     "name": "🌏┃奇藝┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/AQItv.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AQItv.js",
     "类型": "官解"
 },
 {
     "key": "dr_优酷",
     "name": "🌏┃優酷┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/yKtv.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/yKtv.js",
     "类型": "官解"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🌏┃嗶哩┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/bili.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/bili.js",
     "类型": "官解"
  },
  {
     "key": "dr_搜狗",
     "name": "🌏┃搜狗┃TV",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/SGtv.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/SGtv.js",
     "类型": "官解"
 },
 {
@@ -641,14 +643,14 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/音乐.json",
+    "json": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
 },
 {
     "key": "csp_yunyy",
     "name": "🎸┃芸芸┃音乐",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/芸音乐.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/芸音乐.js",
     "类型": "音乐"
 },
 {
