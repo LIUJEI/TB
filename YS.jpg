@@ -19,6 +19,22 @@
     "api": "csp_YGP"
 },
 {
+    "key": "csp_Jianpian",
+    "name": "🥀┃影視┃ 荐片",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
+    "ext": "https://api.ztcgi.com",
+    "类型": "影視"
+},
+{
+    "key": "py_liuyun",
+    "name": "🍘┃琉璃┃ 影視",
+    "type": 3,
+    "api": "https://d.kstore.dev/download/12194/TS/琉璃.py",
+    "ext": {"site": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com",
+    "类型": "影視" }
+},
+{
     "key": "csp_Duboku",
     "name": "🎯┃影視┃ 独播",
     "type": 3,
@@ -45,13 +61,6 @@
     "type": 3,
     "api": "csp_Hxq",
     "ext": "http://www.小不点.com/api/2026/fishhxq.php"
-},
-{
-    "key": "csp_Jpys",
-    "name": "✏️┃影視┃ 金牌",
-    "type": 3,
-    "api": "csp_Jpys",
-    "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
     "key": "csp_Wwys",
@@ -99,20 +108,11 @@
     "类型": "影視"
 },
 {
-    "key": "csp_Jianpian",
-    "name": "🥀┃影視┃ 荐片",
+    "key": "csp_Jpys",
+    "name": "✏️┃影視┃ 金牌",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
-    "ext": "https://api.ztcgi.com",
-    "类型": "影視"
-},
-{
-    "key": "py_liuyun",
-    "name": "🍙┃琉璃┃ 影視",
-    "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/琉璃.py",
-    "ext": {"site": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com",
-    "类型": "影視" }
+    "api": "csp_Jpys",
+    "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
 },
 {
     "key": "js_星辰影院",
