@@ -139,7 +139,7 @@
 },
 {
     "key": "csp_XYQ_饭团",
-    "name": "🍚┃影視┃饭团",
+    "name": "🍙┃影視┃饭团",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
@@ -147,21 +147,21 @@
 },
 {
     "key": "XYQ_MTYY",
-    "name": "🌿┃影視┃麥田",
+    "name": "🌾┃影視┃麥田",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
     "类型": "影视"
 },
 {
-    "name" : "⭐┃影視┃伊外",
-    "key" : "YIys",
+    "name" : "🥝┃影視┃爱瓜",
+    "key" : "AiGua",
     "type" : 3,
-    "api" : "csp_YIysAmns",
+    "api" : "csp_AiGuaAmns",
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
-    "name" : "⭐┃影視┃瓜子",
+    "name" : "🥥┃影視┃瓜子",
     "key" : "Guazi",
     "type" : 3,
     "api" : "csp_GuaziAmns",
@@ -492,10 +492,10 @@
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
-    "name" : "♨️┃短劇┃围观",
-    "key" : "Wgdj",
+    "name" : "♨️┃短劇┃豪堪",
+    "key" : "HHkk",
     "type" : 3,
-    "api" : "csp_WgdjAmns",
+    "api" : "csp_HHkkAmns",
     "genre" : "shortdrama",
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
@@ -508,16 +508,16 @@
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
-    "name" : "♨️┃短劇┃星星",
-    "key" : "Xydj",
+    "name" : "♨️┃短劇┃盒马",
+    "key" : "Hema",
     "type" : 3,
-    "api" : "csp_XydjAmns",
+    "api" : "csp_HemaAmns",
     "genre" : "shortdrama",
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
     "key": "HemaDJ",
-    "name": "♨️┃短劇┃盒马 ",
+    "name": "♨️┃短劇┃河马 ",
     "type": 3,
     "api": "csp_HemaDJ",
     "genre": "shortdrama"
@@ -553,26 +553,11 @@
     "类型": "短剧" }
 },
 {
-    "key": "py_喜福短剧",
-    "name": "♨️┃短劇┃喜福",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
-    "类型": "短剧"
-},
-{
     "key": "py_七猫短剧",
     "name": "♨️┃短劇┃七猫",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
     "ext": {"host": "https://api-read.qmplaylet.com",
-    "类型": "短剧" }
-},
-{
-    "key": "py_河马短剧",
-    "name": "♨️┃短劇┃河马",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/河马.py",
-    "ext": {"host": "https://www.kuaikaw.cn",
     "类型": "短剧" }
 },
 {
