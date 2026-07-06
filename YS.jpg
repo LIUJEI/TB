@@ -508,10 +508,10 @@
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
 {
-    "name" : "♨️┃短劇┃盒马",
-    "key" : "Hema",
+    "name" : "♨️┃短劇┃星星",
+    "key" : "Xydj",
     "type" : 3,
-    "api" : "csp_HemaAmns",
+    "api" : "csp_XydjAmns",
     "genre" : "shortdrama",
     "jar" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/aow.jar"
 },
@@ -545,20 +545,19 @@
     "类型": "短剧" }
 },
 {
-    "key": "py_星芽短剧",
-    "name": "♨️┃短劇┃星芽",
-    "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/星芽.py",
-    "ext": {"host": "https://app.whjzjx.cn",
-    "类型": "短剧" }
-},
-{
     "key": "py_七猫短剧",
     "name": "♨️┃短劇┃七猫",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
     "ext": {"host": "https://api-read.qmplaylet.com",
     "类型": "短剧" }
+},
+{
+    "key": "py_喜福短剧",
+    "name": "♨️┃短劇┃喜福",
+    "type": 3,
+    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
+    "类型": "短剧"
 },
 {
     "key": "dr_腾迅",
