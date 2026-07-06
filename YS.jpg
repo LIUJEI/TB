@@ -130,12 +130,24 @@
     "类型": "影視"
 },
 {
+    "key" : "js_毒舌",
+    "name" : "🐍┃影視┃毒舌",
+    "type" : 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/毒舌.js"
+},
+{
     "key": "py_华数",
     "name": "🚩┃影視┃华数",
     "type": 3,
     "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/华数.py",
     "ext": {"host": "https://www.wasu.cn",
     "类型": "影視" }
+},
+{
+    "key" : "py_壹影视",
+    "name" : "🦗┃影視┃壹影",
+    "type" : 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/壹影视.py"
 },
 {
     "key": "csp_XYQ_饭团",
@@ -611,7 +623,7 @@
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
     "type" : 3,
-    "api" : "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/酷我.py",
+    "api" : "https://dogpan.com/f/VO84ig/酷我音乐.py",
     "类型": "音乐"
 },
 {
@@ -687,6 +699,18 @@
     "播放链接": "j:pushUrl",
     "分类": "足球$1#篮球$2#原声$4#回放$13#电竟$11#其他$9#",
     "分类url": "https://aapi2.xbncs.com/api/room/page?navId={cateId}&page={catePg}&pageSize=30"}
+},
+{
+    "key" : "yslmPY",
+    "name" : "🌐┃央视┃栏目",
+    "type" : 3,
+    "api" : "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py"
+},
+{
+    "key" : "yszyPY",
+    "name" : "🌐┃央视┃综艺",
+    "type" : 3,
+    "api" : "https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py"
 },
 {
     "key": "919TY",
