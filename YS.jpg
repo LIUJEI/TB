@@ -168,6 +168,38 @@
     "类型": "影视"
 },
 {
+    "key": "csp_枫叶4k",
+    "name": "🍁┃影視┃枫叶",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key": "csp_123",
+    "name": "🆎┃影視┃数字",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/123.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key" : "csp_蘑菇",
+    "name" : "🍄┃影視┃蘑菇",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/蘑菇.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key" : "csp_悠悠",
+    "name" : "🍚┃影視┃悠悠",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/悠悠.json",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+}, 
+{
     "key": "csp_soufa",
     "name": "🌐┃罗绮┃ APP",
     "type": 3,
