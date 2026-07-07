@@ -105,7 +105,7 @@
 },
 {
     "key": "csp_禾嘉",
-    "name": "💞┃影視┃嘉禾",
+    "name": "💞┃影視┃禾嘉",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/禾嘉.json"
@@ -193,13 +193,6 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/闪电.json"
-},
-{
-    "key" : "csp_奇优",
-    "name" : "💞┃影視┃奇优",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/奇优.json"
 },
 {
     "key" : "csp_蘑菇",
@@ -313,13 +306,6 @@
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/龙邦.json"
 },  
-{
-    "key" : "csp_水牛",
-    "name" : "💞┃影視┃水牛",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/水牛.json"
-},
 {
     "key" : "csp_豪格",
     "name" : "💞┃影視┃豪格",
