@@ -9,14 +9,14 @@
     "key": "csp_DouBan",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/douban.js"
+    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/douban.js"
 },
 {
     "key": "csp_reboys",
-    "name": "🎬┣热门┫预告",
+    "name": "🎬┣热门┫影視",
     "type": 3,
-    "api": "csp_YGP",
-    "jar": "https://d.kstore.dev/download/12194/自用/MH.jar"
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/wang.json"
 },
 {
     "key" : "csp_优兔",
