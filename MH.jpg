@@ -15,8 +15,8 @@
     "key": "csp_reboys",
     "name": "🎬┣热门┫影視",
     "type": 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/wang.json"
+    "api" : "csp_Wwys",
+    "ext" : "https://vip.wwgz.cn:5200"
 },
 {
     "key" : "csp_优兔",
