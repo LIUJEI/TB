@@ -9,8 +9,7 @@
     "key": "csp_DouBan",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api": "csp_Douban",
-    "jar": "https://d.kstore.dev/download/12194/自用/MH.jar"
+    "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/douban.js",
 },
 {
     "key": "csp_reboys",
