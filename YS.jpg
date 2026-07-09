@@ -914,5 +914,5 @@
     "url": "https://d.kstore.dev/download/12194/芸直播.txt",
     "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
 }],
-"spider": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/MH.jar;md5;ae8e106b25c687d0b799e1260f91097b",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/MH.jar;md5;ae8e106b25c687d0b799e1260f91097b",
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
