@@ -168,38 +168,6 @@
     "类型": "影视"
 },
 {
-    "key": "csp_枫叶4k",
-    "name": "🍁┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-},
-{
-    "key": "csp_123",
-    "name": "🆎┃影視┃数字",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/123.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-},
-{
-    "key" : "csp_蘑菇",
-    "name" : "🍄┃影視┃蘑菇",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/蘑菇.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-},
-{
-    "key" : "csp_悠悠",
-    "name" : "🍚┃影視┃悠悠",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/悠悠.json",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
-}, 
-{
     "key": "csp_huayi",
     "name": "🌐┃華誼┃ APP",
     "type": 3,
@@ -318,7 +286,7 @@
     "package": "com.guwozhuijux.app",
     "buildNumber": "2001",
     "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
-},	  
+},
 {
     "key": "csp_soufa",
     "name": "🌐┃罗绮┃ APP",
@@ -379,7 +347,8 @@
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e" }
+    "sign": "679543610991810f19698c187e5e106e",
+    "类型": "APP" }
 },
 {
     "key": "py_juhey",
@@ -398,7 +367,8 @@
     "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
     "dataKey": "x5Bep6Q78VCeYnPS",
     "dataIv": "x5Bep6Q78VCeYnPS",
-    "ua": "okhttp/3.10.0"}
+    "ua": "okhttp/3.10.0",
+    "类型": "APP"}
 },
 {
     "key": "csp_茉莉",
@@ -408,7 +378,8 @@
     "ext": {
     "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
     "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"}
+    "dataIv": "88689667dce61725",
+    "类型": "APP"}
 },
 {
     "key": "csp_xiju",
@@ -645,6 +616,13 @@
     "style": {"type": "list"}
 },
 {
+    "key": "919TY",
+    "name": "⚽┃球通┃体育",
+    "type": 3,
+    "api": "csp_919TY",
+    "style": {"type": "list"}
+},
+{
     "key": "看球直播",
     "name": "⚽┃看球┃直播",
     "type": 3,
@@ -676,13 +654,6 @@
     "name" : "🌐┃央视┃综艺",
     "type" : 3,
     "api" : "https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py"
-},
-{
-    "key": "919TY",
-    "name": "⚽┃球通┃体育",
-    "type": 3,
-    "api": "csp_919TY",
-    "style": {"type": "list"}
 },
 {
     "key": "csp_双星",
