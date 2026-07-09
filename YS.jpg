@@ -472,7 +472,7 @@
     "key": "py_西饭短剧",
     "name": "♨️┃短劇┃ 稀饭",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/西饭短剧.py",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/西饭短剧.py",
     "ext": {"host": "https://xifan-api-cn.youlishipin.com",
     "类型": "短剧" }
 },
@@ -480,7 +480,7 @@
     "key": "py_星芽短剧",
     "name": "♨️┃短劇┃ 星芽",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/星芽.py",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/星芽.py",
     "ext": {"host": "https://app.whjzjx.cn",
     "类型": "短剧" }
 },
@@ -488,14 +488,14 @@
     "key": "py_喜福短剧",
     "name": "♨️┃短劇┃ 喜福",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/喜福.py",
     "类型": "短剧"
 },
 {
     "key": "py_七猫短剧",
     "name": "♨️┃短劇┃ 七猫",
     "type": 3,
-    "api": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/七猫.py",
     "ext": {"host": "https://api-read.qmplaylet.com",
     "类型": "短剧" }
 },
