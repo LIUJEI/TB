@@ -1,25 +1,9 @@
 {"urls":[
-{
-    "name": "🏡《凯速网》首页🏡",
-    "updated_at":"2026-05-20 21:41:10",
-    "url": "https://d.kstore.dev/download/12194/影视.json"
-},
-{
-    "name": "🏡《凯速网》推荐🏡",
-    "updated_at":"2026-05-20 21:48:14",
-    "url": "https://d.kstore.dev/download/12194/魔盒.json"
-},
-{
-    "name": "🏡《凯速网》福利🏡",
-    "updated_at":"2026-05-20 21:51:34",
-    "url": "https://d.kstore.dev/download/12194/休闲.json"
-},
-{
-    "name": "🚸《自用》测试",
-    "updated_at":"2026-05-21 07:12:04",
-    "url": "https://d.kstore.dev/download/12194/MY.json"
-},
-{"name":" 🚸《自用》嗷呜","url": "https://9763.kstore.space/aowu.json"},
+{"name": "🏡《凯速网》首页🏡","url": "https://d.kstore.dev/download/12194/影视.json"},
+{"name": "🏡《凯速网》推荐🏡","url": "https://d.kstore.dev/download/12194/魔盒.json"},
+{"name": "🏡《凯速网》福利🏡","url": "https://d.kstore.dev/download/12194/休闲.json"},
+{"name": "🚸《自用》测试","url": "https://d.kstore.dev/download/12194/MY.json"},
+{"name": "🚸《自用》嗷呜","url": "https://9763.kstore.space/aowu.json"},
 {"name": "🐠《自用》小不点","url": "http://www.小不点.com"},
 {"name": "🚸《自用》欧歌","url": "http://tv.nxog.top/m"},
 {"name": "🚸《自用》枫斗","url": "http://枫斗.top/tv"},
@@ -54,7 +38,3 @@
 {"name": "🚸《自用》gyfandzd-m","url": "https://gh-proxy.com/https://raw.githubusercontent.com/gyfandzd/gyf/main/m.json"},
 {"name": "🚸《自用》福利","url": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/xxx.jpg"}
 ]}
-
- //https://bjq.catvod.site/肥猫AI干货
- //https://jm.n13.club/老猫迷
-
