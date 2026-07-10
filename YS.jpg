@@ -176,19 +176,19 @@
     "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
 },
 {
-    "key" : "csp_蚂蚁",
-    "name" : "🐜┃影視┃蚂蚁",
+    "key" : "csp_人人",
+    "name" : "🤵🏻┃影視┃人人",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/蚂蚁.json",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/人人.json",
     "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
 },
 {
-    "key" : "csp_华视",
-    "name" : "🖥┃影視┃华视",
+    "key" : "csp_青蛙",
+    "name" : "🖥┃影視┃青蛙",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/华视.json",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青蛙.json",
     "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
 },
 {
