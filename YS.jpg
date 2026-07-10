@@ -289,11 +289,11 @@
 },
 {
     "key": "csp_soufa",
-    "name": "🌐┃罗绮┃ APP",
+    "name": "🌐┃首映┃ APP",
     "type": 3,
     "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
     "ext": {
-    "host": "http://110.42.67.221:9003/",
+    "host": "http://110.42.67.221:9004",
     "key": "FTgP4Gq8zPiqbt7M",
     "类型": "APP",
     "api": 2}
