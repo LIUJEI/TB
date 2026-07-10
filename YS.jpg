@@ -193,7 +193,7 @@
 },
 {
     "key" : "csp_云播",
-    "name" : "🥚🌩┃影視┃云播",
+    "name" : "🌩┃影視┃云播",
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/云播.json",
