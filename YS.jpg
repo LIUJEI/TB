@@ -168,6 +168,38 @@
     "类型": "影视"
 },
 {
+    "key": "csp_枫叶4k",
+    "name": "🍁┃影視┃ 枫叶",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key" : "csp_蚂蚁",
+    "name" : "🐜┃影視┃蚂蚁",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/蚂蚁.json",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key" : "csp_华视",
+    "name" : "🖥┃影視┃华视",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/华视.json",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
+    "key" : "csp_云播",
+    "name" : "🥚🌩┃影視┃云播",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/云播.json",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+},
+{
     "key": "csp_huayi",
     "name": "🌐┃華誼┃ APP",
     "type": 3,
@@ -432,19 +464,23 @@
     "dataIv": "5a9w6x58dsq6z3a6"}
 },
 {
+    "key": "csp_星河",
+    "name": "🌐┃星河┃ APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+    "dataKey": "ca94b06ca359d80e",
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
+},
+{
     "key": "csp_闪影",
     "name": "🌐┃闪影┃ APP",
     "type": 3,
     "api": "csp_AppYs",
-    "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
-    "类型": "APP"
-},
-{
-    "key": "csp_星河",
-    "name": "🌐┃星河┃ APP",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://99cms.jj99.icu:8199/api.php/app/",
+    "ext": "https://qpcj.69mini.com/api.php/app/",
     "类型": "APP"
 },
 {
