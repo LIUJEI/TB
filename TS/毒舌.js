@@ -113,7 +113,7 @@ async function detail(id) {
             vod_name: name,
             vod_pic: pic,
             vod_content: content || "【琉🔹芸❤广告勿信👉剧情】 ",
-            vod_play_from: 💕playFrom,
+            vod_play_from: playFrom,
             vod_play_url: playUrl
         }]
     });
