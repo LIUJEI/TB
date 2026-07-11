@@ -34,13 +34,6 @@
     "类型": "影視"
 },
 {
-    "key": "csp_Duboku",
-    "name": "🎯┃影視┃ 独播",
-    "type": 3,
-    "api": "csp_Duboku",
-    "类型": "影視"
-},
-{
     "key": "csp_BuBu",
     "name": "🥂┃影視┃ 布布",
     "type": 3,
@@ -68,6 +61,13 @@
     "api": "csp_Xlys",
     "type": 3,
     "ext": "https://www.xlysw.ggff.net"
+},
+{
+    "key": "csp_Duboku",
+    "name": "🎯┃影視┃ 独播",
+    "type": 3,
+    "api": "csp_Duboku",
+    "类型": "影視"
 },
 {
     "key" : "chengzi",
@@ -138,7 +138,7 @@
     "key": "js_文才",
     "name": "🚩┃影視┃ 文才",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/文才.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/文才.js",
     "类型": "影視" 
 },
 {
@@ -461,26 +461,6 @@
     "dataIv": "5a9w6x58dsq6z3a6"}
 },
 {
-    "key": "csp_星河",
-    "name": "🌐┃星河┃ APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-    "dataKey": "ca94b06ca359d80e",
-    "dataIv": "ca94b06ca359d80e",
-    "init": "initV120",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_闪影",
-    "name": "🌐┃闪影┃ APP",
-    "type": 3,
-    "api": "csp_AppYs",
-    "ext": "https://qpcj.69mini.com/api.php/app/",
-    "类型": "APP"
-},
-{
     "key": "HemaDJ",
     "name": "♨️┃短劇┃ 盒马 ",
     "type": 3,
@@ -507,6 +487,20 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/憨塔.png"
+},
+{
+    "key" : "csp_喵喵",
+    "name" : "♨️┃短劇┃ 喵喵",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/喵喵.png"
+},
+{
+    "key" : "csp_茄子",
+    "name" : "♨️┃短劇┃ 茄子",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/茄子.png"
 },
 {
     "key": "dr_腾迅",
