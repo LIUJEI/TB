@@ -138,14 +138,15 @@
     "key": "js_文才",
     "name": "🚩┃影視┃ 文才",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/文才.js",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/文才.js",
     "类型": "影視" 
 },
 {
-    "key" : "js_月光视",
-    "name" : "🦗┃影視┃ 月光",
+    "key" : "js_奇迹云",
+    "name" : "🦗┃影視┃ 奇迹",
     "type" : 3,
-    "api": "https://d.kstore.dev/download/12194/TS/月光.js",
+    "api" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/奇迹云.js",
+    
     "类型": "影視"
 },
 {
