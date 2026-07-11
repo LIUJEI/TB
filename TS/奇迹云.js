@@ -435,7 +435,7 @@ async function detail(ids) {
                 let newLines = [];
                 for (let line of lines) {
                     if (line && line.toLowerCase().includes('qijiyun4k')) {
-                        newLines.push('4k');
+                        newLines.push('奇迹云4k');
                     } else {
                         newLines.push((line || "").replace(/奇迹云/g, ''));
                     }
@@ -479,7 +479,7 @@ async function detail(ids) {
                 let newLines = [];
                 for (let line of lines) {
                     if (line && line.toLowerCase().includes('qijiyun4k')) {
-                        newLines.push('4k');
+                        newLines.push('奇迹云4k');
                     } else {
                         newLines.push((line || "").replace(/奇迹云/g, ''));
                     }
