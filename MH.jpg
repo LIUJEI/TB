@@ -1003,7 +1003,6 @@
 {
     "key": "😍皮皮影院",
     "name": "🍁┃皮皮┃影院",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -1026,7 +1025,6 @@
     "name": "🍁┃4k┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
     "ext": {
     "主页url": "http://www.dgpengcheng.com/",
     "分类url": "http://www.dgpengcheng.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
@@ -1049,7 +1047,6 @@
     "name": "🍁┃秒映┃短剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
     "ext": {
     "作者": "冰水",
     "站名": "秒映短剧260529",
@@ -1094,7 +1091,6 @@
     "name": "😍┃看球┃直播",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
     "ext": {
     "数组": "j:data.list",
     "标题": "j:title",
@@ -1246,5 +1242,5 @@
     "url": "https://d.kstore.dev/download/12194/直播.txt",
     "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
 }],
-"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar",
+"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
