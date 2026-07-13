@@ -30,7 +30,7 @@
     "key": "js_liuyun",
     "name": "🍘┃琉璃┃ 影視",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/琉璃.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/琉璃.js",
     "类型": "影視"
 },
 {
@@ -87,7 +87,7 @@
     "key": "csp_Jianpian",
     "name": "🍀┃影視┃ 荐片",
     "type": 3,
-    "api": "https://d.kstore.dev/download/12194/TS/jianp.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/荐片.js",
     "ext": "https://api.ztcgi.com",
     "类型": "影視"
 },
