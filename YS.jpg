@@ -111,7 +111,7 @@
     "name": "✏️┃影視┃ 金牌",
     "type": 3,
     "api": "csp_Jpys",
-    "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com"
 },
 {
     "key": "js_星辰影院",
@@ -171,7 +171,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar"
 },
 {
     "key" : "csp_岚猫",
@@ -179,7 +179,7 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/岚猫.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar"
 },
 {
     "key" : "csp_青禾",
@@ -187,7 +187,7 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar"
 },
 {
     "key" : "csp_三星",
@@ -195,7 +195,7 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/三星.json",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/00.jar"
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar"
 },
 {
     "key": "csp_huayi",
@@ -623,7 +623,7 @@
     "name": "⚽┃看球┃直播",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://d.kstore.dev/download/12194/自用/BPQ.jar",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
     "ext": {
     "数组": "j:data.list",
     "标题": "j:title",
@@ -638,18 +638,6 @@
     "播放链接": "j:pushUrl",
     "分类": "足球$1#篮球$2#原声$4#回放$13#电竟$11#其他$9#",
     "分类url": "https://aapi2.xbncs.com/api/room/page?navId={cateId}&page={catePg}&pageSize=30"}
-},
-{
-    "key" : "yslmPY",
-    "name" : "🌐┃央视┃栏目",
-    "type" : 3,
-    "api" : "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py"
-},
-{
-    "key" : "yszyPY",
-    "name" : "🌐┃央视┃综艺",
-    "type" : 3,
-    "api" : "https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py"
 },
 {
     "key": "csp_双星",
