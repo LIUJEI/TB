@@ -1,11 +1,16 @@
 {"storeHouse": [
 {
-    "sourceName": "①🍱稳定仓🍭长期有效🍭",
+    "sourceName": "🍱稳定仓🍭长期有效🍭",
     "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/AC.json"
 },
 {
-    "sourceName": "②🎎急速仓🍭短期有效🍭",
+    "sourceName": "🎎急速仓🍭短期有效🍭",
     "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/drpy/CC.json"
+},
+{
+    "sourceName": "🎎测试仓🍭短期有效🍭",
+    "sourceUrl": "https://gitee.com/lyun_1_0/TS/raw/main/drpy/AC.json"
 }
+
 ]}
 
