@@ -361,6 +361,14 @@
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json"
 },
 {
+    "key": "csp_禾嘉",
+    "name": "🌾┃影視┃嘉禾",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/禾嘉.json"
+},
+{
     "key": "csp_XYQ_饭团",
     "name": "🍙┃影視┃ 饭团",
     "type": 3,
@@ -391,12 +399,6 @@
     "name" : "🐍┃影視┃ 毒舌",
     "type" : 3,
     "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/毒舌.js"
-},
-{
-    "key": "js_文才",
-    "name": "🚩┃影視┃ 文才",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/文才.js"
 },
 {
     "key": "csp_Jianpian",
