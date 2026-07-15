@@ -292,13 +292,6 @@
     "sign": "679543610991810f19698c187e5e106e"}
 },
 {
-    "key": "py_juhey",
-    "name": "🕋┃霜镜┃ APP",
-    "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
-    "ext": "http://43.248.117.123:4680"
-},
-{
     "key": "小鹿",
     "name": "🦌┃小鹿┃ APP",
     "type": 3,
@@ -358,14 +351,6 @@
     "url": "https://app.95112475.xyz",
     "dataKey": "5a9w6x58dsq6z3a6",
     "dataIv": "5a9w6x58dsq6z3a6"}
-},
-{
-    "key" : "csp_青禾",
-    "name" : "🍀┃影視┃ 青禾",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json"
 },
 {
     "key": "csp_XYQ_饭团",
