@@ -1,6 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   "warningText": "💕没公众号 没Q群 纯属练手学习 大佬们多多包涵💕",
+  "spider": "https://d.kstore.dev/download/12194/%E8%87%AA%E7%94%A8/MH.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 //数据接口====================================网站===============================================
@@ -33,7 +34,7 @@
     "type" : 3,
     "api" : "https://gitee.com/lyun_1_0/tb/raw/master/TS/奇迹云.js",
     "ext" : "http://cmsyun2.qijiyun.vip/api.php/app/"
-},    
+},   
 {
     "name": "🐿┃袋鼠┃APP",
     "key": "AppV6Dxs",
@@ -292,6 +293,13 @@
     "sign": "679543610991810f19698c187e5e106e"}
 },
 {
+    "key": "py_juhey",
+    "name": "🕋┃霜镜┃ APP",
+    "type": 3,
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppToV5.py",
+    "ext": "http://43.248.117.123:4680"
+},
+{
     "key": "小鹿",
     "name": "🦌┃小鹿┃ APP",
     "type": 3,
@@ -359,6 +367,14 @@
     "api" : "csp_XBPQ",
     "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json"
+},
+{
+    "key": "csp_禾嘉",
+    "name": "🌾┃影視┃嘉禾",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/禾嘉.json"
 },
 {
     "key": "csp_XYQ_饭团",
@@ -538,7 +554,7 @@
     "name" : "♨️┃短劇┃喜翻",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/喜翻.png"
+    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/喵喵.png"
 },
 {
     "key" : "csp_茄子",
@@ -953,5 +969,4 @@
     "url": "https://d.kstore.dev/download/12194/芸直播.txt",
     "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
 }],
-"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MH.jar;md5;ae8e106b25c687d0b799e1260f91097b",
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
