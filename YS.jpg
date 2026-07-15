@@ -368,14 +368,6 @@
     "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json"
 },
 {
-    "key": "csp_禾嘉",
-    "name": "🌾┃影視┃嘉禾",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/禾嘉.json"
-},
-{
     "key": "csp_XYQ_饭团",
     "name": "🍙┃影視┃ 饭团",
     "type": 3,
