@@ -1,7 +1,6 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   "warningText": "💕没公众号 没Q群 纯属练手学习 大佬们多多包涵💕",
-  "spider": "https://d.kstore.dev/download/12194/%E8%87%AA%E7%94%A8/MH.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 //数据接口====================================网站===============================================
@@ -961,7 +960,7 @@
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-	
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/JAR/MH.jar",	
 "lives": [
 {
     "name": "📺芸直播📺",
