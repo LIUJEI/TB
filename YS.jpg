@@ -238,7 +238,7 @@
     "key": "csp_soufa",
     "name": "🎟┃首映┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://110.42.67.221:9004",
     "key": "FTgP4Gq8zPiqbt7M",
@@ -248,7 +248,7 @@
     "key": "csp_lanying",
     "name": "🦉┃朗吟┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://154.219.117.157:6688/",
     "key": "ca94b06ca359d80e",
@@ -258,7 +258,7 @@
     "key": "csp_xingy",
     "name": "🌐┃暮春┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://222.211.75.252:26168",
     "key": "nzEqOgYk3QzHuEP8",
@@ -268,7 +268,7 @@
     "key": "csp_hulu",
     "name": "🍇┃阑珊┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppGet.js",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://v12-1-hulucms.nmgzxrl.com",
     "key": "8R33VQSxzmCaHpEX",
@@ -278,14 +278,14 @@
     "key": "csp_baih",
     "name": "⚔┃涧木┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppFox.js",
+    "api": "./TS/AppFox.js",
     "ext": "https://app2512.ystva.com"
 },
 {
     "key": "csp_gulu",
     "name": "🗺┃映画┃ APP",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AppQi.js",
+    "api": "./TS/AppQi.js",
     "ext": {
     "host": "http://www.yingsw.top",
     "key": "guluyinghua_123",
@@ -357,32 +357,32 @@
     "name": "🍙┃影視┃ 饭团",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png"
+    "ext": "./XYQ/饭团.png"
 },
 {
     "key": "XYQ_MTYY",
     "name": "🌾┃影視┃ 麥田",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png"
+    "ext": "./XYQ/麥田.png"
 },
 {
     "key": "js_星辰影院",
     "name": "🌟┃影視┃ 星辰",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/星辰.js"
+    "api": "./TS/星辰.js"
 },
 {
     "key": "js_永乐",
     "name": "🏵┃影視┃ 永乐",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/永乐.js"
+    "api": "./TS/永乐.js"
 },
 {
     "key" : "js_毒舌",
     "name" : "🐍┃影視┃ 毒舌",
     "type" : 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/毒舌.js"
+    "api": "./TS/毒舌.js"
 },
 {
     "key": "csp_Jianpian",
@@ -523,70 +523,70 @@
     "name" : "♨️┃短劇┃憨塔",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/憨塔.png"
+    "ext" : "./XYQ/憨塔.png"
 },
 {
     "key" : "csp_喜翻",
     "name" : "♨️┃短劇┃喜翻",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/喵喵.png"
+    "ext" : "./XYQ/喵喵.png"
 },
 {
     "key" : "csp_茄子",
     "name" : "♨️┃短劇┃茄子",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/茄子.png"
+    "ext" : "./XYQ/茄子.png"
 },
 {
     "key": "dr_腾迅",
     "name": "🌏┃騰訊┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/QQtv.js",
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/QQtv.js",
     "类型": "官解"
 },
 {
     "key": "dr_芒果",
     "name": "🌏┃芒果┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/MGtv.js"
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🌏┃奇藝┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/AQItv.js"
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🌏┃優酷┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/yKtv.js"
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🌏┃嗶哩┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/bili.js"
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🌏┃搜狗┃ TV",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/drpy2.min.js",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/SGtv.js"
+    "api": "./libs/drpy2.min.js",
+    "ext": "./TS/SGtv.js"
 },
 {
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
     "type" : 3,
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/TS/酷我.py",
+    "api" : "./TS/酷我.py",
     "indexs" : 0
 },
 {
@@ -603,14 +603,14 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/音乐.json",
+    "json": "./TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
 },
 {
     "key": "csp_yunyy",
     "name": "🎸┃芸芸┃音乐",
     "type": 3,
-    "api": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/TS/芸音乐.js",
+    "api": "./TS/芸音乐.js",
     "indexs" : 0
 },
 {
@@ -653,7 +653,7 @@
     "name": "⚽┃看球┃直播",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "jar" : "./JAR/MX.jar",
     "ext": {
     "数组": "j:data.list",
     "标题": "j:title",
