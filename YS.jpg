@@ -16,7 +16,7 @@
     "key": "csp_liuyun",
     "name": "🎬┣琉璃┫影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/琉璃.js",
+    "api": "./TS/琉璃.js",
     "indexs" : 0
 },
 {
@@ -31,7 +31,7 @@
     "key" : "奇迹云",
     "name" : "☁┃迹云┃4k",
     "type" : 3,
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/TS/奇迹云.js",
+    "api" : "./TS/奇迹云.js",
     "ext" : "http://cmsyun2.qijiyun.vip/api.php/app/"
 },   
 {
@@ -937,7 +937,7 @@
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MH.jar",	
+"spider": "./JAR/MH.jar",	
 "lives": [
 {
     "name": "📺芸直播📺",
