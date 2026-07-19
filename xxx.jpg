@@ -1,5 +1,5 @@
 {
-  "spider": "https://d.kstore.dev/download/12194/自用/MX.jar",
+  "spider": "./JAR/MX.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
