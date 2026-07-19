@@ -23,9 +23,38 @@
     "key": "csp_枫叶4k",
     "name": "🍁┃枫叶┃4k",
     "type": 3,
-    "api": "csp_XBPQ",
-    "jar" : "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json"
+    "api": "csp_FengYe",
+    "jar" : "./JAR/xm.jar",
+    "ext": "https://www.vip1949.com/"
+},
+{
+    "key": "csp_PianKu8",
+    "name": "🍬┃山楂4K",
+    "type": 3,
+    "api": "csp_PianKu8",
+    "jar" : "./JAR/xm.jar"
+},
+{
+    "key": "feiyu_video",
+    "name": "🥭┃飞娱┃高清",
+    "type": 3,
+    "api": "csp_Feiyu",
+    "jar" : "./JAR/xm.jar"
+},
+{
+    "key": "马猴影视",
+    "name": "🐵┃马猴┃高清",
+    "type": 3,
+    "api": "csp_AppDmh",
+    "jar" : "./JAR/xm.jar",
+    "ext": "https://45.150.167.18:8000"
+},
+{
+    "key": "csp_APPTe",
+    "name": "🍉┃天鹅┃高清",
+    "type": 3,
+    "api": "csp_AppTe",
+    "jar" : "./JAR/xm.jar"
 },
 {
     "key" : "奇迹云",
@@ -33,7 +62,7 @@
     "type" : 3,
     "api" : "./TS/奇迹云.js",
     "ext" : "http://cmsyun2.qijiyun.vip/api.php/app/"
-},   
+},
 {
     "name": "🐿┃袋鼠┃APP",
     "key": "AppV6Dxs",
@@ -410,7 +439,7 @@
     "name": "🥂┃影視┃ 布布",
     "type": 3,
     "api": "csp_App3Q",
-    "indexs" : 0
+    "ext": "https://asd123sx23xdacsx.top"
 },
 {
     "key": "csp_Hxq",
@@ -530,7 +559,7 @@
     "name" : "♨️┃短劇┃喜翻",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "./XYQ/喵喵.png"
+    "ext" : "./XYQ/喜翻.png"
 },
 {
     "key" : "csp_茄子",
@@ -544,8 +573,7 @@
     "name": "🌏┃騰訊┃ TV",
     "type": 3,
     "api": "./libs/drpy2.min.js",
-    "ext": "./TS/QQtv.js",
-    "类型": "官解"
+    "ext": "./TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
