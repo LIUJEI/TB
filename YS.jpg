@@ -269,7 +269,7 @@
     "type": 3,
     "api": "./TS/AppGet.js",
     "ext": {
-    "host": "http://110.42.67.221:9004",
+    "host": "http://110.42.67.221:9005",
     "key": "FTgP4Gq8zPiqbt7M",
     "api": 2}
 },
