@@ -20,67 +20,53 @@
     "indexs" : 0
 },
 {
-    "key": "csp_枫叶4K",
-    "name": "🍁┃枫叶┃4K",
+    "key": "csp_Jpys",
+    "name": "✏️┃影視┃ 爱影",
     "type": 3,
-    "jar" : "./JAR/xm.jar",
-    "api": "csp_FengYe",
-    "ext": "https://www.vip1949.com/"
+    "api": "csp_Jpys",
+    "ext": "https://y2s52n7.com"
+},
+{
+    "key": "山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8"
+},
+{
+    "key": "飞娱影视",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu"
+},
+{
+    "key": "csp_BuBu",
+    "name": "🥂┃影視┃ 布布",
+    "type": 3,
+    "api": "csp_App3Q",
+    "ext": "https://asd123sx23xdacsx.top"
 },
 {
     "key": "马猴影视",
-    "name": "🦓┃马猴┃4K",
+    "name": "🦓┃影視┃马猴4K",
     "type": 3,
     "api": "csp_AppMH",
     "ext": "https://45.150.167.18:8000"
 },
 {
-    "key": "csp_huayi",
-    "name": "🏵┃華誼┃ APP",
+    "key": "csp_枫叶4K",
+    "name": "🍁┃影視┃枫叶4K",
     "type": 3,
-    "api": "csp_AppDrama",
+    "api": "csp_XBPQ",
     "ext": {
-    "appName": "華誼影視",
-    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.muyue.tool",
-    "host": "",
-    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-    "version": "1.0.0.4",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-    "decrypt": "1"}
-},
-{
-    "key": "csp_pguo",
-    "name": "🍏┃苹果┃APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "苹果影視",
-    "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.juechufsh.android.xpg1",
-    "host": "",
-    "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-    "version": "1.0.0.3",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-    "decrypt": "0"}
-},
-{
-    "key": "csp_juzi",
-    "name": "🥭┃橘子┃ APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "橘子影視",
-    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.lxf.snzlcgtzxyx",
-    "host": "",
-    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-    "version": "3.0.2.1",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "decrypt": "1"}
+    "请求头": "手机",
+    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
+    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
+    "主页url": "https://www.cd-zj.com/label/qq.html",
+    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
+    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
+    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
+    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
 },
 {
     "name": "🐿┃袋鼠┃APP",
@@ -158,7 +144,55 @@
     "type" : 3,
     "api" : "csp_AppV7Amns",
     "ext" : "55035714a2413f05151fea6864509533510fc41478de7616064e34cb984b3dd50508d4850f8c0500d64fe9697c462d7c90a08f15f156c7a1d176bdb3bb463e6d80d064c2512b04a421fc3ef8cb9465bce042c1fe2cffd9aad1399ed6d7aa32aee9dc83c7d13a642438e576f0cb729148ce29a0bba6b104b35170ff79f406a825ff534b579fa411821b3ea7c2e9f9c4f2a2052244bd4d27922dedb0b05c7d8a1bf77d361a226ed9badfefd87e3ce90cba7afb4f6d1d7dd480b6e2e7f21dbbbc45f352296166efccb3e8aa7898aa777b46cba677495204e62ee1c54a87019a98fbd116a90961185583fb9531f2b517b0f47a145d73339adf21e77c589d621705109c7736c1f16942e8487945978f75faf7401dbb596f21341c9c3ed85571f892401320ef2b8c05158adbc91a77fd60f4ee1af9ed611da3c1a89a003921ceecf785a5b23f1b8144788524244daff436f996ddff76d129de38de4e701ddd027424153ce446bc9ee50b28d8668765bdc15fba5898ace08d8b1610bddbca170992f884e65a347b8b5dbe7ed8504ceed3ba04a15f787e516ffeda81d5195a67369978ae8f56b3b23db0d192a3d2f120c3b52b47e34a3bb24c3b9220a784c1f61b33c35a9696b931a3a8b4febfabb62a83933fc7f5042332bdf17bd58d177ae3feaf7c15fd3cd68cfa81050a9488daa793b4e96d6f93eb6314436d5f46f005a6c3a439555b69d0e7d65cb6defe748fe54de384d235f42f89a8d900382833177cd40d08b1e9b3ffa9f65ed87bd1678d9f29893e476d7a68333b688c6b8a41bbd379f71b29b75d6ab9b427240dd64884265dade955667a6869d6ccbecff605fbf9db6544b0d14ecaed34161d6b7782d104dfbcaa95bb033951b71650fa182f200228ff922299d6f9718442fd9fbcf2b708000cf8cf9bbfd6365dfada692813390349db8fc363ea604202129d9125db7298309085d2fb2dc6f685aa6434084f342ad3adb2e6ef3375989abdeaf7479e5a55a29ea6d4fb6225d07f4107307fcb21807f170510db378f0cc21d7e2d701c8486e93f5b230f196188cacbb7445b70f5b384ea3acfa3fca612294f57488dc914d7ef7efc8efea54dad0cfb7c3fca195abf1db3537019c67bdb5aacb43c5040e1029ffb4cb97fb5ef03d72bf447a3c30907ef49fe670189a4aad38230645940048e921cd0128d89b25a72e802584550f1f29eca9658fe9b62fbb6a6ebd71dbf5e155f0b2ec5133785dde0985e5be49c0cdd597dacbfc92e4e7f066b5c83e5cad4fc6e2ffa4dcee14f8fdf6d6b7f88e0a792ffaf3c153dea5e7fe666e11e8d4f6a11b7793ca7810704a4c532f3e5f01afa796b61a3a44f203722830255c09b2948af7470b2560450232ad6552fdc4cc709660b13bda5e93595ee7556df3239bc7d79c6b2e90f66ba6e2bd60a307ec9a1c5f6439535f6274a8cafb666390c6eddf162ddd43dbd2113dbdd2ac7dd61e91ddc0d307ec22298cf225a21792426cff1150e9f9568bf02f9aea0aed1954a1c8e42bd441286021b879b0d48335b494e014b0d404595524def768868a77b15fbba2849afafbcc703280e77a3a7b3fc02366f13f7a001a002702770f5ef5cd34bf105c6377884221967353845ebebd53da25f2f268e1e5bac637d5357a4c3ca8dbe886f6c1e807ae252339ad09a506a7a5b0c35242e1ba3dfffee39567ccaa9f8fbe8d3d94dc0627a0589ed3477f9dddc496ad349a50983db7f1ea504028508dec02963b3e6b9e591d0816feea133eea1b2d75ea061d911eb0379c9808abec76c8d2b2396c2b5067523d7ac74b0cbd9de6725daa9d73dfdd7a6ad60f3afc42aeac56483804227767fe2ff514aebccd183c7b9c1e917cf11adadf0d868e1fb676114134647bb59715760155ce8806d0d4ed9dc9fc973db4ba4a3d7369b15ed073dad6d89c024212e01e7bf4960515fc31e41e9a3f3967d1d4eb7b5785d1cee85ed9c84ee247e424ade993a81b100156052b938da4a64597a5230454cd00a48b379757f09073b6476394aab0bc99a0e812364657223f081d034d28937fdef3c35e1ba0e5dca8555b271224d3546cb68e59f2f8624bb211b5b8cbfd8b4e3f6e3e4b8856bab43b51ab36f8343dcd17a7c4ff66b4e2de6b60340443105ecc6aa84ea90d82440f1b0b93dc018127ee6a053e8e81503f6ed1978bda2ecb602507ce925a7a56f4b8ae573ec88d89ccc6f976dc4a4927393917b72a481c60bcec08c3e3d8a61fdb99da39b998459d4ac7dd12fefc02e8e7d3e691ab9bf0c44e563a17916e3647de15b93f73c38cb42f41e950d2938bc7e934f623365c760e7e04d833f3f47267f4947557df5e7927b58c2a292186c1cca67e476b2b6a103a3a023a7e38c74942c6bd6e2b9fd31e25fd711b3d1935db918b5aba1691f04f83809af56af471b4e9a975935c9816baba6d237d7a6fdffedf8c2f196a514e5c2d15e32a0a12e68ec6e4b4fdd38f70fbe46fe5ef37385c3a81d55df923ffd77d4d3d6a158e68ef5bd6e691634e11e7e634fff9d646184037745ecee973fe5b7c40945797f349ecdd7816e0cfc5cab3142312005d4ed5d8d102358c17c9268c8e0d5367b47a7ee7a35ff71b3a8bb7de11c529c3ad08fb88268e8c94825ba953ddbb4e38613c7c0cbfe26a23b61093342400a9ff9a953e2c2500bb56bc806811d6fc0361d63a96fa005fbf9c5cc10e832e58546a166014a76bac02483dc48e3baadb843f98ebfc54d862b8b3a39ec7ffabd6679cdfb6ae4dff075b8d4743184155061b04e3c0cb3384b1406afb1192962acbeb133966f87a3aae0e02ea96c5ca68df4fac42b543a8080698920202135a07bb8b2d3856fcf9e310dd7c95b568235daaa6196f5199b16ef08ff660027ac8a4fd404c79c6ec4c4260f75831d36bc1a4f42cc4addb827a8657708c74ce67ce095e2f2bd49bebdaa35c55e1a8567062ebb76eac4cdb8a5ef85ab9177577feda7fa05"
-},   
+},
+{
+    "key": "csp_huayi",
+    "name": "🏵┃華誼┃ APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "華誼影視",
+    "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.muyue.tool",
+    "host": "",
+    "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+    "version": "1.0.0.4",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+    "decrypt": "1"}
+},
+{
+    "key": "csp_pguo",
+    "name": "🍏┃苹果┃APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "苹果影視",
+    "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.juechufsh.android.xpg1",
+    "host": "",
+    "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+    "version": "1.0.0.3",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "decrypt": "0"}
+},
+{
+    "key": "csp_juzi",
+    "name": "🥭┃橘子┃ APP",
+    "type": 3,
+    "api": "csp_AppDrama",
+    "ext": {
+    "appName": "橘子影視",
+    "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.lxf.snzlcgtzxyx",
+    "host": "",
+    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+    "version": "3.0.2.1",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+    "decrypt": "1"}
+},
 {
     "key": "csp_chengzi",
     "name": "🍑┃橙子┃ APP",
@@ -250,13 +284,11 @@
     "key": "csp_lanying",
     "name": "🦉┃朗吟┃ APP",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "./TS/AppGet.js",
     "ext": {
     "host": "http://154.219.117.157:6688/",
-    "dataKey": "ca94b06ca359d80e",
-    "dataIv": "ca94b06ca359d80e",
-    "init": "initV120",
-    "ua": "okhttp/3.10.0"}
+    "key": "ca94b06ca359d80e",
+    "api": 2}
 },
 {
     "key": "csp_xingy",
@@ -364,37 +396,11 @@
     "ext": "https://api.ztcgi.com"
 },
 {
-    "key": "csp_Jpys",
-    "name": "✏️┃影視┃ 爱影",
-    "type": 3,
-    "api": "csp_Jpys",
-    "ext": "https://y2s52n7.com"
-},
-{
-    "key": "山楂影视",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8"
-},
-{
-    "key": "飞娱影视",
-    "name": "🥭┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu"
-},
-{
     "key": "csp_Rebo",
     "name": "☕┃影視┃ 热播",
     "type": 3,
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
-},
-{
-    "key": "csp_BuBu",
-    "name": "🥂┃影視┃ 布布",
-    "type": 3,
-    "api": "csp_App3Q",
-    "ext": "https://asd123sx23xdacsx.top"
 },
 {
     "key": "csp_Hxq",
@@ -554,9 +560,8 @@
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
     "type": 3,
-    "jar" : "./JAR/xm.jar",
-    "api": "csp_KuKuMusic",
-    "style": {"type": "oval","ratio": 1}
+    "api": "./TS/酷我.js",
+    "indexs" : 0
 },
 {
     "key": "csp_Kugouyy",
@@ -906,7 +911,7 @@
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-"spider": "./JAR/MH.jar",	
+"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MH.jar",	
 "lives": [
 {
     "name": "📺芸直播📺",
