@@ -23,6 +23,7 @@
     "key": "csp_枫叶4K",
     "name": "🍁┃枫叶┃4K",
     "type": 3,
+    "jar" : "./JAR/xm.jar",
     "api": "csp_FengYe",
     "ext": "https://www.vip1949.com/"
 },
@@ -553,6 +554,7 @@
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
     "type": 3,
+    "jar" : "./JAR/xm.jar",
     "api": "csp_KuKuMusic",
     "style": {"type": "oval","ratio": 1}
 },
