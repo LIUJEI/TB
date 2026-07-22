@@ -20,6 +20,20 @@
     "indexs" : 0
 },
 {
+    "key": "csp_枫叶4K",
+    "name": "🍁┃枫叶┃4K",
+    "type": 3,
+    "api": "csp_FengYe",
+    "ext": "https://www.vip1949.com/"
+},
+{
+    "key": "马猴影视",
+    "name": "🦓┃马猴┃4K",
+    "type": 3,
+    "api": "csp_AppMH",
+    "ext": "https://45.150.167.18:8000"
+},
+{
     "key": "csp_huayi",
     "name": "🏵┃華誼┃ APP",
     "type": 3,
@@ -223,21 +237,25 @@
     "key": "csp_soufa",
     "name": "🎟┃首映┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "csp_AppQi",
     "ext": {
     "host": "http://110.42.67.221:9005",
-    "key": "FTgP4Gq8zPiqbt7M",
-    "api": 2}
+    "dataKey": "FTgP4Gq8zPiqbt7M",
+    "dataIv": "FTgP4Gq8zPiqbt7M",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_lanying",
     "name": "🦉┃朗吟┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "csp_AppQi",
     "ext": {
     "host": "http://154.219.117.157:6688/",
-    "key": "ca94b06ca359d80e",
-    "api": 2}
+    "dataKey": "ca94b06ca359d80e",
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_xingy",
@@ -265,16 +283,6 @@
     "type": 3,
     "api": "./TS/AppFox.js",
     "ext": "https://app2512.ystva.com"
-},
-{
-    "key": "csp_gulu",
-    "name": "🗺┃映画┃ APP",
-    "type": 3,
-    "api": "./TS/AppQi.js",
-    "ext": {
-    "host": "http://www.yingsw.top",
-    "key": "guluyinghua_123",
-    "sign": "679543610991810f19698c187e5e106e"}
 },
 {
     "key": "小鹿",
@@ -338,36 +346,14 @@
     "dataIv": "5a9w6x58dsq6z3a6"}
 },
 {
-    "key": "csp_XYQ_饭团",
-    "name": "🍙┃影視┃ 饭团",
+    "key": "csp_gulu",
+    "name": "🗺┃映画┃ APP",
     "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XYQ/饭团.png"
-},
-{
-    "key": "XYQ_MTYY",
-    "name": "🌾┃影視┃ 麥田",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "./XYQ/麥田.png"
-},
-{
-    "key": "js_星辰影院",
-    "name": "🌟┃影視┃ 星辰",
-    "type": 3,
-    "api": "./TS/星辰.js"
-},
-{
-    "key": "js_永乐",
-    "name": "🏵┃影視┃ 永乐",
-    "type": 3,
-    "api": "./TS/永乐.js"
-},
-{
-    "key" : "js_毒舌",
-    "name" : "🐍┃影視┃ 毒舌",
-    "type" : 3,
-    "api": "./TS/毒舌.js"
+    "api": "./TS/AppQi.js",
+    "ext": {
+    "host": "http://www.yingsw.top",
+    "key": "guluyinghua_123",
+    "sign": "679543610991810f19698c187e5e106e"}
 },
 {
     "key": "csp_Jianpian",
@@ -378,10 +364,22 @@
 },
 {
     "key": "csp_Jpys",
-    "name": "✏️┃影視┃ 金牌",
+    "name": "✏️┃影視┃ 爱影",
     "type": 3,
     "api": "csp_Jpys",
-    "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com"
+    "ext": "https://y2s52n7.com"
+},
+{
+    "key": "山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8"
+},
+{
+    "key": "飞娱影视",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu"
 },
 {
     "key": "csp_Rebo",
@@ -414,10 +412,9 @@
 {
     "key": "csp_Xlys",
     "name": "⛪┃影視┃ 天堂",
-    "api": "csp_Xlys",
     "type": 3,
-    "ext": "https://www.xlysw.ggff.net",
-    "indexs" : 0
+    "api": "csp_Xlys",
+    "ext": "https://www.xlysw.ggff.net"
 },
 {
     "key": "csp_Duboku",
@@ -511,20 +508,6 @@
     "ext" : "./XYQ/憨塔.png"
 },
 {
-    "key" : "csp_喜翻",
-    "name" : "♨️┃短劇┃喜翻",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "./XYQ/喜翻.png"
-},
-{
-    "key" : "csp_茄子",
-    "name" : "♨️┃短劇┃茄子",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "./XYQ/茄子.png"
-},
-{
     "key": "dr_腾迅",
     "name": "🌏┃騰訊┃ TV",
     "type": 3,
@@ -569,9 +552,9 @@
 {
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
-    "type" : 3,
-    "api" : "./TS/酷我.py",
-    "indexs" : 0
+    "type": 3,
+    "api": "csp_KuKuMusic",
+    "style": {"type": "oval","ratio": 1}
 },
 {
     "key": "csp_Kugouyy",
