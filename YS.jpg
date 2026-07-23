@@ -27,12 +27,6 @@
     "ext": "https://y2s52n7.com"
 },
 {
-    "key": "山楂影视",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8"
-},
-{
     "key": "马猴影视",
     "name": "🦓┃影視┃马猴",
     "type": 3,
@@ -443,7 +437,15 @@
     "key": "飞娱影视",
     "name": "🥭┃影視┃飞娱",
     "type": 3,
-    "api": "csp_Feiyu"
+    "api": "csp_Feiyu",
+    "indexs" : 0
+},
+{
+    "key": "山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8",
+    "indexs" : 0
 },
 {
     "key": "Ikanbot",
