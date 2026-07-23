@@ -41,11 +41,11 @@
 },
 {
     "key": "yunyun",
-    "name": "🎄┃芸芸┃APP",
+    "name": "☁┃芸芸┃APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "host": "http://110.42.67.130:1226",
+    "site": "https://gitee.com/lyun_1_0/tb/raw/master/lib/yun.m3u",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
