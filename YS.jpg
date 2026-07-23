@@ -33,13 +33,6 @@
     "api": "csp_PianKu8"
 },
 {
-    "key": "csp_BuBu",
-    "name": "🥂┃影視┃ 布布",
-    "type": 3,
-    "api": "csp_App3Q",
-    "ext": "https://asd123sx23xdacsx.top"
-},
-{
     "key": "马猴影视",
     "name": "🦓┃影視┃马猴4K",
     "type": 3,
@@ -406,6 +399,13 @@
     "type": 3,
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
+},
+{
+    "key": "csp_BuBu",
+    "name": "🥂┃影視┃ 布布",
+    "type": 3,
+    "api": "csp_App3Q",
+    "ext": "https://asd123sx23xdacsx.top"
 },
 {
     "key": "csp_Hxq",
