@@ -40,20 +40,17 @@
     "ext": "https://45.150.167.18:8000"
 },
 {
-    "key": "csp_枫叶4K",
-    "name": "🍁┃影視┃枫叶",
+    "key": "yunyun",
+    "name": "🎄┃芸芸┃APP",
     "type": 3,
-    "api": "csp_XBPQ",
+    "api": "csp_AppQi",
     "ext": {
-    "请求头": "手机",
-    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
-    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
-    "主页url": "https://www.cd-zj.com/label/qq.html",
-    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
-    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
-    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
-    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
+    "host": "http://110.42.67.130:1226",
+    "dataKey": "kj37zs29q22jk96t",
+    "dataIv": "kj37zs29q22jk96t",
+    "init": "initV122",
+    "playname": "芸芸",
+    "ua": "okhttp/3.10.0"}
 },
 {
     "name": "🐿┃袋鼠┃APP",
@@ -256,19 +253,6 @@
     "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
 },
 {
-    "key": "怀桑",
-    "name": "🎄 ┇ 怀桑 ┇ 4K",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-    "dataKey": "kj37zs29q22jk96t",
-    "dataIv": "kj37zs29q22jk96t",
-    "init": "initV122",
-    "playname": "怀桑",
-    "ua": "okhttp/3.10.0"}
-},
-{
     "key": "csp_soufa",
     "name": "🎟┃首映┃ APP",
     "type": 3,
@@ -468,6 +452,22 @@
     "type": 3,
     "api": "csp_Ikanbot",
     "searchable": 0
+},
+{
+    "key": "csp_枫叶4K",
+    "name": "🍁┃影視┃枫叶",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "手机",
+    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
+    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
+    "主页url": "https://www.cd-zj.com/label/qq.html",
+    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
+    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
+    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
+    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
 },
 {
     "name": "♨️┃短劇┃豪堪",
