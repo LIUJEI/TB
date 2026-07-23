@@ -33,12 +33,6 @@
     "api": "csp_PianKu8"
 },
 {
-    "key": "飞娱影视",
-    "name": "🥭┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu"
-},
-{
     "key": "csp_BuBu",
     "name": "🥂┃影視┃ 布布",
     "type": 3,
@@ -269,16 +263,27 @@
     "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
 },
 {
-    "key": "csp_soufa",
-    "name": "🎟┃首映┃ APP",
+    "key": "怀桑",
+    "name": "🎄 ┇ 怀桑 ┇ 4K",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "host": "http://110.42.67.221:9005",
-    "dataKey": "FTgP4Gq8zPiqbt7M",
-    "dataIv": "FTgP4Gq8zPiqbt7M",
-    "init": "initV120",
+    "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+    "dataKey": "kj37zs29q22jk96t",
+    "dataIv": "kj37zs29q22jk96t",
+    "init": "initV122",
+    "playname": "怀桑",
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_soufa",
+    "name": "🎟┃首映┃ APP",
+    "type": 3,
+    "api": "./TS/AppGet.js",
+    "ext": {
+    "host": "http://110.42.67.221:9005",
+    "key": "FTgP4Gq8zPiqbt7M",
+    "api": 2}
 },
 {
     "key": "csp_lanying",
@@ -450,6 +455,12 @@
     "type": 3,
     "api": "csp_SaoHuo",
     "ext": "https://shdy5.us"
+},
+{
+    "key": "飞娱影视",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu"
 },
 {
     "key": "Ikanbot",
