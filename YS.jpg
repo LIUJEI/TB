@@ -34,14 +34,14 @@
 },
 {
     "key": "马猴影视",
-    "name": "🦓┃影視┃马猴4K",
+    "name": "🦓┃影視┃马猴",
     "type": 3,
     "api": "csp_AppMH",
     "ext": "https://45.150.167.18:8000"
 },
 {
     "key": "csp_枫叶4K",
-    "name": "🍁┃影視┃枫叶4K",
+    "name": "🍁┃影視┃枫叶",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
