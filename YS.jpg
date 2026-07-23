@@ -571,8 +571,8 @@
 {
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
-    "type": 3,
-    "api": "./TS/酷我.py",
+    "type" : 3,
+    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/TS/酷我.py",
     "indexs" : 0
 },
 {
