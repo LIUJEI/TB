@@ -350,14 +350,6 @@
     "类型": "影视"
 },
 {
-    "key": "Aries大象",
-    "name": "🍁┃大象┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/大象.png",
-    "类型": "影视"
-},
-{
     "key": "csp_xBPQ_星辰影视",
     "name": "🍁┃星辰┃影视",
     "type": 3,
@@ -387,22 +379,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/鹊桥.png",
-    "类型": "影视"
-},
-{
-    "key": "七味影院",
-    "name": "🍁┃七味┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/七味.png",
-    "类型": "影视"
-},
-{
-    "key": "永乐视频",
-    "name": "🍁┃永乐┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/永乐.png",
     "类型": "影视"
 },
 {
