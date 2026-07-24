@@ -20,18 +20,18 @@
     "indexs" : 0
 },
 {
-    "key": "csp_Jpys",
-    "name": "✏️┃影視┃ 爱影",
-    "type": 3,
-    "api": "csp_Jpys",
-    "ext": "https://y2s52n7.com"
-},
-{
     "key": "马猴影视",
     "name": "🦓┃影視┃马猴",
     "type": 3,
     "api": "csp_AppMH",
     "ext": "https://45.150.167.18:8000"
+},
+{
+    "key": "山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8",
+    "indexs" : 0
 },
 {
     "key": "yunyun",
@@ -246,51 +246,36 @@
     "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"}
 },
 {
-    "key": "csp_soufa",
-    "name": "🎟┃首映┃ APP",
+    "key": "csp_麻花",
+    "name": "🥨┃麻花┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "csp_AppGet",
     "ext": {
-    "host": "http://110.42.67.221:9005",
-    "key": "FTgP4Gq8zPiqbt7M",
-    "api": 2}
+    "url": "http://150.158.123.62:130",
+    "dataKey": "q7gj4f9br3fls6nh",
+    "dataIv": "q7gj4f9br3fls6nh"}
 },
 {
-    "key": "csp_lanying",
-    "name": "🦉┃朗吟┃ APP",
+    "key": "csp_蓝鹰",
+    "name": "🦅┃蓝鹰┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "csp_AppQi",
     "ext": {
-    "host": "http://154.219.117.157:6688/",
-    "key": "ca94b06ca359d80e",
-    "api": 2}
+    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+    "dataKey": "ca94b06ca359d80e",
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_xingy",
-    "name": "🌐┃暮春┃ APP",
+    "key": "csp_不戳",
+    "name": "🎠┃不戳┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "csp_AppGet",
     "ext": {
-    "host": "http://222.211.75.252:26168",
-    "key": "nzEqOgYk3QzHuEP8",
-    "api": 2}
-},
-{
-    "key": "csp_hulu",
-    "name": "🍇┃阑珊┃ APP",
-    "type": 3,
-    "api": "./TS/AppGet.js",
-    "ext": {
-    "host": "http://v12-1-hulucms.nmgzxrl.com",
-    "key": "8R33VQSxzmCaHpEX",
-    "api": 2}
-},
-{
-    "key": "csp_baih",
-    "name": "⚔┃涧木┃ APP",
-    "type": 3,
-    "api": "./TS/AppFox.js",
-    "ext": "https://app2512.ystva.com"
+    "url": "https://appcmszbc.zbc4k.app",
+    "dataKey": "pYrEkiWRYhBLTUTC",
+    "dataIv": "pYrEkiWRYhBLTUTC"}
 },
 {
     "key": "小鹿",
@@ -324,16 +309,6 @@
     "dataIv": "1234567887654321"}
 },
 {
-    "key": "csp_火狐视频",
-    "name": "♨️┃火狐┃ APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://huohu.yihn.cc",
-    "dataKey": "huohushipingetap",
-    "dataIv": "huohushipingetap"}
-},
-{
     "key": "csp_梨果视频",
     "name": "🍐┃梨果┃ APP",
     "type": 3,
@@ -352,6 +327,33 @@
     "url": "https://app.95112475.xyz",
     "dataKey": "5a9w6x58dsq6z3a6",
     "dataIv": "5a9w6x58dsq6z3a6"}
+},
+{
+    "key": "csp_xingy",
+    "name": "🌐┃瑶海┃ APP",
+    "type": 3,
+    "api": "./TS/AppGet.js",
+    "ext": {
+    "host": "http://222.211.75.252:26168",
+    "key": "nzEqOgYk3QzHuEP8",
+    "api": 2}
+},
+{
+    "key": "csp_hulu",
+    "name": "🥑┃葫芦┃ APP",
+    "type": 3,
+    "api": "./TS/AppGet.js",
+    "ext": {
+    "host": "http://v12-1-hulucms.nmgzxrl.com",
+    "key": "8R33VQSxzmCaHpEX",
+    "api": 2}
+},
+{
+    "key": "csp_baih",
+    "name": "⚔┃涧木┃ APP",
+    "type": 3,
+    "api": "./TS/AppFox.js",
+    "ext": "https://app2512.ystva.com"
 },
 {
     "key": "csp_gulu",
@@ -376,6 +378,13 @@
     "type": 3,
     "api": "csp_AppRJ",
     "ext": {"url": "http://v.rbotv.cn"}
+},
+{
+    "key": "csp_Jpys",
+    "name": "✏️┃影視┃ 爱影",
+    "type": 3,
+    "api": "csp_Jpys",
+    "ext": "https://y2s52n7.com"
 },
 {
     "key": "csp_BuBu",
@@ -406,6 +415,13 @@
     "ext": "https://www.xlysw.ggff.net"
 },
 {
+    "key": "飞娱影视",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu",
+    "indexs" : 0
+},
+{
     "key": "csp_Duboku",
     "name": "🎯┃影視┃ 独播",
     "type": 3,
@@ -432,20 +448,6 @@
     "type": 3,
     "api": "csp_SaoHuo",
     "ext": "https://shdy5.us"
-},
-{
-    "key": "飞娱影视",
-    "name": "🥭┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu",
-    "indexs" : 0
-},
-{
-    "key": "山楂影视",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8",
-    "indexs" : 0
 },
 {
     "key": "Ikanbot",
