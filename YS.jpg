@@ -13,10 +13,10 @@
     "indexs" : 0
 },
 {
-    "key": "csp_liuyun",
-    "name": "🎬┣琉璃┫影視",
+    "key": "csp_yugao",
+    "name": "🎬┣新片┫预告",
     "type": 3,
-    "api": "./TS/琉璃.js",
+    "api": "csp_YGP",
     "indexs" : 0
 },
 {
@@ -419,7 +419,7 @@
     "name": "🥭┃影視┃飞娱",
     "type": 3,
     "api": "csp_Feiyu",
-    "indexs" : 0
+    "searchable": 0
 },
 {
     "key": "csp_Duboku",
@@ -819,11 +819,11 @@
     "style": {"type": "rect","ratio": 1.597}
 },
 {
-    "key": "版本信息",
-    "name": "🇨🇳┣☪版✿本┫信息",
+     "key": "csp_liuyun",
+    "name": "🇨🇳┣☪琉✿璃┫影視",
     "type": 3,
-    "api": "csp_Market",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
+    "api": "./TS/琉璃.js",
+    "indexs" : 0
 }
 ],
 "parses": [	
