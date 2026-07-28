@@ -29,7 +29,7 @@
     "key_api": "https://www.tangsan.fun/zx.php"}
 },
 {
-    "key": "麦田",
+    "key": "csp_麦田",
     "name": "🌾┃麦田┃秒播",
     "type": 3,
     "api": "csp_AppV6",
@@ -43,14 +43,14 @@
     "indexs" : 0
 },
 {
-    "key": "山楂影视",
+    "key": "csp_山楂影视",
     "name": "🌰┃影視┃山楂",
     "type": 3,
     "api": "csp_PianKu8",
     "indexs" : 0
 },
 {
-    "key": "云朵影视",
+    "key": "csp_云朵影视",
     "name": "☁┃影視┃云朵",
     "type": 3,
     "api": "csp_App3Q",
@@ -65,7 +65,7 @@
     "ver": "1"}
 },
 {
-    "key": "马猴影视",
+    "key": "csp_马猴影视",
     "name": "🦓┃影視┃马猴",
     "type": 3,
     "api": "csp_App3Q",
@@ -281,7 +281,7 @@
 },
 {
     "key": "yunyun",
-    "name": "☁┃芸芸┃APP",
+    "name": "☁┃芸芸┃ APP",
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
@@ -323,16 +323,6 @@
     "dataKey": "x5Bep6Q78VCeYnPS",
     "dataIv": "x5Bep6Q78VCeYnPS",
     "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "csp_xiju",
-    "name": "🕊┃奈飞┃ APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "http://211.154.24.56:8369",
-    "dataKey": "685bf108bc47b67d",
-    "dataIv": "685bf108bc47b67d"}
 },
 {
     "key": "csp_魔方",
@@ -395,13 +385,6 @@
     "api": 2}
 },
 {
-    "key": "csp_baih",
-    "name": "⚔┃涧木┃ APP",
-    "type": 3,
-    "api": "./TS/AppFox.js",
-    "ext": "https://app2512.ystva.com"
-},
-{
     "key": "csp_gulu",
     "name": "🗺┃映画┃ APP",
     "type": 3,
@@ -413,7 +396,7 @@
 },
 {
     "key": "csp_BuBu",
-    "name": "🥂┃布布┃ APP",
+    "name": "🥂┃影視┃ 布布",
     "type": 3,
     "api": "csp_App3Q",
     "ext": {
@@ -469,13 +452,6 @@
     "ext": "https://www.xlysw.ggff.net"
 },
 {
-    "key": "飞娱影视",
-    "name": "🥭┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu",
-    "searchable": 0
-},
-{
     "key": "csp_Duboku",
     "name": "🎯┃影視┃ 独播",
     "type": 3,
@@ -511,20 +487,11 @@
     "searchable": 0
 },
 {
-    "key": "csp_枫叶4K",
-    "name": "🍁┃影視┃枫叶",
+    "key": "csp_XYQ_饭团",
+    "name": "🍙┃影視┃ 饭团",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "手机",
-    "简介": "text cor3\"\u003E[*],&&\u003C/div\u003E",
-    "图片": "data-src=\"&&\"[替换:amp;\u003E\u003E空]",
-    "主页url": "https://www.cd-zj.com/label/qq.html",
-    "副标题": "ft2\"\u003E&&\u003C/i\u003E",
-    "线路数组": "\u003Ci class=\"fa ds-dianying\"\u003E&&\u003C/span\u003E",
-    "播放数组": "anthology-list-play size\"\u003E&&\u003C/ul\u003E",
-    "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}
+    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png"
 },
 {
     "name": "♨️┃短劇┃豪堪",
