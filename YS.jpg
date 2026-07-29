@@ -678,6 +678,13 @@
     "dataIv": "66dc309cbeeca454"}
 },
 {
+    "key": "ConfigCenter",
+    "name": "💯┃配置┃辅助",
+    "type": 3,
+    "api": "csp_Config",
+    "style": {"type": "rect","ratio": 1.597}
+},
+{
     "key": "Wogg",
     "name": "💯┃玩偶┃4K臻享",
     "type": 3,
@@ -763,18 +770,11 @@
     "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
 },
 {
-   "key": "夸克网盘",
-    "name": "🇨🇳┣☪配✿置┫夸克",
+    "key": "指南",
+    "name": "💯┃指南┃4K臻享",
     "type": 3,
-    "api": "csp_PanQuark",
+    "api": "csp_4KZhinan",
     "timeout": 60
-},
-{
-    "key": "ConfigCenter",
-    "name": "🇨🇳┣☪配✿置┫辅助",
-    "type": 3,
-    "api": "csp_Config",
-    "style": {"type": "rect","ratio": 1.597}
 },
 {
     "key": "公告信息",
