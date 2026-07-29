@@ -679,10 +679,10 @@
 },
 {
     "key": "ConfigCenter",
-    "name": "💯┃配置┃辅助",
+    "name": "💯┃配置┃中心",
     "type": 3,
     "api": "csp_Config",
-    "style": {"type": "rect","ratio": 1.597}
+    "indexs": 0
 },
 {
     "key": "Wogg",
@@ -777,7 +777,7 @@
     "timeout": 60
 },
 {
-    "key": "公告信息",
+    "key": "csp_Notice",
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
     "api": "csp_Notice",
@@ -785,7 +785,7 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/公告.php"
 },
 {
-    "key": "版本信息",
+    "key": "csp_Market",
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
