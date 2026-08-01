@@ -29,6 +29,15 @@
     "key_api": "https://www.tangsan.fun/zx.php"}
 },
 {
+    "key": "NB012绿豆",
+    "name": "🥦┃绿豆┃秒播",
+    "type": 3,
+    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
+    "ext": {
+    "host": "http://ld.69mzf.cn/api.php/app/",
+    "*": ["https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
+},
+{
     "key": "csp_麦田",
     "name": "🌾┃麦田┃秒播",
     "type": 3,
@@ -36,48 +45,20 @@
     "ext": "http://172.247.227.203:25321/mtys.php"
 },
 {
-    "key": "feiyu_video",
-    "name": "🥭┃影視┃飞娱",
+    "key": "csp_fengyei",
+    "name": "🍁┃枫叶┃秒播",
     "type": 3,
-    "api": "csp_Feiyu",
-    "indexs" : 0
-},
-{
-    "key": "csp_山楂影视",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8",
-    "indexs" : 0
-},
-{
-    "key": "csp_云朵影视",
-    "name": "☁┃影視┃云朵",
-    "type": 3,
-    "api": "csp_App3Q",
+    "api": "csp_XBPQ",
     "ext": {
-    "host": "https://ds3xy2yunsa.xyz",
-    "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-    "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-    "deviceBrand": "vivo",
-    "deviceModel": "V2309A",
-    "pkg": "com.tvcloud.io",
-    "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-    "ver": "1"}
-},
-{
-    "key": "csp_马猴影视",
-    "name": "🦓┃影視┃马猴",
-    "type": 3,
-    "api": "csp_App3Q",
-    "ext": {
-    "host": "https://45.150.167.18:8000",
-    "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-    "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-    "deviceBrand": "vivo",
-    "deviceModel": "V2309A",
-    "pkg": "com.damahou.tv",
-    "sk": "SK-woniu-thanks",
-    "ver": "1"}
+    "请求头": "手机",
+    "简介": "text cor3\">[*],&&</div>",
+    "图片": "data-src=\"&&\"[替换:amp;>>空]",
+    "主页url": "https://www.cd-zj.com/label/qq.html",
+    "副标题": "ft2\">&&</i>",
+    "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+    "播放数组": "anthology-list-play size\">&&</ul>",
+    "分类url": "https://www.cd-zj.com/label/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "腾讯$qq#B站$bli#优酷$youku#电影$1#电视剧$2#综艺$3#动漫$4#热门短剧$5"}
 },
 {
     "name": "🐿┃袋鼠┃APP",
@@ -349,11 +330,55 @@
     "ver": "6"}
 },
 {
+    "key": "csp_云朵影视",
+    "name": "☁┃影視┃云朵",
+    "type": 3,
+    "api": "csp_App3Q",
+    "ext": {
+    "host": "https://ds3xy2yunsa.xyz",
+    "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+    "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+    "deviceBrand": "vivo",
+    "deviceModel": "V2309A",
+    "pkg": "com.tvcloud.io",
+    "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+    "ver": "1"}
+},
+{
+    "key": "csp_马猴影视",
+    "name": "🦓┃影視┃马猴",
+    "type": 3,
+    "api": "csp_App3Q",
+    "ext": {
+    "host": "https://45.150.167.18:8000",
+    "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
+    "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
+    "deviceBrand": "vivo",
+    "deviceModel": "V2309A",
+    "pkg": "com.damahou.tv",
+    "sk": "SK-woniu-thanks",
+    "ver": "1"}
+},
+{
+    "key": "feiyu_video",
+    "name": "🥭┃影視┃飞娱",
+    "type": 3,
+    "api": "csp_Feiyu",
+    "indexs" : 0
+},
+{
+    "key": "csp_山楂影视",
+    "name": "🌰┃影視┃山楂",
+    "type": 3,
+    "api": "csp_PianKu8",
+    "indexs" : 0
+},
+{
     "key": "csp_Jianpian",
     "name": "🍀┃影視┃ 荐片",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/荐片.js",
-    "ext": "https://api.ztcgi.com"
+    "api": "./TS/jianp.js",
+    "searchable": 0
 },
 {
     "key": "csp_Rebo",
@@ -395,21 +420,21 @@
     "name": "🎯┃影視┃ 独播",
     "type": 3,
     "api": "csp_Duboku",
-    "indexs" : 0
+    "searchable": 0
 },
 {
     "key" : "chengzi",
     "name" : "🌰┃影視┃ 瓜子",
     "type": 3,
     "api": "csp_Gz360",
-    "indexs" : 0
+    "searchable": 0
 },
 {
     "key": "Web1905",
     "name": "🎞┃影視┃ 老片",
     "type": 3,
     "api": "csp_Web1905",
-    "indexs" : 0
+    "searchable": 0
 },
 {
     "key": "SaoHuo",
