@@ -622,19 +622,19 @@
     "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
 },    
 {
-    "key": "csp_YALI",
-    "name": "💮┃鸭梨┃动漫",
+    "key": "csp_AppSy",
+    "name": "💮┃漫国┃动漫",
     "type": 3,
-    "api": "csp_AppQi",
+    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
+    "api": "csp_AppSy",
     "ext": {
-    "site": "https://taobao.yalifun.com/xindm.json",
-    "dataKey": "88858c3b8560e348",
-    "dataIv": "88858c3b8560e348",
-    "init": "initV120",
-    "ua": "okhttp/3.14.9"}
+    "url": "http://114.66.27.208:806",
+    "siteKey": "rectangleadsadxa",
+    "listKey": "aassddwwxxllsx1x",
+    "parsesKey": "aassddwwxxllsx1x"}
 },
 {
-    "key": "番薯动漫",
+    "key": "csp_番薯",
     "name": "💮┃番薯┃动漫",
     "type": 3,
     "api": "csp_AppGet",
@@ -644,7 +644,7 @@
     "dataIv": "N4yj7l7xKxHF4*gz"}
 }, 
 {
-    "key": "咕咕动漫",
+    "key": "csp_咕咕动漫",
     "name": "💮┃咕咕┃动漫",
     "type": 3,
     "api": "csp_AppGet",
@@ -654,7 +654,7 @@
     "dataIv": "nKfZ8KX6JTNWRzTD"}
 },
 {
-    "key": "方舟动漫",
+    "key": "csp_方舟动漫",
     "name": "💮┃方舟┃动漫",
     "type": 3,
     "api": "csp_AppGet",
@@ -664,7 +664,7 @@
     "dataIv": "e72cdfd629e8895d"}
 },
 {
-    "key": "曼波动漫",
+    "key": "csp_曼波动漫",
     "name": "💮┃曼波┃动漫",
     "type": 3,
     "api": "csp_AppGet",
