@@ -49,7 +49,7 @@
     "name": "🍁┃枫叶┃秒播",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/lib/枫叶.php"
 },
 {
     "name": "🐿┃袋鼠┃APP",
@@ -773,8 +773,8 @@
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
     "api": "csp_Notice",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/liuli.php",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/公告.php"
+    "jar": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/lib/liuli.php",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/lib/公告.php"
 },
 {
     "key": "csp_Market",
@@ -782,7 +782,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/lib/single.png"
 }
 ],
 "parses": [	
@@ -884,7 +884,7 @@
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-"spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MH.jar",	
+"spider": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/JAR/MH.jar",	
 "lives": [
 {
     "name": "📺芸直播📺",
