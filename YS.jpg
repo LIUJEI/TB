@@ -622,16 +622,11 @@
     "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
 },    
 {
-    "key": "csp_AppSy",
-    "name": "💮┃漫国┃动漫",
+    "key": "csp_MoDu",
+    "name": "💮┃魔都┃动漫",
     "type": 3,
-    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar",
-    "api": "csp_AppSy",
-    "ext": {
-    "url": "http://114.66.27.208:806",
-    "siteKey": "rectangleadsadxa",
-    "listKey": "aassddwwxxllsx1x",
-    "parsesKey": "aassddwwxxllsx1x"}
+    "api": "csp_MoDu",
+    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
 },
 {
     "key": "csp_番薯",
@@ -642,7 +637,7 @@
     "url": "https://new.app.bytegooty.com",
     "dataKey": "N4yj7l7xKxHF4*gz",
     "dataIv": "N4yj7l7xKxHF4*gz"}
-}, 
+},
 {
     "key": "csp_咕咕动漫",
     "name": "💮┃咕咕┃动漫",
