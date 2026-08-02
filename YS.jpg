@@ -236,26 +236,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "csp_魔方",
-    "name": "👾┃魔方┃ APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://www.alibaba31casaq.top/",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"}
-},
-{
-    "key": "csp_梨果视频",
-    "name": "🍐┃梨果┃ APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "site": "http://apps.liguapp.com/getapi.txt",
-    "dataKey": "A9f3Zx7Qk2Lm8P1N",
-    "dataIv": "A9f3Zx7Qk2Lm8P1N"}
-},
-{
     "key": "csp_王子",
     "name": "🤵┃王子┃ APP",
     "type": 3,
@@ -287,7 +267,7 @@
 },
 {
     "key": "csp_soufa",
-    "name": "🎟┃首映┃ APP",
+    "name": "🎞┃首映┃ APP",
     "type": 3,
    "api": "./TS/AppGet.js",
     "ext": {
@@ -421,6 +401,20 @@
     "indexs" : 0
 },
 {
+    "key": "csp_Tvyb",
+    "name": "🌩┃影視┃ 云播",
+    "type": 3,
+    "api": "csp_Tvyb",
+    "indexs" : 0
+},
+{
+    "key": "csp_SP360",
+    "name": "🌈┃三六┃ 视频",
+    "type": 3,
+    "api": "csp_SP360",
+    "indexs" : 0
+},
+{
     "key": "Web1905",
     "name": "🎞┃影視┃ 老片",
     "type": 3,
@@ -477,25 +471,25 @@
     "genre": "shortdrama"
 },
 {
-    "name" : "♨️┃短劇┃盒马",
-    "key": "Hema",
-    "type" : 3,
-    "api": "csp_HemaAmns",
+    "key": "QimaoDJ",
+    "name": "♨️┃短劇┃七猫",
+    "type": 3,
+    "api": "csp_QimaoDJ",
     "genre": "shortdrama"
 },
 {
-    "name" : "♨️┃短劇┃漫剧",
-    "key" : "MjHggg",
-    "type" : 3,
-    "api" : "csp_HgggAmns",
-    "ext" : "comic_series"
-},    
+    "key": "WeiguanDJ",
+    "name": "♨️┃短劇┃河马",
+    "type": 3,
+    "api": "csp_WeiguanDJ",
+    "genre": "shortdrama"
+},
 {
-    "key" : "csp_憨塔",
-    "name" : "♨️┃短劇┃憨塔",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "./XYQ/憨塔.png"
+    "key": "HaokanDJ",
+    "name": "♨️┃短劇┃好看",
+    "type": 3,
+    "api": "csp_HaokanDJ",
+    "genre": "shortdrama"
 },
 {
     "key": "dr_腾迅",
@@ -571,11 +565,11 @@
     "indexs" : 0
 },
 {
-    "key": "csp_yaoDJ",
+    "key": "csp_Djlh",
     "name": "📻┃车载┃音乐",
     "type": 3,
-    "api": "csp_Djuu",
-    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+    "api": "csp_Djlh",
+    "indexs" : 0
 },
 {
     "key": "QingtingFM",
@@ -777,7 +771,7 @@
     "name": "💯┃移动┃4K臻享",
     "type": 3,
     "api": "csp_Yidong4K",
-    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+    "indexs": 0
 },
 {
     "key": "csp_Notice",
