@@ -744,8 +744,8 @@
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
     "api": "csp_Notice",
-    "jar": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/lib/liuli.php",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/lib/公告.php"
+    "jar": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/liuli.php",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/公告.php"
 },
 {
     "key": "csp_Market",
@@ -753,7 +753,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/lib/single.png"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/single.png"
 }
 ],
 "parses": [	
