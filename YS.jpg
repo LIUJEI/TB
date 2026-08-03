@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   "warningText":"💕永久完全免费，切勿付费购买💕",  
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "spider": "https://gcore.jsdelivr.net/gh/LIUJEI/TB@master/JAR/MH.jar",
+  "spider": "https://gcore.jsdelivr.net/gh/LIUJEI/TB@master/JAR/MH.jar;md5;16e47f71bf07c147eaba17f9c2808343",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 //数据接口====================================网站===============================================
   "sites": [
