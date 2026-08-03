@@ -406,36 +406,36 @@
     "indexs" : 0
 },
 {
+    "key": "HHkkAmns",
     "name": "♨️┃短劇┃豪堪",
-    "key": "HHkk",
     "type": 3,
     "api": "csp_HHkkAmns",
     "genre": "shortdrama"
 },
 {
+    "key": "BddjAmns",
     "name": "♨️┃短劇┃拜拜",
-    "key": "Bddj",
     "type": 3,
     "api": "csp_BddjAmns",
     "genre": "shortdrama"
 },
 {
+    "key": "WgdjAmns",
     "name": "♨️┃短劇┃围观",
-    "key": "Wgdj",
     "type": 3,
     "api": "csp_WgdjAmns",
     "genre": "shortdrama"
 },
 {
+    "key": "QmdjAmns",
     "name": "♨️┃短劇┃喵喵",
-    "key": "Qmdj",
     "type": 3,
     "api": "csp_QmdjAmns",
     "genre": "shortdrama"
 },
 {
+    "key": "XydjAmns",
     "name": "♨️┃短劇┃星星",
-    "key": "Xydj",
     "type": 3,
     "api": "csp_XydjAmns",
     "genre": "shortdrama"
