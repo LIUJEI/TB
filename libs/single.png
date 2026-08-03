@@ -7,14 +7,14 @@
     "list": [
 {
     "name": "当前更新",
-    "url": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg",
-    "icon": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/天阁.jpg",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg",
+    "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/天阁.jpg",
     "version": "26.07.30"
 },
 {
     "name": "历史更新",
     "url": "https://d.kstore.dev/download/12194/%E5%BD%B1%E8%A7%86.json",
-    "icon": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/danx.png",
+    "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/libs/danx.png",
     "version": "26.07.30"
 }
 ]
