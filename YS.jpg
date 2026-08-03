@@ -854,7 +854,7 @@
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-"spider": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/JAR/MH.jar",	
+"spider": "./JAR/MH.jar",	
 "lives": [
 {
     "name": "📺芸直播📺",
