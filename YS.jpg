@@ -13,7 +13,7 @@
     "indexs" : 0
 },
 {
-   "key": "csp_liuyun",
+    "key": "csp_liuyun",
     "name": 🎬┣琉璃┫影視",
     "type": 3,
     "api": "https://gcore.jsdelivr.net/gh/LIUJEI/TS@master/TS/琉璃.php",
@@ -196,7 +196,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://gitee.com/lyun_1_0/tb/raw/master/lib/yun.m3u",
+    "site": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/lib/yun.m3u",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
@@ -249,7 +249,7 @@
     "key": "csp_xingy",
     "name": "🌐┃爱盈┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/AppGet.js",
     "ext": {
     "host": "http://222.211.75.252:16118",
     "key": "0UKM8jkasM8tdzgW",
@@ -259,7 +259,7 @@
     "key": "csp_hulu",
     "name": "🥑┃葫芦┃ APP",
     "type": 3,
-    "api": "./TS/AppGet.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/AppGet.js",
     "ext": {
     "host": "http://v12-1-hulucms.nmgzxrl.com",
     "key": "8R33VQSxzmCaHpEX",
@@ -269,7 +269,7 @@
     "key": "csp_soufa",
     "name": "🎞┃首映┃ APP",
     "type": 3,
-   "api": "./TS/AppGet.js",
+   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/AppGet.js",
     "ext": {
     "host": "http://110.42.67.221:9005",
     "key": "FTgP4Gq8zPiqbt7M",
@@ -502,36 +502,36 @@
     "key": "dr_芒果",
     "name": "🌏┃芒果┃ TV",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./TS/MGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🌏┃奇藝┃ TV",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./TS/AQItv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🌏┃優酷┃ TV",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./TS/yKtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🌏┃嗶哩┃ TV",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./TS/bili.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🌏┃搜狗┃ TV",
     "type": 3,
-    "api": "./libs/drpy2.min.js",
-    "ext": "./TS/SGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/SGtv.js"
 },
 {
     "key" : "csp_kuwoyy",
@@ -554,14 +554,14 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "./TS/音乐.json",
+    "json": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
 },
 {
     "key": "csp_yunyy",
     "name": "🎸┃芸芸┃音乐",
     "type": 3,
-    "api": "./TS/芸音乐.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/芸音乐.js",
     "indexs" : 0
 },
 {
