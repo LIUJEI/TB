@@ -1,0 +1,39 @@
+[
+{
+    "name": "推荐",
+    "list": [{"name": "推荐","url": "","icon": "","version": " "}]},
+{
+    "name": "版本更新",
+    "list": [
+{
+    "name": "当前更新",
+    "url": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/lib/国庆.jpg",
+    "version": "26.07.30"
+},
+{
+    "name": "历史更新",
+    "url": "https://d.kstore.dev/download/12194/%E5%BD%B1%E8%A7%86.json",
+    "icon": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danx.png",
+    "version": "26.07.30"
+}
+]
+},
+{
+    "name": "应用中心",
+    "list": [
+{
+    "name": "影视仓",
+    "url": "https://13868.kstore.space/ysj/app/%E5%BD%B1%E8%A7%86%E4%BB%936.2.0.apk",
+    "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+    "version": "6.2.0"
+},
+{
+    "name": "黑盒TVBOX",
+    "url": "https://13868.kstore.space/ysj/app/TVBox_%E9%BB%91%E7%9B%92_20260227.apk",
+    "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+    "version": "Fongmi"
+}
+]
+}
+]
