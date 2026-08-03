@@ -167,7 +167,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/yun.m3u",
+    "site": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/yun.php",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
