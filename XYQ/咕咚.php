@@ -13,7 +13,7 @@
     "播放标题": ">&&</",
     "链接": "href=\"&&\"",
     "线路数组": "class=\"hl-tabs-btn hl-slide-swiper&&a>",
-    "线路标题": "💕+alt=\"&&\"",
+    "线路标题": "alt=\"&&\"",
     "跳转播放链接": "var player_*\"url\":\"&&\"",
     "分类url": "https://www.zgbdzs.com/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
     "分类": "咕咚剧场$13#电影$1#连续剧$2#综艺$3#动漫$4#短剧$27",
