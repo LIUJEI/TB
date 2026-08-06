@@ -1,0 +1,20 @@
+{
+        "数组": "p:.js-pop||Categories--p:.relativeWrapper||Channels--p:.positionRelative",
+        "标题": "p:img->alt",
+        "图片": "p:img->src",
+        "副标题": "||Categories--p:span.videoCount->text",
+        "链接": "p:->href||Categories--p:->href+&page={catePg}||Channels--p:a->href+/videos?page={catePg}",
+        "二级目录": "Channels|folder-0-0-H||Categories|folder-0-0-H",
+        "二级ID": "",
+        "特殊分类链接": "Channels$https://www.pornhub.llc/{cateId}#Categories$https://www.pornhub.llc/{cateId}",
+        "线路数组": "",
+        "线路标题": "👉VIP",
+        "播放数组": "mediaDefinitions\":[&&]",
+        "播放列表": "{&&},",
+        "播放标题": "height\":&&,",
+        "播放链接": "videoUrl\":\"&&\"",
+        "分类": "Channels$channels#Categories$categories#18-25$categories/teen#FeaturedPornVideos$video#RecommendedVideos$recommended#Women$popularwithwomen#Hentai$categories/hentai#",
+        "分类url": "https://www.pornhub.llc/{cateId}?page={catePg}",
+        "搜索url": "https://www.pornhub.llc/video/search?search={wd}&page={pg}",
+        "搜索模式": "1"
+      }
