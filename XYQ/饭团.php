@@ -18,5 +18,5 @@
   "主演": "主演：&&</p>",
   "简介": "id=\"content\">&&</div>",
   "线路数组": "<li class=\"tab-switch swiper-slide&&</li>",
-  "线路标题": "💕+<a href=*>&&</a>",
+  "线路标题": "<a href=*>&&</a>",
   "播放数组": "<ul class=\"con_c2_list&&</ul>"}
