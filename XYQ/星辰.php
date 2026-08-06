@@ -25,7 +25,7 @@
     "主演": "主演：&&</p>",
     "简介": "detail-sketch\">&&</span>",
     "线路数组": "more text-muted&&</div>",
-    "线路标题": "💕+title\">&&<",
+    "线路标题": "title\">&&<",
     "播放数组": "stui-content__playlist&&</ul>",
     "播放列表": "<a&&/a>",
     "播放标题": ">&&<",
