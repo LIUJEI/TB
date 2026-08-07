@@ -1,0 +1,21 @@
+{
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://www.duanlaoshi.cc",
+        "数组": "video-card\"&&</a",
+        "标题": "title\">&&<",
+        "图片": "src=\"&&\"",
+        "副标题": "芸✨专属+</i>&&<",
+        "链接": "href=\"&&\"",
+        "简介": "description\" content=\"&&\"",
+        "线路标题": "段老师专线",
+        "播放数组": "const validUrls&&;[替换:\\[\">>表接#\",\">>接表表接#\"\\]>>接表]",
+        "播放列表": "表&&表",
+        "播放标题": "接&&接",
+        "播放链接": "接&&接",
+        "分类url": "https://www.duanlaoshi.cc/{cateId}/index_{catePg}.html[https://www.duanlaoshi.cc/{cateId}/]",
+        "分类二次截取": "id=\"navbarNav&&</ul>",
+        "分类数组": "<a&&/a",
+        "分类标题": ">&&<[不包含:首页#标签]",
+        "分类ID": "data-nav=\"&&\""
+      }
