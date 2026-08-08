@@ -858,9 +858,10 @@
 	
 "lives": [
 {
-    "name": "📺芸直播📺",
+    "name": "📺芸芸直播",
     "type": 0,
     "url": "https://d.kstore.dev/download/12194/芸直播.txt",
-    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+    "logo": "https://epg.112114.eu.org/logo/{name},png"
 }],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
