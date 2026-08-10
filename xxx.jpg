@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
+  "spider": "./JAR/MX.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
