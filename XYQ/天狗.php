@@ -1,5 +1,5 @@
 {
-  "简介": "【琉🔹芸❤广告勿信👉剧情】📢+&&</div>",
+  "简介": "&&</div>",
   "请求头": "User-Agent$MOBILE_UA",
   "编码": "UTF-8",
   "图片代理": "0",
@@ -9,7 +9,7 @@
   "首页": "120",
   "起始页": "1",
   "分类url": "http://www.jlspyy.com.cn/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-  "分类": "天狗全部$tiangou#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+  "分类": "全部$tiangou#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
   "二次截取": "class=\"evg6xn stui-vodlist clearfix&&</ul>",
   "数组": "thumb lazyload&&</a>",
   "标题": "🌲+title=\"&&\"",
