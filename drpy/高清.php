@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 ,欲火烈情
 https://hn.bfvvs.com/play/lejq5Rzd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",公主图鉴 濑咲琉奈 3915
+#EXTINF:-1 ,濑咲琉奈 
 https://m3u8.34cdn.com/newhd/202107/6e24d10ad74ca6b375de8087da9e81f5/hls/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓1传媒16
 https://zo392.cdnedge.live/file/avple-images/hls/61de146d26bc6674a0936d21/playlist.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓1传媒13
 https://1xp60.cdnedge.live/file/avple-images/hls/61de152126bc6674a0936d23/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",丈夫不在家，人妻被盯上了大白天被强奸犯粗暴折磨不断5北条麻妃
+#EXTINF:-1 tvg-logo="" group-title="",中文有码
 https://m3u8.34cdn.com/newhd/202106/60c0bb6a18ad0d4ad14e5845/hls/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓5传媒109
 https://zo392.cdnedge.live/file/avple-images/hls/627e6499c60346652e396c7d/playlist.m3u8
