@@ -3,16 +3,8 @@
 https://hn.bfvvs.com/play/lejq5Rzd/index.m3u8
 #EXTINF:-1 ,濑咲琉奈 
 https://m3u8.34cdn.com/newhd/202107/6e24d10ad74ca6b375de8087da9e81f5/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓1传媒16
-https://zo392.cdnedge.live/file/avple-images/hls/61de146d26bc6674a0936d21/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓1传媒13
-https://1xp60.cdnedge.live/file/avple-images/hls/61de152126bc6674a0936d23/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",中文有码
 https://m3u8.34cdn.com/newhd/202106/60c0bb6a18ad0d4ad14e5845/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓5传媒109
-https://zo392.cdnedge.live/file/avple-images/hls/627e6499c60346652e396c7d/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓少年05
-https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
 #EXTINF:-1 ,贪夫人
 https://yzzy.play-cdn14.com/20230805/30958_a68ffc04/index.m3u8
 #EXTINF:-1 ,金瓶艳史
@@ -21,70 +13,78 @@ https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8?skipl=1
 https://1080p.huyall.com/play/PdyjDjWe/index.m3u8
 #EXTINF:-1 ,性高潮
 https://yzzy.play-cdn14.com/20230529/23387_282f31af/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",VEC 593 [中文字幕] 母の親友 美波咲良
+#EXTINF:-1 tvg-logo="" group-title="",美波咲良
 https://m3u8.34cdn.com/newhd/202310/6522c73737926f1bd8c3717d/hls/index.m3u8
-#EXTINF:-1 ,FC2PPV-1270300 [本物③！個数限定！顔出し！]ロ○顔ド巨乳?Ｊ○制服＆黒パンスト(25デニール)直穿きで蒸れ蒸れ?パンティストッキング大好きなフェチオヤジが完全着衣でナイロン透け透け○リ
+#EXTINF:-1 ,顔ド巨乳
 https://vip1.slbfsl.com/20220818/rCddvDLn/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",猎物女孩 三上纱荣子 k1118_saeko_mikami_ok
+#EXTINF:-1 tvg-logo="" group-title="",猎物女孩
 https://m3u8.34cdn.com/newhd/202202/62029058394d922042644314/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="熟女人妻",FC2 PPV 3475203 【个人撮影】仕事终わりに旦那の担保として借り受けた熟女妻 完全版
+#EXTINF:-1 tvg-logo="" group-title="",旦那の担保
 https://m3u8.34cdn.com/newhd/202312/6575899037926f1bd8c4d386/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓3传媒137
-https://1xp60.cdnedge.live/file/avple-images/hls/6209b63ac06a441e168f7d16/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",你的鄰居隨時都可能是個淫魔，最強騷賤浪人妻登場！！
+#EXTINF:-1 tvg-logo="" group-title="",最強騷賤浪人妻
 https://m3u8.34cdn.com/newhd/202304/644a1ccff0cdbf322d4d75ef/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",(中文字幕)-[CAWD-145]--病みつきになるはにかみ笑顔＆ハニーボイス！超スリム美脚女子大生-琴石ゆめる-初めてのナカイキ＆初潮吹-(琴石ゆめる)~JP
+#EXTINF:-1 tvg-logo="" group-title="",琴石ゆめる
 https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d97aa/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓6传媒162
-https://zo392.cdnedge.live/file/avple-images/hls/62879adcd28d4f134ac69050/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓少年01
-https://zo392.cdnedge.live/file/avple-images/hls/60ba6f55ecb87a1b5b8fa848/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓少年02
-https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
 #EXTINF:-1 ,性爱特务
 https://yzzy.play-cdn14.com/20230627/27545_07999b98/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",MIFD 241 [中文字幕] 新人 脱いだら凄いクビレGカップ！ むぎゅっ！と可愛いハーフ巨乳歯科助手AVDEBUT 五日市芽依
+#EXTINF:-1 tvg-logo="" group-title="",脱いだら凄
 https://m3u8.34cdn.com/newhd/202310/651f9b4637926f1bd8c3581c/hls/index.m3u8
+#EXTINF:-1 ,醉后的玫瑰
+https://v.ykv2.com/20230919/NOnhrfiv/index.m3u8?skipl=1
+#EXTINF:-1 tvg-logo="" group-title="",川村まや
+https://m3u8.34cdn.com/newhd/202109/614e03ff18ad0d4ad1742192/hls/index.m3u8
+#EXTINF:-1 ,辣手俏玫瑰
+https://play.hhuus.com/play/nelX6zMe/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",無防備な裸体
+https://m3u8.34cdn.com/newhd/202304/644a1ccff0cdbf322d4d7644/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",撮影ゆりね22歳
+https://m3u8.34cdn.com/newhd/202305/646ba6b8f0cdbf322d4da1ee/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",伊织沙菜22歳
+https://m3u8.34cdn.com/newhd/202202/62029058394d92204264426b/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",夜-飛鳥りいな
+https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d97af/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",滨田麻由美 
+https://m3u8.34cdn.com/newhd/202107/cc70142dd451e2163c691421ae19ebf7/hls/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓1传媒16
+https://zo392.cdnedge.live/file/avple-images/hls/61de146d26bc6674a0936d21/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓1传媒13
+https://1xp60.cdnedge.live/file/avple-images/hls/61de152126bc6674a0936d23/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓5传媒109
+https://zo392.cdnedge.live/file/avple-images/hls/627e6499c60346652e396c7d/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓少年05
+https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓3传媒137
+https://1xp60.cdnedge.live/file/avple-images/hls/6209b63ac06a441e168f7d16/playlist.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓1传媒15
 https://zo392.cdnedge.live/file/avple-images/hls/61de125126bc6674a0936d1e/playlist.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓6传媒163
 https://e2fa6.cdnedge.live/file/avple-images/hls/62879adcd28d4f134ac6904f/playlist.m3u8
-#EXTINF:-1 ,醉后的玫瑰
-https://v.ykv2.com/20230919/NOnhrfiv/index.m3u8?skipl=1
-#EXTINF:-1 tvg-logo="" group-title="中文有码",母狗 美受虐狂凌辱调教 川村まや
-https://m3u8.34cdn.com/newhd/202109/614e03ff18ad0d4ad1742192/hls/index.m3u8
-#EXTINF:-1 ,辣手俏玫瑰
-https://play.hhuus.com/play/nelX6zMe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",(中文字幕) [SCPX 403] 年上好きのボクは身近で姉さんみたいな叔母さんの無防備な裸体にメッチャ勃起してしまった…
-https://m3u8.34cdn.com/newhd/202304/644a1ccff0cdbf322d4d7644/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",176084-个人撮影ゆりね22歳-Ｇカップ巨乳ズブ濡れパイパン女子大生に大量中出し
-https://m3u8.34cdn.com/newhd/202305/646ba6b8f0cdbf322d4da1ee/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",HAMEZO～性爱自拍精选～ 22 伊织沙菜
-https://m3u8.34cdn.com/newhd/202202/62029058394d92204264426b/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",(中文字幕)-[EBOD-775]-終電後の無理やり相部屋NTR-キモい中年セクハラ店長に巨乳バイトが何度も中出しされ彼氏よりもイカされてしまった屈辱の夜-飛鳥りいな
-https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d97af/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓6传媒82
-https://zo392.cdnedge.live/file/avple-images/hls/6298681b23d5972db0bfc99c/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",6点下班后～好想干一砲啊～ - 滨田麻由美 HEY-127
-https://m3u8.34cdn.com/newhd/202107/cc70142dd451e2163c691421ae19ebf7/hls/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,🍓4传媒120
-https://e2fa6.cdnedge.live/file/avple-images/hls/623e7be276b51e756d5edc07/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="熟女人妻",HEYZO 3056 咥え上手な素人娘 桜井さくら
-https://m3u8.34cdn.com/newhd/202309/6511abaf7ebb8b1bc4c7b997/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",性经验很少的女孩接受第一次的真实干炮交涉！ 4281
-https://m3u8.34cdn.com/newhd/202107/aba47287c9b3b66905d71d8dd16a04bd/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",冰山美女无套抽插！～内射满满～ HEYZO-2031
-https://m3u8.34cdn.com/newhd/202107/eb8d315f06edd2f5654e487b3bf7ccb4/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",FN2974痰饯赖シネマ茶慎—极尸の寐栏泣に包胳を咐わされ谗弛に女れ辟
-https://m3u8.34cdn.com/newhd/202311/656769d937926f1bd8c4914d/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国产自拍",神美女＆神g罩杯＆神腰身香奈酱奇迹的全尺奉仕惊愕的肉棒玩弄＆骑乘位中出性爱2回战fc2-ppv-1578095
-https://m3u8.34cdn.com/newhd/202206/62bb12265b1b421e72bbeeb8/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",SIRO 5069 [中文字幕] 【感度良好】【美人専門学生】声優のタマゴの可愛らしい声で世の男を魅了する！ ネットでAV応募→AV体験撮影 1984
-https://m3u8.34cdn.com/newhd/202310/6522c73737926f1bd8c3717c/hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="中文有码",(中文字幕) [OKSN 308] 神乳新妻 親父の再婚相手はド淫乱痴女 童貞義息子の肉棒ポテンシャルに大興奮
-https://m3u8.34cdn.com/newhd/202304/644a1ccff0cdbf322d4d75f5/hls/index.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓6传媒162
+https://zo392.cdnedge.live/file/avple-images/hls/62879adcd28d4f134ac69050/playlist.m3u8
 #EXTINF:-1 logo="" group-title="" ,🍓1传媒04
 https://e2fa6.cdnedge.live/file/avple-images/hls/61e11929b12f2d3579c3423c/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓少年01
+https://zo392.cdnedge.live/file/avple-images/hls/60ba6f55ecb87a1b5b8fa848/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓少年02
+https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓6传媒82
+https://zo392.cdnedge.live/file/avple-images/hls/6298681b23d5972db0bfc99c/playlist.m3u8
+#EXTINF:-1 logo="" group-title="" ,🍓4传媒120
+https://e2fa6.cdnedge.live/file/avple-images/hls/623e7be276b51e756d5edc07/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", 咥え上手な素人娘 桜井さくら
+https://m3u8.34cdn.com/newhd/202309/6511abaf7ebb8b1bc4c7b997/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",性经验很少的女孩接受第一次的真实干炮交涉
+https://m3u8.34cdn.com/newhd/202107/aba47287c9b3b66905d71d8dd16a04bd/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",冰山美女无套抽插
+https://m3u8.34cdn.com/newhd/202107/eb8d315f06edd2f5654e487b3bf7ccb4/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",寐栏泣に包胳を咐わされ谗弛に女れ辟
+https://m3u8.34cdn.com/newhd/202311/656769d937926f1bd8c4914d/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",神腰身香奈酱全尺奉仕惊愕的肉棒玩弄
+https://m3u8.34cdn.com/newhd/202206/62bb12265b1b421e72bbeeb8/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",声優のタマゴの可愛らしい声で世の男を魅了する
+https://m3u8.34cdn.com/newhd/202310/6522c73737926f1bd8c3717c/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="中文有码",神乳新妻 
+https://m3u8.34cdn.com/newhd/202304/644a1ccff0cdbf322d4d75f5/hls/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="中文有码",(中文字幕)-[CLOT-012]-パンストの誘惑-山本蓮加
 https://m3u8.34cdn.com/newhd/202204/6266dee55589021efb7d9808/hls/index.m3u8
 #EXTINF:-1 ,处女的奇迹
